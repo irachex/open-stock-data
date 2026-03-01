@@ -1,5 +1,11 @@
 # open-stock-data
 
+[![CI](https://github.com/irachex/open-stock-data/actions/workflows/ci.yml/badge.svg)](https://github.com/irachex/open-stock-data/actions/workflows/ci.yml)
+[![Update Symbols](https://github.com/irachex/open-stock-data/actions/workflows/update-symbols.yml/badge.svg)](https://github.com/irachex/open-stock-data/actions/workflows/update-symbols.yml)
+[![Update CN Bars](https://github.com/irachex/open-stock-data/actions/workflows/update-bars-cn.yml/badge.svg)](https://github.com/irachex/open-stock-data/actions/workflows/update-bars-cn.yml)
+[![Update HK Bars](https://github.com/irachex/open-stock-data/actions/workflows/update-bars-hk.yml/badge.svg)](https://github.com/irachex/open-stock-data/actions/workflows/update-bars-hk.yml)
+[![Update US Bars](https://github.com/irachex/open-stock-data/actions/workflows/update-bars-us.yml/badge.svg)](https://github.com/irachex/open-stock-data/actions/workflows/update-bars-us.yml)
+
 Daily-updated stock symbols and OHLCV bars for CN, HK, and US markets, powered by GitHub Actions.
 
 ## Markets & Exchanges
