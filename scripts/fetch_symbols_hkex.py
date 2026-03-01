@@ -46,7 +46,7 @@ def fetch_hkex_symbols() -> pd.DataFrame:
 
     # Map category to type; drop rows with unknown/derivative categories
     if "category" in col_map:
-        category = raw[col_map["category"]].astype(str).str.strip()
+        category = raw[col_map["category"]].fillna("").astype(str).str.strip()
         df["type"] = category.apply(_map_category_to_type)
         df = df[df["type"].notna()]
     else:
@@ -60,7 +60,9 @@ def fetch_hkex_symbols() -> pd.DataFrame:
 
 def _map_category_to_type(category: str) -> str | None:
     """Map HKEX Category string to a type label (stock/reit/fund) or None to drop."""
-    cat = category.upper()
+    cat = category.upper().strip()
+    if not cat:  # Empty string → drop
+        return None
     if any(k in cat for k in ["EQUITY", "ORD", "SHARE"]):
         return "stock"
     if "REIT" in cat:
