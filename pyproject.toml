@@ -1,0 +1,57 @@
+[project]
+name = "open-stock-data"
+version = "0.1.0"
+description = "Daily-updated stock symbols and OHLCV bars for CN, HK, and US markets"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.12"
+dependencies = [
+    "akshare>=1.14.0",
+    "baostock>=0.8.8",
+    "exchange-calendars>=4.5",
+    "openpyxl>=3.1.0",
+    "pandas>=2.2.0",
+    "pyarrow>=17.0.0",
+    "requests>=2.32.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+    "pytest-cov>=5.0",
+    "ruff>=0.8.0",
+]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 120
+
+[tool.ruff.lint]
+select = [
+    "E",   # pycodestyle errors
+    "W",   # pycodestyle warnings
+    "F",   # pyflakes
+    "I",   # isort
+    "N",   # pep8-naming
+    "UP",  # pyupgrade
+    "B",   # flake8-bugbear
+    "SIM", # flake8-simplify
+    "TCH", # flake8-type-checking
+    "RUF", # ruff-specific
+]
+ignore = ["E501"] # line too long handled by formatter
+
+[tool.ruff.lint.isort]
+known-first-party = ["scripts"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-v --tb=short"
+
+[tool.hatch.build.targets.wheel]
+packages = ["scripts"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
