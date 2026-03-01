@@ -29,11 +29,11 @@ Each CSV has columns: `code, name, exchange, listing_date`
 
 ### Bars (Published via GitHub Releases)
 
-```
-Release "bars-cn-2025" → daily_2025.parquet
-Release "bars-hk-2025" → daily_2025.parquet
-Release "bars-us-2025" → daily_2025.parquet
-```
+| Release Tag | Asset | Description |
+|-------------|-------|-------------|
+| `data-cn-bars` | `cn_bars.parquet` | CN A-share daily bars |
+| `data-hk-bars` | `hk_bars.parquet` | HK equity daily bars |
+| `data-us-bars` | `us_bars.parquet` | US equity daily bars |
 
 Parquet schema: `date, code, open, high, low, close, volume, amount, turnover`
 
@@ -51,6 +51,36 @@ uv sync
 # Install dev dependencies
 uv sync --group dev
 ```
+
+## Backfill
+
+For initial historical data loading:
+
+```bash
+# Backfill CN bars (local only)
+uv run python -m scripts.backfill --market cn --start-year 2020 --end-year 2024 --local-only
+
+# Backfill and upload to GitHub Releases
+export GITHUB_REPOSITORY=owner/repo
+export GITHUB_TOKEN=ghp_xxx
+uv run python -m scripts.backfill --market cn --start-year 2020
+
+# Backfill HK / US
+uv run python -m scripts.backfill --market hk --start-year 2022 --local-only
+uv run python -m scripts.backfill --market us --start-year 2023 --local-only
+```
+
+## GitHub Actions
+
+| Workflow | Schedule | Description |
+|----------|----------|-------------|
+| `update-symbols` | UTC 17:00 Mon-Fri | Fetch symbols from all exchanges |
+| `update-bars-cn` | UTC 09:00 Mon-Fri | Fetch CN daily bars after market close |
+| `update-bars-hk` | UTC 09:00 Mon-Fri | Fetch HK daily bars after market close |
+| `update-bars-us` | UTC 22:00 Mon-Fri | Fetch US daily bars after market close |
+| `ci` | On push/PR | Lint (ruff) + test (pytest) |
+
+All workflows support `workflow_dispatch` for manual triggering.
 
 ## Development
 
