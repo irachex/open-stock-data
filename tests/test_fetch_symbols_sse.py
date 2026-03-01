@@ -58,12 +58,35 @@ class TestFetchSseSymbols:
 
         df = fetch_sse_symbols()
 
-        assert list(df.columns) == ["code", "name", "exchange", "listing_date"]
+        assert list(df.columns) == ["code", "name", "region", "exchange", "type", "listing_date"]
         assert len(df) == 3
         assert df.iloc[0]["code"] == "600000"
         assert df.iloc[0]["name"] == "浦发银行"
+        assert df.iloc[0]["region"] == "SH"
         assert df.iloc[0]["exchange"] == "SSE"
+        assert df.iloc[0]["type"] == "stock"
         assert df.iloc[0]["listing_date"] == "1999-11-10"
+
+    @patch("scripts.fetch_symbols_sse.requests")
+    def test_filters_invalid_codes(self, mock_requests: MagicMock):
+        """Rows with non-numeric or empty codes should be dropped."""
+        excel_df = pd.DataFrame({
+            "公司代码": ["600000", "-0", "nan", "ABC"],
+            "公司简称": ["浦发银行", "-", "无效", "无效"],
+            "上市日期": ["1999-11-10", "2020-01-01", "2020-01-01", "2020-01-01"],
+        })
+        buf = io.BytesIO()
+        excel_df.to_excel(buf, index=False, engine="openpyxl")
+
+        resp = MagicMock()
+        resp.status_code = 200
+        resp.content = buf.getvalue()
+        resp.raise_for_status = MagicMock()
+        mock_requests.get.return_value = resp
+
+        df = fetch_sse_symbols()
+        assert len(df) == 1
+        assert df.iloc[0]["code"] == "600000"
 
     @patch("scripts.fetch_symbols_sse.requests")
     def test_code_is_zero_padded(self, mock_requests: MagicMock):
@@ -115,4 +138,4 @@ class TestSaveSseSymbols:
         assert path.name == "SSE.csv"
         df = pd.read_csv(path, dtype=str)
         assert len(df) == 3
-        assert list(df.columns) == ["code", "name", "exchange", "listing_date"]
+        assert list(df.columns) == ["code", "name", "region", "exchange", "type", "listing_date"]

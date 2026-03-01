@@ -53,11 +53,34 @@ class TestFetchSzseSymbols:
 
         df = fetch_szse_symbols()
 
-        assert list(df.columns) == ["code", "name", "exchange", "listing_date"]
+        assert list(df.columns) == ["code", "name", "region", "exchange", "type", "listing_date"]
         assert len(df) == 3
         assert df.iloc[0]["code"] == "000001"
+        assert df.iloc[0]["region"] == "SZ"
         assert df.iloc[0]["exchange"] == "SZSE"
+        assert df.iloc[0]["type"] == "stock"
         assert df.iloc[1]["name"] == "宁德时代"
+
+    @patch("scripts.fetch_symbols_szse.requests")
+    def test_skips_english_name_columns(self, mock_requests: MagicMock):
+        """A股简称 (Chinese) should be preferred over 英文名称 (English)."""
+        excel_df = pd.DataFrame({
+            "A股代码": ["000001"],
+            "A股简称": ["平安銀行"],
+            "英文名称": ["Ping An Bank"],
+            "A股上市日期": ["1991-04-03"],
+        })
+        buf = io.BytesIO()
+        excel_df.to_excel(buf, index=False, engine="openpyxl")
+
+        resp = MagicMock()
+        resp.status_code = 200
+        resp.content = buf.getvalue()
+        resp.raise_for_status = MagicMock()
+        mock_requests.get.return_value = resp
+
+        df = fetch_szse_symbols()
+        assert df.iloc[0]["name"] == "平安銀行"
 
 
 class TestSaveSzseSymbols:

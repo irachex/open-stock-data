@@ -60,7 +60,9 @@ def fetch_bse_symbols() -> pd.DataFrame:
             all_rows.append({
                 "code": str(item.get("xxzqdm", "")).strip(),
                 "name": str(item.get("xxzqjc", "")).strip(),
+                "region": "BJ",
                 "exchange": "BSE",
+                "type": "stock",
                 "listing_date": str(item.get("fxxsrq", "")).strip()[:10],
             })
 
@@ -71,9 +73,9 @@ def fetch_bse_symbols() -> pd.DataFrame:
 
     df = pd.DataFrame(all_rows)
     if df.empty:
-        df = pd.DataFrame(columns=["code", "name", "exchange", "listing_date"])
+        df = pd.DataFrame(columns=["code", "name", "region", "exchange", "type", "listing_date"])
 
-    df = df.dropna(subset=["code"]).reset_index(drop=True)
+    df = df[df["code"].str.match(r"^\d{6}$", na=False)].reset_index(drop=True)
     return df
 
 

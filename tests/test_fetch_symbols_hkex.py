@@ -9,7 +9,7 @@ from unittest.mock import MagicMock, patch
 import pandas as pd
 import pytest
 
-from scripts.fetch_symbols_hkex import _detect_columns, fetch_hkex_symbols, save_hkex_symbols
+from scripts.fetch_symbols_hkex import _detect_columns, _map_category_to_type, fetch_hkex_symbols, save_hkex_symbols
 
 if TYPE_CHECKING:
     from pathlib import Path
@@ -23,9 +23,9 @@ def _make_hkex_excel_bytes() -> bytes:
         ["", "", ""],
     ])
     data = pd.DataFrame({
-        "Stock Code": ["00001", "00700", "09988", "60001"],
-        "Name of Securities": ["CK HUTCHISON", "TENCENT", "ALIBABA-W", "TEST WARRANT"],
-        "Category": ["Equity", "Equity", "Equity", "Warrant"],
+        "Stock Code": ["00001", "00700", "09988", "82811", "60001"],
+        "Name of Securities": ["CK HUTCHISON", "TENCENT", "ALIBABA-W", "TRACKER FUND", "TEST WARRANT"],
+        "Category": ["Equity", "Equity", "Equity", "Fund", "Warrant"],
     })
     buf = io.BytesIO()
     with pd.ExcelWriter(buf, engine="openpyxl") as writer:
@@ -48,9 +48,28 @@ class TestDetectColumns:
             _detect_columns(df)
 
 
+class TestMapCategoryToType:
+    def test_equity_is_stock(self):
+        assert _map_category_to_type("Equity") == "stock"
+        assert _map_category_to_type("Equity Securities (Main Board)") == "stock"
+
+    def test_reit_is_reit(self):
+        assert _map_category_to_type("REIT") == "reit"
+        assert _map_category_to_type("Real Estate Investment Trust (REIT)") == "reit"
+
+    def test_fund_is_fund(self):
+        assert _map_category_to_type("Fund") == "fund"
+        assert _map_category_to_type("Unit Trust/Mutual Fund") == "fund"
+        assert _map_category_to_type("ETF") == "fund"
+
+    def test_warrant_is_none(self):
+        assert _map_category_to_type("Warrant") is None
+        assert _map_category_to_type("Debt Securities") is None
+
+
 class TestFetchHkexSymbols:
     @patch("scripts.fetch_symbols_hkex.requests")
-    def test_returns_equity_only(self, mock_requests: MagicMock):
+    def test_returns_equity_reit_fund_no_warrant(self, mock_requests: MagicMock):
         resp = MagicMock()
         resp.status_code = 200
         resp.content = _make_hkex_excel_bytes()
@@ -59,11 +78,16 @@ class TestFetchHkexSymbols:
 
         df = fetch_hkex_symbols()
 
-        assert list(df.columns) == ["code", "name", "exchange", "listing_date"]
-        # Should filter out warrants, keep only equity
+        assert list(df.columns) == ["code", "name", "region", "exchange", "type"]
         assert all(df["exchange"] == "HKEX")
+        assert all(df["region"] == "HK")
+        # Warrant should be dropped, equities and fund kept
+        assert set(df["type"]) <= {"stock", "reit", "fund"}
+        assert "TEST WARRANT" not in df["name"].values
         # All codes should be 5-digit
         assert all(df["code"].str.match(r"^\d{5}$"))
+        # Fund row (TRACKER FUND) should be included with type="fund"
+        assert "fund" in df["type"].values
 
     @patch("scripts.fetch_symbols_hkex.requests")
     def test_code_is_zero_padded(self, mock_requests: MagicMock):

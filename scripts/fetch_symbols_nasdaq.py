@@ -53,7 +53,7 @@ def fetch_us_symbols(exchange: str) -> pd.DataFrame:
     data = resp.json()
     rows = data.get("data", {}).get("rows", [])
     if not rows:
-        return pd.DataFrame(columns=["code", "name", "exchange", "listing_date"])
+        return pd.DataFrame(columns=["code", "name", "region", "exchange", "type"])
 
     df = pd.DataFrame(rows)
 
@@ -61,8 +61,9 @@ def fetch_us_symbols(exchange: str) -> pd.DataFrame:
     result = pd.DataFrame({
         "code": df.get("symbol", pd.Series(dtype=str)).astype(str).str.strip(),
         "name": df.get("name", pd.Series(dtype=str)).astype(str).str.strip(),
+        "region": "US",
         "exchange": exchange,
-        "listing_date": "",  # NASDAQ screener doesn't provide listing date
+        "type": "stock",
     })
 
     result = result[result["code"].str.len() > 0].drop_duplicates(subset=["code"]).reset_index(drop=True)

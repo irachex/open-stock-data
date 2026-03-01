@@ -30,7 +30,7 @@ def fetch_szse_symbols() -> pd.DataFrame:
     """Fetch all SZSE-listed A-share stock symbols.
 
     Returns:
-        DataFrame with columns: code, name, exchange, listing_date
+        DataFrame with columns: code, name, region, exchange, type, listing_date
 
     Raises:
         requests.HTTPError: If the SZSE API request fails.
@@ -45,11 +45,13 @@ def fetch_szse_symbols() -> pd.DataFrame:
     df = pd.DataFrame({
         "code": raw[col_map["code"]].astype(str).str.strip().str.zfill(6),
         "name": raw[col_map["name"]].astype(str).str.strip(),
+        "region": "SZ",
         "exchange": "SZSE",
+        "type": "stock",
         "listing_date": pd.to_datetime(raw[col_map["listing_date"]], errors="coerce").dt.strftime("%Y-%m-%d"),
     })
 
-    df = df.dropna(subset=["code"]).reset_index(drop=True)
+    df = df[df["code"].str.match(r"^\d{6}$", na=False)].reset_index(drop=True)
     return df
 
 
@@ -59,12 +61,17 @@ def _detect_columns(raw: pd.DataFrame) -> dict[str, str]:
     col_map: dict[str, str] = {}
 
     for col in columns:
-        col_lower = str(col).strip()
-        if "代码" in col_lower:
+        col_str = str(col).strip()
+        # Skip English-name columns explicitly
+        if "英文" in col_str:
+            continue
+        if "代码" in col_str:
             col_map.setdefault("code", col)
-        elif "简称" in col_lower or "名称" in col_lower:
-            col_map.setdefault("name", col)
-        elif "上市日期" in col_lower or "A股上市日期" in col_lower:
+        elif "A股简称" in col_str:
+            col_map["name"] = col  # prefer A股简称 over generic 简称/名称
+        elif ("简称" in col_str or "名称" in col_str) and "name" not in col_map:
+            col_map["name"] = col
+        elif "上市日期" in col_str:
             col_map.setdefault("listing_date", col)
 
     required = {"code", "name", "listing_date"}

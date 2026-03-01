@@ -35,10 +35,12 @@ class TestFetchBseSymbols:
 
         df = fetch_bse_symbols()
 
-        assert list(df.columns) == ["code", "name", "exchange", "listing_date"]
+        assert list(df.columns) == ["code", "name", "region", "exchange", "type", "listing_date"]
         assert len(df) == 2
         assert df.iloc[0]["code"] == "830799"
+        assert df.iloc[0]["region"] == "BJ"
         assert df.iloc[0]["exchange"] == "BSE"
+        assert df.iloc[0]["type"] == "stock"
         assert df.iloc[1]["name"] == "安徽凤凰"
 
     @patch("scripts.fetch_symbols_bse.requests")
@@ -74,7 +76,7 @@ class TestFetchBseSymbols:
         df = fetch_bse_symbols()
 
         assert len(df) == 0
-        assert list(df.columns) == ["code", "name", "exchange", "listing_date"]
+        assert list(df.columns) == ["code", "name", "region", "exchange", "type", "listing_date"]
 
 
 class TestSaveBseSymbols:

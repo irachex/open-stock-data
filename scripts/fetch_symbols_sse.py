@@ -33,10 +33,12 @@ def fetch_sse_symbols() -> pd.DataFrame:
     """Fetch all SSE-listed A-share stock symbols.
 
     Returns:
-        DataFrame with columns: code, name, exchange, listing_date
+        DataFrame with columns: code, name, region, exchange, type, listing_date
         - code: 6-digit stock code (e.g. "600000")
         - name: Company short name (Chinese)
+        - region: Always "SH"
         - exchange: Always "SSE"
+        - type: Always "stock"
         - listing_date: Listing date as string "YYYY-MM-DD"
 
     Raises:
@@ -55,11 +57,14 @@ def fetch_sse_symbols() -> pd.DataFrame:
     df = pd.DataFrame({
         "code": raw[col_map["code"]].astype(str).str.strip().str.zfill(6),
         "name": raw[col_map["name"]].astype(str).str.strip(),
+        "region": "SH",
         "exchange": "SSE",
+        "type": "stock",
         "listing_date": pd.to_datetime(raw[col_map["listing_date"]], errors="coerce").dt.strftime("%Y-%m-%d"),
     })
 
-    df = df.dropna(subset=["code"]).reset_index(drop=True)
+    # Filter to valid 6-digit numeric codes only
+    df = df[df["code"].str.match(r"^\d{6}$", na=False)].reset_index(drop=True)
     return df
 
 
@@ -69,13 +74,14 @@ def _detect_columns(raw: pd.DataFrame) -> dict[str, str]:
     col_map: dict[str, str] = {}
 
     for col in columns:
-        col_lower = str(col).strip()
-        if "代码" in col_lower or "STOCK_CODE" in col_lower.upper():
-            col_map["code"] = col
-        elif "简称" in col_lower or "STOCK_NAME" in col_lower.upper():
-            col_map["name"] = col
-        elif "上市日期" in col_lower or "LIST_DATE" in col_lower.upper():
-            col_map["listing_date"] = col
+        col_str = str(col).strip()
+        col_upper = col_str.upper()
+        if "代码" in col_str or "STOCK_CODE" in col_upper:
+            col_map.setdefault("code", col)
+        elif "简称" in col_str or "STOCK_NAME" in col_upper:
+            col_map.setdefault("name", col)
+        elif "上市日期" in col_str or "LIST_DATE" in col_upper:
+            col_map.setdefault("listing_date", col)
 
     required = {"code", "name", "listing_date"}
     missing = required - set(col_map)

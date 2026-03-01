@@ -19,13 +19,13 @@ HKEX_HEADERS = {
 
 
 def fetch_hkex_symbols() -> pd.DataFrame:
-    """Fetch all HKEX-listed equity stock symbols.
+    """Fetch HKEX-listed stock, REIT, and fund symbols.
 
-    Downloads the official HKEX securities list, filters for equity
-    categories, and returns a normalized DataFrame.
+    Downloads the official HKEX securities list, maps Category to type
+    (stock/reit/fund), and drops derivatives/debt.
 
     Returns:
-        DataFrame with columns: code, name, exchange, listing_date
+        DataFrame with columns: code, name, region, exchange, type
 
     Raises:
         requests.HTTPError: If the download fails.
@@ -40,20 +40,34 @@ def fetch_hkex_symbols() -> pd.DataFrame:
     df = pd.DataFrame({
         "code": raw[col_map["code"]].astype(str).str.strip().str.zfill(5),
         "name": raw[col_map["name"]].astype(str).str.strip(),
+        "region": "HK",
         "exchange": "HKEX",
-        "listing_date": "",  # HKEX list doesn't always include listing date
     })
 
-    # Filter out non-equity entries if category column exists
+    # Map category to type; drop rows with unknown/derivative categories
     if "category" in col_map:
-        category = raw[col_map["category"]].astype(str).str.strip().str.upper()
-        equity_mask = category.str.contains("EQUITY|ORD|SHARES", na=False)
-        df = df[equity_mask]
+        category = raw[col_map["category"]].astype(str).str.strip()
+        df["type"] = category.apply(_map_category_to_type)
+        df = df[df["type"].notna()]
+    else:
+        df["type"] = "stock"
 
     # Drop rows with invalid codes
     df = df[df["code"].str.match(r"^\d{5}$", na=False)]
     df = df.drop_duplicates(subset=["code"]).reset_index(drop=True)
     return df
+
+
+def _map_category_to_type(category: str) -> str | None:
+    """Map HKEX Category string to a type label (stock/reit/fund) or None to drop."""
+    cat = category.upper()
+    if any(k in cat for k in ["EQUITY", "ORD", "SHARE"]):
+        return "stock"
+    if "REIT" in cat:
+        return "reit"
+    if any(k in cat for k in ["FUND", "TRUST", "ETF"]):
+        return "fund"
+    return None  # warrants, CBBCs, debt, preference shares → drop
 
 
 def _detect_columns(raw: pd.DataFrame) -> dict[str, str]:

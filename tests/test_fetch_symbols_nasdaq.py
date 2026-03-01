@@ -35,10 +35,12 @@ class TestFetchUsSymbols:
 
         df = fetch_us_symbols("NASDAQ")
 
-        assert list(df.columns) == ["code", "name", "exchange", "listing_date"]
+        assert list(df.columns) == ["code", "name", "region", "exchange", "type"]
         assert len(df) == 3
         assert df.iloc[0]["code"] == "AAPL"
+        assert df.iloc[0]["region"] == "US"
         assert df.iloc[0]["exchange"] == "NASDAQ"
+        assert df.iloc[0]["type"] == "stock"
 
     @patch("scripts.fetch_symbols_nasdaq.requests")
     def test_works_for_nyse(self, mock_requests: MagicMock):
@@ -79,7 +81,7 @@ class TestFetchUsSymbols:
 
         df = fetch_us_symbols("NASDAQ")
         assert len(df) == 0
-        assert list(df.columns) == ["code", "name", "exchange", "listing_date"]
+        assert list(df.columns) == ["code", "name", "region", "exchange", "type"]
 
     @patch("scripts.fetch_symbols_nasdaq.requests")
     def test_deduplicates_symbols(self, mock_requests: MagicMock):
