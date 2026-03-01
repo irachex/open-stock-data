@@ -1,0 +1,94 @@
+name: Update US Bars
+
+on:
+  schedule:
+    # UTC 22:00 Mon-Fri ≈ ET 17:00/18:00 (after US market close at 16:00 ET)
+    - cron: "0 22 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Fetch bars for a specific date (YYYY-MM-DD). Leave empty for last trading day."
+        required: false
+
+jobs:
+  update-bars-us:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Fetch and upload US bars
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          uv run python -c "
+          import datetime, os, logging
+          logging.basicConfig(level=logging.INFO)
+
+          from scripts.fetch_bars_us import fetch_us_bars, load_us_symbols
+          from scripts.utils.trading_calendar import is_trading_day, last_trading_day
+          from scripts.utils.parquet_io import read_bars, write_bars, append_bars
+          from scripts.utils.release_upload import download_asset, upload_asset, get_or_create_release
+          from pathlib import Path
+
+          # Determine target date
+          date_input = '${{ github.event.inputs.date }}'.strip()
+          if date_input:
+              target = datetime.date.fromisoformat(date_input)
+          else:
+              target = last_trading_day('US')
+
+          if not is_trading_day('US', target):
+              print(f'{target} is not a US trading day, skipping.')
+              raise SystemExit(0)
+
+          print(f'Fetching US bars for {target}')
+
+          # Load symbols
+          symbols = load_us_symbols()
+          print(f'Symbols: {len(symbols)} US stocks')
+
+          if not symbols:
+              print('No symbols found, skipping.')
+              raise SystemExit(0)
+
+          # Fetch bars
+          new_bars = fetch_us_bars(symbols, target, target)
+          print(f'Fetched {len(new_bars)} bar records')
+
+          if new_bars.empty:
+              print('No bars fetched, skipping upload.')
+              raise SystemExit(0)
+
+          # Download existing parquet from release (if any)
+          repo = os.environ.get('GITHUB_REPOSITORY', '')
+          token = os.environ['GITHUB_TOKEN']
+          tag = 'data-us-bars'
+          asset_name = 'us_bars.parquet'
+          local_path = Path('data') / asset_name
+
+          release = get_or_create_release(repo, tag, token, name='US Daily Bars')
+
+          downloaded = download_asset(repo, tag, asset_name, str(local_path), token)
+
+          if downloaded:
+              append_bars(new_bars, local_path)
+              print(f'Appended to existing parquet')
+          else:
+              local_path.parent.mkdir(parents=True, exist_ok=True)
+              write_bars(new_bars, local_path)
+              print(f'Created new parquet')
+
+          # Upload
+          upload_asset(repo, tag, str(local_path), token)
+          print(f'Uploaded {asset_name} to release {tag}')
+          "
