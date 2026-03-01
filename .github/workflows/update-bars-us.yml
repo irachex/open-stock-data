@@ -81,11 +81,11 @@ jobs:
           downloaded = download_asset(repo, tag, asset_name, str(local_path), token)
 
           if downloaded:
-              append_bars(new_bars, local_path)
+              append_bars(local_path, new_bars)
               print(f'Appended to existing parquet')
           else:
               local_path.parent.mkdir(parents=True, exist_ok=True)
-              write_bars(new_bars, local_path)
+              write_bars(local_path, new_bars)
               print(f'Created new parquet')
 
           # Upload
