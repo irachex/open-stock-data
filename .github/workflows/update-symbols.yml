@@ -1,0 +1,50 @@
+name: Update Symbols
+
+on:
+  schedule:
+    # UTC 17:00 Mon-Fri = Beijing 01:00 next day (after all markets close)
+    - cron: "0 17 * * 1-5"
+  workflow_dispatch:
+
+jobs:
+  update-symbols:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Fetch SSE symbols
+        run: uv run python -c "from scripts.fetch_symbols_sse import save_sse_symbols; save_sse_symbols()"
+
+      - name: Fetch SZSE symbols
+        run: uv run python -c "from scripts.fetch_symbols_szse import save_szse_symbols; save_szse_symbols()"
+
+      - name: Fetch BSE symbols
+        run: uv run python -c "from scripts.fetch_symbols_bse import save_bse_symbols; save_bse_symbols()"
+
+      - name: Fetch HKEX symbols
+        run: uv run python -c "from scripts.fetch_symbols_hkex import save_hkex_symbols; save_hkex_symbols()"
+
+      - name: Fetch US symbols (NASDAQ/NYSE/AMEX)
+        run: uv run python -c "from scripts.fetch_symbols_nasdaq import save_us_symbols; save_us_symbols()"
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add symbols/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "data: update symbols $(date -u +%Y-%m-%d)"
+            git push
+          fi
