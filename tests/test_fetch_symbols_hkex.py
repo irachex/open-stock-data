@@ -78,7 +78,7 @@ class TestFetchHkexSymbols:
 
         df = fetch_hkex_symbols()
 
-        assert list(df.columns) == ["code", "name", "region", "exchange", "type"]
+        assert list(df.columns) == ["code", "region", "name", "exchange", "type"]
         assert all(df["exchange"] == "HKEX")
         assert all(df["region"] == "HK")
         # Warrant should be dropped, equities and fund kept

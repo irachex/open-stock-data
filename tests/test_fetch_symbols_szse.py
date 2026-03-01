@@ -30,11 +30,10 @@ def _make_szse_excel_bytes() -> bytes:
 
 class TestDetectColumns:
     def test_detects_szse_columns(self):
-        df = pd.DataFrame({"A股代码": [], "A股简称": [], "A股上市日期": []})
+        df = pd.DataFrame({"证券代码": [], "A股简称": []})
         result = _detect_columns(df)
-        assert result["code"] == "A股代码"
+        assert result["code"] == "证券代码"
         assert result["name"] == "A股简称"
-        assert result["listing_date"] == "A股上市日期"
 
     def test_raises_on_missing_columns(self):
         df = pd.DataFrame({"x": [], "y": []})
@@ -53,7 +52,7 @@ class TestFetchSzseSymbols:
 
         df = fetch_szse_symbols()
 
-        assert list(df.columns) == ["code", "name", "region", "exchange", "type", "listing_date"]
+        assert list(df.columns) == ["code", "region", "name", "exchange", "type"]
         assert len(df) == 3
         assert df.iloc[0]["code"] == "000001"
         assert df.iloc[0]["region"] == "SZ"

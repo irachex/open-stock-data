@@ -25,7 +25,7 @@ def fetch_hkex_symbols() -> pd.DataFrame:
     (stock/reit/fund), and drops derivatives/debt.
 
     Returns:
-        DataFrame with columns: code, name, region, exchange, type
+        DataFrame with columns: code, region, name, exchange, type
 
     Raises:
         requests.HTTPError: If the download fails.
@@ -39,8 +39,8 @@ def fetch_hkex_symbols() -> pd.DataFrame:
 
     df = pd.DataFrame({
         "code": raw[col_map["code"]].astype(str).str.strip().str.zfill(5),
-        "name": raw[col_map["name"]].astype(str).str.strip(),
         "region": "HK",
+        "name": raw[col_map["name"]].astype(str).str.strip(),
         "exchange": "HKEX",
     })
 

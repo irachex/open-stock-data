@@ -30,7 +30,7 @@ def fetch_szse_symbols() -> pd.DataFrame:
     """Fetch all SZSE-listed A-share stock symbols.
 
     Returns:
-        DataFrame with columns: code, name, region, exchange, type, listing_date
+        DataFrame with columns: code, region, name, exchange, type
 
     Raises:
         requests.HTTPError: If the SZSE API request fails.
@@ -44,11 +44,10 @@ def fetch_szse_symbols() -> pd.DataFrame:
 
     df = pd.DataFrame({
         "code": raw[col_map["code"]].astype(str).str.strip().str.zfill(6),
-        "name": raw[col_map["name"]].astype(str).str.strip().str.replace(r"\s+", "", regex=True),
         "region": "SZ",
+        "name": raw[col_map["name"]].astype(str).str.strip().str.replace(r"\s+", "", regex=True),
         "exchange": "SZSE",
         "type": "stock",
-        "listing_date": pd.to_datetime(raw[col_map["listing_date"]], errors="coerce").dt.strftime("%Y-%m-%d"),
     })
 
     df = df[df["code"].str.match(r"^\d{6}$", na=False)].reset_index(drop=True)
@@ -74,7 +73,7 @@ def _detect_columns(raw: pd.DataFrame) -> dict[str, str]:
         elif "上市日期" in col_str:
             col_map.setdefault("listing_date", col)
 
-    required = {"code", "name", "listing_date"}
+    required = {"code", "name"}
     missing = required - set(col_map)
     if missing:
         raise ValueError(f"Cannot detect SZSE columns. Missing: {missing}. Available: {columns}")

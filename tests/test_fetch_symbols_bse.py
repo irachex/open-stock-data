@@ -32,14 +32,13 @@ class TestFetchBseSymbols:
 
         df = fetch_bse_symbols()
 
-        assert list(df.columns) == ["code", "name", "region", "exchange", "type", "listing_date"]
+        assert list(df.columns) == ["code", "region", "name", "exchange", "type"]
         assert len(df) == 2
         assert df.iloc[0]["code"] == "830799"
         assert df.iloc[0]["name"] == "艾融软件"
         assert df.iloc[0]["region"] == "BJ"
         assert df.iloc[0]["exchange"] == "BSE"
         assert df.iloc[0]["type"] == "stock"
-        assert df.iloc[0]["listing_date"] == "2021-11-15"
         assert df.iloc[1]["name"] == "安徽凤凰"
 
     @patch("scripts.fetch_symbols_bse.ak")
@@ -51,7 +50,7 @@ class TestFetchBseSymbols:
         df = fetch_bse_symbols()
 
         assert len(df) == 0
-        assert list(df.columns) == ["code", "name", "region", "exchange", "type", "listing_date"]
+        assert list(df.columns) == ["code", "region", "name", "exchange", "type"]
 
     @patch("scripts.fetch_symbols_bse.ak")
     def test_filters_invalid_codes(self, mock_ak):
@@ -80,5 +79,5 @@ class TestSaveBseSymbols:
         assert path.name == "BSE.csv"
         df = pd.read_csv(path, dtype=str)
         assert len(df) == 2
-        assert list(df.columns) == ["code", "name", "region", "exchange", "type", "listing_date"]
+        assert list(df.columns) == ["code", "region", "name", "exchange", "type"]
 

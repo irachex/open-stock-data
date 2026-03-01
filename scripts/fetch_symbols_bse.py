@@ -19,13 +19,12 @@ def fetch_bse_symbols() -> pd.DataFrame:
     """Fetch all BSE-listed stock symbols via AKShare.
 
     Returns:
-        DataFrame with columns: code, name, region, exchange, type, listing_date
+        DataFrame with columns: code, region, name, exchange, type
         - code: 6-digit stock code (e.g. "830799")
-        - name: Company short name (Chinese)
         - region: Always "BJ"
+        - name: Company short name (Chinese)
         - exchange: Always "BSE"
         - type: Always "stock"
-        - listing_date: Listing date as string "YYYY-MM-DD"
 
     Raises:
         Exception: If the AKShare call fails.
@@ -34,11 +33,10 @@ def fetch_bse_symbols() -> pd.DataFrame:
 
     df = pd.DataFrame({
         "code": raw["证券代码"].astype(str).str.strip().str.zfill(6),
-        "name": raw["证券简称"].astype(str).str.strip(),
         "region": "BJ",
+        "name": raw["证券简称"].astype(str).str.strip(),
         "exchange": "BSE",
         "type": "stock",
-        "listing_date": pd.to_datetime(raw["上市日期"], errors="coerce").dt.strftime("%Y-%m-%d"),
     })
 
     df = df[df["code"].str.match(r"^\d{6}$", na=False)].reset_index(drop=True)

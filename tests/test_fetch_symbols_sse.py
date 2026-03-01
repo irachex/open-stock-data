@@ -29,14 +29,13 @@ def _make_sse_excel_bytes() -> bytes:
 
 class TestDetectColumns:
     def test_detects_chinese_columns(self):
-        df = pd.DataFrame({"公司代码": [], "公司简称": [], "上市日期": []})
+        df = pd.DataFrame({"公司代码": [], "公司简称": []})
         result = _detect_columns(df)
         assert result["code"] == "公司代码"
         assert result["name"] == "公司简称"
-        assert result["listing_date"] == "上市日期"
 
     def test_detects_alternative_columns(self):
-        df = pd.DataFrame({"股票代码": [], "股票简称": [], "上市日期": []})
+        df = pd.DataFrame({"股票代码": [], "股票简称": []})
         result = _detect_columns(df)
         assert result["code"] == "股票代码"
         assert result["name"] == "股票简称"
@@ -58,14 +57,13 @@ class TestFetchSseSymbols:
 
         df = fetch_sse_symbols()
 
-        assert list(df.columns) == ["code", "name", "region", "exchange", "type", "listing_date"]
+        assert list(df.columns) == ["code", "region", "name", "exchange", "type"]
         assert len(df) == 3
         assert df.iloc[0]["code"] == "600000"
         assert df.iloc[0]["name"] == "浦发银行"
         assert df.iloc[0]["region"] == "SH"
         assert df.iloc[0]["exchange"] == "SSE"
         assert df.iloc[0]["type"] == "stock"
-        assert df.iloc[0]["listing_date"] == "1999-11-10"
 
     @patch("scripts.fetch_symbols_sse.requests")
     def test_filters_invalid_codes(self, mock_requests: MagicMock):
@@ -138,4 +136,4 @@ class TestSaveSseSymbols:
         assert path.name == "SSE.csv"
         df = pd.read_csv(path, dtype=str)
         assert len(df) == 3
-        assert list(df.columns) == ["code", "name", "region", "exchange", "type", "listing_date"]
+        assert list(df.columns) == ["code", "region", "name", "exchange", "type"]

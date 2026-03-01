@@ -30,7 +30,7 @@ def fetch_us_symbols(exchange: str) -> pd.DataFrame:
         exchange: One of "NASDAQ", "NYSE", "AMEX".
 
     Returns:
-        DataFrame with columns: code, name, exchange, listing_date
+        DataFrame with columns: code, region, name, exchange, type
 
     Raises:
         ValueError: If exchange is not valid.
@@ -53,19 +53,22 @@ def fetch_us_symbols(exchange: str) -> pd.DataFrame:
     data = resp.json()
     rows = data.get("data", {}).get("rows", [])
     if not rows:
-        return pd.DataFrame(columns=["code", "name", "region", "exchange", "type"])
+        return pd.DataFrame(columns=["code", "region", "name", "exchange", "type"])
 
     df = pd.DataFrame(rows)
 
     # Map NASDAQ API fields to our schema
     result = pd.DataFrame({
         "code": df.get("symbol", pd.Series(dtype=str)).astype(str).str.strip(),
-        "name": df.get("name", pd.Series(dtype=str)).astype(str).str.strip(),
         "region": "US",
+        "name": df.get("name", pd.Series(dtype=str)).astype(str).str.strip(),
         "exchange": exchange,
         "type": "stock",
     })
 
+    # Filter out rows with "nan" (string), NaN values, empty codes, and duplicates
+    result = result[result["code"] != "nan"]
+    result = result[result["code"].notna()]
     result = result[result["code"].str.len() > 0].drop_duplicates(subset=["code"]).reset_index(drop=True)
     return result
 
