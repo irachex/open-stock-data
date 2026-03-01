@@ -25,7 +25,7 @@ symbols/
   AMEX.csv     # American Stock Exchange
 ```
 
-Each CSV has columns: `code, name, exchange, listing_date`
+Each CSV has columns: `code, region, name, exchange, type`
 
 ### Bars (Published via GitHub Releases)
 
