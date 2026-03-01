@@ -44,7 +44,7 @@ def fetch_szse_symbols() -> pd.DataFrame:
 
     df = pd.DataFrame({
         "code": raw[col_map["code"]].astype(str).str.strip().str.zfill(6),
-        "name": raw[col_map["name"]].astype(str).str.strip(),
+        "name": raw[col_map["name"]].astype(str).str.strip().str.replace(r"\s+", "", regex=True),
         "region": "SZ",
         "exchange": "SZSE",
         "type": "stock",

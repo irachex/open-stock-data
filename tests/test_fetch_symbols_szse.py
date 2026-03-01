@@ -82,6 +82,27 @@ class TestFetchSzseSymbols:
         df = fetch_szse_symbols()
         assert df.iloc[0]["name"] == "平安銀行"
 
+    @patch("scripts.fetch_symbols_szse.requests")
+    def test_removes_internal_spaces(self, mock_requests: MagicMock):
+        """Names with internal spaces (e.g. '万  科A') should have spaces removed."""
+        excel_df = pd.DataFrame({
+            "A股代码": ["000001", "000002"],
+            "A股简称": ["万  科A", "中  兴通  讯"],
+            "A股上市日期": ["1991-04-03", "1997-04-29"],
+        })
+        buf = io.BytesIO()
+        excel_df.to_excel(buf, index=False, engine="openpyxl")
+
+        resp = MagicMock()
+        resp.status_code = 200
+        resp.content = buf.getvalue()
+        resp.raise_for_status = MagicMock()
+        mock_requests.get.return_value = resp
+
+        df = fetch_szse_symbols()
+        assert df.iloc[0]["name"] == "万科A"
+        assert df.iloc[1]["name"] == "中兴通讯"
+
 
 class TestSaveSzseSymbols:
     @patch("scripts.fetch_symbols_szse.requests")
