@@ -1,9 +1,7 @@
 name: Update CN Bars
 
 on:
-  schedule:
-    # UTC 09:00 Mon-Fri ≈ Beijing 17:00 (after CN market close at 15:00)
-    - cron: "0 9 * * 1-5"
+  # Schedule paused - manual trigger only
   workflow_dispatch:
     inputs:
       date:

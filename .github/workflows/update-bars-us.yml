@@ -1,9 +1,7 @@
 name: Update US Bars
 
 on:
-  schedule:
-    # UTC 22:00 Mon-Fri ≈ ET 17:00/18:00 (after US market close at 16:00 ET)
-    - cron: "0 22 * * 1-5"
+  # Schedule paused - manual trigger only
   workflow_dispatch:
     inputs:
       date:

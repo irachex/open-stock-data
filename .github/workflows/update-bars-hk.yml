@@ -1,9 +1,7 @@
 name: Update HK Bars
 
 on:
-  schedule:
-    # UTC 09:00 Mon-Fri ≈ HKT 17:00 (after HK market close at 16:00)
-    - cron: "0 9 * * 1-5"
+  # Schedule paused - manual trigger only
   workflow_dispatch:
     inputs:
       date:
