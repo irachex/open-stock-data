@@ -81,6 +81,40 @@ class TestFetchSzseSymbols:
         assert len(df) == 1
         assert df.iloc[0]["code"] == "000001"
 
+    @patch("scripts.fetch_symbols_szse.ak.stock_info_sz_name_code")
+    def test_retry_on_connection_error(self, mock_func: MagicMock):
+        """Should retry on connection errors and eventually succeed."""
+        mock_func.side_effect = [ConnectionError("Connection reset"), _make_akshare_df()]
+
+        df = fetch_szse_symbols()
+
+        assert mock_func.call_count == 2
+        assert len(df) == 3
+
+    @patch("scripts.fetch_symbols_szse.ak.stock_info_sz_name_code")
+    def test_returns_empty_dataframe_after_all_retries_fail(self, mock_func: MagicMock):
+        """Should return empty DataFrame with correct schema after all retries fail."""
+        mock_func.side_effect = ConnectionError("Connection reset")
+
+        df = fetch_szse_symbols()
+
+        assert mock_func.call_count == 3  # MAX_RETRIES
+        assert len(df) == 0
+        assert list(df.columns) == ["code", "region", "name", "exchange", "type"]
+
+    @patch("scripts.fetch_symbols_szse.time.sleep")
+    @patch("scripts.fetch_symbols_szse.ak.stock_info_sz_name_code")
+    def test_uses_exponential_backoff(self, mock_func: MagicMock, mock_sleep: MagicMock):
+        """Should use exponential backoff between retries."""
+        mock_func.side_effect = ConnectionError("Connection reset")
+
+        fetch_szse_symbols()
+
+        # Expected delays: 2s, 4s (2 * 2^0, 2 * 2^1)
+        assert mock_sleep.call_count == 2
+        mock_sleep.assert_any_call(2)
+        mock_sleep.assert_any_call(4)
+
 
 class TestSaveSzseSymbols:
     @patch("scripts.fetch_symbols_szse.ak.stock_info_sz_name_code")
@@ -93,3 +127,15 @@ class TestSaveSzseSymbols:
         assert path.name == "SZSE.csv"
         df = pd.read_csv(path, dtype=str)
         assert len(df) == 3
+
+    @patch("scripts.fetch_symbols_szse.ak.stock_info_sz_name_code")
+    def test_saves_empty_csv_on_fetch_failure(self, mock_func: MagicMock, tmp_path: Path):
+        """Should save empty CSV with headers when fetch fails completely."""
+        mock_func.side_effect = ConnectionError("Connection reset")
+
+        path = save_szse_symbols(output_dir=tmp_path)
+
+        assert path.exists()
+        df = pd.read_csv(path, dtype=str)
+        assert len(df) == 0
+        assert list(df.columns) == ["code", "region", "name", "exchange", "type"]
