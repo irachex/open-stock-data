@@ -47,23 +47,23 @@ upgrade:
 # ========== Code Quality ==========
 
 lint:
-	ruff check scripts tests
+	uv run ruff check scripts tests
 
 lint-fix:
-	ruff check scripts tests --fix
+	uv run ruff check scripts tests --fix
 
 format:
-	ruff format scripts tests
+	uv run ruff format scripts tests
 
 check: lint test
 
 # ========== Testing ==========
 
 test:
-	pytest
+	uv run pytest
 
 test-cov:
-	pytest --cov=scripts --cov-report=term-missing --cov-report=html
+	uv run pytest --cov=scripts --cov-report=term-missing --cov-report=html
 
 # ========== Symbol Fetching ==========
 
@@ -72,17 +72,17 @@ symbols: symbols-cn symbols-hk symbols-us
 
 symbols-cn:
 	@echo "Fetching CN symbols..."
-	python scripts/fetch_symbols_sse.py
-	python scripts/fetch_symbols_szse.py
-	python scripts/fetch_symbols_bse.py
+	uv run python scripts/fetch_symbols_sse.py
+	uv run python scripts/fetch_symbols_szse.py
+	uv run python scripts/fetch_symbols_bse.py
 
 symbols-hk:
 	@echo "Fetching HK symbols..."
-	python scripts/fetch_symbols_hkex.py
+	uv run python scripts/fetch_symbols_hkex.py
 
 symbols-us:
 	@echo "Fetching US symbols..."
-	python scripts/fetch_symbols_nasdaq.py
+	uv run python scripts/fetch_symbols_nasdaq.py
 
 # ========== Bar Data Fetching ==========
 
@@ -91,20 +91,20 @@ bars: bars-cn bars-hk bars-us
 
 bars-cn:
 	@echo "Fetching CN bars..."
-	python scripts/fetch_bars_cn.py
+	uv run python scripts/fetch_bars_cn.py
 
 bars-hk:
 	@echo "Fetching HK bars..."
-	python scripts/fetch_bars_hk.py
+	uv run python scripts/fetch_bars_hk.py
 
 bars-us:
 	@echo "Fetching US bars..."
-	python scripts/fetch_bars_us.py
+	uv run python scripts/fetch_bars_us.py
 
 # ========== Data Backfill ==========
 
 backfill:
-	python scripts/backfill.py
+	uv run python scripts/backfill.py
 
 # ========== Cleanup ==========
 
