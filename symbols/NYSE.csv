@@ -74,12 +74,12 @@ AGM^H,US,Federal Agricultural Mortgage Corporation 6.500% Non-Cumulative Preferr
 AGO,US,Assured Guaranty Ltd. Common Stock,NYSE,stock
 AGRO,US,Adecoagro S.A. Common Shares,NYSE,stock
 AGX,US,Argan Inc. Common Stock,NYSE,stock
-AHH,US,Armada Hoffler Properties Inc. Common Stock,NYSE,stock
-AHH^A,US,Armada Hoffler Properties Inc. 6.75% Series A Cumulative Redeemable Perpetual Preferred Stock,NYSE,stock
 AHL^D,US,Aspen Insurance Holdings Limited 5.625% Perpetual Non-Cumulative Preference Shares,NYSE,stock
 AHL^E,US,Aspen Insurance Holdings Limited Depositary Shares each representing a 1/1000th interest in a share of 5.625% Perpetual Non-Cumulative Preference Shares,NYSE,stock
 AHL^F,US,Aspen Insurance Holdings Limited Depositary Shares each representing a 1/1000th Interest in a 7.00% Perpetual Non-Cumulative Preference Share,NYSE,stock
 AHR,US,American Healthcare REIT Inc. Common Stock,NYSE,stock
+AHRT,US,AH Realty Trust Inc. Common Stock,NYSE,stock
+AHRT^A,US,AH Realty Trust Inc. 6.75% Series A Cumulative Redeemable Perpetual Preferred Stock,NYSE,stock
 AHT,US,Ashford Hospitality Trust Inc Common Stock,NYSE,stock
 AHT^D,US,Ashford Hospitality Trust Inc 8.45% Series D Cumulative Preferred Stock,NYSE,stock
 AHT^F,US,Ashford Hospitality Trust Inc 7.375% Series F Cumulative Preferred Stock,NYSE,stock
@@ -1005,7 +1005,6 @@ FPI,US,Farmland Partners Inc. Common Stock,NYSE,stock
 FPS,US,Forgent Power Solutions Inc. Class A Common Stock,NYSE,stock
 FR,US,First Industrial Realty Trust Inc. Common Stock,NYSE,stock
 FRA,US,Blackrock Floating Rate Income Strategies Fund Inc  Common Stock,NYSE,stock
-FRGE,US,Forge Global Holdings Inc. Common Stock,NYSE,stock
 FRO,US,Frontline Plc Ordinary Shares,NYSE,stock
 FRT,US,Federal Realty Investment Trust Common Stock,NYSE,stock
 FRT^C,US,Federal Realty Investment Trust Depositary Shares each representing a 1/1000th interest in a 5.000% Series C Cumulative Redeemable Preferred Share,NYSE,stock
@@ -1020,7 +1019,7 @@ FTI,US,TechnipFMC plc Ordinary Share,NYSE,stock
 FTK,US,Flotek Industries Inc. Common Stock,NYSE,stock
 FTS,US,Fortis Inc. Common Shares,NYSE,stock
 FTV,US,Fortive Corporation Common Stock,NYSE,stock
-FTW,US,EQV Ventures Acquisition Corp. Class A Ordinary Shares,NYSE,stock
+FTW,US,Presidio Production Company Class A Common Stock,NYSE,stock
 FUBO,US,FuboTV Inc. Class A Common Stock,NYSE,stock
 FUL,US,H. B. Fuller Company Common Stock,NYSE,stock
 FUN,US,Six Flags Entertainment Corporation Common Stock New,NYSE,stock
@@ -1079,8 +1078,6 @@ GIL,US,Gildan Activewear Inc. Class A Sub. Vot. Common Stock,NYSE,stock
 GIS,US,General Mills Inc. Common Stock,NYSE,stock
 GJH,US,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,NYSE,stock
 GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores Inc. Securities Series 2004-5,NYSE,stock
-GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
-GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
 GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
@@ -1257,7 +1254,7 @@ IDE,US,Voya Infrastructure Industrials and Materials Fund Common Shares of Benef
 IDT,US,IDT Corporation Class B Common Stock,NYSE,stock
 IEX,US,IDEX Corporation Common Stock,NYSE,stock
 IFF,US,International Flavors & Fragrances Inc. Common Stock,NYSE,stock
-IFN,US,India Fund Inc. (The) Common Stock,NYSE,stock
+IFN,US,Aberdeen India Fund Inc. Common Stock,NYSE,stock
 IFS,US,Intercorp Financial Services Inc. Common Shares,NYSE,stock
 IGA,US,Voya Global Advantage and Premium Opportunity Fund Common Shares of Beneficial Interest,NYSE,stock
 IGD,US,Voya Global Equity Dividend and Premium Opportunity Fund,NYSE,stock
@@ -1673,6 +1670,7 @@ NEE^N,US,NextEra Energy Inc. Series N Junior Subordinated Debentures due March 1
 NEE^S,US,NextEra Energy Inc. 7.299% Corporate Units,NYSE,stock
 NEE^T,US,NextEra Energy Inc. 7.234% Corporate Units,NYSE,stock
 NEE^U,US,NextEra Energy Inc. Series U Junior Subordinated Debentures due June 1 2085,NYSE,stock
+NEE^V,US,NextEra Energy Inc.,NYSE,stock
 NEM,US,Newmont Corporation,NYSE,stock
 NET,US,Cloudflare Inc. Class A Common Stock,NYSE,stock
 NEU,US,NewMarket Corp Common Stock,NYSE,stock
@@ -1950,6 +1948,7 @@ POR,US,Portland General Electric Co Common Stock,NYSE,stock
 POST,US,Post Holdings Inc. Common Stock,NYSE,stock
 PPG,US,PPG Industries Inc. Common Stock,NYSE,stock
 PPL,US,PPL Corporation Common Stock,NYSE,stock
+PPLC,US,PPL Corporation Corporate Units,NYSE,stock
 PPT,US,Putnam Premier Income Trust Common Stock,NYSE,stock
 PR,US,Permian Resources Corporation Class A Common Stock,NYSE,stock
 PRA,US,ProAssurance Corporation Common Stock,NYSE,stock
@@ -1992,7 +1991,7 @@ PSFE,US,Paysafe Limited Common Shares,NYSE,stock
 PSN,US,Parsons Corporation Common Stock,NYSE,stock
 PSO,US,Pearson Plc Common Stock,NYSE,stock
 PSQH,US,PSQ Holdings Inc. Class A Common Stock,NYSE,stock
-PSTG,US,Pure Storage Inc. Class A Common Stock,NYSE,stock
+PSTG,US,Everpure Inc. Class A common stock,NYSE,stock
 PSTL,US,Postal Realty Trust Inc. Class A Common Stock,NYSE,stock
 PSX,US,Phillips 66 Common Stock,NYSE,stock
 PTA,US,Cohen & Steers Tax-Advantaged Preferred Securities and Income Fund Common Shares of Beneficial Interest,NYSE,stock
@@ -2024,7 +2023,6 @@ RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
 RBA,US,RB Global Inc. Common Stock,NYSE,stock
 RBC,US,RBC Bearings Incorporated Common Stock,NYSE,stock
 RBLX,US,Roblox Corporation Class A Common Stock,NYSE,stock
-RBOT,US,Vicarious Surgical Inc. Class A Common Stock,NYSE,stock
 RBRK,US,Rubrik Inc. Class A Common Stock,NYSE,stock
 RC,US,Ready Capital Corporation Common Stock,NYSE,stock
 RC^C,US,Ready Capital Corporation 6.25% Series C Cumulative Convertible Preferred Stock,NYSE,stock
@@ -2315,6 +2313,7 @@ STZ,US,Constellation Brands Inc. Common Stock,NYSE,stock
 SU,US,Suncor Energy  Inc. Common Stock,NYSE,stock
 SUI,US,Sun Communities Inc. Common Stock,NYSE,stock
 SUN,US,Sunoco LP Common Units representing limited partner interests,NYSE,stock
+SUNB,US,Sunbelt Rentals Holdings Inc. Common Stock,NYSE,stock
 SUNC,US,SunocoCorp LLC Common Units representing limited liability company interests,NYSE,stock
 SUPV,US,Grupo Supervielle S.A. American Depositary Shares each Representing five Class B shares,NYSE,stock
 SUZ,US,Suzano S.A. American Depositary Shares (each representing One Ordinary Share),NYSE,stock
@@ -2437,7 +2436,6 @@ TRTX^C,US,TPG RE Finance Trust Inc. 6.25% Series C Cumulative Redeemable Preferr
 TRU,US,TransUnion Common Stock,NYSE,stock
 TRV,US,The Travelers Companies Inc. Common Stock,NYSE,stock
 TS,US,Tenaris S.A. American Depositary Shares,NYSE,stock
-TSE,US,Trinseo PLC Ordinary Shares,NYSE,stock
 TSI,US,TCW Strategic Income Fund Inc. Common Stock,NYSE,stock
 TSLX,US,Sixth Street Specialty Lending Inc. Common Stock,NYSE,stock
 TSM,US,Taiwan Semiconductor Manufacturing Company Ltd.,NYSE,stock
@@ -2619,6 +2617,7 @@ WH,US,Wyndham Hotels & Resorts Inc. Common Stock,NYSE,stock
 WHD,US,Cactus Inc. Class A Common Stock,NYSE,stock
 WHG,US,Westwood Holdings Group Inc Common Stock,NYSE,stock
 WHR,US,Whirlpool Corporation Common Stock,NYSE,stock
+WHR^A,US,Whirlpool Corporation Depositary Shares each representing a 1/20th interest in a share of 8.50% Series A Mandatory Convertible Preferred Stock,NYSE,stock
 WIA,US,Western Asset Inflation-Linked Income Fund,NYSE,stock
 WIT,US,Wipro Limited Common Stock,NYSE,stock
 WIW,US,Western Asset Inflation-Linked Opportunities & Income Fund,NYSE,stock
