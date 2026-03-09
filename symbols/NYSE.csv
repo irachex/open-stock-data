@@ -122,7 +122,6 @@ ALSN,US,Allison Transmission Holdings Inc. Common Stock,NYSE,stock
 ALTG,US,Alta Equipment Group Inc. Class A Common Stock,NYSE,stock
 ALTG^A,US,Alta Equipment Group Inc. Depositary Shares (each representing 1/1000th in a share of 10% Series A Cumulative Perpetual Preferred Stock),NYSE,stock
 ALUB,US,Alussa Energy Acquisition Corp. II Class A Ordinary Shares,NYSE,stock
-ALUR,US,Allurion Technologies Inc. Common Stock,NYSE,stock
 ALV,US,Autoliv Inc. Common Stock,NYSE,stock
 ALX,US,Alexander's Inc. Common Stock,NYSE,stock
 AM,US,Antero Midstream Corporation Common Stock,NYSE,stock
@@ -310,7 +309,6 @@ BDJ,US,Blackrock Enhanced Equity Dividend Trust,NYSE,stock
 BDN,US,Brandywine Realty Trust Common Stock,NYSE,stock
 BDX,US,Becton Dickinson and Company Common Stock,NYSE,stock
 BE,US,Bloom Energy Corporation Class A Common Stock,NYSE,stock
-BEBE,US,TGE Value Creative Solutions Corp Class A Ordinary Shares,NYSE,stock
 BEKE,US,KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),NYSE,stock
 BEN,US,Franklin Resources Inc. Common Stock,NYSE,stock
 BEP,US,Brookfield Renewable Partners L.P. Limited Partnership Units,NYSE,stock
@@ -1078,6 +1076,7 @@ GIS,US,General Mills Inc. Common Stock,NYSE,stock
 GJH,US,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,NYSE,stock
 GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores Inc. Securities Series 2004-5,NYSE,stock
 GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
+GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
 GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
@@ -2002,7 +2001,6 @@ PVH,US,PVH Corp. Common Stock,NYSE,stock
 PVL,US,Permianville Royalty Trust Units of Beneficial Interest,NYSE,stock
 PWR,US,Quanta Services Inc. Common Stock,NYSE,stock
 PXED,US,Phoenix Education Partners Inc. Common Stock,NYSE,stock
-PYT,US,PPlus Tr GSC-2 Tr Ctf Fltg Rate,NYSE,stock
 Q,US,Qnity Electronics Inc. Common Stock,NYSE,stock
 QBTS,US,D-Wave Quantum Inc. Common Shares,NYSE,stock
 QGEN,US,Qiagen N.V. Common Shares,NYSE,stock
@@ -2016,7 +2014,6 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
-RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
@@ -2110,7 +2107,7 @@ RSI,US,Rush Street Interactive Inc. Class A Common Stock,NYSE,stock
 RSKD,US,Riskified Ltd. Class A Ordinary Shares,NYSE,stock
 RTO,US,Rentokil Initial plc American Depositary Shares (each representing five (5) Ordinary Shares),NYSE,stock
 RTX,US,RTX Corporation Common Stock,NYSE,stock
-RVI,US,Robinhood Ventures Fund I,NYSE,stock
+RVI,US,Robinhood Ventures Fund I Common Shares of Beneficial Interest,NYSE,stock
 RVLV,US,Revolve Group Inc. Class A Common Stock,NYSE,stock
 RVT,US,Royce Small-Cap Trust Inc. Common Stock,NYSE,stock
 RVTY,US,Revvity Inc. Common Stock,NYSE,stock
@@ -2145,6 +2142,7 @@ SAV,US,Saratoga Investment Corp 7.50% Notes due 2031,NYSE,stock
 SAY,US,Saratoga Investment Corp 8.125% Notes due 2027,NYSE,stock
 SAZ,US,Saratoga Investment Corp 8.50% Notes due 2028,NYSE,stock
 SB,US,Safe Bulkers Inc Common Stock ($0.001 par value),NYSE,stock
+SB^C,US,Safe Bulkers Inc Cumulative Redeemable Perpetual Preferred Series C (Marshall Islands),NYSE,stock
 SB^D,US,Safe Bulkers Inc Perpetual Preferred Series D (Marshall Islands),NYSE,stock
 SBDS,US,Solo Brands Inc. Class A Common Stock,NYSE,stock
 SBH,US,Sally Beauty Holdings Inc. (Name to be changed from Sally Holdings Inc.) Common Stock,NYSE,stock
@@ -2154,7 +2152,6 @@ SBS,US,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American D
 SBSI,US,Southside Bancshares Inc. Common Stock,NYSE,stock
 SBSW,US,D/B/A Sibanye-Stillwater Limited ADS,NYSE,stock
 SBXD,US,SilverBox Corp IV Class A Ordinary Shares,NYSE,stock
-SBXE,US,SilverBox Corp V Class A Ordinary Shares,NYSE,stock
 SCCO,US,Southern Copper Corporation Common Stock,NYSE,stock
 SCD,US,LMP Capital and Income Fund Inc. Common Stock,NYSE,stock
 SCE^G,US,SCE Trust II Trust Preferred Securities,NYSE,stock
@@ -2659,6 +2656,7 @@ WTTR,US,Select Water Solutions Inc. Class A common stock,NYSE,stock
 WU,US,Western Union Company (The) Common Stock,NYSE,stock
 WWW,US,Wolverine World Wide Inc. Common Stock,NYSE,stock
 WY,US,Weyerhaeuser Company Common Stock,NYSE,stock
+XFLH,US,XFLH Capital Corporation,NYSE,stock
 XFLT,US,XAI Octagon Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest,NYSE,stock
 XHR,US,Xenia Hotels & Resorts Inc. Common Stock,NYSE,stock
 XIFR,US,XPLR Infrastructure LP Common Units representing limited partner interests,NYSE,stock

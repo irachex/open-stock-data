@@ -73,6 +73,7 @@ DXF,US,Eason Technology Limited American Depositary Shares (each representing si
 EAD,US,Allspring Income Opportunities Fund Common Shares,AMEX,stock
 ECF,US,Ellsworth Growth and Income Fund Ltd.,AMEX,stock
 ECF^A,US,Ellsworth Growth and Income Fund Ltd. 5.25% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share),AMEX,stock
+EGG,US,Enigmatig Limited Class A Ordinary Shares,AMEX,stock
 EIM,US,Eaton Vance Municipal Bond Fund Common Shares of Beneficial Interest $.01 par value,AMEX,stock
 ELA,US,Envela Corporation Common Stock,AMEX,stock
 ELLO,US,Ellomay Capital Ltd Ordinary Shares (Israel),AMEX,stock
@@ -106,7 +107,6 @@ GLO,US,Clough Global Opportunities Fund Common Stock,AMEX,stock
 GLQ,US,Clough Global Equity Fund Clough Global Equity Fund Common Shares of Beneficial Interest,AMEX,stock
 GLU,US,Gabelli Global Utility Common Shares of Beneficial Ownership,AMEX,stock
 GLU^A,US,The Gabelli Global Utility and Income Trust Series A Cumulative Puttable and Callable Preferred Shares,AMEX,stock
-GLU^B,US,The Gabelli Global Utility and Income Trust Series B Cumulative Puttable and Callable Preferred Shares,AMEX,stock
 GLV,US,Clough Global Dividend and Income Fund Common Shares of beneficial interest,AMEX,stock
 GNS,US,Genius Group Limited Ordinary Shares,AMEX,stock
 GORO,US,Gold Resource Corporation Common Stock,AMEX,stock
@@ -190,6 +190,7 @@ NTIP,US,Network-1 Technologies Inc. Common Stock,AMEX,stock
 OBE,US,Obsidian Energy Ltd. Common Shares,AMEX,stock
 OGEN,US,Oragenics Inc. Common Stock,AMEX,stock
 OPHC,US,OptimumBank Holdings Inc. Common Stock,AMEX,stock
+OPP^C,US,RiverNorth/DoubleLine Strategic Opportunity Fund Inc. 6.00% Series C Term Preferred Stock (Liquidation Preference $10.00 per share),AMEX,stock
 OPTT,US,Ocean Power Technologies Inc. Common Stock,AMEX,stock
 ORLA,US,Orla Mining Ltd. Common Shares,AMEX,stock
 OSTX,US,OS Therapies Incorporated Common Stock,AMEX,stock
