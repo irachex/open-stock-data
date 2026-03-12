@@ -73,7 +73,6 @@ DXF,US,Eason Technology Limited American Depositary Shares (each representing si
 EAD,US,Allspring Income Opportunities Fund Common Shares,AMEX,stock
 ECF,US,Ellsworth Growth and Income Fund Ltd.,AMEX,stock
 ECF^A,US,Ellsworth Growth and Income Fund Ltd. 5.25% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share),AMEX,stock
-EGG,US,Enigmatig Limited Class A Ordinary Shares,AMEX,stock
 EIM,US,Eaton Vance Municipal Bond Fund Common Shares of Beneficial Interest $.01 par value,AMEX,stock
 ELA,US,Envela Corporation Common Stock,AMEX,stock
 ELLO,US,Ellomay Capital Ltd Ordinary Shares (Israel),AMEX,stock
@@ -119,6 +118,7 @@ GRO,US,Brazil Potash Corp. Common Shares,AMEX,stock
 GROY,US,Gold Royalty Corp. Common Shares,AMEX,stock
 GTE,US,Gran Tierra Energy Inc. Common Stock,AMEX,stock
 HCWC,US,Healthy Choice Wellness Corp. Class A Common Stock,AMEX,stock
+HSLV,US,Highlander Silver Corp. Common Shares,AMEX,stock
 HYLN,US,Hyliion Holdings Corp. Class A Common Stock,AMEX,stock
 IAF,US,abrdn Australia Equity Fund Inc. Common Stock,AMEX,stock
 IAUX,US,i-80 Gold Corp. Common Shares,AMEX,stock
@@ -268,7 +268,6 @@ TPET,US,Trio Petroleum Corp. Common Stock,AMEX,stock
 TRT,US,Trio-Tech International Common Stock,AMEX,stock
 TRX,US,TRX Gold Corporation Common Stock,AMEX,stock
 UAC,US,United Acquisition Corp. I Class A Ordinary Shares,AMEX,stock
-UAMY,US,United States Antimony Corporation Common Stock,AMEX,stock
 UAVS,US,AgEagle Aerial Systems Inc. Common Stock,AMEX,stock
 UEC,US,Uranium Energy Corp. Common Stock,AMEX,stock
 UMAC,US,Unusual Machines Inc. Common Stock,AMEX,stock
