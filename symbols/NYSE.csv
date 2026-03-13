@@ -106,7 +106,6 @@ AL,US,Air Lease Corporation Class A Common Stock,NYSE,stock
 ALB,US,Albemarle Corporation Common Stock,NYSE,stock
 ALB^A,US,Albemarle Corporation Depositary Shares each representing a 1/20th of 7.25% Series A Mandatory Convertible Preferred Stock,NYSE,stock
 ALC,US,Alcon Inc. Ordinary Shares,NYSE,stock
-ALEX,US,Alexander & Baldwin Inc. Common Stock REIT Holding Company,NYSE,stock
 ALG,US,Alamo Group Inc. Common Stock,NYSE,stock
 ALH,US,Alliance Laundry Holdings Inc. Common Stock,NYSE,stock
 ALIT,US,Alight Inc. Class A Common Stock,NYSE,stock
@@ -1510,7 +1509,7 @@ MCR,US,MFS Charter Income Trust Common Stock,NYSE,stock
 MCS,US,Marcus Corporation (The) Common Stock,NYSE,stock
 MCY,US,Mercury General Corporation Common Stock,NYSE,stock
 MD,US,Pediatrix Medical Group Inc. Common Stock,NYSE,stock
-MDA,US,MDA Space Ltd.,NYSE,stock
+MDA,US,MDA Space Ltd. Common Shares,NYSE,stock
 MDT,US,Medtronic plc. Ordinary Shares,NYSE,stock
 MDU,US,MDU Resources Group Inc. Common Stock (Holding Company),NYSE,stock
 MDV,US,Modiv Industrial Inc. Class C Common Stock,NYSE,stock
@@ -2003,6 +2002,7 @@ PVH,US,PVH Corp. Common Stock,NYSE,stock
 PVL,US,Permianville Royalty Trust Units of Beneficial Interest,NYSE,stock
 PWR,US,Quanta Services Inc. Common Stock,NYSE,stock
 PXED,US,Phoenix Education Partners Inc. Common Stock,NYSE,stock
+PYT,US,PPlus Tr GSC-2 Tr Ctf Fltg Rate,NYSE,stock
 Q,US,Qnity Electronics Inc. Common Stock,NYSE,stock
 QBTS,US,D-Wave Quantum Inc. Common Shares,NYSE,stock
 QGEN,US,Qiagen N.V. Common Shares,NYSE,stock
