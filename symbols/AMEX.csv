@@ -4,6 +4,7 @@ ACU,US,Acme United Corporation. Common Stock,AMEX,stock
 AEF,US,abrdn Emerging Markets ex-China Fund Inc. Common Stock,AMEX,stock
 AEON,US,AEON Biopharma Inc. Class A Common Stock,AMEX,stock
 AGIG,US,Abundia Global Impact Group Inc. Common stock,AMEX,stock
+AIB,US,BlockchAIn Digital Infrastructure Inc,AMEX,stock
 AIM,US,AIM ImmunoTech Inc. Common Stock,AMEX,stock
 AIRI,US,Air Industries Group Common Stock,AMEX,stock
 AMBO,US,Ambow Education Holding Ltd. American Depository Shares (each representing twenty (20) Class A Ordinary Shares),AMEX,stock
@@ -112,6 +113,7 @@ GNS,US,Genius Group Limited Ordinary Shares,AMEX,stock
 GORO,US,Gold Resource Corporation Common Stock,AMEX,stock
 GPUS,US,Hyperscale Data Inc. Common Stock,AMEX,stock
 GPUS^D,US,Hyperscale Data Inc. 13.00% Series D Cumulative Redeemable Perpetual Preferred Stock,AMEX,stock
+GRAF,US,Graf Global Corp. Class A ordinary shares,AMEX,stock
 GRF,US,Eagle Capital Growth Fund Inc. Common Stock,AMEX,stock
 GRO,US,Brazil Potash Corp. Common Shares,AMEX,stock
 GROY,US,Gold Royalty Corp. Common Shares,AMEX,stock
@@ -142,6 +144,7 @@ KAPA,US,Kairos Pharma Ltd. Common Stock,AMEX,stock
 KNRX,US,KNOREX LTD. Class A Ordinary Shares,AMEX,stock
 KULR,US,KULR Technology Group Inc. Common Stock,AMEX,stock
 LCTX,US,Lineage Cell Therapeutics Inc. Common Stock,AMEX,stock
+LEGO,US,Legato Merger Corp. IV Ordinary Shares,AMEX,stock
 LEGT,US,Legato Merger Corp. III Ordinary Shares,AMEX,stock
 LGCY,US,Legacy Education Inc. Common Stock,AMEX,stock
 LGL,US,LGL Group Inc. (The) Common Stock,AMEX,stock
@@ -239,7 +242,6 @@ SCCF,US,Sachem Capital Corp. 7.125% Notes due 2027,AMEX,stock
 SCCG,US,Sachem Capital Corp. 8.00% Notes due 2027,AMEX,stock
 SEB,US,Seaboard Corporation Common Stock,AMEX,stock
 SER,US,Serina Therapeutics Inc. Common Stock,AMEX,stock
-SGN,US,Signing Day Sports Inc. Common Stock,AMEX,stock
 SIF,US,SIFCO Industries Inc. Common Stock,AMEX,stock
 SIM,US,Grupo Simec S.A.B. de C.V. American Depositary Shares,AMEX,stock
 SLI,US,Standard Lithium Ltd. Common Shares,AMEX,stock
