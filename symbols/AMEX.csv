@@ -4,7 +4,7 @@ ACU,US,Acme United Corporation. Common Stock,AMEX,stock
 AEF,US,abrdn Emerging Markets ex-China Fund Inc. Common Stock,AMEX,stock
 AEON,US,AEON Biopharma Inc. Class A Common Stock,AMEX,stock
 AGIG,US,Abundia Global Impact Group Inc. Common stock,AMEX,stock
-AIB,US,BlockchAIn Digital Infrastructure Inc,AMEX,stock
+AIB,US,BlockchAIn Digital Infrastructure Inc Common Shares,AMEX,stock
 AIM,US,AIM ImmunoTech Inc. Common Stock,AMEX,stock
 AIRI,US,Air Industries Group Common Stock,AMEX,stock
 AMBO,US,Ambow Education Holding Ltd. American Depository Shares (each representing twenty (20) Class A Ordinary Shares),AMEX,stock
@@ -74,6 +74,7 @@ DXF,US,Eason Technology Limited American Depositary Shares (each representing si
 EAD,US,Allspring Income Opportunities Fund Common Shares,AMEX,stock
 ECF,US,Ellsworth Growth and Income Fund Ltd.,AMEX,stock
 ECF^A,US,Ellsworth Growth and Income Fund Ltd. 5.25% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share),AMEX,stock
+EGG,US,Enigmatig Limited Class A Ordinary Shares,AMEX,stock
 EIM,US,Eaton Vance Municipal Bond Fund Common Shares of Beneficial Interest $.01 par value,AMEX,stock
 ELA,US,Envela Corporation Common Stock,AMEX,stock
 ELLO,US,Ellomay Capital Ltd Ordinary Shares (Israel),AMEX,stock
@@ -106,7 +107,6 @@ GLDG,US,GoldMining Inc. Common Shares,AMEX,stock
 GLO,US,Clough Global Opportunities Fund Common Stock,AMEX,stock
 GLQ,US,Clough Global Equity Fund Clough Global Equity Fund Common Shares of Beneficial Interest,AMEX,stock
 GLU,US,Gabelli Global Utility Common Shares of Beneficial Ownership,AMEX,stock
-GLU^A,US,The Gabelli Global Utility and Income Trust Series A Cumulative Puttable and Callable Preferred Shares,AMEX,stock
 GLU^B,US,The Gabelli Global Utility and Income Trust Series B Cumulative Puttable and Callable Preferred Shares,AMEX,stock
 GLV,US,Clough Global Dividend and Income Fund Common Shares of beneficial interest,AMEX,stock
 GNS,US,Genius Group Limited Ordinary Shares,AMEX,stock

@@ -945,6 +945,7 @@ FCRX,US,Crescent Capital BDC Inc. 5.00% Notes due 2026,NYSE,stock
 FCT,US,First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest,NYSE,stock
 FCX,US,Freeport-McMoRan Inc. Common Stock,NYSE,stock
 FDP,US,Fresh Del Monte Produce Inc. Common Stock,NYSE,stock
+FDS,US,FactSet Research Systems Inc. Common Stock,NYSE,stock
 FDX,US,FedEx Corporation Common Stock,NYSE,stock
 FE,US,FirstEnergy Corp. Common Stock,NYSE,stock
 FEDU,US,Four Seasons Education (Cayman) Inc. American Depositary Shares each ADS representing 10 ordinary shares,NYSE,stock
@@ -963,7 +964,7 @@ FHN,US,First Horizon Corporation Common Stock,NYSE,stock
 FHN^C,US,First Horizon Corporation Depositary Shares each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock Series C,NYSE,stock
 FHN^E,US,First Horizon Corporation Depositary Shares each representing a 1/4000th interest in a share of Non-Cumulative Perpetual Preferred Stock Series E,NYSE,stock
 FHN^F,US,First Horizon Corporation Depositary Shares each representing 1/4000th Interest in a Share of Non-Cumulative Perpetual Preferred Stock Series F,NYSE,stock
-FHN^H,US,First Horizon Corporation,NYSE,stock
+FHN^H,US,First Horizon Corporation Depositary Shares each representing a 1/4000th interest in a share of Non-Cumulative Perpetual Preferred Stock Series H,NYSE,stock
 FICO,US,Fair Isaac Corporation Common Stock,NYSE,stock
 FIG,US,Figma Inc. Class A Common Stock,NYSE,stock
 FIGS,US,FIGS Inc. Class A Common Stock,NYSE,stock
@@ -1079,7 +1080,6 @@ GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for 
 GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
 GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
-GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
 GL,US,Globe Life Inc. Common Stock,NYSE,stock
 GL^D,US,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061,NYSE,stock
@@ -2003,6 +2003,7 @@ PVH,US,PVH Corp. Common Stock,NYSE,stock
 PVL,US,Permianville Royalty Trust Units of Beneficial Interest,NYSE,stock
 PWR,US,Quanta Services Inc. Common Stock,NYSE,stock
 PXED,US,Phoenix Education Partners Inc. Common Stock,NYSE,stock
+PYT,US,PPlus Tr GSC-2 Tr Ctf Fltg Rate,NYSE,stock
 Q,US,Qnity Electronics Inc. Common Stock,NYSE,stock
 QBTS,US,D-Wave Quantum Inc. Common Shares,NYSE,stock
 QGEN,US,Qiagen N.V. Common Shares,NYSE,stock
@@ -2158,7 +2159,6 @@ SBXE,US,SilverBox Corp V Class A Ordinary Shares,NYSE,stock
 SCCO,US,Southern Copper Corporation Common Stock,NYSE,stock
 SCD,US,LMP Capital and Income Fund Inc. Common Stock,NYSE,stock
 SCE^G,US,SCE Trust II Trust Preferred Securities,NYSE,stock
-SCE^K,US,Southern California Edison Company 5.45% Fixed-to-Floating Rate Trust Preference Securities,NYSE,stock
 SCE^L,US,SCE TRUST VI,NYSE,stock
 SCE^M,US,SCE Trust VII 7.50% Trust Preference Securities,NYSE,stock
 SCE^N,US,SCE Trust VIII 6.95% Trust Preference Securities,NYSE,stock
@@ -2523,7 +2523,6 @@ UZE,US,Array Digital Infrastructure Inc. 5.500% Senior Notes due 2070,NYSE,stock
 UZF,US,Array Digital Infrastructure Inc. 5.500% Senior Notes due 2070,NYSE,stock
 V,US,Visa Inc.,NYSE,stock
 VAC,US,Marriott Vacations Worldwide Corporation Common Stock,NYSE,stock
-VACI,US,Viking Acquisition Corp. I Class A Ordinary Shares,NYSE,stock
 VAL,US,Valaris Limited Common Shares,NYSE,stock
 VALE,US,VALE S.A.  American Depositary Shares Each Representing one common share,NYSE,stock
 VATE,US,INNOVATE Corp. Common Stock,NYSE,stock
@@ -2582,6 +2581,7 @@ VVR,US,Invesco Senior Income Trust Common Stock (DE),NYSE,stock
 VVV,US,Valvoline Inc. Common Stock,NYSE,stock
 VVX,US,V2X Inc. Common Stock,NYSE,stock
 VYX,US,NCR Voyix Corporation Common Stock,NYSE,stock
+VZ,US,Verizon Communications Inc. Common Stock,NYSE,stock
 W,US,Wayfair Inc. Class A Common Stock,NYSE,stock
 WAB,US,Westinghouse Air Brake Technologies Corporation Common Stock,NYSE,stock
 WAL,US,Western Alliance Bancorporation Common Stock (DE),NYSE,stock
