@@ -1075,8 +1075,6 @@ GIC,US,Global Industrial Company Common Stock,NYSE,stock
 GIL,US,Gildan Activewear Inc. Class A Sub. Vot. Common Stock,NYSE,stock
 GIS,US,General Mills Inc. Common Stock,NYSE,stock
 GJH,US,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,NYSE,stock
-GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores Inc. Securities Series 2004-5,NYSE,stock
-GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
 GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
 GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
@@ -1307,6 +1305,7 @@ IVZ,US,Invesco Ltd Common Stock,NYSE,stock
 IX,US,ORIX Corporation American Depositary Shares,NYSE,stock
 J,US,Jacobs Solutions Inc. Common Stock,NYSE,stock
 JACS,US,Jackson Acquisition Company II Class A Ordinary Shares,NYSE,stock
+JAN,US,Janus Living Inc.,NYSE,stock
 JBGS,US,JBG SMITH Properties Common Shares,NYSE,stock
 JBI,US,Janus International Group Inc. Common Stock,NYSE,stock
 JBK,US,Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I,NYSE,stock
@@ -1874,7 +1873,6 @@ PDCC,US,Pearl Diver Credit Company Inc. Common Stock,NYSE,stock
 PDI,US,PIMCO Dynamic Income Fund Common Stock,NYSE,stock
 PDM,US,Piedmont Realty Trust Inc. Class A Common Stock,NYSE,stock
 PDO,US,PIMCO Dynamic Income Opportunities Fund Common Shares of Beneficial Interest,NYSE,stock
-PDPA,US,Pearl Diver Credit Company Inc. 8.00% Series A Preferred Stock Due 2029,NYSE,stock
 PDS,US,Precision Drilling Corporation Common Stock,NYSE,stock
 PDT,US,John Hancock Premium Dividend Fund,NYSE,stock
 PDX,US,PIMCO Dynamic Income Strategy Fund Common Shares of Beneficial Interest,NYSE,stock
@@ -2003,7 +2001,6 @@ PVH,US,PVH Corp. Common Stock,NYSE,stock
 PVL,US,Permianville Royalty Trust Units of Beneficial Interest,NYSE,stock
 PWR,US,Quanta Services Inc. Common Stock,NYSE,stock
 PXED,US,Phoenix Education Partners Inc. Common Stock,NYSE,stock
-PYT,US,PPlus Tr GSC-2 Tr Ctf Fltg Rate,NYSE,stock
 Q,US,Qnity Electronics Inc. Common Stock,NYSE,stock
 QBTS,US,D-Wave Quantum Inc. Common Shares,NYSE,stock
 QGEN,US,Qiagen N.V. Common Shares,NYSE,stock
@@ -2131,7 +2128,6 @@ RZC,US,Reinsurance Group of America Incorporated 7.125% Fixed-Rate Reset Subordi
 S,US,SentinelOne Inc. Class A Common Stock,NYSE,stock
 SA,US,Seabridge Gold Inc. Ordinary Shares (Canada),NYSE,stock
 SABA,US,Saba Capital Income & Opportunities Fund II Shares of Beneficial Interest,NYSE,stock
-SAC,US,Safeguard Acquisition Corp. Class A Ordinary Shares,NYSE,stock
 SAFE,US,Safehold Inc. New Common Stock,NYSE,stock
 SAH,US,Sonic Automotive Inc. Common Stock,NYSE,stock
 SAJ,US,Saratoga Investment Corp 8.00% Notes due 2027,NYSE,stock
@@ -2145,6 +2141,7 @@ SAV,US,Saratoga Investment Corp 7.50% Notes due 2031,NYSE,stock
 SAY,US,Saratoga Investment Corp 8.125% Notes due 2027,NYSE,stock
 SAZ,US,Saratoga Investment Corp 8.50% Notes due 2028,NYSE,stock
 SB,US,Safe Bulkers Inc Common Stock ($0.001 par value),NYSE,stock
+SB^C,US,Safe Bulkers Inc Cumulative Redeemable Perpetual Preferred Series C (Marshall Islands),NYSE,stock
 SB^D,US,Safe Bulkers Inc Perpetual Preferred Series D (Marshall Islands),NYSE,stock
 SBDS,US,Solo Brands Inc. Class A Common Stock,NYSE,stock
 SBH,US,Sally Beauty Holdings Inc. (Name to be changed from Sally Holdings Inc.) Common Stock,NYSE,stock
@@ -2528,7 +2525,7 @@ VALE,US,VALE S.A.  American Depositary Shares Each Representing one common share
 VATE,US,INNOVATE Corp. Common Stock,NYSE,stock
 VBF,US,Invesco Bond Fund Common Stock,NYSE,stock
 VCV,US,Invesco California Value Municipal Income Trust Common Stock,NYSE,stock
-VCX,US,Fundrise Innovation Fund LLC,NYSE,stock
+VCX,US,Fundrise Innovation Fund LLC Common Shares of Limited Liability Company Interests,NYSE,stock
 VEEV,US,Veeva Systems Inc. Class A Common Stock,NYSE,stock
 VEL,US,Velocity Financial Inc. Common Stock,NYSE,stock
 VET,US,Vermilion Energy Inc. Common (Canada),NYSE,stock

@@ -74,7 +74,6 @@ DXF,US,Eason Technology Limited American Depositary Shares (each representing si
 EAD,US,Allspring Income Opportunities Fund Common Shares,AMEX,stock
 ECF,US,Ellsworth Growth and Income Fund Ltd.,AMEX,stock
 ECF^A,US,Ellsworth Growth and Income Fund Ltd. 5.25% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share),AMEX,stock
-EGG,US,Enigmatig Limited Class A Ordinary Shares,AMEX,stock
 EIM,US,Eaton Vance Municipal Bond Fund Common Shares of Beneficial Interest $.01 par value,AMEX,stock
 ELA,US,Envela Corporation Common Stock,AMEX,stock
 ELLO,US,Ellomay Capital Ltd Ordinary Shares (Israel),AMEX,stock
@@ -182,7 +181,6 @@ NEN,US,New England Realty Associates Limited Partnership Class A Depositary Rece
 NEWP,US,New Pacific Metals Corp. Common Shares,AMEX,stock
 NFGC,US,New Found Gold Corp Common Shares,AMEX,stock
 NG,US,Novagold Resources Inc.,AMEX,stock
-NGD,US,New Gold Inc.,AMEX,stock
 NHC,US,National HealthCare Corporation Common Stock,AMEX,stock
 NHS,US,Neuberger High Yield Strategies Fund Inc. Common Stock,AMEX,stock
 NML,US,Neuberger Energy Infrastructure and Income Fund Inc. Common Stock,AMEX,stock
@@ -222,6 +220,7 @@ PRK,US,Park National Corporation Common Stock,AMEX,stock
 PTHS,US,Pelthos Therapeutics Inc. Common Stock,AMEX,stock
 PTN,US,Palatin Technologies Inc. Common Stock,AMEX,stock
 PW,US,Power REIT (MD) Common Stock,AMEX,stock
+PW^A,US,Power REIT 7.75% Series A Cumulative Perpetual Preferred Stock,AMEX,stock
 PZG,US,Paramount Gold Nevada Corp. Common Stock,AMEX,stock
 QNC,US,Quantum eMotion Corp. Common Shares,AMEX,stock
 RCG,US,RENN Fund Inc Common Stock,AMEX,stock
