@@ -308,6 +308,7 @@ BDJ,US,Blackrock Enhanced Equity Dividend Trust,NYSE,stock
 BDN,US,Brandywine Realty Trust Common Stock,NYSE,stock
 BDX,US,Becton Dickinson and Company Common Stock,NYSE,stock
 BE,US,Bloom Energy Corporation Class A Common Stock,NYSE,stock
+BEBE,US,TGE Value Creative Solutions Corp Class A Ordinary Shares,NYSE,stock
 BEKE,US,KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),NYSE,stock
 BEN,US,Franklin Resources Inc. Common Stock,NYSE,stock
 BEP,US,Brookfield Renewable Partners L.P. Limited Partnership Units,NYSE,stock
@@ -1075,7 +1076,6 @@ GIC,US,Global Industrial Company Common Stock,NYSE,stock
 GIL,US,Gildan Activewear Inc. Class A Sub. Vot. Common Stock,NYSE,stock
 GIS,US,General Mills Inc. Common Stock,NYSE,stock
 GJH,US,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,NYSE,stock
-GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
 GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
@@ -1305,7 +1305,7 @@ IVZ,US,Invesco Ltd Common Stock,NYSE,stock
 IX,US,ORIX Corporation American Depositary Shares,NYSE,stock
 J,US,Jacobs Solutions Inc. Common Stock,NYSE,stock
 JACS,US,Jackson Acquisition Company II Class A Ordinary Shares,NYSE,stock
-JAN,US,Janus Living Inc.,NYSE,stock
+JAN,US,Janus Living Inc. Class A-1 Common Stock,NYSE,stock
 JBGS,US,JBG SMITH Properties Common Shares,NYSE,stock
 JBI,US,Janus International Group Inc. Common Stock,NYSE,stock
 JBK,US,Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I,NYSE,stock
@@ -1408,7 +1408,6 @@ KSS,US,Kohl's Corporation Common Stock,NYSE,stock
 KT,US,KT Corporation Common Stock,NYSE,stock
 KTB,US,Kontoor Brands Inc. Common Stock,NYSE,stock
 KTF,US,DWS Municipal Income Trust,NYSE,stock
-KTH,US,Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock,NYSE,stock
 KTN,US,Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS),NYSE,stock
 KVUE,US,Kenvue Inc. Common Stock,NYSE,stock
 KVYO,US,Klaviyo Inc. Series A Common Stock,NYSE,stock
@@ -1873,6 +1872,7 @@ PDCC,US,Pearl Diver Credit Company Inc. Common Stock,NYSE,stock
 PDI,US,PIMCO Dynamic Income Fund Common Stock,NYSE,stock
 PDM,US,Piedmont Realty Trust Inc. Class A Common Stock,NYSE,stock
 PDO,US,PIMCO Dynamic Income Opportunities Fund Common Shares of Beneficial Interest,NYSE,stock
+PDPA,US,Pearl Diver Credit Company Inc. 8.00% Series A Preferred Stock Due 2029,NYSE,stock
 PDS,US,Precision Drilling Corporation Common Stock,NYSE,stock
 PDT,US,John Hancock Premium Dividend Fund,NYSE,stock
 PDX,US,PIMCO Dynamic Income Strategy Fund Common Shares of Beneficial Interest,NYSE,stock
@@ -2001,6 +2001,7 @@ PVH,US,PVH Corp. Common Stock,NYSE,stock
 PVL,US,Permianville Royalty Trust Units of Beneficial Interest,NYSE,stock
 PWR,US,Quanta Services Inc. Common Stock,NYSE,stock
 PXED,US,Phoenix Education Partners Inc. Common Stock,NYSE,stock
+PYT,US,PPlus Tr GSC-2 Tr Ctf Fltg Rate,NYSE,stock
 Q,US,Qnity Electronics Inc. Common Stock,NYSE,stock
 QBTS,US,D-Wave Quantum Inc. Common Shares,NYSE,stock
 QGEN,US,Qiagen N.V. Common Shares,NYSE,stock
@@ -2128,6 +2129,7 @@ RZC,US,Reinsurance Group of America Incorporated 7.125% Fixed-Rate Reset Subordi
 S,US,SentinelOne Inc. Class A Common Stock,NYSE,stock
 SA,US,Seabridge Gold Inc. Ordinary Shares (Canada),NYSE,stock
 SABA,US,Saba Capital Income & Opportunities Fund II Shares of Beneficial Interest,NYSE,stock
+SAC,US,Safeguard Acquisition Corp. Class A Ordinary Shares,NYSE,stock
 SAFE,US,Safehold Inc. New Common Stock,NYSE,stock
 SAH,US,Sonic Automotive Inc. Common Stock,NYSE,stock
 SAJ,US,Saratoga Investment Corp 8.00% Notes due 2027,NYSE,stock
@@ -2375,7 +2377,6 @@ TFX,US,Teleflex Incorporated Common Stock,NYSE,stock
 TG,US,Tredegar Corporation Common Stock,NYSE,stock
 TGE,US,The Generation Essentials Group Class A Ordinary Shares,NYSE,stock
 TGLS,US,Tecnoglass Inc. Ordinary Shares,NYSE,stock
-TGNA,US,TEGNA Inc,NYSE,stock
 TGS,US,Transportadora de Gas del Sur SA TGS Common Stock,NYSE,stock
 TGT,US,Target Corporation Common Stock,NYSE,stock
 THC,US,Tenet Healthcare Corporation Common Stock,NYSE,stock
