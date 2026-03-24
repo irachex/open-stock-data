@@ -824,7 +824,6 @@ EFT,US,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Intere
 EFX,US,Equifax Inc. Common Stock,NYSE,stock
 EFXT,US,Enerflex Ltd Common Shares,NYSE,stock
 EG,US,Everest Group Ltd. Common Stock,NYSE,stock
-EGO,US,Eldorado Gold Corporation Ordinary Shares,NYSE,stock
 EGP,US,EastGroup Properties Inc. Common Stock,NYSE,stock
 EGY,US,VAALCO Energy Inc.  Common Stock,NYSE,stock
 EHAB,US,Enhabit Inc. Common Stock,NYSE,stock
@@ -1076,7 +1075,9 @@ GIC,US,Global Industrial Company Common Stock,NYSE,stock
 GIL,US,Gildan Activewear Inc. Class A Sub. Vot. Common Stock,NYSE,stock
 GIS,US,General Mills Inc. Common Stock,NYSE,stock
 GJH,US,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,NYSE,stock
-GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
+GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores Inc. Securities Series 2004-5,NYSE,stock
+GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
+GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
 GL,US,Globe Life Inc. Common Stock,NYSE,stock
@@ -1408,6 +1409,7 @@ KSS,US,Kohl's Corporation Common Stock,NYSE,stock
 KT,US,KT Corporation Common Stock,NYSE,stock
 KTB,US,Kontoor Brands Inc. Common Stock,NYSE,stock
 KTF,US,DWS Municipal Income Trust,NYSE,stock
+KTH,US,Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock,NYSE,stock
 KTN,US,Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS),NYSE,stock
 KVUE,US,Kenvue Inc. Common Stock,NYSE,stock
 KVYO,US,Klaviyo Inc. Series A Common Stock,NYSE,stock
@@ -2015,6 +2017,7 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
+RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
@@ -2520,7 +2523,6 @@ UZE,US,Array Digital Infrastructure Inc. 5.500% Senior Notes due 2070,NYSE,stock
 UZF,US,Array Digital Infrastructure Inc. 5.500% Senior Notes due 2070,NYSE,stock
 V,US,Visa Inc.,NYSE,stock
 VAC,US,Marriott Vacations Worldwide Corporation Common Stock,NYSE,stock
-VACI,US,Viking Acquisition Corp. I Class A Ordinary Shares,NYSE,stock
 VAL,US,Valaris Limited Common Shares,NYSE,stock
 VALE,US,VALE S.A.  American Depositary Shares Each Representing one common share,NYSE,stock
 VATE,US,INNOVATE Corp. Common Stock,NYSE,stock
