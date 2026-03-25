@@ -824,6 +824,7 @@ EFT,US,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Intere
 EFX,US,Equifax Inc. Common Stock,NYSE,stock
 EFXT,US,Enerflex Ltd Common Shares,NYSE,stock
 EG,US,Everest Group Ltd. Common Stock,NYSE,stock
+EGO,US,Eldorado Gold Corporation Ordinary Shares,NYSE,stock
 EGP,US,EastGroup Properties Inc. Common Stock,NYSE,stock
 EGY,US,VAALCO Energy Inc.  Common Stock,NYSE,stock
 EHAB,US,Enhabit Inc. Common Stock,NYSE,stock
@@ -1667,11 +1668,12 @@ NDMO,US,Nuveen Dynamic Municipal Opportunities Fund Common Shares of Beneficial 
 NE,US,Noble Corporation plc A Ordinary Shares,NYSE,stock
 NEA,US,Nuveen AMT-Free Quality Municipal Income Fund Common Shares of Beneficial Interest Par Value $.01,NYSE,stock
 NEE,US,NextEra Energy Inc. Common Stock,NYSE,stock
-NEE^N,US,NextEra Energy Inc. Series N Junior Subordinated Debentures due March 1 2079,NYSE,stock
+NEE^N,US,NextEra Energy Capital Holdings Inc. Series N Junior Subordinated Debentures due March 1 2079,NYSE,stock
 NEE^S,US,NextEra Energy Inc. 7.299% Corporate Units,NYSE,stock
 NEE^T,US,NextEra Energy Inc. 7.234% Corporate Units,NYSE,stock
 NEE^U,US,NextEra Energy Inc. Series U Junior Subordinated Debentures due June 1 2085,NYSE,stock
 NEE^V,US,NextEra Energy Inc. 7.375% Corporate Units,NYSE,stock
+NEE^W,US,NextEra Energy Inc.,NYSE,stock
 NEM,US,Newmont Corporation,NYSE,stock
 NET,US,Cloudflare Inc. Class A Common Stock,NYSE,stock
 NEU,US,NewMarket Corp Common Stock,NYSE,stock
@@ -2523,6 +2525,7 @@ UZE,US,Array Digital Infrastructure Inc. 5.500% Senior Notes due 2070,NYSE,stock
 UZF,US,Array Digital Infrastructure Inc. 5.500% Senior Notes due 2070,NYSE,stock
 V,US,Visa Inc.,NYSE,stock
 VAC,US,Marriott Vacations Worldwide Corporation Common Stock,NYSE,stock
+VACI,US,Viking Acquisition Corp. I Class A Ordinary Shares,NYSE,stock
 VAL,US,Valaris Limited Common Shares,NYSE,stock
 VALE,US,VALE S.A.  American Depositary Shares Each Representing one common share,NYSE,stock
 VATE,US,INNOVATE Corp. Common Stock,NYSE,stock
@@ -2636,7 +2639,6 @@ WMS,US,Advanced Drainage Systems Inc. Common Stock,NYSE,stock
 WNC,US,Wabash National Corporation Common Stock,NYSE,stock
 WOLF,US,Wolfspeed Inc. Common Stock New,NYSE,stock
 WOR,US,Worthington Enterprises Inc. Common Shares,NYSE,stock
-WPAC,US,White Pearl Acquisition Corp. Class A Ordinary Shares,NYSE,stock
 WPC,US,W. P. Carey Inc. REIT,NYSE,stock
 WPM,US,Wheaton Precious Metals Corp Common Shares (Canada),NYSE,stock
 WPP,US,WPP plc American Depositary Shares,NYSE,stock
