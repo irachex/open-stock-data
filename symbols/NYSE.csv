@@ -308,6 +308,7 @@ BDJ,US,Blackrock Enhanced Equity Dividend Trust,NYSE,stock
 BDN,US,Brandywine Realty Trust Common Stock,NYSE,stock
 BDX,US,Becton Dickinson and Company Common Stock,NYSE,stock
 BE,US,Bloom Energy Corporation Class A Common Stock,NYSE,stock
+BEBE,US,TGE Value Creative Solutions Corp Class A Ordinary Shares,NYSE,stock
 BEKE,US,KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),NYSE,stock
 BEN,US,Franklin Resources Inc. Common Stock,NYSE,stock
 BEP,US,Brookfield Renewable Partners L.P. Limited Partnership Units,NYSE,stock
@@ -549,6 +550,7 @@ CINT,US,CI&T Inc Class A Common Shares,NYSE,stock
 CION,US,CION Investment Corporation Common Stock,NYSE,stock
 CL,US,Colgate-Palmolive Company Common Stock,NYSE,stock
 CLB,US,Core Laboratories Inc. Common Stock,NYSE,stock
+CLBR,US,Colombier Acquisition Corp. III,NYSE,stock
 CLDT,US,Chatham Lodging Trust (REIT) Common Shares of Beneficial Interest,NYSE,stock
 CLDT^A,US,Chatham Lodging Trust (REIT) 6.625% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest,NYSE,stock
 CLF,US,Cleveland-Cliffs Inc. Common Stock,NYSE,stock
@@ -823,7 +825,6 @@ EFT,US,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Intere
 EFX,US,Equifax Inc. Common Stock,NYSE,stock
 EFXT,US,Enerflex Ltd Common Shares,NYSE,stock
 EG,US,Everest Group Ltd. Common Stock,NYSE,stock
-EGO,US,Eldorado Gold Corporation Ordinary Shares,NYSE,stock
 EGP,US,EastGroup Properties Inc. Common Stock,NYSE,stock
 EGY,US,VAALCO Energy Inc.  Common Stock,NYSE,stock
 EHAB,US,Enhabit Inc. Common Stock,NYSE,stock
@@ -1079,7 +1080,6 @@ GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for 
 GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
 GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
-GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
 GL,US,Globe Life Inc. Common Stock,NYSE,stock
 GL^D,US,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061,NYSE,stock
@@ -2133,7 +2133,6 @@ RZC,US,Reinsurance Group of America Incorporated 7.125% Fixed-Rate Reset Subordi
 S,US,SentinelOne Inc. Class A Common Stock,NYSE,stock
 SA,US,Seabridge Gold Inc. Ordinary Shares (Canada),NYSE,stock
 SABA,US,Saba Capital Income & Opportunities Fund II Shares of Beneficial Interest,NYSE,stock
-SAC,US,Safeguard Acquisition Corp. Class A Ordinary Shares,NYSE,stock
 SAFE,US,Safehold Inc. New Common Stock,NYSE,stock
 SAH,US,Sonic Automotive Inc. Common Stock,NYSE,stock
 SAJ,US,Saratoga Investment Corp 8.00% Notes due 2027,NYSE,stock
@@ -2157,7 +2156,6 @@ SBS,US,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American D
 SBSI,US,Southside Bancshares Inc. Common Stock,NYSE,stock
 SBSW,US,D/B/A Sibanye-Stillwater Limited ADS,NYSE,stock
 SBXD,US,SilverBox Corp IV Class A Ordinary Shares,NYSE,stock
-SBXE,US,SilverBox Corp V Class A Ordinary Shares,NYSE,stock
 SCCO,US,Southern Copper Corporation Common Stock,NYSE,stock
 SCD,US,LMP Capital and Income Fund Inc. Common Stock,NYSE,stock
 SCE^G,US,SCE Trust II Trust Preferred Securities,NYSE,stock
@@ -2638,7 +2636,6 @@ WMS,US,Advanced Drainage Systems Inc. Common Stock,NYSE,stock
 WNC,US,Wabash National Corporation Common Stock,NYSE,stock
 WOLF,US,Wolfspeed Inc. Common Stock New,NYSE,stock
 WOR,US,Worthington Enterprises Inc. Common Shares,NYSE,stock
-WPAC,US,White Pearl Acquisition Corp. Class A Ordinary Shares,NYSE,stock
 WPC,US,W. P. Carey Inc. REIT,NYSE,stock
 WPM,US,Wheaton Precious Metals Corp Common Shares (Canada),NYSE,stock
 WPP,US,WPP plc American Depositary Shares,NYSE,stock
