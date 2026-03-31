@@ -286,8 +286,7 @@ BBDC,US,Barings BDC Inc. Common Stock,NYSE,stock
 BBDO,US,Banco Bradesco Sa American Depositary Shares (each representing one Common Share),NYSE,stock
 BBN,US,BlackRock Taxable Municipal Bond Trust Common Shares of Beneficial Interest,NYSE,stock
 BBT,US,Beacon Financial Corporation Common stock,NYSE,stock
-BBU,US,Brookfield Business Partners L.P. Limited Partnership Units,NYSE,stock
-BBUC,US,Brookfield Business Corporation Class A Exchangeable Subordinate Voting Shares,NYSE,stock
+BBUC,US,Brookfield Business Corporation Class A Subordinate Voting Shares,NYSE,stock
 BBVA,US,Banco Bilbao Vizcaya Argentaria S.A. Common Stock,NYSE,stock
 BBW,US,Build-A-Bear Workshop Inc. Common Stock,NYSE,stock
 BBWI,US,Bath & Body Works Inc.,NYSE,stock
@@ -611,7 +610,6 @@ COMP,US,Compass Inc. Class A Common Stock,NYSE,stock
 CON,US,Concentra Group Holdings Parent Inc. Common Stock,NYSE,stock
 COOK,US,Traeger Inc. Common Stock,NYSE,stock
 COP,US,ConocoPhillips Common Stock,NYSE,stock
-COPL,US,Copley Acquisition Corp Ordinary Shares,NYSE,stock
 COR,US,Cencora Inc. Common Stock,NYSE,stock
 COSO,US,CoastalSouth Bancshares Inc. Common Stock,NYSE,stock
 COTY,US,Coty Inc. Class A Common Stock,NYSE,stock
@@ -823,6 +821,7 @@ EFT,US,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Intere
 EFX,US,Equifax Inc. Common Stock,NYSE,stock
 EFXT,US,Enerflex Ltd Common Shares,NYSE,stock
 EG,US,Everest Group Ltd. Common Stock,NYSE,stock
+EGO,US,Eldorado Gold Corporation Ordinary Shares,NYSE,stock
 EGP,US,EastGroup Properties Inc. Common Stock,NYSE,stock
 EGY,US,VAALCO Energy Inc.  Common Stock,NYSE,stock
 EHAB,US,Enhabit Inc. Common Stock,NYSE,stock
@@ -2016,7 +2015,6 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
-RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
@@ -2373,7 +2371,6 @@ TFII,US,TFI International Inc. Common Shares,NYSE,stock
 TFIN,US,Triumph Financial Inc. Common Stock,NYSE,stock
 TFIN^,US,Triumph Financial Inc. Depositary Shares Each Representing a 1/40th Interest in a Share of 7.125% Series C Fixed-Rate Non-Cumulative Perpetual Preferred Stock,NYSE,stock
 TFPM,US,Triple Flag Precious Metals Corp. Common Shares,NYSE,stock
-TFSA,US,Terra Income Fund 6 LLC 7.00% Notes due 2026,NYSE,stock
 TFX,US,Teleflex Incorporated Common Stock,NYSE,stock
 TG,US,Tredegar Corporation Common Stock,NYSE,stock
 TGE,US,The Generation Essentials Group Class A Ordinary Shares,NYSE,stock
