@@ -952,7 +952,6 @@ FET,US,Forum Energy Technologies Inc. Common Stock,NYSE,stock
 FF,US,FutureFuel Corp.  Common shares,NYSE,stock
 FFA,US,First Trust Enhanced Equity Income Fund Common Shares of Beneficial Interest,NYSE,stock
 FFC,US,Flaherty & Crumrine Preferred and Income Securities Fund Incorporated,NYSE,stock
-FFWM,US,First Foundation Inc. Common Stock,NYSE,stock
 FG,US,F&G Annuities & Life Inc. Common Stock,NYSE,stock
 FGN,US,F&G Annuities & Life Inc. 7.950% Senior Notes due 2053,NYSE,stock
 FGSN,US,F&G Annuities & Life Inc. 7.300% Junior Subordinated Notes due 2065,NYSE,stock
@@ -1077,7 +1076,6 @@ GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for 
 GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
 GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
-GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
 GL,US,Globe Life Inc. Common Stock,NYSE,stock
 GL^D,US,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061,NYSE,stock
@@ -1316,6 +1314,7 @@ JCE,US,Nuveen Core Equity Alpha Fund Common Shares of Beneficial Interest,NYSE,s
 JCI,US,Johnson Controls International plc Ordinary Share,NYSE,stock
 JEF,US,Jefferies Financial Group Inc. Common Stock,NYSE,stock
 JELD,US,JELD-WEN Holding Inc. Common Stock,NYSE,stock
+JENA,US,Jena Acquisition Corporation II Class A Ordinary Shares,NYSE,stock
 JFR,US,Nuveen Floating Rate Income Fund Common Stock,NYSE,stock
 JGH,US,Nuveen Global High Income Fund Common Shares of Beneficial Interest,NYSE,stock
 JHG,US,Janus Henderson Group plc Ordinary Shares,NYSE,stock
@@ -1808,7 +1807,6 @@ OMF,US,OneMain Holdings Inc. Common Stock,NYSE,stock
 ONIT,US,Onity Group Inc. Common Stock,NYSE,stock
 ONL,US,Orion Properties Inc. Common Stock,NYSE,stock
 ONON,US,On Holding AG Class A Ordinary Shares,NYSE,stock
-ONTF,US,ON24 Inc. Common Stock,NYSE,stock
 ONTO,US,Onto Innovation Inc. Common Stock,NYSE,stock
 OOMA,US,Ooma Inc. Common Stock,NYSE,stock
 OPAD,US,Offerpad Solutions Inc. Class A Common Stock,NYSE,stock
@@ -2015,6 +2013,7 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
+RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
@@ -2531,6 +2530,7 @@ VFC,US,V.F. Corporation Common Stock,NYSE,stock
 VG,US,Venture Global Inc. Class A common stock,NYSE,stock
 VGI,US,Virtus Global Multi-Sector Income Fund Common Shares of Beneficial Interest,NYSE,stock
 VGM,US,Invesco Trust for Investment Grade Municipals Common Stock (DE),NYSE,stock
+VGNT,US,Versigent PLC,NYSE,stock
 VHI,US,Valhi Inc. Common Stock,NYSE,stock
 VIA,US,Via Transportation Inc. Class A Common Stock,NYSE,stock
 VICI,US,VICI Properties Inc. Common Stock,NYSE,stock
@@ -2675,7 +2675,6 @@ XYL,US,Xylem Inc. Common Stock New,NYSE,stock
 XYZ,US,Block Inc. Class A Common Stock,NYSE,stock
 XZO,US,Exzeo Group Inc. Common Stock,NYSE,stock
 YALA,US,Yalla Group Limited American Depositary Shares each representing one Class A Ordinary Share,NYSE,stock
-YCY,US,AA Mission Acquisition Corp. II Class A Ordinary Shares,NYSE,stock
 YELP,US,Yelp Inc. Common Stock,NYSE,stock
 YETI,US,YETI Holdings Inc. Common Stock,NYSE,stock
 YEXT,US,Yext Inc. Common Stock,NYSE,stock
