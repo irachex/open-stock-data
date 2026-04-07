@@ -704,9 +704,12 @@ DBRG,US,DigitalBridge Group Inc.,NYSE,stock
 DBRG^H,US,DigitalBridge Group Inc. 7.125% Series H,NYSE,stock
 DBRG^I,US,DigitalBridge Group Inc. 7.15% Series I,NYSE,stock
 DBRG^J,US,DigitalBridge Group Inc. 7.125% Series J,NYSE,stock
+DCBG,US,Dime Community Bancshares Inc.,NYSE,stock
 DCH,US,Dauch Corporation Common Stock,NYSE,stock
 DCI,US,Donaldson Company Inc. Common Stock,NYSE,stock
 DCO,US,Ducommun Incorporated Common Stock,NYSE,stock
+DCOM,US,Dime Community Bancshares Inc. Common Stock,NYSE,stock
+DCOM^,US,Dime Community Bancshares Inc.,NYSE,stock
 DD,US,DuPont de Nemours Inc. Common Stock,NYSE,stock
 DDD,US,3D Systems Corporation Common Stock,NYSE,stock
 DDL,US,Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares),NYSE,stock
@@ -835,6 +838,7 @@ EL,US,Estee Lauder Companies Inc. (The) Common Stock,NYSE,stock
 ELAN,US,Elanco Animal Health Incorporated Common Stock,NYSE,stock
 ELC,US,Entergy Louisiana Inc. Collateral Trust Mortgage Bonds 4.875 % Series due September 1 2066,NYSE,stock
 ELF,US,e.l.f. Beauty Inc. Common Stock,NYSE,stock
+ELLA,US,Ellington Credit Company,NYSE,stock
 ELME,US,Elme Communities Common Stock,NYSE,stock
 ELPC,US,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares),NYSE,stock
 ELS,US,Equity Lifestyle Properties Inc. Common Stock,NYSE,stock
@@ -1789,6 +1793,7 @@ ODV,US,Osisko Development Corp. Common Shares,NYSE,stock
 OEC,US,Orion S.A. Common Shares,NYSE,stock
 OFG,US,OFG Bancorp Common Stock,NYSE,stock
 OFRM,US,Once Upon a Farm PBC Common Stock,NYSE,stock
+OGC,US,OceanaGold Corporation,NYSE,stock
 OGE,US,OGE Energy Corp Common Stock,NYSE,stock
 OGN,US,Organon & Co. Common Stock,NYSE,stock
 OGS,US,ONE Gas Inc. Common Stock,NYSE,stock
@@ -1998,6 +2003,7 @@ PVH,US,PVH Corp. Common Stock,NYSE,stock
 PVL,US,Permianville Royalty Trust Units of Beneficial Interest,NYSE,stock
 PWR,US,Quanta Services Inc. Common Stock,NYSE,stock
 PXED,US,Phoenix Education Partners Inc. Common Stock,NYSE,stock
+PYT,US,PPlus Tr GSC-2 Tr Ctf Fltg Rate,NYSE,stock
 Q,US,Qnity Electronics Inc. Common Stock,NYSE,stock
 QBTS,US,D-Wave Quantum Inc. Common Shares,NYSE,stock
 QGEN,US,Qiagen N.V. Common Shares,NYSE,stock
@@ -2011,6 +2017,7 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
+RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
@@ -2148,6 +2155,7 @@ SBS,US,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American D
 SBSI,US,Southside Bancshares Inc. Common Stock,NYSE,stock
 SBSW,US,D/B/A Sibanye-Stillwater Limited ADS,NYSE,stock
 SBXD,US,SilverBox Corp IV Class A Ordinary Shares,NYSE,stock
+SBXE,US,SilverBox Corp V Class A Ordinary Shares,NYSE,stock
 SCCO,US,Southern Copper Corporation Common Stock,NYSE,stock
 SCD,US,LMP Capital and Income Fund Inc. Common Stock,NYSE,stock
 SCE^G,US,SCE Trust II Trust Preferred Securities,NYSE,stock
@@ -2513,6 +2521,7 @@ UZE,US,Array Digital Infrastructure Inc. 5.500% Senior Notes due 2070,NYSE,stock
 UZF,US,Array Digital Infrastructure Inc. 5.500% Senior Notes due 2070,NYSE,stock
 V,US,Visa Inc.,NYSE,stock
 VAC,US,Marriott Vacations Worldwide Corporation Common Stock,NYSE,stock
+VACI,US,Viking Acquisition Corp. I Class A Ordinary Shares,NYSE,stock
 VAL,US,Valaris Limited Common Shares,NYSE,stock
 VALE,US,VALE S.A.  American Depositary Shares Each Representing one common share,NYSE,stock
 VATE,US,INNOVATE Corp. Common Stock,NYSE,stock
@@ -2671,7 +2680,6 @@ XYL,US,Xylem Inc. Common Stock New,NYSE,stock
 XYZ,US,Block Inc. Class A Common Stock,NYSE,stock
 XZO,US,Exzeo Group Inc. Common Stock,NYSE,stock
 YALA,US,Yalla Group Limited American Depositary Shares each representing one Class A Ordinary Share,NYSE,stock
-YCY,US,AA Mission Acquisition Corp. II Class A Ordinary Shares,NYSE,stock
 YELP,US,Yelp Inc. Common Stock,NYSE,stock
 YETI,US,YETI Holdings Inc. Common Stock,NYSE,stock
 YEXT,US,Yext Inc. Common Stock,NYSE,stock
