@@ -102,7 +102,6 @@ AKA,US,a.k.a. Brands Holding Corp. Common Stock,NYSE,stock
 AKO/A,US,Embotelladora Andina S.A.,NYSE,stock
 AKO/B,US,Embotelladora Andina S.A.,NYSE,stock
 AKR,US,Acadia Realty Trust Common Stock,NYSE,stock
-AL,US,Air Lease Corporation Class A Common Stock,NYSE,stock
 ALB,US,Albemarle Corporation Common Stock,NYSE,stock
 ALB^A,US,Albemarle Corporation Depositary Shares each representing a 1/20th of 7.25% Series A Mandatory Convertible Preferred Stock,NYSE,stock
 ALC,US,Alcon Inc. Ordinary Shares,NYSE,stock
@@ -307,7 +306,6 @@ BDJ,US,Blackrock Enhanced Equity Dividend Trust,NYSE,stock
 BDN,US,Brandywine Realty Trust Common Stock,NYSE,stock
 BDX,US,Becton Dickinson and Company Common Stock,NYSE,stock
 BE,US,Bloom Energy Corporation Class A Common Stock,NYSE,stock
-BEBE,US,TGE Value Creative Solutions Corp Class A Ordinary Shares,NYSE,stock
 BEKE,US,KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),NYSE,stock
 BEN,US,Franklin Resources Inc. Common Stock,NYSE,stock
 BEP,US,Brookfield Renewable Partners L.P. Limited Partnership Units,NYSE,stock
@@ -387,6 +385,7 @@ BML^H,US,Bank of America Corporation Depositary Shares (Each representing a 1/12
 BML^J,US,Bank of America Corporation Depositary Shares (Each representing a 1/1200th interest in a Share of Floating Rate Non-Cumulative Preferred Stock Series 4),NYSE,stock
 BML^L,US,Bank of America Corporation Depositary Shares (Each representing a 1/1200th Interest in a Share of Floating Rate Non-Cumulative Preferred Stock Series 5),NYSE,stock
 BMN,US,BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest,NYSE,stock
+BMNR,US,BitMine Immersion Technologies Inc. Common Stock,NYSE,stock
 BMO,US,Bank Of Montreal Common Stock,NYSE,stock
 BMY,US,Bristol-Myers Squibb Company Common Stock,NYSE,stock
 BN,US,Brookfield Corporation Class A Limited Voting Shares,NYSE,stock
@@ -515,6 +514,7 @@ CFG^I,US,Citizens Financial Group Inc. Depositary Shares Each Representing a 1/4
 CFND,US,C1 Fund Inc. Common Stock,NYSE,stock
 CFR,US,Cullen/Frost Bankers Inc. Common Stock,NYSE,stock
 CFR^B,US,Cullen/Frost Bankers Inc. Depositary Shares each representing a 1/40th ownership interest in a share of 4.450% non-cumulative perpetual preferred stock Series B,NYSE,stock
+CFTR^A,US,Cantor Fitzgerald Income Trust Inc.,NYSE,stock
 CGAU,US,Centerra Gold Inc. Common Shares,NYSE,stock
 CHCT,US,Community Healthcare Trust Incorporated Common Stock,NYSE,stock
 CHD,US,Church & Dwight Company Inc. Common Stock,NYSE,stock
@@ -704,12 +704,12 @@ DBRG,US,DigitalBridge Group Inc.,NYSE,stock
 DBRG^H,US,DigitalBridge Group Inc. 7.125% Series H,NYSE,stock
 DBRG^I,US,DigitalBridge Group Inc. 7.15% Series I,NYSE,stock
 DBRG^J,US,DigitalBridge Group Inc. 7.125% Series J,NYSE,stock
-DCBG,US,Dime Community Bancshares Inc.,NYSE,stock
+DCBG,US,Dime Community Bancshares Inc. 9.000% Fixed-to-Floating Rate Subordinated Notes due 2034,NYSE,stock
 DCH,US,Dauch Corporation Common Stock,NYSE,stock
 DCI,US,Donaldson Company Inc. Common Stock,NYSE,stock
 DCO,US,Ducommun Incorporated Common Stock,NYSE,stock
 DCOM,US,Dime Community Bancshares Inc. Common Stock,NYSE,stock
-DCOM^,US,Dime Community Bancshares Inc.,NYSE,stock
+DCOM^,US,Dime Community Bancshares Inc. Fixed-Rate Non-Cumulative Perpetual Preferred Stock Series A,NYSE,stock
 DD,US,DuPont de Nemours Inc. Common Stock,NYSE,stock
 DDD,US,3D Systems Corporation Common Stock,NYSE,stock
 DDL,US,Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares),NYSE,stock
@@ -840,7 +840,7 @@ EL,US,Estee Lauder Companies Inc. (The) Common Stock,NYSE,stock
 ELAN,US,Elanco Animal Health Incorporated Common Stock,NYSE,stock
 ELC,US,Entergy Louisiana Inc. Collateral Trust Mortgage Bonds 4.875 % Series due September 1 2066,NYSE,stock
 ELF,US,e.l.f. Beauty Inc. Common Stock,NYSE,stock
-ELLA,US,Ellington Credit Company,NYSE,stock
+ELLA,US,Ellington Credit Company 8.50% Notes due 2031,NYSE,stock
 ELME,US,Elme Communities Common Stock,NYSE,stock
 ELPC,US,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares),NYSE,stock
 ELS,US,Equity Lifestyle Properties Inc. Common Stock,NYSE,stock
@@ -1237,7 +1237,6 @@ HVT/A,US,Haverty Furniture Companies Inc.,NYSE,stock
 HWM,US,Howmet Aerospace Inc. Common Stock,NYSE,stock
 HXL,US,Hexcel Corporation Common Stock,NYSE,stock
 HY,US,Hyster-Yale Inc. Class A common stock,NYSE,stock
-HYAC,US,Haymaker Acquisition Corp. 4 Class A Ordinary Shares,NYSE,stock
 HYI,US,Western Asset High Yield Opportunity Fund Inc. Common Stock,NYSE,stock
 HYT,US,Blackrock Corporate High Yield Fund Inc. Common Stock,NYSE,stock
 HZO,US,MarineMax Inc.  (FL) Common Stock,NYSE,stock
@@ -1795,7 +1794,7 @@ ODV,US,Osisko Development Corp. Common Shares,NYSE,stock
 OEC,US,Orion S.A. Common Shares,NYSE,stock
 OFG,US,OFG Bancorp Common Stock,NYSE,stock
 OFRM,US,Once Upon a Farm PBC Common Stock,NYSE,stock
-OGC,US,OceanaGold Corporation,NYSE,stock
+OGC,US,OceanaGold Corporation Common Shares,NYSE,stock
 OGE,US,OGE Energy Corp Common Stock,NYSE,stock
 OGN,US,Organon & Co. Common Stock,NYSE,stock
 OGS,US,ONE Gas Inc. Common Stock,NYSE,stock
@@ -1848,6 +1847,7 @@ PACS,US,PACS Group Inc. Common Stock,NYSE,stock
 PAG,US,Penske Automotive Group Inc. Common Stock,NYSE,stock
 PAGS,US,PagSeguro Digital Ltd. Class A Common Shares,NYSE,stock
 PAI,US,Western Asset Investment Grade Income Fund Inc.,NYSE,stock
+PAII,US,Pyrophyte Acquisition Corp. II Class A Ordinary Shares,NYSE,stock
 PAM,US,Pampa Energia S.A.,NYSE,stock
 PAR,US,PAR Technology Corporation Common Stock,NYSE,stock
 PARR,US,Par Pacific Holdings Inc.  Common Stock,NYSE,stock
@@ -2018,7 +2018,6 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
-RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
@@ -2176,7 +2175,6 @@ SDRL,US,Seadrill Limited Common Shares,NYSE,stock
 SE,US,Sea Limited American Depositary Shares each representing one Class A Ordinary Share,NYSE,stock
 SEAL^A,US,Seapeak LLC 9.00% Series A Cumulative Redeemable Perpetual Preferred Units,NYSE,stock
 SEAL^B,US,Seapeak LLC 8.50% Series B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units,NYSE,stock
-SEE,US,Sealed Air Corporation Common Stock,NYSE,stock
 SEG,US,Seaport Entertainment Group Inc. Common Stock,NYSE,stock
 SEI,US,Solaris Energy Infrastructure Inc. Class A Common Stock,NYSE,stock
 SEM,US,Select Medical Holdings Corporation Common Stock,NYSE,stock
