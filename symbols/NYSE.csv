@@ -514,7 +514,7 @@ CFG^I,US,Citizens Financial Group Inc. Depositary Shares Each Representing a 1/4
 CFND,US,C1 Fund Inc. Common Stock,NYSE,stock
 CFR,US,Cullen/Frost Bankers Inc. Common Stock,NYSE,stock
 CFR^B,US,Cullen/Frost Bankers Inc. Depositary Shares each representing a 1/40th ownership interest in a share of 4.450% non-cumulative perpetual preferred stock Series B,NYSE,stock
-CFTR^A,US,Cantor Fitzgerald Income Trust Inc.,NYSE,stock
+CFTR^A,US,Cantor Fitzgerald Income Trust Inc. 9.50% Series A Cumulative Redeemable Preferred Stock,NYSE,stock
 CGAU,US,Centerra Gold Inc. Common Shares,NYSE,stock
 CHCT,US,Community Healthcare Trust Incorporated Common Stock,NYSE,stock
 CHD,US,Church & Dwight Company Inc. Common Stock,NYSE,stock
@@ -825,8 +825,6 @@ EFT,US,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Intere
 EFX,US,Equifax Inc. Common Stock,NYSE,stock
 EFXT,US,Enerflex Ltd Common Shares,NYSE,stock
 EG,US,Everest Group Ltd. Common Stock,NYSE,stock
-EGO,US,Eldorado Gold Corporation Ordinary Shares,NYSE,stock
-EGP,US,EastGroup Properties Inc. Common Stock,NYSE,stock
 EGY,US,VAALCO Energy Inc.  Common Stock,NYSE,stock
 EHAB,US,Enhabit Inc. Common Stock,NYSE,stock
 EHC,US,Encompass Health Corporation Common Stock,NYSE,stock
@@ -1079,7 +1077,6 @@ GJH,US,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,NYSE,stock
 GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores Inc. Securities Series 2004-5,NYSE,stock
 GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
 GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
-GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
 GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
 GL,US,Globe Life Inc. Common Stock,NYSE,stock
@@ -2155,7 +2152,6 @@ SBS,US,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American D
 SBSI,US,Southside Bancshares Inc. Common Stock,NYSE,stock
 SBSW,US,D/B/A Sibanye-Stillwater Limited ADS,NYSE,stock
 SBXD,US,SilverBox Corp IV Class A Ordinary Shares,NYSE,stock
-SBXE,US,SilverBox Corp V Class A Ordinary Shares,NYSE,stock
 SCCO,US,Southern Copper Corporation Common Stock,NYSE,stock
 SCD,US,LMP Capital and Income Fund Inc. Common Stock,NYSE,stock
 SCE^G,US,SCE Trust II Trust Preferred Securities,NYSE,stock
