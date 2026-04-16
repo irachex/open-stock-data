@@ -306,7 +306,6 @@ BDJ,US,Blackrock Enhanced Equity Dividend Trust,NYSE,stock
 BDN,US,Brandywine Realty Trust Common Stock,NYSE,stock
 BDX,US,Becton Dickinson and Company Common Stock,NYSE,stock
 BE,US,Bloom Energy Corporation Class A Common Stock,NYSE,stock
-BEBE,US,TGE Value Creative Solutions Corp Class A Ordinary Shares,NYSE,stock
 BEKE,US,KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),NYSE,stock
 BEN,US,Franklin Resources Inc. Common Stock,NYSE,stock
 BEP,US,Brookfield Renewable Partners L.P. Limited Partnership Units,NYSE,stock
@@ -826,6 +825,7 @@ EFT,US,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Intere
 EFX,US,Equifax Inc. Common Stock,NYSE,stock
 EFXT,US,Enerflex Ltd Common Shares,NYSE,stock
 EG,US,Everest Group Ltd. Common Stock,NYSE,stock
+EGP,US,EastGroup Properties Inc. Common Stock,NYSE,stock
 EGY,US,VAALCO Energy Inc.  Common Stock,NYSE,stock
 EHAB,US,Enhabit Inc. Common Stock,NYSE,stock
 EHC,US,Encompass Health Corporation Common Stock,NYSE,stock
@@ -1491,6 +1491,7 @@ MAA^I,US,Mid-America Apartment Communities Inc. 8.50% Series I Cumulative Redeem
 MAC,US,Macerich Company (The) Common Stock,NYSE,stock
 MAGN,US,Magnera Corporation Common Stock,NYSE,stock
 MAIN,US,Main Street Capital Corporation Common Stock,NYSE,stock
+MAIR,US,Madison Air Solutions Corporation,NYSE,stock
 MAN,US,ManpowerGroup Common Stock,NYSE,stock
 MANE,US,Veradermics Incorporated Common Stock,NYSE,stock
 MANU,US,Manchester United Ltd. Class A Ordinary Shares,NYSE,stock
@@ -2005,6 +2006,7 @@ PVH,US,PVH Corp. Common Stock,NYSE,stock
 PVL,US,Permianville Royalty Trust Units of Beneficial Interest,NYSE,stock
 PWR,US,Quanta Services Inc. Common Stock,NYSE,stock
 PXED,US,Phoenix Education Partners Inc. Common Stock,NYSE,stock
+PYT,US,PPlus Tr GSC-2 Tr Ctf Fltg Rate,NYSE,stock
 Q,US,Qnity Electronics Inc. Common Stock,NYSE,stock
 QBTS,US,D-Wave Quantum Inc. Common Shares,NYSE,stock
 QGEN,US,Qiagen N.V. Common Shares,NYSE,stock
