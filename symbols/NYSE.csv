@@ -228,6 +228,7 @@ AVAL,US,Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred s
 AVB,US,AvalonBay Communities Inc. Common Stock,NYSE,stock
 AVBC,US,Avidia Bancorp Inc. Common Stock,NYSE,stock
 AVD,US,American Vanguard Corporation Common Stock ($0.10 Par Value),NYSE,stock
+AVEX,US,AEVEX Corp.,NYSE,stock
 AVK,US,Advent Convertible and Income Fund,NYSE,stock
 AVNS,US,Avanos Medical Inc. Common Stock,NYSE,stock
 AVNT,US,Avient Corporation Common Stock,NYSE,stock
@@ -825,6 +826,7 @@ EFT,US,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Intere
 EFX,US,Equifax Inc. Common Stock,NYSE,stock
 EFXT,US,Enerflex Ltd Common Shares,NYSE,stock
 EG,US,Everest Group Ltd. Common Stock,NYSE,stock
+EGO,US,Eldorado Gold Corporation Ordinary Shares,NYSE,stock
 EGP,US,EastGroup Properties Inc. Common Stock,NYSE,stock
 EGY,US,VAALCO Energy Inc.  Common Stock,NYSE,stock
 EHAB,US,Enhabit Inc. Common Stock,NYSE,stock
@@ -1491,7 +1493,7 @@ MAA^I,US,Mid-America Apartment Communities Inc. 8.50% Series I Cumulative Redeem
 MAC,US,Macerich Company (The) Common Stock,NYSE,stock
 MAGN,US,Magnera Corporation Common Stock,NYSE,stock
 MAIN,US,Main Street Capital Corporation Common Stock,NYSE,stock
-MAIR,US,Madison Air Solutions Corporation,NYSE,stock
+MAIR,US,Madison Air Solutions Corporation Class A Common Stock,NYSE,stock
 MAN,US,ManpowerGroup Common Stock,NYSE,stock
 MANE,US,Veradermics Incorporated Common Stock,NYSE,stock
 MANU,US,Manchester United Ltd. Class A Ordinary Shares,NYSE,stock
@@ -1842,6 +1844,7 @@ OWL,US,Blue Owl Capital Inc. Class A Common Stock,NYSE,stock
 OWLT,US,Owlet Inc. Class A Common Stock,NYSE,stock
 OXM,US,Oxford Industries Inc. Common Stock,NYSE,stock
 OXY,US,Occidental Petroleum Corporation Common Stock,NYSE,stock
+P,US,Everpure Inc.,NYSE,stock
 PAAS,US,Pan American Silver Corp. Common Stock,NYSE,stock
 PAC,US,Grupo Aeroportuario Del Pacifico S.A. B. de C.V. Grupo Aeroportuario Del Pacifico S.A. de C.V. (each representing 10 Series B shares),NYSE,stock
 PACK,US,Ranpak Holdings Corp Class A Common Stock,NYSE,stock
@@ -1995,7 +1998,6 @@ PSFE,US,Paysafe Limited Common Shares,NYSE,stock
 PSN,US,Parsons Corporation Common Stock,NYSE,stock
 PSO,US,Pearson Plc Common Stock,NYSE,stock
 PSQH,US,PSQ Holdings Inc. Class A Common Stock,NYSE,stock
-PSTG,US,Everpure Inc. Class A common stock,NYSE,stock
 PSTL,US,Postal Realty Trust Inc. Class A Common Stock,NYSE,stock
 PSX,US,Phillips 66 Common Stock,NYSE,stock
 PTA,US,Cohen & Steers Tax-Advantaged Preferred Securities and Income Fund Common Shares of Beneficial Interest,NYSE,stock
@@ -2013,8 +2015,6 @@ QGEN,US,Qiagen N.V. Common Shares,NYSE,stock
 QSR,US,Restaurant Brands International Inc. Common Shares,NYSE,stock
 QTWO,US,Q2 Holdings Inc. Common Stock,NYSE,stock
 QUAD,US,Quad Graphics Inc Class A Common Stock,NYSE,stock
-QVCC,US,QVC Inc. 6.250% Senior Secured Notes due 2068,NYSE,stock
-QVCD,US,QVC Inc. 6.375% Senior Secured Notes due 2067,NYSE,stock
 QXO,US,QXO Inc. Common Stock,NYSE,stock
 QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a share of 5.50% Series B Mandatory Convertible Preferred Stock,NYSE,stock
 R,US,Ryder System Inc. Common Stock,NYSE,stock
@@ -2134,7 +2134,6 @@ RZC,US,Reinsurance Group of America Incorporated 7.125% Fixed-Rate Reset Subordi
 S,US,SentinelOne Inc. Class A Common Stock,NYSE,stock
 SA,US,Seabridge Gold Inc. Ordinary Shares (Canada),NYSE,stock
 SABA,US,Saba Capital Income & Opportunities Fund II Shares of Beneficial Interest,NYSE,stock
-SAC,US,Safeguard Acquisition Corp. Class A Ordinary Shares,NYSE,stock
 SAFE,US,Safehold Inc. New Common Stock,NYSE,stock
 SAH,US,Sonic Automotive Inc. Common Stock,NYSE,stock
 SAJ,US,Saratoga Investment Corp 8.00% Notes due 2027,NYSE,stock
@@ -2680,7 +2679,6 @@ XYL,US,Xylem Inc. Common Stock New,NYSE,stock
 XYZ,US,Block Inc. Class A Common Stock,NYSE,stock
 XZO,US,Exzeo Group Inc. Common Stock,NYSE,stock
 YALA,US,Yalla Group Limited American Depositary Shares each representing one Class A Ordinary Share,NYSE,stock
-YCY,US,AA Mission Acquisition Corp. II Class A Ordinary Shares,NYSE,stock
 YELP,US,Yelp Inc. Common Stock,NYSE,stock
 YETI,US,YETI Holdings Inc. Common Stock,NYSE,stock
 YEXT,US,Yext Inc. Common Stock,NYSE,stock
