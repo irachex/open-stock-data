@@ -228,7 +228,7 @@ AVAL,US,Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred s
 AVB,US,AvalonBay Communities Inc. Common Stock,NYSE,stock
 AVBC,US,Avidia Bancorp Inc. Common Stock,NYSE,stock
 AVD,US,American Vanguard Corporation Common Stock ($0.10 Par Value),NYSE,stock
-AVEX,US,AEVEX Corp.,NYSE,stock
+AVEX,US,AEVEX Corp. Class A Common Stock,NYSE,stock
 AVK,US,Advent Convertible and Income Fund,NYSE,stock
 AVNS,US,Avanos Medical Inc. Common Stock,NYSE,stock
 AVNT,US,Avient Corporation Common Stock,NYSE,stock
@@ -307,6 +307,7 @@ BDJ,US,Blackrock Enhanced Equity Dividend Trust,NYSE,stock
 BDN,US,Brandywine Realty Trust Common Stock,NYSE,stock
 BDX,US,Becton Dickinson and Company Common Stock,NYSE,stock
 BE,US,Bloom Energy Corporation Class A Common Stock,NYSE,stock
+BEBE,US,TGE Value Creative Solutions Corp Class A Ordinary Shares,NYSE,stock
 BEKE,US,KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),NYSE,stock
 BEN,US,Franklin Resources Inc. Common Stock,NYSE,stock
 BEP,US,Brookfield Renewable Partners L.P. Limited Partnership Units,NYSE,stock
@@ -1649,6 +1650,7 @@ MXF,US,Mexico Fund Inc. (The) Common Stock,NYSE,stock
 MYE,US,Myers Industries Inc. Common Stock,NYSE,stock
 MYI,US,Blackrock MuniYield Quality Fund III Inc Common Stock,NYSE,stock
 MYN,US,Blackrock MuniYield New York Quality Fund Inc.Common Stock,NYSE,stock
+MZYX,US,MOZAYYX Acquisition Corp.,NYSE,stock
 NABL,US,N-able Inc. Common Stock,NYSE,stock
 NAC,US,Nuveen California Quality Municipal Income Fund,NYSE,stock
 NAD,US,Nuveen Quality Municipal Income Fund Common Stock,NYSE,stock
@@ -1844,7 +1846,7 @@ OWL,US,Blue Owl Capital Inc. Class A Common Stock,NYSE,stock
 OWLT,US,Owlet Inc. Class A Common Stock,NYSE,stock
 OXM,US,Oxford Industries Inc. Common Stock,NYSE,stock
 OXY,US,Occidental Petroleum Corporation Common Stock,NYSE,stock
-P,US,Everpure Inc.,NYSE,stock
+P,US,Everpure Inc. Class A common stock,NYSE,stock
 PAAS,US,Pan American Silver Corp. Common Stock,NYSE,stock
 PAC,US,Grupo Aeroportuario Del Pacifico S.A. B. de C.V. Grupo Aeroportuario Del Pacifico S.A. de C.V. (each representing 10 Series B shares),NYSE,stock
 PACK,US,Ranpak Holdings Corp Class A Common Stock,NYSE,stock
@@ -2134,6 +2136,7 @@ RZC,US,Reinsurance Group of America Incorporated 7.125% Fixed-Rate Reset Subordi
 S,US,SentinelOne Inc. Class A Common Stock,NYSE,stock
 SA,US,Seabridge Gold Inc. Ordinary Shares (Canada),NYSE,stock
 SABA,US,Saba Capital Income & Opportunities Fund II Shares of Beneficial Interest,NYSE,stock
+SAC,US,Safeguard Acquisition Corp. Class A Ordinary Shares,NYSE,stock
 SAFE,US,Safehold Inc. New Common Stock,NYSE,stock
 SAH,US,Sonic Automotive Inc. Common Stock,NYSE,stock
 SAJ,US,Saratoga Investment Corp 8.00% Notes due 2027,NYSE,stock
@@ -2156,6 +2159,7 @@ SBS,US,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American D
 SBSI,US,Southside Bancshares Inc. Common Stock,NYSE,stock
 SBSW,US,D/B/A Sibanye-Stillwater Limited ADS,NYSE,stock
 SBXD,US,SilverBox Corp IV Class A Ordinary Shares,NYSE,stock
+SBXE,US,SilverBox Corp V Class A Ordinary Shares,NYSE,stock
 SCCO,US,Southern Copper Corporation Common Stock,NYSE,stock
 SCD,US,LMP Capital and Income Fund Inc. Common Stock,NYSE,stock
 SCE^G,US,SCE Trust II Trust Preferred Securities,NYSE,stock
@@ -2413,6 +2417,7 @@ TPR,US,Tapestry Inc. Common Stock,NYSE,stock
 TPTA,US,Terra Property Trust Inc. 6.00% Notes due 2026,NYSE,stock
 TPVG,US,TriplePoint Venture Growth BDC Corp. Common Stock,NYSE,stock
 TR,US,Tootsie Roll Industries Inc. Common Stock,NYSE,stock
+TRAD,US,APEX Tech Acquisition Inc.,NYSE,stock
 TRAK,US,ReposiTrak Inc. Common Stock,NYSE,stock
 TRC,US,Tejon Ranch Co Common Stock,NYSE,stock
 TREX,US,Trex Company Inc. Common Stock,NYSE,stock
