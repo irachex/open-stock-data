@@ -477,7 +477,7 @@
 001308,SZ,康冠科技,SZSE,stock
 001309,SZ,德明利,SZSE,stock
 001311,SZ,多利科技,SZSE,stock
-001312,SZ,N福恩股份,SZSE,stock
+001312,SZ,C福恩股份,SZSE,stock
 001313,SZ,粤海饲料,SZSE,stock
 001314,SZ,亿道信息,SZSE,stock
 001316,SZ,润贝航科,SZSE,stock
@@ -742,7 +742,7 @@
 002224,SZ,三力士,SZSE,stock
 002225,SZ,濮耐股份,SZSE,stock
 002226,SZ,江南化工,SZSE,stock
-002227,SZ,奥特迅,SZSE,stock
+002227,SZ,*ST特迅,SZSE,stock
 002228,SZ,合兴包装,SZSE,stock
 002229,SZ,鸿博股份,SZSE,stock
 002230,SZ,科大讯飞,SZSE,stock
@@ -1387,7 +1387,7 @@
 002929,SZ,润建股份,SZSE,stock
 002930,SZ,宏川智慧,SZSE,stock
 002931,SZ,锋龙股份,SZSE,stock
-002932,SZ,明德生物,SZSE,stock
+002932,SZ,*ST明德,SZSE,stock
 002933,SZ,新兴装备,SZSE,stock
 002935,SZ,天奥电子,SZSE,stock
 002936,SZ,郑州银行,SZSE,stock
@@ -1412,7 +1412,7 @@
 002957,SZ,科瑞技术,SZSE,stock
 002958,SZ,青农商行,SZSE,stock
 002959,SZ,小熊电器,SZSE,stock
-002960,SZ,青鸟消防,SZSE,stock
+002960,SZ,青鸟智控,SZSE,stock
 002961,SZ,瑞达期货,SZSE,stock
 002962,SZ,五方光电,SZSE,stock
 002963,SZ,豪尔赛,SZSE,stock
@@ -1531,7 +1531,7 @@
 300041,SZ,回天新材,SZSE,stock
 300042,SZ,朗科科技,SZSE,stock
 300043,SZ,星辉娱乐,SZSE,stock
-300044,SZ,ST赛为,SZSE,stock
+300044,SZ,*ST赛为,SZSE,stock
 300045,SZ,华力创通,SZSE,stock
 300046,SZ,台基股份,SZSE,stock
 300047,SZ,天源迪科,SZSE,stock
@@ -1806,7 +1806,6 @@
 300341,SZ,麦克奥迪,SZSE,stock
 300342,SZ,天银机电,SZSE,stock
 300343,SZ,ST联创,SZSE,stock
-300344,SZ,立方退,SZSE,stock
 300345,SZ,华民股份,SZSE,stock
 300346,SZ,南大光电,SZSE,stock
 300347,SZ,泰格医药,SZSE,stock

@@ -1293,7 +1293,6 @@ IPI,US,Intrepid Potash Inc Common Stock,NYSE,stock
 IQI,US,Invesco Quality Municipal Income Trust Common Stock,NYSE,stock
 IQV,US,IQVIA Holdings Inc. Common Stock,NYSE,stock
 IR,US,Ingersoll Rand Inc. Common Stock,NYSE,stock
-IRAB,US,Iris Acquisition Corp II Class A Ordinary Shares,NYSE,stock
 IRM,US,Iron Mountain Incorporated (Delaware)Common Stock REIT,NYSE,stock
 IRS,US,IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock),NYSE,stock
 IRT,US,Independence Realty Trust Inc. Common Stock,NYSE,stock
@@ -2022,6 +2021,7 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
+RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
@@ -2032,7 +2032,6 @@ RBRK,US,Rubrik Inc. Class A Common Stock,NYSE,stock
 RC,US,Ready Capital Corporation Common Stock,NYSE,stock
 RC^C,US,Ready Capital Corporation 6.25% Series C Cumulative Convertible Preferred Stock,NYSE,stock
 RC^E,US,Ready Capital Corporation 6.50% Series E Cumulative Redeemable Preferred Stock,NYSE,stock
-RCB,US,Ready Capital Corporation 6.20% Senior Notes due 2026,NYSE,stock
 RCD,US,Ready Capital Corporation 9.00% Senior Notes due 2029,NYSE,stock
 RCI,US,Rogers Communication Inc. Common Stock,NYSE,stock
 RCL,US,Royal Caribbean Cruises Ltd. Common Stock,NYSE,stock
@@ -2159,7 +2158,6 @@ SBS,US,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American D
 SBSI,US,Southside Bancshares Inc. Common Stock,NYSE,stock
 SBSW,US,D/B/A Sibanye-Stillwater Limited ADS,NYSE,stock
 SBXD,US,SilverBox Corp IV Class A Ordinary Shares,NYSE,stock
-SBXE,US,SilverBox Corp V Class A Ordinary Shares,NYSE,stock
 SCCO,US,Southern Copper Corporation Common Stock,NYSE,stock
 SCD,US,LMP Capital and Income Fund Inc. Common Stock,NYSE,stock
 SCE^G,US,SCE Trust II Trust Preferred Securities,NYSE,stock
