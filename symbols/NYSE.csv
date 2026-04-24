@@ -119,7 +119,6 @@ ALLY,US,Ally Financial Inc. Common Stock,NYSE,stock
 ALSN,US,Allison Transmission Holdings Inc. Common Stock,NYSE,stock
 ALTG,US,Alta Equipment Group Inc. Class A Common Stock,NYSE,stock
 ALTG^A,US,Alta Equipment Group Inc. Depositary Shares (each representing 1/1000th in a share of 10% Series A Cumulative Perpetual Preferred Stock),NYSE,stock
-ALUB,US,Alussa Energy Acquisition Corp. II Class A Ordinary Shares,NYSE,stock
 ALV,US,Autoliv Inc. Common Stock,NYSE,stock
 ALX,US,Alexander's Inc. Common Stock,NYSE,stock
 AM,US,Antero Midstream Corporation Common Stock,NYSE,stock
@@ -199,7 +198,6 @@ ASBA,US,Associated Banc-Corp 6.625% Fixed-Rate Reset Subordinated Notes due 2033
 ASC,US,Ardmore Shipping Corporation Common Stock,NYSE,stock
 ASG,US,Liberty All-Star Growth Fund Inc.,NYSE,stock
 ASGI,US,abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest,NYSE,stock
-ASGN,US,ASGN Incorporated Common Stock,NYSE,stock
 ASH,US,Ashland Inc. Common Stock,NYSE,stock
 ASIC,US,Ategrity Specialty Insurance Company Holdings Common Stock,NYSE,stock
 ASIX,US,AdvanSix Inc. Common Stock,NYSE,stock
@@ -822,12 +820,12 @@ EFC,US,Ellington Financial Inc. Common Stock,NYSE,stock
 EFC^B,US,Ellington Financial Inc. 6.250% Series B Fixed-Rate Reset Cumulative Redeemable Preferred Stock,NYSE,stock
 EFC^C,US,Ellington Financial Inc. 8.625% Series C Fixed-Rate Reset Cumulative Redeemable Preferred Stock,NYSE,stock
 EFC^D,US,Ellington Financial Inc. 7.00% Series D Cumulative Perpetual Redeemable Preferred Stock,NYSE,stock
+EFOR,US,Everforth Inc.,NYSE,stock
 EFR,US,Eaton Vance Senior Floating-Rate Fund Common Shares of Beneficial Interest,NYSE,stock
 EFT,US,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Interest,NYSE,stock
 EFX,US,Equifax Inc. Common Stock,NYSE,stock
 EFXT,US,Enerflex Ltd Common Shares,NYSE,stock
 EG,US,Everest Group Ltd. Common Stock,NYSE,stock
-EGO,US,Eldorado Gold Corporation Ordinary Shares,NYSE,stock
 EGP,US,EastGroup Properties Inc. Common Stock,NYSE,stock
 EGY,US,VAALCO Energy Inc.  Common Stock,NYSE,stock
 EHAB,US,Enhabit Inc. Common Stock,NYSE,stock
@@ -1312,7 +1310,6 @@ JACS,US,Jackson Acquisition Company II Class A Ordinary Shares,NYSE,stock
 JAN,US,Janus Living Inc. Class A-1 Common Stock,NYSE,stock
 JBGS,US,JBG SMITH Properties Common Shares,NYSE,stock
 JBI,US,Janus International Group Inc. Common Stock,NYSE,stock
-JBK,US,Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I,NYSE,stock
 JBL,US,Jabil Inc. Common Stock,NYSE,stock
 JBS,US,JBS N.V. Class A Common Shares,NYSE,stock
 JBTM,US,JBT Marel Corporation Common Stock,NYSE,stock
@@ -1649,7 +1646,6 @@ MXF,US,Mexico Fund Inc. (The) Common Stock,NYSE,stock
 MYE,US,Myers Industries Inc. Common Stock,NYSE,stock
 MYI,US,Blackrock MuniYield Quality Fund III Inc Common Stock,NYSE,stock
 MYN,US,Blackrock MuniYield New York Quality Fund Inc.Common Stock,NYSE,stock
-MZYX,US,MOZAYYX Acquisition Corp. Class A Ordinary Shares,NYSE,stock
 NABL,US,N-able Inc. Common Stock,NYSE,stock
 NAC,US,Nuveen California Quality Municipal Income Fund,NYSE,stock
 NAD,US,Nuveen Quality Municipal Income Fund Common Stock,NYSE,stock
@@ -1965,7 +1961,6 @@ PRGO,US,Perrigo Company plc Ordinary Shares,NYSE,stock
 PRH,US,Prudential Financial Inc. 5.950% Junior Subordinated Notes due 2062,NYSE,stock
 PRI,US,Primerica Inc. Common Stock,NYSE,stock
 PRIF^D,US,Priority Income Fund Inc. 7.00% Series D Term Preferred Stock due 2029,NYSE,stock
-PRIF^J,US,Priority Income Fund Inc. 6.000% Series J Term Preferred Stock due 2028,NYSE,stock
 PRIF^K,US,Priority Income Fund Inc. 7.000% Series K Cumulative Preferred Stock,NYSE,stock
 PRIF^L,US,Priority Income Fund Inc. 6.375% Series L Term Preferred Stock Due 2029,NYSE,stock
 PRIM,US,Primoris Services Corporation Common Stock,NYSE,stock
@@ -2638,7 +2633,6 @@ WMS,US,Advanced Drainage Systems Inc. Common Stock,NYSE,stock
 WNC,US,Wabash National Corporation Common Stock,NYSE,stock
 WOLF,US,Wolfspeed Inc. Common Stock New,NYSE,stock
 WOR,US,Worthington Enterprises Inc. Common Shares,NYSE,stock
-WPAC,US,White Pearl Acquisition Corp. Class A Ordinary Shares,NYSE,stock
 WPC,US,W. P. Carey Inc. REIT,NYSE,stock
 WPM,US,Wheaton Precious Metals Corp Common Shares (Canada),NYSE,stock
 WPP,US,WPP plc American Depositary Shares,NYSE,stock
@@ -2682,6 +2676,7 @@ XYL,US,Xylem Inc. Common Stock New,NYSE,stock
 XYZ,US,Block Inc. Class A Common Stock,NYSE,stock
 XZO,US,Exzeo Group Inc. Common Stock,NYSE,stock
 YALA,US,Yalla Group Limited American Depositary Shares each representing one Class A Ordinary Share,NYSE,stock
+YCY,US,AA Mission Acquisition Corp. II Class A Ordinary Shares,NYSE,stock
 YELP,US,Yelp Inc. Common Stock,NYSE,stock
 YETI,US,YETI Holdings Inc. Common Stock,NYSE,stock
 YEXT,US,Yext Inc. Common Stock,NYSE,stock

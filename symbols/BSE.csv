@@ -55,7 +55,7 @@
 920087,BJ,秋乐种业,BSE,stock
 920088,BJ,科力股份,BSE,stock
 920089,BJ,禾昌聚合,BSE,stock
-920090,BJ,同辉信息,BSE,stock
+920090,BJ,*ST同辉,BSE,stock
 920091,BJ,大鹏工业,BSE,stock
 920092,BJ,汉鑫科技,BSE,stock
 920098,BJ,科隆新材,BSE,stock
@@ -74,6 +74,7 @@
 920122,BJ,中纺标,BSE,stock
 920123,BJ,芭薇股份,BSE,stock
 920124,BJ,南特科技,BSE,stock
+920125,BJ,N鸿仕达,BSE,stock
 920128,BJ,胜业电气,BSE,stock
 920130,BJ,立方控股,BSE,stock
 920132,BJ,泰鹏智能,BSE,stock
@@ -223,7 +224,7 @@
 920662,BJ,方盛股份,BSE,stock
 920663,BJ,明阳科技,BSE,stock
 920665,BJ,科强股份,BSE,stock
-920670,BJ,XD数字人,BSE,stock
+920670,BJ,数字人,BSE,stock
 920675,BJ,秉扬科技,BSE,stock
 920679,BJ,前进科技,BSE,stock
 920682,BJ,球冠电缆,BSE,stock

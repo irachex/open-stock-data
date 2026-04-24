@@ -1427,7 +1427,7 @@
 002973,SZ,侨银股份,SZSE,stock
 002975,SZ,博杰股份,SZSE,stock
 002976,SZ,瑞玛精密,SZSE,stock
-002977,SZ,天箭科技,SZSE,stock
+002977,SZ,*ST天箭,SZSE,stock
 002978,SZ,安宁股份,SZSE,stock
 002979,SZ,雷赛智能,SZSE,stock
 002980,SZ,华盛昌,SZSE,stock
@@ -1763,7 +1763,7 @@
 300292,SZ,吴通控股,SZSE,stock
 300293,SZ,蓝英装备,SZSE,stock
 300294,SZ,博雅生物,SZSE,stock
-300295,SZ,三六五网,SZSE,stock
+300295,SZ,*ST三六五,SZSE,stock
 300296,SZ,利亚德,SZSE,stock
 300298,SZ,三诺生物,SZSE,stock
 300299,SZ,富春股份,SZSE,stock
@@ -2800,7 +2800,7 @@
 301510,SZ,固高科技,SZSE,stock
 301511,SZ,德福科技,SZSE,stock
 301512,SZ,智信精密,SZSE,stock
-301513,SZ,C尚水智能,SZSE,stock
+301513,SZ,尚水智能,SZSE,stock
 301515,SZ,港通医疗,SZSE,stock
 301516,SZ,中远通,SZSE,stock
 301517,SZ,陕西华达,SZSE,stock
