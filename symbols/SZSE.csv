@@ -34,7 +34,7 @@
 000049,SZ,德赛电池,SZSE,stock
 000050,SZ,深天马Ａ,SZSE,stock
 000055,SZ,方大集团,SZSE,stock
-000056,SZ,皇庭国际,SZSE,stock
+000056,SZ,*ST皇庭,SZSE,stock
 000058,SZ,深赛格,SZSE,stock
 000059,SZ,华锦股份,SZSE,stock
 000060,SZ,中金岭南,SZSE,stock
@@ -168,7 +168,7 @@
 000607,SZ,华媒控股,SZSE,stock
 000608,SZ,*ST阳光,SZSE,stock
 000609,SZ,*ST中迪,SZSE,stock
-000610,SZ,西安旅游,SZSE,stock
+000610,SZ,*ST西旅,SZSE,stock
 000612,SZ,焦作万方,SZSE,stock
 000615,SZ,*ST美谷,SZSE,stock
 000617,SZ,中油资本,SZSE,stock
@@ -311,7 +311,7 @@
 000831,SZ,中国稀土,SZSE,stock
 000833,SZ,粤桂股份,SZSE,stock
 000837,SZ,秦川机床,SZSE,stock
-000838,SZ,财信发展,SZSE,stock
+000838,SZ,*ST发展,SZSE,stock
 000839,SZ,国安股份,SZSE,stock
 000848,SZ,承德露露,SZSE,stock
 000850,SZ,华茂股份,SZSE,stock
@@ -2877,7 +2877,7 @@
 301658,SZ,首航新能,SZSE,stock
 301662,SZ,宏工科技,SZSE,stock
 301665,SZ,泰禾股份,SZSE,stock
-301666,SZ,大普微,SZSE,stock
+301666,SZ,大普微-UW,SZSE,stock
 301667,SZ,纳百川,SZSE,stock
 301668,SZ,昊创瑞通,SZSE,stock
 301678,SZ,新恒汇,SZSE,stock

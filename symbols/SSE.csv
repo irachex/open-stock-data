@@ -193,10 +193,10 @@
 600256,SH,广汇能源,SSE,stock
 600257,SH,大湖股份,SSE,stock
 600258,SH,首旅酒店,SSE,stock
-600259,SH,XD中稀有,SSE,stock
+600259,SH,中稀有色,SSE,stock
 600261,SH,阳光照明,SSE,stock
 600262,SH,北方股份,SSE,stock
-600265,SH,ST景谷,SSE,stock
+600265,SH,*ST景谷,SSE,stock
 600266,SH,城建发展,SSE,stock
 600267,SH,海正药业,SSE,stock
 600268,SH,国电南自,SSE,stock
@@ -263,7 +263,6 @@
 600352,SH,浙江龙盛,SSE,stock
 600353,SH,旭光电子,SSE,stock
 600354,SH,敦煌种业,SSE,stock
-600355,SH,*ST精伦,SSE,stock
 600356,SH,恒丰纸业,SSE,stock
 600358,SH,国旅联合,SSE,stock
 600359,SH,新农开发,SSE,stock
@@ -397,7 +396,7 @@
 600538,SH,国发股份,SSE,stock
 600539,SH,狮头股份,SSE,stock
 600540,SH,新赛股份,SSE,stock
-600543,SH,莫高股份,SSE,stock
+600543,SH,*ST莫高,SSE,stock
 600545,SH,卓郎智能,SSE,stock
 600546,SH,山煤国际,SSE,stock
 600547,SH,山东黄金,SSE,stock
@@ -1361,7 +1360,7 @@
 603585,SH,苏利股份,SSE,stock
 603586,SH,金麒麟,SSE,stock
 603587,SH,地素时尚,SSE,stock
-603588,SH,高能环境,SSE,stock
+603588,SH,XD高能环,SSE,stock
 603589,SH,口子窖,SSE,stock
 603590,SH,康辰药业,SSE,stock
 603595,SH,ST东尼,SSE,stock
@@ -1601,7 +1600,7 @@
 605016,SH,百龙创园,SSE,stock
 605018,SH,长华集团,SSE,stock
 605020,SH,永和股份,SSE,stock
-605028,SH,XD世茂能,SSE,stock
+605028,SH,世茂能源,SSE,stock
 605033,SH,美邦股份,SSE,stock
 605050,SH,福然德,SSE,stock
 605055,SH,迎丰股份,SSE,stock

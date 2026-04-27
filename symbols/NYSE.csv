@@ -119,6 +119,7 @@ ALLY,US,Ally Financial Inc. Common Stock,NYSE,stock
 ALSN,US,Allison Transmission Holdings Inc. Common Stock,NYSE,stock
 ALTG,US,Alta Equipment Group Inc. Class A Common Stock,NYSE,stock
 ALTG^A,US,Alta Equipment Group Inc. Depositary Shares (each representing 1/1000th in a share of 10% Series A Cumulative Perpetual Preferred Stock),NYSE,stock
+ALUB,US,Alussa Energy Acquisition Corp. II Class A Ordinary Shares,NYSE,stock
 ALV,US,Autoliv Inc. Common Stock,NYSE,stock
 ALX,US,Alexander's Inc. Common Stock,NYSE,stock
 AM,US,Antero Midstream Corporation Common Stock,NYSE,stock
@@ -820,7 +821,7 @@ EFC,US,Ellington Financial Inc. Common Stock,NYSE,stock
 EFC^B,US,Ellington Financial Inc. 6.250% Series B Fixed-Rate Reset Cumulative Redeemable Preferred Stock,NYSE,stock
 EFC^C,US,Ellington Financial Inc. 8.625% Series C Fixed-Rate Reset Cumulative Redeemable Preferred Stock,NYSE,stock
 EFC^D,US,Ellington Financial Inc. 7.00% Series D Cumulative Perpetual Redeemable Preferred Stock,NYSE,stock
-EFOR,US,Everforth Inc.,NYSE,stock
+EFOR,US,Everforth Inc. Common Stock,NYSE,stock
 EFR,US,Eaton Vance Senior Floating-Rate Fund Common Shares of Beneficial Interest,NYSE,stock
 EFT,US,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Interest,NYSE,stock
 EFX,US,Equifax Inc. Common Stock,NYSE,stock
@@ -1080,7 +1081,6 @@ GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for 
 GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
 GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
-GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
 GL,US,Globe Life Inc. Common Stock,NYSE,stock
 GL^D,US,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061,NYSE,stock
@@ -1291,6 +1291,7 @@ IPI,US,Intrepid Potash Inc Common Stock,NYSE,stock
 IQI,US,Invesco Quality Municipal Income Trust Common Stock,NYSE,stock
 IQV,US,IQVIA Holdings Inc. Common Stock,NYSE,stock
 IR,US,Ingersoll Rand Inc. Common Stock,NYSE,stock
+IRAB,US,Iris Acquisition Corp II Class A Ordinary Shares,NYSE,stock
 IRM,US,Iron Mountain Incorporated (Delaware)Common Stock REIT,NYSE,stock
 IRS,US,IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock),NYSE,stock
 IRT,US,Independence Realty Trust Inc. Common Stock,NYSE,stock
@@ -1310,6 +1311,7 @@ JACS,US,Jackson Acquisition Company II Class A Ordinary Shares,NYSE,stock
 JAN,US,Janus Living Inc. Class A-1 Common Stock,NYSE,stock
 JBGS,US,JBG SMITH Properties Common Shares,NYSE,stock
 JBI,US,Janus International Group Inc. Common Stock,NYSE,stock
+JBK,US,Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I,NYSE,stock
 JBL,US,Jabil Inc. Common Stock,NYSE,stock
 JBS,US,JBS N.V. Class A Common Shares,NYSE,stock
 JBTM,US,JBT Marel Corporation Common Stock,NYSE,stock
@@ -1646,6 +1648,7 @@ MXF,US,Mexico Fund Inc. (The) Common Stock,NYSE,stock
 MYE,US,Myers Industries Inc. Common Stock,NYSE,stock
 MYI,US,Blackrock MuniYield Quality Fund III Inc Common Stock,NYSE,stock
 MYN,US,Blackrock MuniYield New York Quality Fund Inc.Common Stock,NYSE,stock
+MZYX,US,MOZAYYX Acquisition Corp. Class A Ordinary Shares,NYSE,stock
 NABL,US,N-able Inc. Common Stock,NYSE,stock
 NAC,US,Nuveen California Quality Municipal Income Fund,NYSE,stock
 NAD,US,Nuveen Quality Municipal Income Fund Common Stock,NYSE,stock
@@ -1723,7 +1726,6 @@ NOAH,US,Noah Holdings Limited American Depositary Shares,NYSE,stock
 NOC,US,Northrop Grumman Corporation Common Stock,NYSE,stock
 NOG,US,Northern Oil and Gas Inc. Common Stock,NYSE,stock
 NOK,US,Nokia Corporation Sponsored American Depositary Shares,NYSE,stock
-NOM,US,Nuveen Missouri Quality Municipal Income Fund,NYSE,stock
 NOMD,US,Nomad Foods Limited Ordinary Shares,NYSE,stock
 NOV,US,NOV Inc. Common Stock,NYSE,stock
 NOW,US,ServiceNow Inc. Common Stock,NYSE,stock
@@ -1736,7 +1738,6 @@ NPKI,US,NPK International Inc. Common Stock,NYSE,stock
 NPO,US,Enpro Inc. Common Stock,NYSE,stock
 NPV,US,Nuveen Virginia Quality Municipal Income Fund Common Stock,NYSE,stock
 NPWR,US,NET Power Inc. Class A Common Stock,NYSE,stock
-NQP,US,Nuveen Pennsylvania Quality Municipal Income Fund Common Stock,NYSE,stock
 NRDY,US,Nerdy Inc. Class A Common Stock,NYSE,stock
 NREF,US,NexPoint Real Estate Finance Inc. Common Stock,NYSE,stock
 NREF^A,US,NexPoint Real Estate Finance Inc. 8.50% Series A Cumulative Redeemable Preferred Stock,NYSE,stock
@@ -1778,7 +1779,6 @@ NXDT,US,NexPoint Diversified Real Estate Trust Common Stock,NYSE,stock
 NXDT^A,US,NexPoint Diversified Real Estate Trust 5.50% Series A Cumulative Preferred Shares ($25.00 liquidation preference per share),NYSE,stock
 NXE,US,Nexgen Energy Ltd. Common Shares,NYSE,stock
 NXG,US,NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest,NYSE,stock
-NXJ,US,Nuveen New Jersey Qualified Municipal Fund,NYSE,stock
 NXP,US,Nuveen Select Tax Free Income Portfolio Common Stock,NYSE,stock
 NXRT,US,NexPoint Residential Trust Inc. Common Stock,NYSE,stock
 NYC,US,American Strategic Investment Co. Class A Common Stock,NYSE,stock
@@ -2016,7 +2016,6 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
-RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
@@ -2633,6 +2632,7 @@ WMS,US,Advanced Drainage Systems Inc. Common Stock,NYSE,stock
 WNC,US,Wabash National Corporation Common Stock,NYSE,stock
 WOLF,US,Wolfspeed Inc. Common Stock New,NYSE,stock
 WOR,US,Worthington Enterprises Inc. Common Shares,NYSE,stock
+WPAC,US,White Pearl Acquisition Corp. Class A Ordinary Shares,NYSE,stock
 WPC,US,W. P. Carey Inc. REIT,NYSE,stock
 WPM,US,Wheaton Precious Metals Corp Common Shares (Canada),NYSE,stock
 WPP,US,WPP plc American Depositary Shares,NYSE,stock
