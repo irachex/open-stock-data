@@ -254,7 +254,7 @@
 000739,SZ,普洛药业,SZSE,stock
 000750,SZ,国海证券,SZSE,stock
 000751,SZ,锌业股份,SZSE,stock
-000752,SZ,ST西发,SZSE,stock
+000752,SZ,*ST西发,SZSE,stock
 000753,SZ,漳州发展,SZSE,stock
 000755,SZ,山西高速,SZSE,stock
 000756,SZ,新华制药,SZSE,stock
@@ -477,7 +477,7 @@
 001308,SZ,康冠科技,SZSE,stock
 001309,SZ,德明利,SZSE,stock
 001311,SZ,多利科技,SZSE,stock
-001312,SZ,C福恩股份,SZSE,stock
+001312,SZ,福恩股份,SZSE,stock
 001313,SZ,粤海饲料,SZSE,stock
 001314,SZ,亿道信息,SZSE,stock
 001316,SZ,润贝航科,SZSE,stock
@@ -934,7 +934,7 @@
 002428,SZ,云南锗业,SZSE,stock
 002429,SZ,兆驰股份,SZSE,stock
 002430,SZ,杭氧股份,SZSE,stock
-002431,SZ,棕榈股份,SZSE,stock
+002431,SZ,ST棕榈,SZSE,stock
 002432,SZ,九安医疗,SZSE,stock
 002434,SZ,万里扬,SZSE,stock
 002436,SZ,兴森科技,SZSE,stock
@@ -1118,7 +1118,7 @@
 002631,SZ,德尔未来,SZSE,stock
 002632,SZ,道明光学,SZSE,stock
 002633,SZ,申科股份,SZSE,stock
-002634,SZ,棒杰股份,SZSE,stock
+002634,SZ,*ST棒杰,SZSE,stock
 002635,SZ,安洁科技,SZSE,stock
 002636,SZ,金安国纪,SZSE,stock
 002637,SZ,赞宇科技,SZSE,stock
