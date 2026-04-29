@@ -723,7 +723,7 @@
 002204,SZ,大连重工,SZSE,stock
 002205,SZ,国统股份,SZSE,stock
 002206,SZ,海利得,SZSE,stock
-002207,SZ,准油股份,SZSE,stock
+002207,SZ,*ST准油,SZSE,stock
 002208,SZ,合肥城建,SZSE,stock
 002209,SZ,达意隆,SZSE,stock
 002210,SZ,飞马国际,SZSE,stock
@@ -865,7 +865,7 @@
 002356,SZ,赫美集团,SZSE,stock
 002357,SZ,富临运业,SZSE,stock
 002358,SZ,森源电气,SZSE,stock
-002360,SZ,同德化工,SZSE,stock
+002360,SZ,ST同德,SZSE,stock
 002361,SZ,神剑股份,SZSE,stock
 002362,SZ,汉王科技,SZSE,stock
 002363,SZ,隆基机械,SZSE,stock
@@ -1196,7 +1196,7 @@
 002716,SZ,湖南白银,SZSE,stock
 002717,SZ,ST岭南,SZSE,stock
 002718,SZ,友邦吊顶,SZSE,stock
-002719,SZ,麦趣尔,SZSE,stock
+002719,SZ,ST麦趣,SZSE,stock
 002721,SZ,金一文化,SZSE,stock
 002722,SZ,物产金轮,SZSE,stock
 002723,SZ,小崧股份,SZSE,stock
@@ -1673,7 +1673,7 @@
 300195,SZ,长荣股份,SZSE,stock
 300196,SZ,长海股份,SZSE,stock
 300197,SZ,节能铁汉,SZSE,stock
-300198,SZ,ST纳川,SZSE,stock
+300198,SZ,*ST纳川,SZSE,stock
 300199,SZ,翰宇药业,SZSE,stock
 300200,SZ,高盟新材,SZSE,stock
 300201,SZ,海伦哲,SZSE,stock
@@ -1717,7 +1717,7 @@
 300242,SZ,佳云科技,SZSE,stock
 300243,SZ,瑞丰高材,SZSE,stock
 300244,SZ,迪安诊断,SZSE,stock
-300245,SZ,天玑科技,SZSE,stock
+300245,SZ,ST天玑,SZSE,stock
 300246,SZ,宝莱特,SZSE,stock
 300247,SZ,融捷健康,SZSE,stock
 300248,SZ,新开普,SZSE,stock
@@ -1800,7 +1800,7 @@
 300334,SZ,津膜科技,SZSE,stock
 300335,SZ,迪森股份,SZSE,stock
 300337,SZ,银邦股份,SZSE,stock
-300338,SZ,ST开元,SZSE,stock
+300338,SZ,*ST开元,SZSE,stock
 300339,SZ,润和软件,SZSE,stock
 300340,SZ,科恒股份,SZSE,stock
 300341,SZ,麦克奥迪,SZSE,stock
