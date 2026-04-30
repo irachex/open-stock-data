@@ -104,6 +104,7 @@ GLDG,US,GoldMining Inc. Common Shares,AMEX,stock
 GLO,US,Clough Global Opportunities Fund Common Stock,AMEX,stock
 GLQ,US,Clough Global Equity Fund Clough Global Equity Fund Common Shares of Beneficial Interest,AMEX,stock
 GLU,US,Gabelli Global Utility Common Shares of Beneficial Ownership,AMEX,stock
+GLU^A,US,The Gabelli Global Utility and Income Trust Series A Cumulative Puttable and Callable Preferred Shares,AMEX,stock
 GLU^B,US,The Gabelli Global Utility and Income Trust Series B Cumulative Puttable and Callable Preferred Shares,AMEX,stock
 GLV,US,Clough Global Dividend and Income Fund Common Shares of beneficial interest,AMEX,stock
 GMTL,US,Guardian Metal Resources PLC ADS,AMEX,stock
@@ -233,6 +234,7 @@ RYDE,US,Ryde Group Ltd. Class A Ordinary Shares,AMEX,stock
 SACH,US,Sachem Capital Corp. Common Shares,AMEX,stock
 SACH^A,US,Sachem Capital Corp. 7.75% Series A Cumulative Redeemable Preferred Stock,AMEX,stock
 SBEV,US,Splash Beverage Group Inc. (NV) Common Stock,AMEX,stock
+SBMT,US,Silver Bow Mining Corp.,AMEX,stock
 SCCD,US,Sachem Capital Corp. 6.00% Notes due 2026,AMEX,stock
 SCCE,US,Sachem Capital Corp. 6.00% Notes due 2027,AMEX,stock
 SCCF,US,Sachem Capital Corp. 7.125% Notes due 2027,AMEX,stock

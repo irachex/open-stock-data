@@ -6,11 +6,11 @@
 000007,SZ,全新好,SZSE,stock
 000008,SZ,神州高铁,SZSE,stock
 000009,SZ,中国宝安,SZSE,stock
-000010,SZ,美丽生态,SZSE,stock
+000010,SZ,*ST美丽,SZSE,stock
 000011,SZ,深物业A,SZSE,stock
 000012,SZ,南玻Ａ,SZSE,stock
 000014,SZ,沙河股份,SZSE,stock
-000016,SZ,深康佳Ａ,SZSE,stock
+000016,SZ,*ST康佳A,SZSE,stock
 000017,SZ,深中华A,SZSE,stock
 000019,SZ,深粮控股,SZSE,stock
 000020,SZ,深华发Ａ,SZSE,stock
@@ -181,13 +181,13 @@
 000629,SZ,钒钛股份,SZSE,stock
 000630,SZ,铜陵有色,SZSE,stock
 000631,SZ,顺发恒能,SZSE,stock
-000632,SZ,三木集团,SZSE,stock
+000632,SZ,ST三木,SZSE,stock
 000633,SZ,合金投资,SZSE,stock
 000635,SZ,英力特,SZSE,stock
 000636,SZ,风华高科,SZSE,stock
 000637,SZ,茂化实华,SZSE,stock
 000638,SZ,*ST万方,SZSE,stock
-000639,SZ,西王食品,SZSE,stock
+000639,SZ,ST西王,SZSE,stock
 000650,SZ,仁和药业,SZSE,stock
 000651,SZ,格力电器,SZSE,stock
 000652,SZ,泰达股份,SZSE,stock
@@ -304,7 +304,7 @@
 000822,SZ,山东海化,SZSE,stock
 000823,SZ,超声电子,SZSE,stock
 000825,SZ,太钢不锈,SZSE,stock
-000826,SZ,启迪环境,SZSE,stock
+000826,SZ,*ST启环,SZSE,stock
 000828,SZ,东莞控股,SZSE,stock
 000829,SZ,天音控股,SZSE,stock
 000830,SZ,鲁西化工,SZSE,stock
@@ -353,7 +353,7 @@
 000908,SZ,ST景峰,SZSE,stock
 000909,SZ,*ST数源,SZSE,stock
 000910,SZ,大亚圣象,SZSE,stock
-000911,SZ,广农糖业,SZSE,stock
+000911,SZ,*ST广糖,SZSE,stock
 000912,SZ,泸天化,SZSE,stock
 000913,SZ,钱江摩托,SZSE,stock
 000915,SZ,华特达因,SZSE,stock
@@ -622,7 +622,7 @@
 002099,SZ,海翔药业,SZSE,stock
 002100,SZ,天康生物,SZSE,stock
 002101,SZ,广东鸿图,SZSE,stock
-002102,SZ,能特科技,SZSE,stock
+002102,SZ,ST能特,SZSE,stock
 002103,SZ,广博股份,SZSE,stock
 002104,SZ,恒宝股份,SZSE,stock
 002105,SZ,信隆健康,SZSE,stock
@@ -691,7 +691,7 @@
 002172,SZ,澳洋健康,SZSE,stock
 002173,SZ,创新医疗,SZSE,stock
 002174,SZ,游族网络,SZSE,stock
-002175,SZ,东方智造,SZSE,stock
+002175,SZ,*ST东智,SZSE,stock
 002176,SZ,江特电机,SZSE,stock
 002177,SZ,御银股份,SZSE,stock
 002178,SZ,延华智能,SZSE,stock
@@ -832,7 +832,7 @@
 002320,SZ,海峡股份,SZSE,stock
 002321,SZ,华英农业,SZSE,stock
 002322,SZ,理工能科,SZSE,stock
-002323,SZ,雅博股份,SZSE,stock
+002323,SZ,*ST雅博,SZSE,stock
 002324,SZ,普利特,SZSE,stock
 002326,SZ,永太科技,SZSE,stock
 002327,SZ,富安娜,SZSE,stock
@@ -996,7 +996,7 @@
 002497,SZ,雅化集团,SZSE,stock
 002498,SZ,汉缆股份,SZSE,stock
 002500,SZ,山西证券,SZSE,stock
-002501,SZ,利源股份,SZSE,stock
+002501,SZ,*ST利源,SZSE,stock
 002506,SZ,协鑫集成,SZSE,stock
 002507,SZ,涪陵榨菜,SZSE,stock
 002508,SZ,老板电器,SZSE,stock
@@ -1017,7 +1017,7 @@
 002524,SZ,光正眼科,SZSE,stock
 002526,SZ,山东矿机,SZSE,stock
 002527,SZ,新时达,SZSE,stock
-002528,SZ,ST英飞拓,SZSE,stock
+002528,SZ,*ST英飞,SZSE,stock
 002529,SZ,*ST海源,SZSE,stock
 002530,SZ,金财互联,SZSE,stock
 002531,SZ,天顺风能,SZSE,stock
@@ -1036,7 +1036,7 @@
 002544,SZ,普天科技,SZSE,stock
 002545,SZ,东方铁塔,SZSE,stock
 002546,SZ,新联电子,SZSE,stock
-002547,SZ,春兴精工,SZSE,stock
+002547,SZ,*ST春兴,SZSE,stock
 002548,SZ,金新农,SZSE,stock
 002549,SZ,凯美特气,SZSE,stock
 002550,SZ,千红制药,SZSE,stock
@@ -1070,7 +1070,7 @@
 002578,SZ,闽发铝业,SZSE,stock
 002579,SZ,中京电子,SZSE,stock
 002580,SZ,圣阳股份,SZSE,stock
-002581,SZ,ST未名,SZSE,stock
+002581,SZ,*ST未名,SZSE,stock
 002582,SZ,好想你,SZSE,stock
 002583,SZ,海能达,SZSE,stock
 002584,SZ,西陇科学,SZSE,stock
@@ -1105,7 +1105,7 @@
 002615,SZ,哈尔斯,SZSE,stock
 002616,SZ,长青集团,SZSE,stock
 002617,SZ,露笑科技,SZSE,stock
-002620,SZ,ST瑞和,SZSE,stock
+002620,SZ,*ST瑞和,SZSE,stock
 002622,SZ,皓宸医疗,SZSE,stock
 002623,SZ,亚玛顿,SZSE,stock
 002624,SZ,完美世界,SZSE,stock
@@ -1114,7 +1114,7 @@
 002627,SZ,三峡旅游,SZSE,stock
 002628,SZ,成都路桥,SZSE,stock
 002629,SZ,仁智股份,SZSE,stock
-002630,SZ,ST华西,SZSE,stock
+002630,SZ,*ST华西,SZSE,stock
 002631,SZ,德尔未来,SZSE,stock
 002632,SZ,道明光学,SZSE,stock
 002633,SZ,申科股份,SZSE,stock
@@ -1172,10 +1172,10 @@
 002688,SZ,金河生物,SZSE,stock
 002689,SZ,ST远智,SZSE,stock
 002690,SZ,美亚光电,SZSE,stock
-002691,SZ,冀凯股份,SZSE,stock
+002691,SZ,*ST冀凯,SZSE,stock
 002692,SZ,远程股份,SZSE,stock
 002693,SZ,*ST双成,SZSE,stock
-002694,SZ,顾地科技,SZSE,stock
+002694,SZ,*ST顾地,SZSE,stock
 002695,SZ,煌上煌,SZSE,stock
 002696,SZ,百洋股份,SZSE,stock
 002697,SZ,红旗连锁,SZSE,stock
@@ -1194,7 +1194,7 @@
 002714,SZ,牧原股份,SZSE,stock
 002715,SZ,登云股份,SZSE,stock
 002716,SZ,湖南白银,SZSE,stock
-002717,SZ,ST岭南,SZSE,stock
+002717,SZ,*ST岭南,SZSE,stock
 002718,SZ,友邦吊顶,SZSE,stock
 002719,SZ,ST麦趣,SZSE,stock
 002721,SZ,金一文化,SZSE,stock
@@ -1202,7 +1202,7 @@
 002723,SZ,小崧股份,SZSE,stock
 002724,SZ,海洋王,SZSE,stock
 002725,SZ,跃岭股份,SZSE,stock
-002726,SZ,龙大美食,SZSE,stock
+002726,SZ,ST龙大,SZSE,stock
 002727,SZ,一心堂,SZSE,stock
 002728,SZ,特一药业,SZSE,stock
 002729,SZ,好利科技,SZSE,stock
@@ -1316,7 +1316,7 @@
 002852,SZ,道道全,SZSE,stock
 002853,SZ,皮阿诺,SZSE,stock
 002855,SZ,捷荣技术,SZSE,stock
-002856,SZ,美芝股份,SZSE,stock
+002856,SZ,*ST美芝,SZSE,stock
 002857,SZ,三晖电气,SZSE,stock
 002858,SZ,力盛体育,SZSE,stock
 002859,SZ,洁美科技,SZSE,stock
@@ -1516,7 +1516,7 @@
 300024,SZ,机器人,SZSE,stock
 300025,SZ,华星创业,SZSE,stock
 300026,SZ,红日药业,SZSE,stock
-300027,SZ,华谊兄弟,SZSE,stock
+300027,SZ,ST华谊,SZSE,stock
 300029,SZ,*ST天龙,SZSE,stock
 300030,SZ,阳普医疗,SZSE,stock
 300031,SZ,宝通科技,SZSE,stock
@@ -1553,7 +1553,7 @@
 300065,SZ,海兰信,SZSE,stock
 300066,SZ,三川智慧,SZSE,stock
 300067,SZ,安诺其,SZSE,stock
-300068,SZ,南都电源,SZSE,stock
+300068,SZ,ST南都,SZSE,stock
 300069,SZ,金利华电,SZSE,stock
 300070,SZ,碧水源,SZSE,stock
 300071,SZ,福石控股,SZSE,stock
@@ -1625,12 +1625,12 @@
 300144,SZ,宋城演艺,SZSE,stock
 300145,SZ,南方泵业,SZSE,stock
 300146,SZ,汤臣倍健,SZSE,stock
-300147,SZ,ST香雪,SZSE,stock
+300147,SZ,*ST香雪,SZSE,stock
 300148,SZ,天舟文化,SZSE,stock
 300149,SZ,睿智医药,SZSE,stock
 300150,SZ,世纪瑞尔,SZSE,stock
 300151,SZ,昌红科技,SZSE,stock
-300152,SZ,ST新动力,SZSE,stock
+300152,SZ,*ST动力,SZSE,stock
 300153,SZ,科泰电源,SZSE,stock
 300154,SZ,瑞凌股份,SZSE,stock
 300155,SZ,安居宝,SZSE,stock
@@ -1685,7 +1685,7 @@
 300209,SZ,行云科技,SZSE,stock
 300210,SZ,森远股份,SZSE,stock
 300211,SZ,*ST亿通,SZSE,stock
-300212,SZ,易华录,SZSE,stock
+300212,SZ,*ST易录,SZSE,stock
 300213,SZ,佳讯飞鸿,SZSE,stock
 300214,SZ,日科化学,SZSE,stock
 300215,SZ,电科院,SZSE,stock
@@ -2041,7 +2041,7 @@
 300591,SZ,万里马,SZSE,stock
 300592,SZ,华凯易佰,SZSE,stock
 300593,SZ,新雷能,SZSE,stock
-300594,SZ,朗进科技,SZSE,stock
+300594,SZ,ST朗进,SZSE,stock
 300595,SZ,欧普康视,SZSE,stock
 300596,SZ,利安隆,SZSE,stock
 300597,SZ,吉大通信,SZSE,stock
@@ -2850,6 +2850,7 @@
 301595,SZ,太力科技,SZSE,stock
 301596,SZ,瑞迪智驱,SZSE,stock
 301598,SZ,博科测试,SZSE,stock
+301599,SZ,N理奇智能,SZSE,stock
 301600,SZ,慧翰股份,SZSE,stock
 301601,SZ,惠通科技,SZSE,stock
 301602,SZ,超研股份,SZSE,stock

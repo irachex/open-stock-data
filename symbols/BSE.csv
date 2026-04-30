@@ -20,14 +20,14 @@
 920020,BJ,泰凯英,BSE,stock
 920021,BJ,流金科技,BSE,stock
 920022,BJ,世昌股份,BSE,stock
-920023,BJ,田野股份,BSE,stock
+920023,BJ,*ST田野,BSE,stock
 920026,BJ,卓兆点胶,BSE,stock
 920027,BJ,交大铁发,BSE,stock
 920028,BJ,新恒泰,BSE,stock
 920029,BJ,开发科技,BSE,stock
 920030,BJ,德众汽车,BSE,stock
 920033,BJ,康普化学,BSE,stock
-920035,BJ,DR精创电,BSE,stock
+920035,BJ,精创电气,BSE,stock
 920036,BJ,觅睿科技,BSE,stock
 920037,BJ,广信科技,BSE,stock
 920039,BJ,国义招标,BSE,stock
@@ -43,7 +43,7 @@
 920061,BJ,西磁科技,BSE,stock
 920062,BJ,科润智控,BSE,stock
 920066,BJ,科拜尔,BSE,stock
-920068,BJ,XD天工股,BSE,stock
+920068,BJ,天工股份,BSE,stock
 920069,BJ,普昂医疗,BSE,stock
 920075,BJ,柏星龙,BSE,stock
 920076,BJ,国亮新材,BSE,stock
@@ -102,7 +102,7 @@
 920183,BJ,海菲曼,BSE,stock
 920184,BJ,国源科技,BSE,stock
 920185,BJ,贝特瑞,BSE,stock
-920186,BJ,N中科仪,BSE,stock
+920186,BJ,中科仪,BSE,stock
 920187,BJ,通领科技,BSE,stock
 920188,BJ,悦龙科技,BSE,stock
 920190,BJ,雷神科技,BSE,stock
@@ -128,13 +128,13 @@
 920252,BJ,天宏锂电,BSE,stock
 920260,BJ,中寰股份,BSE,stock
 920261,BJ,一诺威,BSE,stock
-920262,BJ,太湖雪,BSE,stock
+920262,BJ,DR太湖雪,BSE,stock
 920263,BJ,中航泰达,BSE,stock
 920266,BJ,生物谷,BSE,stock
 920267,BJ,鑫汇科,BSE,stock
 920270,BJ,天铭科技,BSE,stock
 920271,BJ,邦德股份,BSE,stock
-920273,BJ,一致魔芋,BSE,stock
+920273,BJ,XD一致魔,BSE,stock
 920274,BJ,宏裕包材,BSE,stock
 920275,BJ,驱动力,BSE,stock
 920278,BJ,鹿得医疗,BSE,stock
@@ -184,7 +184,7 @@
 920476,BJ,海能技术,BSE,stock
 920478,BJ,峆一药业,BSE,stock
 920489,BJ,佳先股份,BSE,stock
-920491,BJ,奥迪威,BSE,stock
+920491,BJ,XD奥迪威,BSE,stock
 920493,BJ,并行科技,BSE,stock
 920496,BJ,许昌智能,BSE,stock
 920504,BJ,博迅生物,BSE,stock
@@ -200,7 +200,7 @@
 920533,BJ,骏创科技,BSE,stock
 920541,BJ,铁大科技,BSE,stock
 920547,BJ,无锡晶海,BSE,stock
-920553,BJ,凯腾精工,BSE,stock
+920553,BJ,XD凯腾精,BSE,stock
 920556,BJ,雅达股份,BSE,stock
 920564,BJ,天润科技,BSE,stock
 920566,BJ,梓橦宫,BSE,stock
@@ -234,7 +234,7 @@
 920689,BJ,克莱特,BSE,stock
 920690,BJ,捷众科技,BSE,stock
 920693,BJ,阿为特,BSE,stock
-920694,BJ,中裕科技,BSE,stock
+920694,BJ,XD中裕科,BSE,stock
 920699,BJ,海达尔,BSE,stock
 920701,BJ,豪声电子,BSE,stock
 920703,BJ,广厦环能,BSE,stock
@@ -246,7 +246,7 @@
 920725,BJ,惠丰钻石,BSE,stock
 920726,BJ,朱老六,BSE,stock
 920729,BJ,永顺生物,BSE,stock
-920735,BJ,DR德源药,BSE,stock
+920735,BJ,德源药业,BSE,stock
 920748,BJ,路桥信息,BSE,stock
 920751,BJ,惠同新材,BSE,stock
 920753,BJ,天纺标,BSE,stock
@@ -281,7 +281,7 @@
 920871,BJ,派特尔,BSE,stock
 920873,BJ,中设咨询,BSE,stock
 920876,BJ,慧为智能,BSE,stock
-920879,BJ,基康技术,BSE,stock
+920879,BJ,DR基康技,BSE,stock
 920885,BJ,星辰科技,BSE,stock
 920892,BJ,广咨国际,BSE,stock
 920895,BJ,花溪科技,BSE,stock
@@ -302,7 +302,7 @@
 920961,BJ,创远信科,BSE,stock
 920964,BJ,润农节水,BSE,stock
 920970,BJ,大禹生物,BSE,stock
-920971,BJ,天马新材,BSE,stock
+920971,BJ,XD天马新,BSE,stock
 920974,BJ,凯大催化,BSE,stock
 920976,BJ,视声智能,BSE,stock
 920978,BJ,开特股份,BSE,stock
