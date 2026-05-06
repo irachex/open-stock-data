@@ -75,7 +75,7 @@
 600104,SH,上汽集团,SSE,stock
 600105,SH,永鼎股份,SSE,stock
 600106,SH,重庆路桥,SSE,stock
-600107,SH,ST尔雅,SSE,stock
+600107,SH,*ST尔雅,SSE,stock
 600108,SH,亚盛集团,SSE,stock
 600109,SH,国金证券,SSE,stock
 600110,SH,诺德股份,SSE,stock
@@ -139,7 +139,7 @@
 600184,SH,光电股份,SSE,stock
 600185,SH,珠免集团,SSE,stock
 600186,SH,莲花控股,SSE,stock
-600187,SH,国中水务,SSE,stock
+600187,SH,*ST国中,SSE,stock
 600188,SH,兖矿能源,SSE,stock
 600189,SH,泉阳泉,SSE,stock
 600191,SH,华资实业,SSE,stock
@@ -223,7 +223,7 @@
 600299,SH,安迪苏,SSE,stock
 600300,SH,维维股份,SSE,stock
 600301,SH,华锡有色,SSE,stock
-600302,SH,标准股份,SSE,stock
+600302,SH,ST标准,SSE,stock
 600303,SH,曙光股份,SSE,stock
 600305,SH,恒顺醋业,SSE,stock
 600307,SH,酒钢宏兴,SSE,stock
@@ -250,10 +250,10 @@
 600333,SH,长春燃气,SSE,stock
 600335,SH,国机汽车,SSE,stock
 600336,SH,澳柯玛,SSE,stock
-600337,SH,美克家居,SSE,stock
+600337,SH,ST美克,SSE,stock
 600338,SH,西藏珠峰,SSE,stock
 600339,SH,中油工程,SSE,stock
-600340,SH,华夏幸福,SSE,stock
+600340,SH,*ST华幸,SSE,stock
 600343,SH,航天动力,SSE,stock
 600345,SH,长江通信,SSE,stock
 600346,SH,恒力石化,SSE,stock
@@ -353,7 +353,7 @@
 600488,SH,津药药业,SSE,stock
 600489,SH,中金黄金,SSE,stock
 600490,SH,鹏欣资源,SSE,stock
-600491,SH,龙元建设,SSE,stock
+600491,SH,ST龙元,SSE,stock
 600493,SH,凤竹纺织,SSE,stock
 600495,SH,晋西车轴,SSE,stock
 600496,SH,精工钢构,SSE,stock
@@ -365,7 +365,7 @@
 600502,SH,安徽建工,SSE,stock
 600503,SH,华丽家族,SSE,stock
 600505,SH,西昌电力,SSE,stock
-600506,SH,统一股份,SSE,stock
+600506,SH,DR统一股,SSE,stock
 600507,SH,方大特钢,SSE,stock
 600508,SH,上海能源,SSE,stock
 600509,SH,天富能源,SSE,stock
@@ -426,7 +426,7 @@
 600577,SH,精达股份,SSE,stock
 600578,SH,京能电力,SSE,stock
 600579,SH,中化装备,SSE,stock
-600580,SH,XD卧龙电,SSE,stock
+600580,SH,卧龙电驱,SSE,stock
 600581,SH,*ST八钢,SSE,stock
 600582,SH,天地科技,SSE,stock
 600583,SH,海油工程,SSE,stock
@@ -450,7 +450,7 @@
 600602,SH,云赛智联,SSE,stock
 600603,SH,广汇物流,SSE,stock
 600604,SH,市北高新,SSE,stock
-600605,SH,XD汇通能,SSE,stock
+600605,SH,汇通能源,SSE,stock
 600606,SH,绿地控股,SSE,stock
 600608,SH,*ST沪科,SSE,stock
 600609,SH,金杯汽车,SSE,stock
@@ -566,7 +566,7 @@
 600742,SH,富维股份,SSE,stock
 600743,SH,华远控股,SSE,stock
 600744,SH,华银电力,SSE,stock
-600745,SH,闻泰科技,SSE,stock
+600745,SH,*ST闻泰,SSE,stock
 600746,SH,江苏索普,SSE,stock
 600748,SH,上实发展,SSE,stock
 600749,SH,西藏旅游,SSE,stock
@@ -722,7 +722,7 @@
 600961,SH,株冶集团,SSE,stock
 600962,SH,国投中鲁,SSE,stock
 600963,SH,岳阳林纸,SSE,stock
-600965,SH,福成股份,SSE,stock
+600965,SH,*ST福成,SSE,stock
 600966,SH,博汇纸业,SSE,stock
 600967,SH,内蒙一机,SSE,stock
 600968,SH,海油发展,SSE,stock
@@ -908,7 +908,7 @@
 601700,SH,风范股份,SSE,stock
 601702,SH,华峰铝业,SSE,stock
 601717,SH,中创智领,SSE,stock
-601718,SH,际华集团,SSE,stock
+601718,SH,ST际华,SSE,stock
 601727,SH,上海电气,SSE,stock
 601728,SH,中国电信,SSE,stock
 601766,SH,中国中车,SSE,stock
@@ -940,8 +940,8 @@
 601878,SH,浙商证券,SSE,stock
 601880,SH,辽港股份,SSE,stock
 601881,SH,中国银河,SSE,stock
-601882,SH,XD海天精,SSE,stock
-601886,SH,XD江河集,SSE,stock
+601882,SH,海天精工,SSE,stock
+601886,SH,江河集团,SSE,stock
 601888,SH,中国中免,SSE,stock
 601890,SH,亚星锚链,SSE,stock
 601898,SH,中煤能源,SSE,stock
@@ -997,7 +997,7 @@
 603018,SH,华设集团,SSE,stock
 603019,SH,中科曙光,SSE,stock
 603020,SH,爱普股份,SSE,stock
-603021,SH,ST华鹏,SSE,stock
+603021,SH,*ST华鹏,SSE,stock
 603022,SH,新通联,SSE,stock
 603023,SH,威帝股份,SSE,stock
 603025,SH,大豪科技,SSE,stock
@@ -1095,7 +1095,7 @@
 603129,SH,春风动力,SSE,stock
 603130,SH,云中马,SSE,stock
 603131,SH,上海沪工,SSE,stock
-603132,SH,金徽股份,SSE,stock
+603132,SH,XD金徽股,SSE,stock
 603135,SH,中重科技,SSE,stock
 603136,SH,天目湖,SSE,stock
 603137,SH,恒尚节能,SSE,stock
@@ -1134,7 +1134,7 @@
 603186,SH,华正新材,SSE,stock
 603187,SH,海容冷链,SSE,stock
 603188,SH,亚邦股份,SSE,stock
-603189,SH,网达软件,SSE,stock
+603189,SH,*ST网达,SSE,stock
 603190,SH,亚通精工,SSE,stock
 603191,SH,望变电气,SSE,stock
 603192,SH,汇得科技,SSE,stock
@@ -1282,7 +1282,7 @@
 603375,SH,盛景微,SSE,stock
 603376,SH,大明电子,SSE,stock
 603377,SH,ST东时,SSE,stock
-603378,SH,亚士创能,SSE,stock
+603378,SH,*ST亚士,SSE,stock
 603379,SH,三美股份,SSE,stock
 603380,SH,易德龙,SSE,stock
 603381,SH,永臻股份,SSE,stock
@@ -1344,8 +1344,8 @@
 603538,SH,美诺华,SSE,stock
 603551,SH,奥普科技,SSE,stock
 603556,SH,海兴电力,SSE,stock
-603557,SH,ST起步,SSE,stock
-603558,SH,XD健盛集,SSE,stock
+603557,SH,*ST起步,SSE,stock
+603558,SH,健盛集团,SSE,stock
 603559,SH,ST通脉,SSE,stock
 603565,SH,中谷物流,SSE,stock
 603566,SH,普莱柯,SSE,stock
@@ -1410,7 +1410,7 @@
 603668,SH,天马科技,SSE,stock
 603669,SH,灵康药业,SSE,stock
 603676,SH,卫信康,SSE,stock
-603677,SH,XD奇精机,SSE,stock
+603677,SH,奇精机械,SSE,stock
 603678,SH,火炬电子,SSE,stock
 603679,SH,华体科技,SSE,stock
 603680,SH,今创集团,SSE,stock
@@ -1440,7 +1440,7 @@
 603713,SH,密尔克卫,SSE,stock
 603716,SH,塞力医疗,SSE,stock
 603717,SH,天域生物,SSE,stock
-603718,SH,海利生物,SSE,stock
+603718,SH,*ST海利,SSE,stock
 603719,SH,良品铺子,SSE,stock
 603721,SH,*ST天择,SSE,stock
 603722,SH,阿科力,SSE,stock
