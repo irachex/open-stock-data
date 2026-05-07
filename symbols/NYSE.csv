@@ -491,7 +491,7 @@ CCID,US,Carlyle Credit Income Fund 7.375% Series D Term Preferred Shares due 202
 CCIF,US,Carlyle Credit Income Fund Shares of Beneficial Interest,NYSE,stock
 CCJ,US,Cameco Corporation Common Stock,NYSE,stock
 CCK,US,Crown Holdings Inc.,NYSE,stock
-CCL,US,Carnival Corporation Common Stock,NYSE,stock
+CCL,US,Carnival Corporation Ltd. Common Shares,NYSE,stock
 CCM,US,Concord Medical Services Holdings Limited American Depositary Shares (Each represents thirty (30) Class A ordinary shares),NYSE,stock
 CCO,US,Clear Channel Outdoor Holdings Inc. Common Stock,NYSE,stock
 CCS,US,Century Communities Inc. Common Stock,NYSE,stock
@@ -655,7 +655,6 @@ CTEV,US,Claritev Corporation Class A Common Stock,NYSE,stock
 CTO,US,CTO Realty Growth Inc. Common Stock,NYSE,stock
 CTO^A,US,CTO Realty Growth Inc. 6.375% Series A Cumulative Redeemable Preferred Stock,NYSE,stock
 CTOS,US,Custom Truck One Source Inc. Common Stock,NYSE,stock
-CTRA,US,Coterra Energy Inc. Common Stock,NYSE,stock
 CTRE,US,CareTrust REIT Inc. Common Stock,NYSE,stock
 CTRI,US,Centuri Holdings Inc. Common Stock,NYSE,stock
 CTS,US,CTS Corporation Common Stock,NYSE,stock
@@ -663,7 +662,6 @@ CTVA,US,Corteva Inc. Common Stock,NYSE,stock
 CUBB,US,Customers Bancorp Inc 5.375% Subordinated Notes Due 2034,NYSE,stock
 CUBE,US,CubeSmart Common Shares,NYSE,stock
 CUBI,US,Customers Bancorp Inc Common Stock,NYSE,stock
-CUK,US,Carnival Plc ADS ADS,NYSE,stock
 CURB,US,Curbline Properties Corp. Common Stock,NYSE,stock
 CURV,US,Torrid Holdings Inc. Common Stock,NYSE,stock
 CUZ,US,Cousins Properties Incorporated Common Stock,NYSE,stock
@@ -1079,7 +1077,6 @@ GJH,US,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,NYSE,stock
 GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
 GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
-GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
 GL,US,Globe Life Inc. Common Stock,NYSE,stock
 GL^D,US,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061,NYSE,stock
@@ -1154,6 +1151,7 @@ HAE,US,Haemonetics Corporation Common Stock,NYSE,stock
 HAFN,US,Hafnia Limited Common Shares,NYSE,stock
 HAL,US,Halliburton Company Common Stock,NYSE,stock
 HASI,US,HA Sustainable Infrastructure Capital Inc. Common Stock,NYSE,stock
+HAWK,US,HawkEye 360 Inc.,NYSE,stock
 HAYW,US,Hayward Holdings Inc. Common Stock,NYSE,stock
 HBB,US,Hamilton Beach Brands Holding Company Class A Common Stock,NYSE,stock
 HBM,US,Hudbay Minerals Inc. Ordinary Shares (Canada),NYSE,stock
@@ -2008,6 +2006,7 @@ PYT,US,PPlus Tr GSC-2 Tr Ctf Fltg Rate,NYSE,stock
 Q,US,Qnity Electronics Inc. Common Stock,NYSE,stock
 QBTS,US,D-Wave Quantum Inc. Common Shares,NYSE,stock
 QGEN,US,Qiagen N.V. Common Shares,NYSE,stock
+QRED,US,QuasarEdge Acquisition Corporation,NYSE,stock
 QSR,US,Restaurant Brands International Inc. Common Shares,NYSE,stock
 QTWO,US,Q2 Holdings Inc. Common Stock,NYSE,stock
 QUAD,US,Quad Graphics Inc Class A Common Stock,NYSE,stock
@@ -2152,7 +2151,6 @@ SBS,US,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American D
 SBSI,US,Southside Bancshares Inc. Common Stock,NYSE,stock
 SBSW,US,D/B/A Sibanye-Stillwater Limited ADS,NYSE,stock
 SBXD,US,SilverBox Corp IV Class A Ordinary Shares,NYSE,stock
-SBXE,US,SilverBox Corp V Class A Ordinary Shares,NYSE,stock
 SCCO,US,Southern Copper Corporation Common Stock,NYSE,stock
 SCD,US,LMP Capital and Income Fund Inc. Common Stock,NYSE,stock
 SCE^G,US,SCE Trust II Trust Preferred Securities,NYSE,stock
