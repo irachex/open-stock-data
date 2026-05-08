@@ -344,7 +344,6 @@ BHR^B,US,Braemar Hotels & Resorts Inc. 5.50% Series B Cumulative Convertible Pre
 BHR^D,US,Braemar Hotels & Resorts Inc. 8.25% Series D Cumulative Preferred Stock  par value $0.01 per share,NYSE,stock
 BHV,US,BlackRock Virginia Municipal Bond Trust,NYSE,stock
 BHVN,US,Biohaven Ltd. Common Shares,NYSE,stock
-BIII,US,Black Spade Acquisition III Co Class A Ordinary Shares,NYSE,stock
 BILL,US,BILL Holdings Inc. Common Stock,NYSE,stock
 BIO,US,Bio-Rad Laboratories Inc. Class A Common Stock,NYSE,stock
 BIO/B,US,Bio-Rad Laboratories Inc.,NYSE,stock
@@ -800,8 +799,6 @@ ECC^D,US,Eagle Point Credit Company Inc. 6.75% Series D Preferred Stock,NYSE,sto
 ECCC,US,Eagle Point Credit Company Inc. 6.50% Series C Term Preferred Stock due 2031,NYSE,stock
 ECCU,US,Eagle Point Credit Company Inc. 7.75% Notes due 2030,NYSE,stock
 ECCV,US,Eagle Point Credit Company Inc. 5.375% Notes due 2029,NYSE,stock
-ECCW,US,Eagle Point Credit Company Inc. 6.75% Notes due 2031,NYSE,stock
-ECCX,US,Eagle Point Credit Company Inc. 6.6875% Notes due 2028,NYSE,stock
 ECG,US,Everus Construction Group Inc. Common Stock,NYSE,stock
 ECL,US,Ecolab Inc. Common Stock,NYSE,stock
 ECO,US,Okeanis Eco Tankers Corp. Common Stock,NYSE,stock
@@ -854,6 +851,7 @@ EMO,US,ClearBridge Energy Midstream Opportunity Fund Inc. Common Stock,NYSE,stoc
 EMP,US,Entergy Mississippi LLC First Mortgage Bonds 4.90% Series Due October 1 2066,NYSE,stock
 EMR,US,Emerson Electric Company Common Stock,NYSE,stock
 ENB,US,Enbridge Inc Common Stock,NYSE,stock
+ENHA,US,Enhanced Group Inc.,NYSE,stock
 ENIC,US,Enel Chile S.A. American Depositary Shares (Each representing 50 shares of Common Stock),NYSE,stock
 ENJ,US,Entergy New Orleans LLC First Mortgage Bonds 5.0% Series due December 1 2052,NYSE,stock
 ENO,US,Entergy New Orleans LLC First Mortgage Bonds 5.50% Series due April 1 2066,NYSE,stock
@@ -1151,7 +1149,7 @@ HAE,US,Haemonetics Corporation Common Stock,NYSE,stock
 HAFN,US,Hafnia Limited Common Shares,NYSE,stock
 HAL,US,Halliburton Company Common Stock,NYSE,stock
 HASI,US,HA Sustainable Infrastructure Capital Inc. Common Stock,NYSE,stock
-HAWK,US,HawkEye 360 Inc.,NYSE,stock
+HAWK,US,HawkEye 360 Inc. Common Stock,NYSE,stock
 HAYW,US,Hayward Holdings Inc. Common Stock,NYSE,stock
 HBB,US,Hamilton Beach Brands Holding Company Class A Common Stock,NYSE,stock
 HBM,US,Hudbay Minerals Inc. Ordinary Shares (Canada),NYSE,stock
@@ -2006,7 +2004,7 @@ PYT,US,PPlus Tr GSC-2 Tr Ctf Fltg Rate,NYSE,stock
 Q,US,Qnity Electronics Inc. Common Stock,NYSE,stock
 QBTS,US,D-Wave Quantum Inc. Common Shares,NYSE,stock
 QGEN,US,Qiagen N.V. Common Shares,NYSE,stock
-QRED,US,QuasarEdge Acquisition Corporation,NYSE,stock
+QRED,US,QuasarEdge Acquisition Corporation Ordinary Shares,NYSE,stock
 QSR,US,Restaurant Brands International Inc. Common Shares,NYSE,stock
 QTWO,US,Q2 Holdings Inc. Common Stock,NYSE,stock
 QUAD,US,Quad Graphics Inc Class A Common Stock,NYSE,stock
@@ -2674,7 +2672,6 @@ XYL,US,Xylem Inc. Common Stock New,NYSE,stock
 XYZ,US,Block Inc. Class A Common Stock,NYSE,stock
 XZO,US,Exzeo Group Inc. Common Stock,NYSE,stock
 YALA,US,Yalla Group Limited American Depositary Shares each representing one Class A Ordinary Share,NYSE,stock
-YCY,US,AA Mission Acquisition Corp. II Class A Ordinary Shares,NYSE,stock
 YELP,US,Yelp Inc. Common Stock,NYSE,stock
 YETI,US,YETI Holdings Inc. Common Stock,NYSE,stock
 YEXT,US,Yext Inc. Common Stock,NYSE,stock
