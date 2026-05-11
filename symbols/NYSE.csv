@@ -119,6 +119,7 @@ ALLY,US,Ally Financial Inc. Common Stock,NYSE,stock
 ALSN,US,Allison Transmission Holdings Inc. Common Stock,NYSE,stock
 ALTG,US,Alta Equipment Group Inc. Class A Common Stock,NYSE,stock
 ALTG^A,US,Alta Equipment Group Inc. Depositary Shares (each representing 1/1000th in a share of 10% Series A Cumulative Perpetual Preferred Stock),NYSE,stock
+ALUB,US,Alussa Energy Acquisition Corp. II Class A Ordinary Shares,NYSE,stock
 ALV,US,Autoliv Inc. Common Stock,NYSE,stock
 ALX,US,Alexander's Inc. Common Stock,NYSE,stock
 AM,US,Antero Midstream Corporation Common Stock,NYSE,stock
@@ -344,6 +345,7 @@ BHR^B,US,Braemar Hotels & Resorts Inc. 5.50% Series B Cumulative Convertible Pre
 BHR^D,US,Braemar Hotels & Resorts Inc. 8.25% Series D Cumulative Preferred Stock  par value $0.01 per share,NYSE,stock
 BHV,US,BlackRock Virginia Municipal Bond Trust,NYSE,stock
 BHVN,US,Biohaven Ltd. Common Shares,NYSE,stock
+BIII,US,Black Spade Acquisition III Co Class A Ordinary Shares,NYSE,stock
 BILL,US,BILL Holdings Inc. Common Stock,NYSE,stock
 BIO,US,Bio-Rad Laboratories Inc. Class A Common Stock,NYSE,stock
 BIO/B,US,Bio-Rad Laboratories Inc.,NYSE,stock
@@ -444,6 +446,7 @@ BW,US,Babcock & Wilcox Enterprises Inc. Common Stock,NYSE,stock
 BW^A,US,Babcock & Wilcox Enterprises Inc. 7.75% Series A Cumulative Perpetual Preferred Stock,NYSE,stock
 BWA,US,BorgWarner Inc. Common Stock,NYSE,stock
 BWG,US,BrandywineGLOBAL Global Income Opportunities Fund Inc.,NYSE,stock
+BWIV,US,Blue Water Acquisition Corp. IV,NYSE,stock
 BWLP,US,BW LPG Limited Common Shares,NYSE,stock
 BWMX,US,Betterware de Mexico S.A.P.I. de C.V. Ordinary Shares,NYSE,stock
 BWNB,US,Babcock & Wilcox Enterprises Inc. 6.50% Senior Notes due 2026,NYSE,stock
@@ -609,7 +612,6 @@ COMP,US,Compass Inc. Class A Common Stock,NYSE,stock
 CON,US,Concentra Group Holdings Parent Inc. Common Stock,NYSE,stock
 COOK,US,Traeger Inc. Common Stock,NYSE,stock
 COP,US,ConocoPhillips Common Stock,NYSE,stock
-COPL,US,Copley Acquisition Corp Ordinary Shares,NYSE,stock
 COR,US,Cencora Inc. Common Stock,NYSE,stock
 COSO,US,CoastalSouth Bancshares Inc. Common Stock,NYSE,stock
 COTY,US,Coty Inc. Class A Common Stock,NYSE,stock
@@ -648,8 +650,6 @@ CSV,US,Carriage Services Inc. Common Stock,NYSE,stock
 CSW,US,CSW Industrials Inc. Common Stock,NYSE,stock
 CTA^A,US,EIDP Inc. Preferred Stock $3.50 Series,NYSE,stock
 CTA^B,US,EIDP Inc. Preferred Stock $4.50 Series,NYSE,stock
-CTBB,US,Qwest Corporation 6.5% Notes due 2056,NYSE,stock
-CTDD,US,Qwest Corporation 6.75% Notes due 2057,NYSE,stock
 CTEV,US,Claritev Corporation Class A Common Stock,NYSE,stock
 CTO,US,CTO Realty Growth Inc. Common Stock,NYSE,stock
 CTO^A,US,CTO Realty Growth Inc. 6.375% Series A Cumulative Redeemable Preferred Stock,NYSE,stock
@@ -851,7 +851,7 @@ EMO,US,ClearBridge Energy Midstream Opportunity Fund Inc. Common Stock,NYSE,stoc
 EMP,US,Entergy Mississippi LLC First Mortgage Bonds 4.90% Series Due October 1 2066,NYSE,stock
 EMR,US,Emerson Electric Company Common Stock,NYSE,stock
 ENB,US,Enbridge Inc Common Stock,NYSE,stock
-ENHA,US,Enhanced Group Inc.,NYSE,stock
+ENHA,US,Enhanced Group Inc. Class A Common Stock,NYSE,stock
 ENIC,US,Enel Chile S.A. American Depositary Shares (Each representing 50 shares of Common Stock),NYSE,stock
 ENJ,US,Entergy New Orleans LLC First Mortgage Bonds 5.0% Series due December 1 2052,NYSE,stock
 ENO,US,Entergy New Orleans LLC First Mortgage Bonds 5.50% Series due April 1 2066,NYSE,stock
@@ -1073,7 +1073,6 @@ GIL,US,Gildan Activewear Inc. Class A Sub. Vot. Common Stock,NYSE,stock
 GIS,US,General Mills Inc. Common Stock,NYSE,stock
 GJH,US,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,NYSE,stock
 GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
-GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
 GL,US,Globe Life Inc. Common Stock,NYSE,stock
@@ -1844,7 +1843,6 @@ PACS,US,PACS Group Inc. Common Stock,NYSE,stock
 PAG,US,Penske Automotive Group Inc. Common Stock,NYSE,stock
 PAGS,US,PagSeguro Digital Ltd. Class A Common Shares,NYSE,stock
 PAI,US,Western Asset Investment Grade Income Fund Inc.,NYSE,stock
-PAII,US,Pyrophyte Acquisition Corp. II Class A Ordinary Shares,NYSE,stock
 PAM,US,Pampa Energia S.A.,NYSE,stock
 PAR,US,PAR Technology Corporation Common Stock,NYSE,stock
 PARR,US,Par Pacific Holdings Inc.  Common Stock,NYSE,stock
@@ -2013,6 +2011,7 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
+RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
@@ -2672,6 +2671,7 @@ XYL,US,Xylem Inc. Common Stock New,NYSE,stock
 XYZ,US,Block Inc. Class A Common Stock,NYSE,stock
 XZO,US,Exzeo Group Inc. Common Stock,NYSE,stock
 YALA,US,Yalla Group Limited American Depositary Shares each representing one Class A Ordinary Share,NYSE,stock
+YCY,US,AA Mission Acquisition Corp. II Class A Ordinary Shares,NYSE,stock
 YELP,US,Yelp Inc. Common Stock,NYSE,stock
 YETI,US,YETI Holdings Inc. Common Stock,NYSE,stock
 YEXT,US,Yext Inc. Common Stock,NYSE,stock
