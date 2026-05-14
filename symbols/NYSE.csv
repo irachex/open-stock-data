@@ -345,6 +345,7 @@ BHR^B,US,Braemar Hotels & Resorts Inc. 5.50% Series B Cumulative Convertible Pre
 BHR^D,US,Braemar Hotels & Resorts Inc. 8.25% Series D Cumulative Preferred Stock  par value $0.01 per share,NYSE,stock
 BHV,US,BlackRock Virginia Municipal Bond Trust,NYSE,stock
 BHVN,US,Biohaven Ltd. Common Shares,NYSE,stock
+BIII,US,Black Spade Acquisition III Co Class A Ordinary Shares,NYSE,stock
 BILL,US,BILL Holdings Inc. Common Stock,NYSE,stock
 BIO,US,Bio-Rad Laboratories Inc. Class A Common Stock,NYSE,stock
 BIO/B,US,Bio-Rad Laboratories Inc.,NYSE,stock
@@ -452,6 +453,7 @@ BWNB,US,Babcock & Wilcox Enterprises Inc. 6.50% Senior Notes due 2026,NYSE,stock
 BWXT,US,BWX Technologies Inc. Common Stock,NYSE,stock
 BX,US,Blackstone Inc. Common Stock,NYSE,stock
 BXC,US,Bluelinx Holdings Inc. Common Stock,NYSE,stock
+BXDC,US,Blackstone Digital Infrastructure Trust Inc.,NYSE,stock
 BXMT,US,Blackstone Mortgage Trust Inc. Common Stock,NYSE,stock
 BXP,US,BXP Inc. Common Stock,NYSE,stock
 BXSL,US,Blackstone Secured Lending Fund Common Shares of Beneficial Interest,NYSE,stock
@@ -881,6 +883,7 @@ EQR,US,Equity Residential Common Shares of Beneficial Interest,NYSE,stock
 EQS,US,Equus Total Return Inc. Common Stock,NYSE,stock
 EQT,US,EQT Corporation Common Stock,NYSE,stock
 ERO,US,Ero Copper Corp. Common Shares,NYSE,stock
+EROK,US,EagleRock Land LLC,NYSE,stock
 ES,US,Eversource Energy (D/B/A) Common Stock,NYSE,stock
 ESAB,US,ESAB Corporation Common Stock,NYSE,stock
 ESE,US,ESCO Technologies Inc. Common Stock,NYSE,stock
@@ -1087,7 +1090,7 @@ GLW,US,Corning Incorporated Common Stock,NYSE,stock
 GM,US,General Motors Company Common Stock,NYSE,stock
 GME,US,GameStop Corporation Common Stock,NYSE,stock
 GMED,US,Globus Medical Inc. Class A Common Stock,NYSE,stock
-GMRS,US,GMR Solutions Inc.,NYSE,stock
+GMRS,US,GMR Solutions Inc. Class A Common Stock,NYSE,stock
 GNE,US,Genie Energy Ltd. Class B Common Stock Stock,NYSE,stock
 GNK,US,Genco Shipping & Trading Limited Ordinary Shares New (Marshall Islands),NYSE,stock
 GNL,US,Global Net Lease Inc. Common Stock,NYSE,stock
@@ -1313,6 +1316,7 @@ JCE,US,Nuveen Core Equity Alpha Fund Common Shares of Beneficial Interest,NYSE,s
 JCI,US,Johnson Controls International plc Ordinary Share,NYSE,stock
 JEF,US,Jefferies Financial Group Inc. Common Stock,NYSE,stock
 JELD,US,JELD-WEN Holding Inc. Common Stock,NYSE,stock
+JENA,US,Jena Acquisition Corporation II Class A Ordinary Shares,NYSE,stock
 JFR,US,Nuveen Floating Rate Income Fund Common Stock,NYSE,stock
 JGH,US,Nuveen Global High Income Fund Common Shares of Beneficial Interest,NYSE,stock
 JHG,US,Janus Henderson Group plc Ordinary Shares,NYSE,stock
@@ -2149,6 +2153,7 @@ SBS,US,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American D
 SBSI,US,Southside Bancshares Inc. Common Stock,NYSE,stock
 SBSW,US,D/B/A Sibanye-Stillwater Limited ADS,NYSE,stock
 SBXD,US,SilverBox Corp IV Class A Ordinary Shares,NYSE,stock
+SBXE,US,SilverBox Corp V Class A Ordinary Shares,NYSE,stock
 SCCO,US,Southern Copper Corporation Common Stock,NYSE,stock
 SCD,US,LMP Capital and Income Fund Inc. Common Stock,NYSE,stock
 SCE^G,US,SCE Trust II Trust Preferred Securities,NYSE,stock
@@ -2275,7 +2280,6 @@ SRG,US,Seritage Growth Properties Class A Common Stock,NYSE,stock
 SRG^A,US,Seritage Growth Properties 7.00% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest,NYSE,stock
 SRI,US,Stoneridge Inc. Common Stock,NYSE,stock
 SRJN,US,Spire Inc. 6.375% Junior Subordinated Notes due 2086,NYSE,stock
-SRL,US,Scully Royalty Ltd.,NYSE,stock
 SRV,US,NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest,NYSE,stock
 SSB,US,SouthState Bank Corporation Common Stock,NYSE,stock
 SSD,US,Simpson Manufacturing Company Inc. Common Stock,NYSE,stock
@@ -2399,7 +2403,6 @@ TOL,US,Toll Brothers Inc. Common Stock,NYSE,stock
 TOST,US,Toast Inc. Class A Common Stock,NYSE,stock
 TPB,US,Turning Point Brands Inc. Common Stock,NYSE,stock
 TPC,US,Tutor Perini Corporation Common Stock,NYSE,stock
-TPH,US,Tri Pointe Homes Inc. Common Stock,NYSE,stock
 TPL,US,Texas Pacific Land Corporation Common Stock,NYSE,stock
 TPR,US,Tapestry Inc. Common Stock,NYSE,stock
 TPTA,US,Terra Property Trust Inc. 6.00% Notes due 2026,NYSE,stock
@@ -2595,7 +2598,7 @@ WEA,US,Western Asset Bond Fund Share of Beneficial Interest,NYSE,stock
 WEAV,US,Weave Communications Inc. Common Stock,NYSE,stock
 WEC,US,WEC Energy Group Inc. Common Stock,NYSE,stock
 WELL,US,Welltower Inc. Common Stock,NYSE,stock
-WENC,US,West Enclave Merger Corp.,NYSE,stock
+WENC,US,West Enclave Merger Corp. Ordinary Shares,NYSE,stock
 WES,US,Western Midstream Partners LP Common Units Representing Limited Partner Interests,NYSE,stock
 WEX,US,WEX Inc. common stock,NYSE,stock
 WF,US,Woori Financial Group Inc. American Depositary Shares (each representing three (3) shares of Common Stock),NYSE,stock
