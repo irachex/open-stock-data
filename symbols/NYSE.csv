@@ -1364,7 +1364,6 @@ KEY^L,US,KeyCorp Depositary Shares each representing a 1/40th ownership interest
 KEYS,US,Keysight Technologies Inc. Common Stock,NYSE,stock
 KF,US,Korea Fund Inc. (The) New Common Stock,NYSE,stock
 KFRC,US,Kforce Inc. Common Stock,NYSE,stock
-KFS,US,Kingsway Financial Services Inc. Common Stock (DE),NYSE,stock
 KFY,US,Korn Ferry Common Stock,NYSE,stock
 KGC,US,Kinross Gold Corporation Common Stock,NYSE,stock
 KGS,US,Kodiak Gas Services Inc. Common Stock,NYSE,stock
@@ -1415,6 +1414,7 @@ KVUE,US,Kenvue Inc. Common Stock,NYSE,stock
 KVYO,US,Klaviyo Inc. Series A Common Stock,NYSE,stock
 KW,US,Kennedy-Wilson Holdings Inc. Common Stock,NYSE,stock
 KWR,US,Quaker Houghton Common Stock,NYSE,stock
+KWY,US,Kingsway Corporation,NYSE,stock
 KYN,US,Kayne Anderson Energy Infrastructure Fund Inc.,NYSE,stock
 L,US,Loews Corporation Common Stock,NYSE,stock
 LAC,US,Lithium Americas Corp. Common Shares,NYSE,stock
@@ -2016,7 +2016,6 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
-RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
@@ -2153,7 +2152,6 @@ SBS,US,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American D
 SBSI,US,Southside Bancshares Inc. Common Stock,NYSE,stock
 SBSW,US,D/B/A Sibanye-Stillwater Limited ADS,NYSE,stock
 SBXD,US,SilverBox Corp IV Class A Ordinary Shares,NYSE,stock
-SBXE,US,SilverBox Corp V Class A Ordinary Shares,NYSE,stock
 SCCO,US,Southern Copper Corporation Common Stock,NYSE,stock
 SCD,US,LMP Capital and Income Fund Inc. Common Stock,NYSE,stock
 SCE^G,US,SCE Trust II Trust Preferred Securities,NYSE,stock
@@ -2523,6 +2521,7 @@ VATE,US,INNOVATE Corp. Common Stock,NYSE,stock
 VBF,US,Invesco Bond Fund Common Stock,NYSE,stock
 VCV,US,Invesco California Value Municipal Income Trust Common Stock,NYSE,stock
 VCX,US,Fundrise Innovation Fund LLC Common Shares of Limited Liability Company Interests,NYSE,stock
+VECA,US,Vernal Capital Acquisition Corp.,NYSE,stock
 VEEV,US,Veeva Systems Inc. Class A Common Stock,NYSE,stock
 VEL,US,Velocity Financial Inc. Common Stock,NYSE,stock
 VET,US,Vermilion Energy Inc. Common (Canada),NYSE,stock
