@@ -1414,7 +1414,7 @@ KVUE,US,Kenvue Inc. Common Stock,NYSE,stock
 KVYO,US,Klaviyo Inc. Series A Common Stock,NYSE,stock
 KW,US,Kennedy-Wilson Holdings Inc. Common Stock,NYSE,stock
 KWR,US,Quaker Houghton Common Stock,NYSE,stock
-KWY,US,Kingsway Corporation,NYSE,stock
+KWY,US,Kingsway Corporation Common Stock,NYSE,stock
 KYN,US,Kayne Anderson Energy Infrastructure Fund Inc.,NYSE,stock
 L,US,Loews Corporation Common Stock,NYSE,stock
 LAC,US,Lithium Americas Corp. Common Shares,NYSE,stock
@@ -1428,6 +1428,7 @@ LB,US,LandBridge Company LLC Class A Shares Representing Limited Liability Compa
 LBRT,US,Liberty Energy Inc. Class A common stock,NYSE,stock
 LC,US,LendingClub Corporation Common Stock,NYSE,stock
 LCII,US,LCI Industries,NYSE,stock
+LCLN,US,Lincoln International Inc.,NYSE,stock
 LDI,US,loanDepot Inc. Class A Common Stock,NYSE,stock
 LDOS,US,Leidos Holdings Inc. Common Stock,NYSE,stock
 LDP,US,Cohen & Steers Limited Duration Preferred and Income Fund Inc.,NYSE,stock
@@ -2016,6 +2017,7 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
+RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
@@ -2521,7 +2523,7 @@ VATE,US,INNOVATE Corp. Common Stock,NYSE,stock
 VBF,US,Invesco Bond Fund Common Stock,NYSE,stock
 VCV,US,Invesco California Value Municipal Income Trust Common Stock,NYSE,stock
 VCX,US,Fundrise Innovation Fund LLC Common Shares of Limited Liability Company Interests,NYSE,stock
-VECA,US,Vernal Capital Acquisition Corp.,NYSE,stock
+VECA,US,Vernal Capital Acquisition Corp. Ordinary Shares,NYSE,stock
 VEEV,US,Veeva Systems Inc. Class A Common Stock,NYSE,stock
 VEL,US,Velocity Financial Inc. Common Stock,NYSE,stock
 VET,US,Vermilion Energy Inc. Common (Canada),NYSE,stock
