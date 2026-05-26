@@ -71,7 +71,7 @@ AGM^E,US,Federal Agricultural Mortgage Corporation 5.750% Non-Cumulative Preferr
 AGM^F,US,Federal Agricultural Mortgage Corporation 5.250% Non-Cumulative Preferred Stock Series F,NYSE,stock
 AGM^G,US,Federal Agricultural Mortgage Corporation 4.875% Non-Cumulative Preferred Stock Series G,NYSE,stock
 AGM^H,US,Federal Agricultural Mortgage Corporation 6.500% Non-Cumulative Preferred Stock Series H,NYSE,stock
-AGM^I,US,Federal Agricultural Mortgage Corporation,NYSE,stock
+AGM^I,US,Federal Agricultural Mortgage Corporation 6.875% Non-Cumulative Preferred Stock Series I,NYSE,stock
 AGO,US,Assured Guaranty Ltd. Common Stock,NYSE,stock
 AGRO,US,Adecoagro S.A. Common Shares,NYSE,stock
 AGX,US,Argan Inc. Common Stock,NYSE,stock
@@ -941,7 +941,6 @@ FCF,US,First Commonwealth Financial Corporation Common Stock,NYSE,stock
 FCN,US,FTI Consulting Inc. Common Stock,NYSE,stock
 FCPT,US,Four Corners Property Trust Inc. Common Stock,NYSE,stock
 FCRS,US,FutureCrest Acquisition Corp. Class A Ordinary Shares,NYSE,stock
-FCRX,US,Crescent Capital BDC Inc. 5.00% Notes due 2026,NYSE,stock
 FCT,US,First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest,NYSE,stock
 FCX,US,Freeport-McMoRan Inc. Common Stock,NYSE,stock
 FDP,US,Fresh Del Monte Produce Inc. Common Stock,NYSE,stock
@@ -1073,6 +1072,7 @@ GIC,US,Global Industrial Company Common Stock,NYSE,stock
 GIL,US,Gildan Activewear Inc. Class A Sub. Vot. Common Stock,NYSE,stock
 GIS,US,General Mills Inc. Common Stock,NYSE,stock
 GJH,US,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,NYSE,stock
+GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
 GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
 GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
@@ -2007,7 +2007,6 @@ PYT,US,PPlus Tr GSC-2 Tr Ctf Fltg Rate,NYSE,stock
 Q,US,Qnity Electronics Inc. Common Stock,NYSE,stock
 QBTS,US,D-Wave Quantum Inc. Common Shares,NYSE,stock
 QGEN,US,Qiagen N.V. Common Shares,NYSE,stock
-QRED,US,QuasarEdge Acquisition Corporation Ordinary Shares,NYSE,stock
 QSR,US,Restaurant Brands International Inc. Common Shares,NYSE,stock
 QTWO,US,Q2 Holdings Inc. Common Stock,NYSE,stock
 QUAD,US,Quad Graphics Inc Class A Common Stock,NYSE,stock
@@ -2132,7 +2131,7 @@ SA,US,Seabridge Gold Inc. Ordinary Shares (Canada),NYSE,stock
 SABA,US,Saba Capital Income & Opportunities Fund II Shares of Beneficial Interest,NYSE,stock
 SAC,US,Safeguard Acquisition Corp. Class A Ordinary Shares,NYSE,stock
 SAFE,US,Safehold Inc. New Common Stock,NYSE,stock
-SAGU,US,Shreya Acquisition Group,NYSE,stock
+SAGU,US,Shreya Acquisition Group Class A Ordinary Shares,NYSE,stock
 SAH,US,Sonic Automotive Inc. Common Stock,NYSE,stock
 SAJ,US,Saratoga Investment Corp 8.00% Notes due 2027,NYSE,stock
 SAM,US,Boston Beer Company Inc. (The) Common Stock,NYSE,stock
