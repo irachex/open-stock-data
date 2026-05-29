@@ -72,7 +72,6 @@ DXF,US,Eason Technology Limited American Depositary Shares (each representing si
 EAD,US,Allspring Income Opportunities Fund Common Shares,AMEX,stock
 ECF,US,Ellsworth Growth and Income Fund Ltd.,AMEX,stock
 ECF^A,US,Ellsworth Growth and Income Fund Ltd. 5.25% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share),AMEX,stock
-EGG,US,Enigmatig Limited Class A Ordinary Shares,AMEX,stock
 EIM,US,Eaton Vance Municipal Bond Fund Common Shares of Beneficial Interest $.01 par value,AMEX,stock
 ELA,US,Envela Corporation Common Stock,AMEX,stock
 ELLO,US,Ellomay Capital Ltd Ordinary Shares (Israel),AMEX,stock
@@ -187,6 +186,7 @@ NRO,US,Neuberger Real Estate Securities Income Fund Inc. Common Stock,AMEX,stock
 NRXS,US,Neuraxis Inc. Common Stock,AMEX,stock
 NSRX,US,Nasus Pharma Ltd. Ordinary Shares,AMEX,stock
 NTIP,US,Network-1 Technologies Inc. Common Stock,AMEX,stock
+NXB,US,NextBoat Inc.,AMEX,stock
 OBE,US,Obsidian Energy Ltd. Common Shares,AMEX,stock
 OGEN,US,Oragenics Inc. Common Stock,AMEX,stock
 OPHC,US,OptimumBank Holdings Inc. Common Stock,AMEX,stock
@@ -194,7 +194,6 @@ OPP^C,US,RiverNorth/DoubleLine Strategic Opportunity Fund Inc. 6.00% Series C Te
 OPTT,US,Ocean Power Technologies Inc. Common Stock,AMEX,stock
 ORLA,US,Orla Mining Ltd. Common Shares,AMEX,stock
 OSTX,US,OS Therapies Incorporated Common Stock,AMEX,stock
-OTH,US,Off The Hook YS Inc. Common Stock,AMEX,stock
 OZ,US,Belpointe PREP LLC Class A Units,AMEX,stock
 PAPL,US,Pineapple Financial Inc. Common Stock,AMEX,stock
 PCG^A,US,Pacific Gas & Electric Co. 6% Preferred Stock,AMEX,stock
@@ -216,7 +215,6 @@ PMNT,US,Perfect Moment Ltd. Common Stock,AMEX,stock
 POAS,US,Phaos Technology Holdings (Cayman) Limited Class A Ordinary Shares,AMEX,stock
 PRK,US,Park National Corporation Common Stock,AMEX,stock
 PTHS,US,Pelthos Therapeutics Inc. Common Stock,AMEX,stock
-PTN,US,Palatin Technologies Inc. Common Stock,AMEX,stock
 PW,US,Power REIT (MD) Common Stock,AMEX,stock
 PW^A,US,Power REIT 7.75% Series A Cumulative Perpetual Preferred Stock,AMEX,stock
 PZG,US,Paramount Gold Nevada Corp. Common Stock,AMEX,stock
