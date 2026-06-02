@@ -615,7 +615,6 @@ COMP,US,Compass Inc. Class A Common Stock,NYSE,stock
 CON,US,Concentra Group Holdings Parent Inc. Common Stock,NYSE,stock
 COOK,US,Traeger Inc. Common Stock,NYSE,stock
 COP,US,ConocoPhillips Common Stock,NYSE,stock
-COPL,US,Copley Acquisition Corp Ordinary Shares,NYSE,stock
 COR,US,Cencora Inc. Common Stock,NYSE,stock
 COSO,US,CoastalSouth Bancshares Inc. Common Stock,NYSE,stock
 COTY,US,Coty Inc. Class A Common Stock,NYSE,stock
@@ -705,12 +704,12 @@ DBRG,US,DigitalBridge Group Inc.,NYSE,stock
 DBRG^H,US,DigitalBridge Group Inc. 7.125% Series H,NYSE,stock
 DBRG^I,US,DigitalBridge Group Inc. 7.15% Series I,NYSE,stock
 DBRG^J,US,DigitalBridge Group Inc. 7.125% Series J,NYSE,stock
-DCBG,US,Dime Community Bancshares Inc. 9.000% Fixed-to-Floating Rate Subordinated Notes due 2034,NYSE,stock
+DCBG,US,Dime Commercial Bancshares Inc. 9.000% Junior Subordinated Notes,NYSE,stock
 DCH,US,Dauch Corporation Common Stock,NYSE,stock
 DCI,US,Donaldson Company Inc. Common Stock,NYSE,stock
 DCO,US,Ducommun Incorporated Common Stock,NYSE,stock
-DCOM,US,Dime Community Bancshares Inc. Common Stock,NYSE,stock
-DCOM^,US,Dime Community Bancshares Inc. Fixed-Rate Non-Cumulative Perpetual Preferred Stock Series A,NYSE,stock
+DCOM,US,Dime Commercial Bancshares Inc. Common Stock,NYSE,stock
+DCOM^,US,Dime Commercial Bancshares Inc. Preferred Stock Series A,NYSE,stock
 DD,US,DuPont de Nemours Inc. Common Stock,NYSE,stock
 DDD,US,3D Systems Corporation Common Stock,NYSE,stock
 DDL,US,Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares),NYSE,stock
@@ -948,7 +947,7 @@ FCX,US,Freeport-McMoRan Inc. Common Stock,NYSE,stock
 FDP,US,Fresh Del Monte Produce Inc. Common Stock,NYSE,stock
 FDS,US,FactSet Research Systems Inc. Common Stock,NYSE,stock
 FDX,US,FedEx Corporation Common Stock,NYSE,stock
-FDXF,US,FedEx Freight Holding Company Inc.,NYSE,stock
+FDXF,US,FedEx Freight Holding Company Inc. Common Stock,NYSE,stock
 FE,US,FirstEnergy Corp. Common Stock,NYSE,stock
 FEDU,US,Four Seasons Education (Cayman) Inc. American Depositary Shares each ADS representing 10 ordinary shares,NYSE,stock
 FENG,US,Phoenix New Media Limited American Depositary Shares each representing 48 Class A ordinary shares.,NYSE,stock
@@ -1082,7 +1081,6 @@ GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackage
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
 GL,US,Globe Life Inc. Common Stock,NYSE,stock
 GL^D,US,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061,NYSE,stock
-GLED,US,GalaxyEdge Acquisition Corporation Ordinary Shares,NYSE,stock
 GLOB,US,Globant S.A. Common Shares,NYSE,stock
 GLOP^A,US,GasLog Partners LP 8.625% Series A Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,NYSE,stock
 GLOP^B,US,GasLog Partners LP 8.200% Series B Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,NYSE,stock
@@ -1311,7 +1309,6 @@ JACS,US,Jackson Acquisition Company II Class A Ordinary Shares,NYSE,stock
 JAN,US,Janus Living Inc. Class A-1 Common Stock,NYSE,stock
 JBGS,US,JBG SMITH Properties Common Shares,NYSE,stock
 JBI,US,Janus International Group Inc. Common Stock,NYSE,stock
-JBK,US,Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I,NYSE,stock
 JBL,US,Jabil Inc. Common Stock,NYSE,stock
 JBS,US,JBS N.V. Class A Common Shares,NYSE,stock
 JBTM,US,JBT Marel Corporation Common Stock,NYSE,stock
@@ -1766,6 +1763,7 @@ NVG,US,Nuveen AMT-Free Municipal Credit Income Fund,NYSE,stock
 NVGS,US,Navigator Holdings Ltd. Ordinary Shares (Marshall Islands),NYSE,stock
 NVO,US,Novo Nordisk A/S Common Stock,NYSE,stock
 NVR,US,NVR Inc. Common Stock,NYSE,stock
+NVRI,US,Enviri Corporation,NYSE,stock
 NVS,US,Novartis AG Common Stock,NYSE,stock
 NVST,US,Envista Holdings Corporation Common Stock,NYSE,stock
 NVT,US,nVent Electric plc Ordinary Shares,NYSE,stock
@@ -2566,10 +2564,10 @@ VPG,US,Vishay Precision Group Inc. Common Stock,NYSE,stock
 VPV,US,Invesco Pennsylvania Value Municipal Income Trust Common Stock (DE),NYSE,stock
 VRT,US,Vertiv Holdings LLC Class A Common Stock,NYSE,stock
 VRTS,US,Virtus Investment Partners Inc. Common Stock,NYSE,stock
-VSCO,US,Victorias Secret & Co. Common Stock,NYSE,stock
 VSH,US,Vishay Intertechnology Inc. Common Stock,NYSE,stock
 VST,US,Vistra Corp. Common Stock,NYSE,stock
 VSTS,US,Vestis Corporation Common Stock,NYSE,stock
+VSXY,US,Victorias Secret & Co.,NYSE,stock
 VTEX,US,VTEX Class A Common Shares,NYSE,stock
 VTMX,US,Corporacion Inmobiliaria Vesta S.A.B de C.V. American Depositary Shares each representing ten (10) Common Shares,NYSE,stock
 VTN,US,Invesco Trust for Investment Grade New York Municipals Common Stock,NYSE,stock
