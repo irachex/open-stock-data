@@ -242,7 +242,6 @@ AWP,US,abrdn Global Premier Properties Fund Common Shares of Beneficial Interest
 AWR,US,American States Water Company Common Stock,NYSE,stock
 AX,US,Axos Financial Inc. Common Stock,NYSE,stock
 AXIA,US,AXIA Energia American Depositary Shares (Each representing one Common Share),NYSE,stock
-AXIA^,US,AXIA Energia AXIA Energia American Depositary Shares (Each representing one Preferred Class B1 Share),NYSE,stock
 AXIA^C,US,AXIA Energia American Depositary Shares each representing one Preferred Class C Share,NYSE,stock
 AXP,US,American Express Company Common Stock,NYSE,stock
 AXR,US,AMREP Corporation Common Stock,NYSE,stock
@@ -308,6 +307,7 @@ BDJ,US,Blackrock Enhanced Equity Dividend Trust,NYSE,stock
 BDN,US,Brandywine Realty Trust Common Stock,NYSE,stock
 BDX,US,Becton Dickinson and Company Common Stock,NYSE,stock
 BE,US,Bloom Energy Corporation Class A Common Stock,NYSE,stock
+BEBE,US,TGE Value Creative Solutions Corp Class A Ordinary Shares,NYSE,stock
 BEKE,US,KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),NYSE,stock
 BEN,US,Franklin Resources Inc. Common Stock,NYSE,stock
 BEP,US,Brookfield Renewable Partners L.P. Limited Partnership Units,NYSE,stock
@@ -582,7 +582,6 @@ CMSA,US,CMS Energy Corporation 5.625% Junior Subordinated Notes due 2078,NYSE,st
 CMSC,US,CMS Energy Corporation 5.875% Junior Subordinated Notes due 2078,NYSE,stock
 CMSD,US,CMS Energy Corporation 5.875% Junior Subordinated Notes due 2079,NYSE,stock
 CMTG,US,Claros Mortgage Trust Inc. Common Stock,NYSE,stock
-CMU,US,MFS Municipal Income Trust Common Stock,NYSE,stock
 CNA,US,CNA Financial Corporation Common Stock,NYSE,stock
 CNC,US,Centene Corporation Common Stock,NYSE,stock
 CNF,US,CNFinance Holdings Limited American Depositary Shares each representing two hundred (200) Ordinary Shares,NYSE,stock
@@ -683,8 +682,6 @@ CWH,US,Camping World Holdings Inc. Class A Common Stock,NYSE,stock
 CWK,US,Cushman & Wakefield Ltd. Common Shares,NYSE,stock
 CWT,US,California Water Service Group Common Stock,NYSE,stock
 CX,US,Cemex S.A.B. de C.V. Sponsored ADR,NYSE,stock
-CXE,US,MFS High Income Municipal Trust Common Stock,NYSE,stock
-CXH,US,MFS Investment Grade Municipal Trust Common Stock,NYSE,stock
 CXM,US,Sprinklr Inc. Class A Common Stock,NYSE,stock
 CXT,US,Crane NXT Co. Common Stock,NYSE,stock
 CXW,US,CoreCivic Inc. Common Stock,NYSE,stock
@@ -854,7 +851,6 @@ EMR,US,Emerson Electric Company Common Stock,NYSE,stock
 ENB,US,Enbridge Inc Common Stock,NYSE,stock
 ENHA,US,Enhanced Group Inc. Class A Common Stock,NYSE,stock
 ENIC,US,Enel Chile S.A. American Depositary Shares (Each representing 50 shares of Common Stock),NYSE,stock
-ENJ,US,Entergy New Orleans LLC First Mortgage Bonds 5.0% Series due December 1 2052,NYSE,stock
 ENO,US,Entergy New Orleans LLC First Mortgage Bonds 5.50% Series due April 1 2066,NYSE,stock
 ENOV,US,Enovis Corporation Common Stock,NYSE,stock
 ENR,US,Energizer Holdings Inc. Common Stock,NYSE,stock
@@ -1074,14 +1070,13 @@ GIC,US,Global Industrial Company Common Stock,NYSE,stock
 GIL,US,Gildan Activewear Inc. Class A Sub. Vot. Common Stock,NYSE,stock
 GIS,US,General Mills Inc. Common Stock,NYSE,stock
 GJH,US,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,NYSE,stock
-GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores Inc. Securities Series 2004-5,NYSE,stock
 GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
 GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
+GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
 GL,US,Globe Life Inc. Common Stock,NYSE,stock
 GL^D,US,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061,NYSE,stock
-GLED,US,GalaxyEdge Acquisition Corporation Ordinary Shares,NYSE,stock
 GLOB,US,Globant S.A. Common Shares,NYSE,stock
 GLOP^A,US,GasLog Partners LP 8.625% Series A Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,NYSE,stock
 GLOP^B,US,GasLog Partners LP 8.200% Series B Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,NYSE,stock
@@ -1534,7 +1529,7 @@ MFAN,US,MFA Financial Inc. 8.875% Senior Notes due 2029,NYSE,stock
 MFAO,US,MFA Financial Inc. 9.000% Senior Notes due 2029,NYSE,stock
 MFC,US,Manulife Financial Corporation Common Stock,NYSE,stock
 MFG,US,Mizuho Financial Group Inc. Sponosred ADR (Japan),NYSE,stock
-MFM,US,MFS Municipal Income Trust Common Stock,NYSE,stock
+MFM,US,Aberdeen Municipal Income Fund Common Shares of Beneficial Interest,NYSE,stock
 MG,US,Mistras Group Inc Common Stock,NYSE,stock
 MGA,US,Magna International Inc. Common Stock,NYSE,stock
 MGF,US,MFS Government Markets Income Trust Common Stock,NYSE,stock
@@ -2019,7 +2014,6 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
-RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
@@ -2528,7 +2522,6 @@ VATE,US,INNOVATE Corp. Common Stock,NYSE,stock
 VBF,US,Invesco Bond Fund Common Stock,NYSE,stock
 VCV,US,Invesco California Value Municipal Income Trust Common Stock,NYSE,stock
 VCX,US,Fundrise Innovation Fund LLC Common Shares of Limited Liability Company Interests,NYSE,stock
-VECA,US,Vernal Capital Acquisition Corp. Ordinary Shares,NYSE,stock
 VEEV,US,Veeva Systems Inc. Class A Common Stock,NYSE,stock
 VEL,US,Velocity Financial Inc. Common Stock,NYSE,stock
 VET,US,Vermilion Energy Inc. Common (Canada),NYSE,stock
