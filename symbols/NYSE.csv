@@ -881,6 +881,7 @@ EQR,US,Equity Residential Common Shares of Beneficial Interest,NYSE,stock
 EQS,US,Equus Total Return Inc. Common Stock,NYSE,stock
 EQT,US,EQT Corporation Common Stock,NYSE,stock
 ERO,US,Ero Copper Corp. Common Shares,NYSE,stock
+EROC,US,ERock Inc.,NYSE,stock
 EROK,US,EagleRock Land LLC Class A shares representing limited liability company interests,NYSE,stock
 ES,US,Eversource Energy (D/B/A) Common Stock,NYSE,stock
 ESAB,US,ESAB Corporation Common Stock,NYSE,stock
@@ -1075,7 +1076,6 @@ GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for 
 GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
 GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
-GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
 GL,US,Globe Life Inc. Common Stock,NYSE,stock
 GL^D,US,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061,NYSE,stock
@@ -1308,6 +1308,7 @@ JACS,US,Jackson Acquisition Company II Class A Ordinary Shares,NYSE,stock
 JAN,US,Janus Living Inc. Class A-1 Common Stock,NYSE,stock
 JBGS,US,JBG SMITH Properties Common Shares,NYSE,stock
 JBI,US,Janus International Group Inc. Common Stock,NYSE,stock
+JBK,US,Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I,NYSE,stock
 JBL,US,Jabil Inc. Common Stock,NYSE,stock
 JBS,US,JBS N.V. Class A Common Shares,NYSE,stock
 JBTM,US,JBT Marel Corporation Common Stock,NYSE,stock
@@ -1393,7 +1394,6 @@ KOF,US,Coca Cola Femsa S.A.B. de C.V.  American Depositary Shares each represent
 KOP,US,Koppers Holdings Inc. Common Stock,NYSE,stock
 KORE,US,KORE Group Holdings Inc. Common Stock,NYSE,stock
 KOS,US,Kosmos Energy Ltd. Common Shares (DE),NYSE,stock
-KPET,US,KPET Ultra Paceline Corporation Class A Ordinary Shares,NYSE,stock
 KR,US,Kroger Company (The) Common Stock,NYSE,stock
 KRC,US,Kilroy Realty Corporation Common Stock,NYSE,stock
 KREF,US,KKR Real Estate Finance Trust Inc. Common Stock,NYSE,stock
@@ -2017,6 +2017,7 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
+RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
@@ -2415,6 +2416,7 @@ TRAK,US,ReposiTrak Inc. Common Stock,NYSE,stock
 TRC,US,Tejon Ranch Co Common Stock,NYSE,stock
 TREX,US,Trex Company Inc. Common Stock,NYSE,stock
 TRGP,US,Targa Resources Inc. Common Stock,NYSE,stock
+TRLV,US,Trulieve Cannabis Corp.,NYSE,stock
 TRN,US,Trinity Industries Inc. Common Stock,NYSE,stock
 TRNO,US,Terreno Realty Corporation Common Stock,NYSE,stock
 TROX,US,Tronox Holdings plc Ordinary Shares (UK),NYSE,stock
@@ -2525,7 +2527,6 @@ VATE,US,INNOVATE Corp. Common Stock,NYSE,stock
 VBF,US,Invesco Bond Fund Common Stock,NYSE,stock
 VCV,US,Invesco California Value Municipal Income Trust Common Stock,NYSE,stock
 VCX,US,Fundrise Innovation Fund LLC Common Shares of Limited Liability Company Interests,NYSE,stock
-VECA,US,Vernal Capital Acquisition Corp. Ordinary Shares,NYSE,stock
 VEEV,US,Veeva Systems Inc. Class A Common Stock,NYSE,stock
 VEL,US,Velocity Financial Inc. Common Stock,NYSE,stock
 VET,US,Vermilion Energy Inc. Common (Canada),NYSE,stock
@@ -2616,7 +2617,7 @@ WGO,US,Winnebago Industries Inc. Common Stock,NYSE,stock
 WH,US,Wyndham Hotels & Resorts Inc. Common Stock,NYSE,stock
 WHD,US,Cactus Inc. Class A Common Stock,NYSE,stock
 WHG,US,Westwood Holdings Group Inc Common Stock,NYSE,stock
-WHK,US,WhiteHawk Minerals Corp,NYSE,stock
+WHK,US,WhiteHawk Minerals Corp Class A Common Stock,NYSE,stock
 WHR,US,Whirlpool Corporation Common Stock,NYSE,stock
 WHR^A,US,Whirlpool Corporation Depositary Shares each representing a 1/20th interest in a share of 8.50% Series A Mandatory Convertible Preferred Stock,NYSE,stock
 WIA,US,Western Asset Inflation-Linked Income Fund,NYSE,stock
