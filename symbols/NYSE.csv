@@ -307,7 +307,6 @@ BDJ,US,Blackrock Enhanced Equity Dividend Trust,NYSE,stock
 BDN,US,Brandywine Realty Trust Common Stock,NYSE,stock
 BDX,US,Becton Dickinson and Company Common Stock,NYSE,stock
 BE,US,Bloom Energy Corporation Class A Common Stock,NYSE,stock
-BEBE,US,TGE Value Creative Solutions Corp Class A Ordinary Shares,NYSE,stock
 BEKE,US,KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),NYSE,stock
 BEN,US,Franklin Resources Inc. Common Stock,NYSE,stock
 BEP,US,Brookfield Renewable Partners L.P. Limited Partnership Units,NYSE,stock
@@ -822,6 +821,7 @@ EFT,US,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Intere
 EFX,US,Equifax Inc. Common Stock,NYSE,stock
 EFXT,US,Enerflex Ltd Common Shares,NYSE,stock
 EG,US,Everest Group Ltd. Common Stock,NYSE,stock
+EGP,US,EastGroup Properties Inc. Common Stock,NYSE,stock
 EGY,US,VAALCO Energy Inc.  Common Stock,NYSE,stock
 EHC,US,Encompass Health Corporation Common Stock,NYSE,stock
 EHI,US,Western Asset Global High Income Fund Inc Common Stock,NYSE,stock
@@ -881,7 +881,7 @@ EQR,US,Equity Residential Common Shares of Beneficial Interest,NYSE,stock
 EQS,US,Equus Total Return Inc. Common Stock,NYSE,stock
 EQT,US,EQT Corporation Common Stock,NYSE,stock
 ERO,US,Ero Copper Corp. Common Shares,NYSE,stock
-EROC,US,ERock Inc.,NYSE,stock
+EROC,US,ERock Inc. Class A Common Stock,NYSE,stock
 EROK,US,EagleRock Land LLC Class A shares representing limited liability company interests,NYSE,stock
 ES,US,Eversource Energy (D/B/A) Common Stock,NYSE,stock
 ESAB,US,ESAB Corporation Common Stock,NYSE,stock
@@ -968,6 +968,11 @@ FIGS,US,FIGS Inc. Class A Common Stock,NYSE,stock
 FINS,US,Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest,NYSE,stock
 FINV,US,FinVolution Group American Depositary Shares,NYSE,stock
 FIS,US,Fidelity National Information Services Inc. Common Stock,NYSE,stock
+FITB,US,Fifth Third Bancorp Common Stock,NYSE,stock
+FITB^A,US,Fifth Third Bancorp,NYSE,stock
+FITB^I,US,Fifth Third Bancorp,NYSE,stock
+FITB^K,US,Fifth Third Bancorp,NYSE,stock
+FITB^M,US,Fifth Third Bancorp,NYSE,stock
 FIX,US,Comfort Systems USA Inc. Common Stock,NYSE,stock
 FLC,US,Flaherty & Crumrine Total Return Fund Inc Common Stock,NYSE,stock
 FLG,US,Flagstar Bank N.A. Common Stock,NYSE,stock
@@ -1074,7 +1079,6 @@ GIS,US,General Mills Inc. Common Stock,NYSE,stock
 GJH,US,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,NYSE,stock
 GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores Inc. Securities Series 2004-5,NYSE,stock
 GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
-GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
 GL,US,Globe Life Inc. Common Stock,NYSE,stock
@@ -1394,6 +1398,7 @@ KOF,US,Coca Cola Femsa S.A.B. de C.V.  American Depositary Shares each represent
 KOP,US,Koppers Holdings Inc. Common Stock,NYSE,stock
 KORE,US,KORE Group Holdings Inc. Common Stock,NYSE,stock
 KOS,US,Kosmos Energy Ltd. Common Shares (DE),NYSE,stock
+KPET,US,KPET Ultra Paceline Corporation Class A Ordinary Shares,NYSE,stock
 KR,US,Kroger Company (The) Common Stock,NYSE,stock
 KRC,US,Kilroy Realty Corporation Common Stock,NYSE,stock
 KREF,US,KKR Real Estate Finance Trust Inc. Common Stock,NYSE,stock
@@ -2017,7 +2022,6 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
-RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
@@ -2416,7 +2420,7 @@ TRAK,US,ReposiTrak Inc. Common Stock,NYSE,stock
 TRC,US,Tejon Ranch Co Common Stock,NYSE,stock
 TREX,US,Trex Company Inc. Common Stock,NYSE,stock
 TRGP,US,Targa Resources Inc. Common Stock,NYSE,stock
-TRLV,US,Trulieve Cannabis Corp.,NYSE,stock
+TRLV,US,Trulieve Cannabis Corp. Subordinate Voting Shares,NYSE,stock
 TRN,US,Trinity Industries Inc. Common Stock,NYSE,stock
 TRNO,US,Terreno Realty Corporation Common Stock,NYSE,stock
 TROX,US,Tronox Holdings plc Ordinary Shares (UK),NYSE,stock
@@ -2527,6 +2531,7 @@ VATE,US,INNOVATE Corp. Common Stock,NYSE,stock
 VBF,US,Invesco Bond Fund Common Stock,NYSE,stock
 VCV,US,Invesco California Value Municipal Income Trust Common Stock,NYSE,stock
 VCX,US,Fundrise Innovation Fund LLC Common Shares of Limited Liability Company Interests,NYSE,stock
+VECA,US,Vernal Capital Acquisition Corp. Ordinary Shares,NYSE,stock
 VEEV,US,Veeva Systems Inc. Class A Common Stock,NYSE,stock
 VEL,US,Velocity Financial Inc. Common Stock,NYSE,stock
 VET,US,Vermilion Energy Inc. Common (Canada),NYSE,stock
