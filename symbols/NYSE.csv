@@ -307,6 +307,7 @@ BDJ,US,Blackrock Enhanced Equity Dividend Trust,NYSE,stock
 BDN,US,Brandywine Realty Trust Common Stock,NYSE,stock
 BDX,US,Becton Dickinson and Company Common Stock,NYSE,stock
 BE,US,Bloom Energy Corporation Class A Common Stock,NYSE,stock
+BEBE,US,TGE Value Creative Solutions Corp Class A Ordinary Shares,NYSE,stock
 BEKE,US,KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),NYSE,stock
 BEN,US,Franklin Resources Inc. Common Stock,NYSE,stock
 BEP,US,Brookfield Renewable Partners L.P. Limited Partnership Units,NYSE,stock
@@ -385,7 +386,7 @@ BML^H,US,Bank of America Corporation Depositary Shares (Each representing a 1/12
 BML^J,US,Bank of America Corporation Depositary Shares (Each representing a 1/1200th interest in a Share of Floating Rate Non-Cumulative Preferred Stock Series 4),NYSE,stock
 BML^L,US,Bank of America Corporation Depositary Shares (Each representing a 1/1200th Interest in a Share of Floating Rate Non-Cumulative Preferred Stock Series 5),NYSE,stock
 BMN,US,BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest,NYSE,stock
-BMNP,US,BitMine Immersion Technologies Inc.,NYSE,stock
+BMNP,US,BitMine Immersion Technologies Inc. 9.5% Series A Perpetual Preferred Stock,NYSE,stock
 BMNR,US,BitMine Immersion Technologies Inc. Common Stock,NYSE,stock
 BMO,US,Bank Of Montreal Common Stock,NYSE,stock
 BMY,US,Bristol-Myers Squibb Company Common Stock,NYSE,stock
@@ -654,6 +655,8 @@ CSW,US,CSW Industrials Inc. Common Stock,NYSE,stock
 CTA^A,US,EIDP Inc. Preferred Stock $3.50 Series,NYSE,stock
 CTA^B,US,EIDP Inc. Preferred Stock $4.50 Series,NYSE,stock
 CTEV,US,Claritev Corporation Class A Common Stock,NYSE,stock
+CTGG,US,Qwest Corporation,NYSE,stock
+CTHH,US,Qwest Corporation,NYSE,stock
 CTO,US,CTO Realty Growth Inc. Common Stock,NYSE,stock
 CTO^A,US,CTO Realty Growth Inc. 6.375% Series A Cumulative Redeemable Preferred Stock,NYSE,stock
 CTOS,US,Custom Truck One Source Inc. Common Stock,NYSE,stock
@@ -1084,6 +1087,7 @@ GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Secur
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
 GL,US,Globe Life Inc. Common Stock,NYSE,stock
 GL^D,US,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061,NYSE,stock
+GLED,US,GalaxyEdge Acquisition Corporation Ordinary Shares,NYSE,stock
 GLOB,US,Globant S.A. Common Shares,NYSE,stock
 GLOP^A,US,GasLog Partners LP 8.625% Series A Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,NYSE,stock
 GLOP^B,US,GasLog Partners LP 8.200% Series B Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,NYSE,stock
