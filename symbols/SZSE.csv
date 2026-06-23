@@ -1,7 +1,7 @@
 ﻿code,region,name,exchange,type
 000001,SZ,平安银行,SZSE,stock
 000002,SZ,万科Ａ,SZSE,stock
-000004,SZ,*ST国华,SZSE,stock
+000004,SZ,国华退,SZSE,stock
 000006,SZ,深振业Ａ,SZSE,stock
 000007,SZ,全新好,SZSE,stock
 000008,SZ,神州高铁,SZSE,stock
@@ -600,7 +600,7 @@
 002073,SZ,软控股份,SZSE,stock
 002074,SZ,国轩高科,SZSE,stock
 002075,SZ,沙钢股份,SZSE,stock
-002076,SZ,*ST星光,SZSE,stock
+002076,SZ,星光股份,SZSE,stock
 002077,SZ,大港股份,SZSE,stock
 002078,SZ,太阳纸业,SZSE,stock
 002079,SZ,苏州固锝,SZSE,stock
@@ -735,7 +735,7 @@
 002214,SZ,*ST大立,SZSE,stock
 002215,SZ,诺普信,SZSE,stock
 002216,SZ,三全食品,SZSE,stock
-002217,SZ,合力泰,SZSE,stock
+002217,SZ,ST合力泰,SZSE,stock
 002218,SZ,拓日新能,SZSE,stock
 002219,SZ,新里程,SZSE,stock
 002221,SZ,东华能源,SZSE,stock
@@ -1235,7 +1235,7 @@
 002759,SZ,天际股份,SZSE,stock
 002760,SZ,凤形股份,SZSE,stock
 002761,SZ,浙江建投,SZSE,stock
-002762,SZ,*ST金比,SZSE,stock
+002762,SZ,金发拉比,SZSE,stock
 002763,SZ,汇洁股份,SZSE,stock
 002765,SZ,蓝黛科技,SZSE,stock
 002766,SZ,索菱股份,SZSE,stock
@@ -1274,7 +1274,7 @@
 002805,SZ,丰元股份,SZSE,stock
 002806,SZ,华锋股份,SZSE,stock
 002807,SZ,江阴银行,SZSE,stock
-002808,SZ,*ST恒久,SZSE,stock
+002808,SZ,恒久退,SZSE,stock
 002809,SZ,红墙股份,SZSE,stock
 002810,SZ,山东赫达,SZSE,stock
 002811,SZ,郑中设计,SZSE,stock
@@ -1638,7 +1638,7 @@
 300155,SZ,安居宝,SZSE,stock
 300157,SZ,新锦动力,SZSE,stock
 300158,SZ,振东制药,SZSE,stock
-300159,SZ,*ST新研,SZSE,stock
+300159,SZ,新研股份,SZSE,stock
 300160,SZ,秀强股份,SZSE,stock
 300161,SZ,华中数控,SZSE,stock
 300162,SZ,雷曼光电,SZSE,stock
@@ -1780,7 +1780,7 @@
 300308,SZ,中际旭创,SZSE,stock
 300310,SZ,宜通世纪,SZSE,stock
 300311,SZ,ST任子行,SZSE,stock
-300313,SZ,*ST天山,SZSE,stock
+300313,SZ,天山生物,SZSE,stock
 300314,SZ,戴维医疗,SZSE,stock
 300315,SZ,掌趣科技,SZSE,stock
 300316,SZ,晶盛机电,SZSE,stock
