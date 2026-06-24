@@ -121,6 +121,7 @@ ALLY,US,Ally Financial Inc. Common Stock,NYSE,stock
 ALSN,US,Allison Transmission Holdings Inc. Common Stock,NYSE,stock
 ALTG,US,Alta Equipment Group Inc. Class A Common Stock,NYSE,stock
 ALTG^A,US,Alta Equipment Group Inc. Depositary Shares (each representing 1/1000th in a share of 10% Series A Cumulative Perpetual Preferred Stock),NYSE,stock
+ALUB,US,Alussa Energy Acquisition Corp. II Class A Ordinary Shares,NYSE,stock
 ALV,US,Autoliv Inc. Common Stock,NYSE,stock
 ALX,US,Alexander's Inc. Common Stock,NYSE,stock
 AM,US,Antero Midstream Corporation Common Stock,NYSE,stock
@@ -346,7 +347,6 @@ BHR^B,US,Braemar Hotels & Resorts Inc. 5.50% Series B Cumulative Convertible Pre
 BHR^D,US,Braemar Hotels & Resorts Inc. 8.25% Series D Cumulative Preferred Stock  par value $0.01 per share,NYSE,stock
 BHV,US,BlackRock Virginia Municipal Bond Trust,NYSE,stock
 BHVN,US,Biohaven Ltd. Common Shares,NYSE,stock
-BIII,US,Black Spade Acquisition III Co Class A Ordinary Shares,NYSE,stock
 BILL,US,BILL Holdings Inc. Common Stock,NYSE,stock
 BIO,US,Bio-Rad Laboratories Inc. Class A Common Stock,NYSE,stock
 BIO/B,US,Bio-Rad Laboratories Inc.,NYSE,stock
@@ -823,6 +823,7 @@ EFT,US,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Intere
 EFX,US,Equifax Inc. Common Stock,NYSE,stock
 EFXT,US,Enerflex Ltd Common Shares,NYSE,stock
 EG,US,Everest Group Ltd. Common Stock,NYSE,stock
+EGP,US,EastGroup Properties Inc. Common Stock,NYSE,stock
 EGY,US,VAALCO Energy Inc.  Common Stock,NYSE,stock
 EHC,US,Encompass Health Corporation Common Stock,NYSE,stock
 EHI,US,Western Asset Global High Income Fund Inc Common Stock,NYSE,stock
@@ -1087,6 +1088,7 @@ GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Secur
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
 GL,US,Globe Life Inc. Common Stock,NYSE,stock
 GL^D,US,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061,NYSE,stock
+GLED,US,GalaxyEdge Acquisition Corporation Ordinary Shares,NYSE,stock
 GLOB,US,Globant S.A. Common Shares,NYSE,stock
 GLOP^A,US,GasLog Partners LP 8.625% Series A Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,NYSE,stock
 GLOP^B,US,GasLog Partners LP 8.200% Series B Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,NYSE,stock
@@ -1401,7 +1403,6 @@ KOF,US,Coca Cola Femsa S.A.B. de C.V.  American Depositary Shares each represent
 KOP,US,Koppers Holdings Inc. Common Stock,NYSE,stock
 KORE,US,KORE Group Holdings Inc. Common Stock,NYSE,stock
 KOS,US,Kosmos Energy Ltd. Common Shares (DE),NYSE,stock
-KPET,US,KPET Ultra Paceline Corporation Class A Ordinary Shares,NYSE,stock
 KR,US,Kroger Company (The) Common Stock,NYSE,stock
 KRC,US,Kilroy Realty Corporation Common Stock,NYSE,stock
 KREF,US,KKR Real Estate Finance Trust Inc. Common Stock,NYSE,stock
@@ -2015,7 +2016,7 @@ PYT,US,PPlus Tr GSC-2 Tr Ctf Fltg Rate,NYSE,stock
 Q,US,Qnity Electronics Inc. Common Stock,NYSE,stock
 QBTS,US,D-Wave Quantum Inc. Common Shares,NYSE,stock
 QGEN,US,Qiagen N.V. Common Shares,NYSE,stock
-QLEP,US,Quantum Leap Acquisition Corp,NYSE,stock
+QLEP,US,Quantum Leap Acquisition Corp Class A Ordinary Shares,NYSE,stock
 QRED,US,QuasarEdge Acquisition Corporation Ordinary Shares,NYSE,stock
 QSR,US,Restaurant Brands International Inc. Common Shares,NYSE,stock
 QTWO,US,Q2 Holdings Inc. Common Stock,NYSE,stock
@@ -2153,7 +2154,6 @@ SAV,US,Saratoga Investment Corp 7.50% Notes due 2031,NYSE,stock
 SAY,US,Saratoga Investment Corp 8.125% Notes due 2027,NYSE,stock
 SAZ,US,Saratoga Investment Corp 8.50% Notes due 2028,NYSE,stock
 SB,US,Safe Bulkers Inc Common Stock ($0.001 par value),NYSE,stock
-SB^C,US,Safe Bulkers Inc Cumulative Redeemable Perpetual Preferred Series C (Marshall Islands),NYSE,stock
 SB^D,US,Safe Bulkers Inc Perpetual Preferred Series D (Marshall Islands),NYSE,stock
 SBH,US,Sally Beauty Holdings Inc. (Name to be changed from Sally Holdings Inc.) Common Stock,NYSE,stock
 SBI,US,Western Asset Intermediate Muni Fund Inc Common Stock,NYSE,stock
@@ -2414,6 +2414,7 @@ TPC,US,Tutor Perini Corporation Common Stock,NYSE,stock
 TPL,US,Texas Pacific Land Corporation Common Stock,NYSE,stock
 TPR,US,Tapestry Inc. Common Stock,NYSE,stock
 TPTA,US,Terra Property Trust Inc. 6.00% Notes due 2026,NYSE,stock
+TPTS,US,Terra Property Trust Inc. 7.00% Senior Secured Notes due 2029,NYSE,stock
 TPVG,US,TriplePoint Venture Growth BDC Corp. Common Stock,NYSE,stock
 TR,US,Tootsie Roll Industries Inc. Common Stock,NYSE,stock
 TRAD,US,APEX Tech Acquisition Inc. Ordinary Shares,NYSE,stock
@@ -2532,6 +2533,7 @@ VATE,US,INNOVATE Corp. Common Stock,NYSE,stock
 VBF,US,Invesco Bond Fund Common Stock,NYSE,stock
 VCV,US,Invesco California Value Municipal Income Trust Common Stock,NYSE,stock
 VCX,US,Fundrise Innovation Fund LLC Common Shares of Limited Liability Company Interests,NYSE,stock
+VECA,US,Vernal Capital Acquisition Corp. Ordinary Shares,NYSE,stock
 VEEV,US,Veeva Systems Inc. Class A Common Stock,NYSE,stock
 VEL,US,Velocity Financial Inc. Common Stock,NYSE,stock
 VET,US,Vermilion Energy Inc. Common (Canada),NYSE,stock
@@ -2685,7 +2687,6 @@ XYL,US,Xylem Inc. Common Stock New,NYSE,stock
 XYZ,US,Block Inc. Class A Common Stock,NYSE,stock
 XZO,US,Exzeo Group Inc. Common Stock,NYSE,stock
 YALA,US,Yalla Group Limited American Depositary Shares each representing one Class A Ordinary Share,NYSE,stock
-YCY,US,AA Mission Acquisition Corp. II Class A Ordinary Shares,NYSE,stock
 YELP,US,Yelp Inc. Common Stock,NYSE,stock
 YETI,US,YETI Holdings Inc. Common Stock,NYSE,stock
 YEXT,US,Yext Inc. Common Stock,NYSE,stock
