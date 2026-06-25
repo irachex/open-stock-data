@@ -347,6 +347,7 @@ BHR^B,US,Braemar Hotels & Resorts Inc. 5.50% Series B Cumulative Convertible Pre
 BHR^D,US,Braemar Hotels & Resorts Inc. 8.25% Series D Cumulative Preferred Stock  par value $0.01 per share,NYSE,stock
 BHV,US,BlackRock Virginia Municipal Bond Trust,NYSE,stock
 BHVN,US,Biohaven Ltd. Common Shares,NYSE,stock
+BIII,US,Black Spade Acquisition III Co Class A Ordinary Shares,NYSE,stock
 BILL,US,BILL Holdings Inc. Common Stock,NYSE,stock
 BIO,US,Bio-Rad Laboratories Inc. Class A Common Stock,NYSE,stock
 BIO/B,US,Bio-Rad Laboratories Inc.,NYSE,stock
@@ -375,7 +376,7 @@ BLK,US,BlackRock Inc. Common Stock,NYSE,stock
 BLND,US,Blend Labs Inc. Class A Common Stock,NYSE,stock
 BLSH,US,Bullish Ordinary Shares,NYSE,stock
 BLW,US,Blackrock Limited Duration Income Trust,NYSE,stock
-BLX,US,Banco Latinoamericano de Comercio Exterior S.A.,NYSE,stock
+BLX,US,Bladex Inc. Class E Common Stock,NYSE,stock
 BMA,US,Banco Macro S.A.  ADR (representing Ten Class B Common Shares),NYSE,stock
 BME,US,Blackrock Health Sciences Trust,NYSE,stock
 BMEZ,US,BlackRock Health Sciences Term Trust Common Shares of Beneficial Interest,NYSE,stock
@@ -677,7 +678,6 @@ CVS,US,CVS Health Corporation Common Stock,NYSE,stock
 CVSA,US,Covista Inc. Common Shares,NYSE,stock
 CVX,US,Chevron Corporation Common Stock,NYSE,stock
 CW,US,Curtiss-Wright Corporation Common Stock,NYSE,stock
-CWAN,US,Clearwater Analytics Holdings Inc. Class A Common Stock,NYSE,stock
 CWEN,US,Clearway Energy Inc. Class C Common Stock,NYSE,stock
 CWH,US,Camping World Holdings Inc. Class A Common Stock,NYSE,stock
 CWK,US,Cushman & Wakefield Ltd. Common Shares,NYSE,stock
@@ -759,6 +759,7 @@ DOLE,US,Dole plc Ordinary Shares,NYSE,stock
 DOUG,US,Douglas Elliman Inc. Common Stock,NYSE,stock
 DOV,US,Dover Corporation Common Stock,NYSE,stock
 DOW,US,Dow Inc. Common Stock,NYSE,stock
+DPC,US,DPC Holdings PLC,NYSE,stock
 DPG,US,Duff & Phelps Utility and Infrastructure Fund Inc.,NYSE,stock
 DQ,US,DAQO New Energy Corp. American Depositary Shares each representing five ordinary shares,NYSE,stock
 DRD,US,DRDGOLD Limited American Depositary Shares,NYSE,stock
@@ -823,6 +824,7 @@ EFT,US,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Intere
 EFX,US,Equifax Inc. Common Stock,NYSE,stock
 EFXT,US,Enerflex Ltd Common Shares,NYSE,stock
 EG,US,Everest Group Ltd. Common Stock,NYSE,stock
+EGO,US,Eldorado Gold Corporation Ordinary Shares,NYSE,stock
 EGP,US,EastGroup Properties Inc. Common Stock,NYSE,stock
 EGY,US,VAALCO Energy Inc.  Common Stock,NYSE,stock
 EHC,US,Encompass Health Corporation Common Stock,NYSE,stock
@@ -1083,7 +1085,6 @@ GIS,US,General Mills Inc. Common Stock,NYSE,stock
 GJH,US,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,NYSE,stock
 GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores Inc. Securities Series 2004-5,NYSE,stock
 GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
-GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
 GL,US,Globe Life Inc. Common Stock,NYSE,stock
@@ -2154,6 +2155,7 @@ SAV,US,Saratoga Investment Corp 7.50% Notes due 2031,NYSE,stock
 SAY,US,Saratoga Investment Corp 8.125% Notes due 2027,NYSE,stock
 SAZ,US,Saratoga Investment Corp 8.50% Notes due 2028,NYSE,stock
 SB,US,Safe Bulkers Inc Common Stock ($0.001 par value),NYSE,stock
+SB^C,US,Safe Bulkers Inc Cumulative Redeemable Perpetual Preferred Series C (Marshall Islands),NYSE,stock
 SB^D,US,Safe Bulkers Inc Perpetual Preferred Series D (Marshall Islands),NYSE,stock
 SBH,US,Sally Beauty Holdings Inc. (Name to be changed from Sally Holdings Inc.) Common Stock,NYSE,stock
 SBI,US,Western Asset Intermediate Muni Fund Inc Common Stock,NYSE,stock
