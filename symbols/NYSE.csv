@@ -748,6 +748,7 @@ DLX,US,Deluxe Corporation Common Stock,NYSE,stock
 DLY,US,DoubleLine Yield Opportunities Fund Common Shares of Beneficial Interest,NYSE,stock
 DMA,US,Destra Multi-Alternative Fund Common Stock,NYSE,stock
 DMB,US,BNY Mellon Municipal Bond Infrastructure Fund Inc. Common Stock,NYSE,stock
+DMC,US,Del Monte Corporation,NYSE,stock
 DMO,US,Western Asset Mortgage Opportunity Fund Inc. Common Stock,NYSE,stock
 DNA,US,Ginkgo Bioworks Holdings Inc. Class A Common Stock,NYSE,stock
 DNOW,US,DNOW Inc. Common Stock,NYSE,stock
@@ -838,6 +839,7 @@ EL,US,Estee Lauder Companies Inc. (The) Common Stock,NYSE,stock
 ELAN,US,Elanco Animal Health Incorporated Common Stock,NYSE,stock
 ELC,US,Entergy Louisiana Inc. Collateral Trust Mortgage Bonds 4.875 % Series due September 1 2066,NYSE,stock
 ELF,US,e.l.f. Beauty Inc. Common Stock,NYSE,stock
+ELLA,US,Ellington Credit Company 8.50% Notes due 2031,NYSE,stock
 ELME,US,Elme Communities Common Stock,NYSE,stock
 ELPC,US,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares),NYSE,stock
 ELS,US,Equity Lifestyle Properties Inc. Common Stock,NYSE,stock
@@ -946,7 +948,6 @@ FCPT,US,Four Corners Property Trust Inc. Common Stock,NYSE,stock
 FCRS,US,FutureCrest Acquisition Corp. Class A Ordinary Shares,NYSE,stock
 FCT,US,First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest,NYSE,stock
 FCX,US,Freeport-McMoRan Inc. Common Stock,NYSE,stock
-FDP,US,Del Monte Corporation Ordinary Shares,NYSE,stock
 FDS,US,FactSet Research Systems Inc. Common Stock,NYSE,stock
 FDX,US,FedEx Corporation Common Stock,NYSE,stock
 FDXF,US,FedEx Freight Holding Company Inc. Common Stock,NYSE,stock
@@ -1083,7 +1084,6 @@ GIL,US,Gildan Activewear Inc. Class A Sub. Vot. Common Stock,NYSE,stock
 GIS,US,General Mills Inc. Common Stock,NYSE,stock
 GJH,US,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,NYSE,stock
 GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores Inc. Securities Series 2004-5,NYSE,stock
-GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
 GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
 GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
@@ -1840,6 +1840,7 @@ ORN,US,Orion Group Holdings Inc. Common,NYSE,stock
 OSCR,US,Oscar Health Inc. Class A Common Stock,NYSE,stock
 OSG,US,Octave Specialty Group Inc. Common Stock,NYSE,stock
 OSK,US,Oshkosh Corporation (Holding Company)Common Stock,NYSE,stock
+OTAI,US,Starlink AI Acquisition Corporation,NYSE,stock
 OTF,US,Blue Owl Technology Finance Corp. Common Stock,NYSE,stock
 OTIS,US,Otis Worldwide Corporation Common Stock,NYSE,stock
 OUT,US,OUTFRONT Media Inc. Common Stock,NYSE,stock
