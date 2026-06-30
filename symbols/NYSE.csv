@@ -748,7 +748,7 @@ DLX,US,Deluxe Corporation Common Stock,NYSE,stock
 DLY,US,DoubleLine Yield Opportunities Fund Common Shares of Beneficial Interest,NYSE,stock
 DMA,US,Destra Multi-Alternative Fund Common Stock,NYSE,stock
 DMB,US,BNY Mellon Municipal Bond Infrastructure Fund Inc. Common Stock,NYSE,stock
-DMC,US,Del Monte Corporation,NYSE,stock
+DMC,US,Del Monte Corporation Ordinary Shares,NYSE,stock
 DMO,US,Western Asset Mortgage Opportunity Fund Inc. Common Stock,NYSE,stock
 DNA,US,Ginkgo Bioworks Holdings Inc. Class A Common Stock,NYSE,stock
 DNOW,US,DNOW Inc. Common Stock,NYSE,stock
@@ -1084,12 +1084,14 @@ GIL,US,Gildan Activewear Inc. Class A Sub. Vot. Common Stock,NYSE,stock
 GIS,US,General Mills Inc. Common Stock,NYSE,stock
 GJH,US,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,NYSE,stock
 GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores Inc. Securities Series 2004-5,NYSE,stock
+GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
 GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
 GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
 GL,US,Globe Life Inc. Common Stock,NYSE,stock
 GL^D,US,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061,NYSE,stock
+GLAS,US,Glass House Brands Inc.,NYSE,stock
 GLED,US,GalaxyEdge Acquisition Corporation Ordinary Shares,NYSE,stock
 GLOB,US,Globant S.A. Common Shares,NYSE,stock
 GLOP^A,US,GasLog Partners LP 8.625% Series A Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,NYSE,stock
@@ -1840,7 +1842,7 @@ ORN,US,Orion Group Holdings Inc. Common,NYSE,stock
 OSCR,US,Oscar Health Inc. Class A Common Stock,NYSE,stock
 OSG,US,Octave Specialty Group Inc. Common Stock,NYSE,stock
 OSK,US,Oshkosh Corporation (Holding Company)Common Stock,NYSE,stock
-OTAI,US,Starlink AI Acquisition Corporation,NYSE,stock
+OTAI,US,Starlink AI Acquisition Corporation Ordinary Shares,NYSE,stock
 OTF,US,Blue Owl Technology Finance Corp. Common Stock,NYSE,stock
 OTIS,US,Otis Worldwide Corporation Common Stock,NYSE,stock
 OUT,US,OUTFRONT Media Inc. Common Stock,NYSE,stock
@@ -2212,7 +2214,7 @@ SID,US,Companhia Siderurgica Nacional S.A. Common Stock,NYSE,stock
 SIG,US,Signet Jewelers Limited Common Shares,NYSE,stock
 SII,US,Sprott Inc. Common Shares,NYSE,stock
 SILA,US,Sila Realty Trust Inc. Common Stock,NYSE,stock
-SIND,US,Sinda Ltd.,NYSE,stock
+SIND,US,Sinda Ltd. Common Stock,NYSE,stock
 SITC,US,SITE Centers Corp. Common Stock,NYSE,stock
 SITE,US,SiteOne Landscape Supply Inc. Common Stock,NYSE,stock
 SJM,US,The J.M. Smucker Company Common Stock,NYSE,stock
@@ -2417,7 +2419,6 @@ TPB,US,Turning Point Brands Inc. Common Stock,NYSE,stock
 TPC,US,Tutor Perini Corporation Common Stock,NYSE,stock
 TPL,US,Texas Pacific Land Corporation Common Stock,NYSE,stock
 TPR,US,Tapestry Inc. Common Stock,NYSE,stock
-TPTA,US,Terra Property Trust Inc. 6.00% Notes due 2026,NYSE,stock
 TPTS,US,Terra Property Trust Inc. 7.00% Senior Secured Notes due 2029,NYSE,stock
 TPVG,US,TriplePoint Venture Growth BDC Corp. Common Stock,NYSE,stock
 TR,US,Tootsie Roll Industries Inc. Common Stock,NYSE,stock
