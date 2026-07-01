@@ -370,7 +370,6 @@ BKT,US,BlackRock Income Trust Inc. (The),NYSE,stock
 BKU,US,BankUnited Inc. Common Stock,NYSE,stock
 BKV,US,BKV Corporation Common Stock,NYSE,stock
 BLCO,US,Bausch + Lomb Corporation Common Shares,NYSE,stock
-BLD,US,TopBuild Corp. Common Stock,NYSE,stock
 BLDR,US,Builders FirstSource Inc. Common Stock,NYSE,stock
 BLK,US,BlackRock Inc. Common Stock,NYSE,stock
 BLND,US,Blend Labs Inc. Class A Common Stock,NYSE,stock
@@ -1085,13 +1084,12 @@ GIS,US,General Mills Inc. Common Stock,NYSE,stock
 GJH,US,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,NYSE,stock
 GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores Inc. Securities Series 2004-5,NYSE,stock
 GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
-GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
 GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
 GL,US,Globe Life Inc. Common Stock,NYSE,stock
 GL^D,US,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061,NYSE,stock
-GLAS,US,Glass House Brands Inc.,NYSE,stock
+GLAS,US,Glass House Brands Inc. Subordinate Voting Shares,NYSE,stock
 GLED,US,GalaxyEdge Acquisition Corporation Ordinary Shares,NYSE,stock
 GLOB,US,Globant S.A. Common Shares,NYSE,stock
 GLOP^A,US,GasLog Partners LP 8.625% Series A Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,NYSE,stock
@@ -1332,7 +1330,6 @@ JELD,US,JELD-WEN Holding Inc. Common Stock,NYSE,stock
 JENA,US,Jena Acquisition Corporation II Class A Ordinary Shares,NYSE,stock
 JFR,US,Nuveen Floating Rate Income Fund Common Stock,NYSE,stock
 JGH,US,Nuveen Global High Income Fund Common Shares of Beneficial Interest,NYSE,stock
-JHG,US,Janus Henderson Group plc Ordinary Shares,NYSE,stock
 JHI,US,John Hancock Investors Trust Common Stock,NYSE,stock
 JHS,US,John Hancock Income Securities Trust Common Stock,NYSE,stock
 JHX,US,James Hardie Industries plc. Ordinary Shares,NYSE,stock
@@ -1511,6 +1508,7 @@ MATV,US,Mativ Holdings Inc. Common Stock,NYSE,stock
 MATX,US,Matson Inc. Common Stock,NYSE,stock
 MAX,US,MediaAlpha Inc. Class A Common Stock,NYSE,stock
 MBC,US,MasterBrand Inc. Common Stock,NYSE,stock
+MBGL,US,Mobility Global Inc.,NYSE,stock
 MBI,US,MBIA Inc. Common Stock,NYSE,stock
 MC,US,Moelis & Company Class A Common Stock,NYSE,stock
 MCB,US,Metropolitan Bank Holding Corp. Common Stock,NYSE,stock
@@ -2017,6 +2015,7 @@ PVH,US,PVH Corp. Common Stock,NYSE,stock
 PVL,US,Permianville Royalty Trust Units of Beneficial Interest,NYSE,stock
 PWR,US,Quanta Services Inc. Common Stock,NYSE,stock
 PXED,US,Phoenix Education Partners Inc. Common Stock,NYSE,stock
+PYT,US,PPlus Tr GSC-2 Tr Ctf Fltg Rate,NYSE,stock
 Q,US,Qnity Electronics Inc. Common Stock,NYSE,stock
 QBTS,US,D-Wave Quantum Inc. Common Shares,NYSE,stock
 QGEN,US,Qiagen N.V. Common Shares,NYSE,stock
@@ -2030,6 +2029,7 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
+RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
@@ -2189,7 +2189,6 @@ SEAL^A,US,Seapeak LLC 9.00% Series A Cumulative Redeemable Perpetual Preferred U
 SEAL^B,US,Seapeak LLC 8.50% Series B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units,NYSE,stock
 SEG,US,Seaport Entertainment Group Inc. Common Stock,NYSE,stock
 SEI,US,Solaris Energy Infrastructure Inc. Class A Common Stock,NYSE,stock
-SEM,US,Select Medical Holdings Corporation Common Stock,NYSE,stock
 SES,US,SES AI Corporation Class A Common Stock,NYSE,stock
 SF,US,Stifel Financial Corporation Common Stock,NYSE,stock
 SF^B,US,Stifel Financial Corporation Depositary Shares Each Representing 1/1000th  Interest in a Share of 6.25% Non-Cumulative  Preferred Stock Series B,NYSE,stock
@@ -2213,7 +2212,6 @@ SI,US,Shoulder Innovations Inc. Common Stock,NYSE,stock
 SID,US,Companhia Siderurgica Nacional S.A. Common Stock,NYSE,stock
 SIG,US,Signet Jewelers Limited Common Shares,NYSE,stock
 SII,US,Sprott Inc. Common Shares,NYSE,stock
-SILA,US,Sila Realty Trust Inc. Common Stock,NYSE,stock
 SIND,US,Sinda Ltd. Common Stock,NYSE,stock
 SITC,US,SITE Centers Corp. Common Stock,NYSE,stock
 SITE,US,SiteOne Landscape Supply Inc. Common Stock,NYSE,stock
@@ -2305,7 +2303,6 @@ ST,US,Sensata Technologies Holding plc Ordinary Shares,NYSE,stock
 STAG,US,Stag Industrial Inc. Common Stock,NYSE,stock
 STC,US,Stewart Information Services Corporation Common Stock,NYSE,stock
 STE,US,STERIS plc (Ireland) Ordinary Shares,NYSE,stock
-STEL,US,Stellar Bancorp Inc. Common Stock,NYSE,stock
 STEM,US,Stem Inc. Class A Common Stock,NYSE,stock
 STEW,US,SRH Total Return Fund Inc. Common Stock,NYSE,stock
 STG,US,Sunlands Technology Group American Depositary Shares representing Class A ordinary shares,NYSE,stock
