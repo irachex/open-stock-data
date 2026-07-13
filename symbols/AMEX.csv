@@ -73,7 +73,6 @@ DXF,US,Eason Technology Limited American Depositary Shares (each representing si
 EAD,US,Allspring Income Opportunities Fund Common Shares,AMEX,stock
 ECF,US,Ellsworth Growth and Income Fund Ltd.,AMEX,stock
 ECF^A,US,Ellsworth Growth and Income Fund Ltd. 5.25% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share),AMEX,stock
-EGG,US,Enigmatig Limited Class A Ordinary Shares,AMEX,stock
 EIM,US,Eaton Vance Municipal Bond Fund Common Shares of Beneficial Interest $.01 par value,AMEX,stock
 ELA,US,Envela Corporation Common Stock,AMEX,stock
 ELLO,US,Ellomay Capital Ltd Ordinary Shares (Israel),AMEX,stock
@@ -237,6 +236,7 @@ SBMT,US,Silver Bow Mining Corp. Common Shares,AMEX,stock
 SCCD,US,Sachem Capital Corp. 6.00% Notes due 2026,AMEX,stock
 SCCE,US,Sachem Capital Corp. 6.00% Notes due 2027,AMEX,stock
 SCCF,US,Sachem Capital Corp. 7.125% Notes due 2027,AMEX,stock
+SCCG,US,Sachem Capital Corp. 8.00% Notes due 2027,AMEX,stock
 SDEV,US,Stablecoin Development Corporation Common Stock,AMEX,stock
 SEB,US,Seaboard Corporation Common Stock,AMEX,stock
 SER,US,Serina Therapeutics Inc. Common Stock,AMEX,stock
@@ -277,7 +277,6 @@ UTG,US,Reaves Utility Income Fund Common Shares of Beneficial Interest,AMEX,stoc
 UUU,US,Universal Safety Products Inc. Common Stock,AMEX,stock
 UUUU,US,Energy Fuels Inc Ordinary Shares (Canada),AMEX,stock
 VENU,US,Venu Holding Corporation Common Stock,AMEX,stock
-VFL,US,abrdn National Municipal Income Fund Common Stock,AMEX,stock
 VGZ,US,Vista Gold Corp Common Stock,AMEX,stock
 VIDA,US,VIDA Global Inc. Class A Common Stock,AMEX,stock
 VKI,US,Invesco Advantage Municipal Income Trust II Common Shares of Beneficial Interest (DE),AMEX,stock
