@@ -814,7 +814,6 @@ EDN,US,Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor) American Dep
 EDU,US,New Oriental Education & Technology Group Inc. Sponsored ADR representing 10 Ordinary Share (Cayman Islands),NYSE,stock
 EE,US,Excelerate Energy Inc. Class A Common Stock,NYSE,stock
 EEA,US,The European Equity Fund Inc. Common Stock,NYSE,stock
-EEX,US,Emerald Holding Inc. Common Stock,NYSE,stock
 EFC,US,Ellington Financial Inc. Common Stock,NYSE,stock
 EFC^B,US,Ellington Financial Inc. 6.250% Series B Fixed-Rate Reset Cumulative Redeemable Preferred Stock,NYSE,stock
 EFC^C,US,Ellington Financial Inc. 8.625% Series C Fixed-Rate Reset Cumulative Redeemable Preferred Stock,NYSE,stock
@@ -1087,7 +1086,6 @@ GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for 
 GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
 GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
-GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
 GL,US,Globe Life Inc. Common Stock,NYSE,stock
 GL^D,US,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061,NYSE,stock
@@ -2663,7 +2661,6 @@ WS,US,Worthington Steel Inc. Common Shares,NYSE,stock
 WSM,US,Williams-Sonoma Inc. Common Stock (DE),NYSE,stock
 WSO,US,Watsco Inc. Common Stock,NYSE,stock
 WSO/B,US,Watsco Inc.,NYSE,stock
-WSR,US,Whitestone REIT Common Shares,NYSE,stock
 WST,US,West Pharmaceutical Services Inc. Common Stock,NYSE,stock
 WT,US,WisdomTree Inc. Common Stock,NYSE,stock
 WTI,US,W&T Offshore Inc. Common Stock,NYSE,stock
@@ -2683,7 +2680,7 @@ XPER,US,Xperi Inc. Common Stock,NYSE,stock
 XPEV,US,XPeng Inc. American depositary shares each representing two Class A ordinary shares,NYSE,stock
 XPO,US,XPO Inc. Common Stock,NYSE,stock
 XPOF,US,Xponential Fitness Inc. Class A Common Stock,NYSE,stock
-XPRO,US,Expro Group Holdings N.V. Common Stock,NYSE,stock
+XPRO,US,Expro Ltd Ordinary Shares,NYSE,stock
 XRN,US,Chiron Real Estate Inc. Common Stock,NYSE,stock
 XRN^A,US,Chiron Real Estate Inc. Series A Cumulative Redeemable Preferred Stock,NYSE,stock
 XRN^B,US,Chiron Real Estate Inc. 8.00% Series B Cumulative Redeemable Preferred Stock $0.001 par value per share,NYSE,stock
