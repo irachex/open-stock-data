@@ -1086,6 +1086,7 @@ GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for 
 GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
 GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
+GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
 GL,US,Globe Life Inc. Common Stock,NYSE,stock
 GL^D,US,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061,NYSE,stock
@@ -1922,7 +1923,7 @@ PHK,US,Pimco High Income Fund,NYSE,stock
 PHM,US,PulteGroup Inc. Common Stock,NYSE,stock
 PHR,US,Phreesia Inc. Common Stock,NYSE,stock
 PII,US,Polaris Inc. Common Stock,NYSE,stock
-PIM,US,Putnam Master Intermediate Income Trust Common Stock,NYSE,stock
+PIM,US,Franklin Master Intermediate Income Trust Shares of Beneficial Interest,NYSE,stock
 PINE,US,Alpine Income Property Trust Inc. Common Stock,NYSE,stock
 PINE^A,US,Alpine Income Property Trust Inc. 8.00% Series A Cumulative Redeemable Preferred Stock,NYSE,stock
 PINS,US,Pinterest Inc. Class A Common Stock,NYSE,stock
@@ -1940,8 +1941,8 @@ PLOW,US,Douglas Dynamics Inc. Common Stock,NYSE,stock
 PLUN,US,Plutonian Acquisition Corp II Class A Ordinary Shares,NYSE,stock
 PM,US,Philip Morris International Inc Common Stock,NYSE,stock
 PML,US,Pimco Municipal Income Fund II Common Shares of Beneficial Interest,NYSE,stock
-PMM,US,Putnam Managed Municipal Income Trust Common Stock,NYSE,stock
-PMO,US,Putnam Municipal Opportunities Trust Common Stock,NYSE,stock
+PMM,US,Franklin Managed Municipal Income Trust Shares of Beneficial Interest,NYSE,stock
+PMO,US,Franklin Municipal Opportunities Trust Shares of Beneficial Interest,NYSE,stock
 PMT,US,PennyMac Mortgage Investment Trust Common Shares of Beneficial Interest,NYSE,stock
 PMT^A,US,PennyMac Mortgage Investment Trust 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Shares of Beneficial Interest,NYSE,stock
 PMT^B,US,PennyMac Mortgage Investment Trust 8.00% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Shares of Beneficial Interest,NYSE,stock
@@ -1963,7 +1964,7 @@ POST,US,Post Holdings Inc. Common Stock,NYSE,stock
 PPG,US,PPG Industries Inc. Common Stock,NYSE,stock
 PPL,US,PPL Corporation Common Stock,NYSE,stock
 PPLC,US,PPL Corporation Corporate Units,NYSE,stock
-PPT,US,Putnam Premier Income Trust Common Stock,NYSE,stock
+PPT,US,Franklin Premier Income Trust Shares of Beneficial Interest,NYSE,stock
 PR,US,Permian Resources Corporation Class A Common Stock,NYSE,stock
 PRG,US,PROG Holdings Inc. Common Stock,NYSE,stock
 PRGO,US,Perrigo Company plc Ordinary Shares,NYSE,stock
