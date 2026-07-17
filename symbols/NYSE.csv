@@ -647,7 +647,7 @@ CRS,US,Carpenter Technology Corporation Common Stock,NYSE,stock
 CRT,US,Cross Timbers Royalty Trust Common Stock,NYSE,stock
 CSAN,US,Cosan S.A. ADS,NYSE,stock
 CSL,US,Carlisle Companies Incorporated Common Stock,NYSE,stock
-CSQR,US,Csquare Inc.,NYSE,stock
+CSQR,US,Csquare Inc. Common Stock,NYSE,stock
 CSR,US,D/B/A Centerspace Common Stock,NYSE,stock
 CSTM,US,Constellium SE Ordinary Shares (France),NYSE,stock
 CSV,US,Carriage Services Inc. Common Stock,NYSE,stock
@@ -726,6 +726,7 @@ DFH,US,Dream Finders Homes Inc. Class A Common Stock,NYSE,stock
 DFIN,US,Donnelley Financial Solutions Inc. Common Stock,NYSE,stock
 DFP,US,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock,NYSE,stock
 DG,US,Dollar General Corporation Common Stock,NYSE,stock
+DGAC,US,Disciplined Growth Acquisition Corporation,NYSE,stock
 DGX,US,Quest Diagnostics Incorporated Common Stock,NYSE,stock
 DHF,US,BNY Mellon High Yield Strategies Fund Common Stock,NYSE,stock
 DHI,US,D.R. Horton Inc. Common Stock,NYSE,stock
@@ -2224,7 +2225,6 @@ SKM,US,SK Telecom Co. Ltd. Common Stock,NYSE,stock
 SKT,US,Tanger Inc. Common Stock,NYSE,stock
 SKY,US,Champion Homes Inc. Common Stock,NYSE,stock
 SKYH,US,Sky Harbour Group Corporation Class A Common Stock,NYSE,stock
-SLAI,US,SOLAI Limited American Depositary Shares (each representing seven hundred (700) Class A Ordinary Shares),NYSE,stock
 SLB,US,SLB Limited Common Shares,NYSE,stock
 SLF,US,Sun Life Financial Inc. Common Stock,NYSE,stock
 SLG,US,SL Green Realty Corp Common Stock,NYSE,stock
@@ -2304,6 +2304,7 @@ SSTK,US,Shutterstock Inc. Common Stock,NYSE,stock
 ST,US,Sensata Technologies Holding plc Ordinary Shares,NYSE,stock
 STAG,US,Stag Industrial Inc. Common Stock,NYSE,stock
 STC,US,Stewart Information Services Corporation Common Stock,NYSE,stock
+STDN,US,Standard Nuclear Inc. Class A Common Stock,NYSE,stock
 STE,US,STERIS plc (Ireland) Ordinary Shares,NYSE,stock
 STEM,US,Stem Inc. Class A Common Stock,NYSE,stock
 STEW,US,SRH Total Return Fund Inc. Common Stock,NYSE,stock
