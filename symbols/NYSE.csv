@@ -726,7 +726,7 @@ DFH,US,Dream Finders Homes Inc. Class A Common Stock,NYSE,stock
 DFIN,US,Donnelley Financial Solutions Inc. Common Stock,NYSE,stock
 DFP,US,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock,NYSE,stock
 DG,US,Dollar General Corporation Common Stock,NYSE,stock
-DGAC,US,Disciplined Growth Acquisition Corporation,NYSE,stock
+DGAC,US,Disciplined Growth Acquisition Corporation Class A Ordinary Shares,NYSE,stock
 DGX,US,Quest Diagnostics Incorporated Common Stock,NYSE,stock
 DHF,US,BNY Mellon High Yield Strategies Fund Common Stock,NYSE,stock
 DHI,US,D.R. Horton Inc. Common Stock,NYSE,stock
@@ -826,8 +826,6 @@ EFT,US,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Intere
 EFX,US,Equifax Inc. Common Stock,NYSE,stock
 EFXT,US,Enerflex Ltd Common Shares,NYSE,stock
 EG,US,Everest Group Ltd. Common Stock,NYSE,stock
-EGO,US,Eldorado Gold Corporation Ordinary Shares,NYSE,stock
-EGP,US,EastGroup Properties Inc. Common Stock,NYSE,stock
 EGY,US,VAALCO Energy Inc.  Common Stock,NYSE,stock
 EHC,US,Encompass Health Corporation Common Stock,NYSE,stock
 EHI,US,Western Asset Global High Income Fund Inc Common Stock,NYSE,stock
@@ -1148,7 +1146,7 @@ GSBD,US,Goldman Sachs BDC Inc. Common Stock,NYSE,stock
 GSK,US,GSK plc American Depositary Shares (Each representing two Ordinary Shares),NYSE,stock
 GSL,US,Global Ship Lease Inc New Class A Common Shares,NYSE,stock
 GSL^B,US,Global Ship Lease Inc. Depository Shares Representing 1/100th Perpetual Preferred Series B% (Marshall Island),NYSE,stock
-GTES,US,Gates Industrial Corporation plc Ordinary Shares,NYSE,stock
+GTES,US,Gates Industrial Corporation Ltd. Common Shares,NYSE,stock
 GTN,US,Gray Media Inc. Common Stock,NYSE,stock
 GTY,US,Getty Realty Corporation Common Stock,NYSE,stock
 GUG,US,Guggenheim Active Allocation Fund Common Shares of Beneficial Interest,NYSE,stock
@@ -1799,12 +1797,12 @@ OBDC,US,Blue Owl Capital Corporation Common Stock,NYSE,stock
 OBK,US,Origin Bancorp Inc. Common Stock,NYSE,stock
 OC,US,Owens Corning Inc Common Stock New,NYSE,stock
 ODC,US,Oil-Dri Corporation Of America Common Stock,NYSE,stock
-ODV,US,Osisko Development Corp. Common Shares,NYSE,stock
 OEC,US,Orion S.A. Common Shares,NYSE,stock
 OFG,US,OFG Bancorp Common Stock,NYSE,stock
 OFRM,US,Once Upon a Farm PBC Common Stock,NYSE,stock
 OGC,US,OceanaGold Corporation Common Shares,NYSE,stock
 OGE,US,OGE Energy Corp Common Stock,NYSE,stock
+OGG,US,Osisko Gold Group Inc.,NYSE,stock
 OGN,US,Organon & Co. Common Stock,NYSE,stock
 OGS,US,ONE Gas Inc. Common Stock,NYSE,stock
 OHI,US,Omega Healthcare Investors Inc. Common Stock,NYSE,stock
@@ -2031,6 +2029,7 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
+RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
@@ -2550,6 +2549,7 @@ VGNT,US,Versigent PLC Ordinary Shares,NYSE,stock
 VHI,US,Valhi Inc. Common Stock,NYSE,stock
 VIA,US,Via Transportation Inc. Class A Common Stock,NYSE,stock
 VICI,US,VICI Properties Inc. Common Stock,NYSE,stock
+VII,US,Viking Acquisition Corp. II,NYSE,stock
 VIK,US,Viking Holdings Ltd Ordinary Shares,NYSE,stock
 VIPS,US,Vipshop Holdings Limited American Depositary Shares each representing two ordinary shares,NYSE,stock
 VIRT,US,Virtu Financial Inc. Class A Common Stock,NYSE,stock
