@@ -1084,7 +1084,6 @@ GIS,US,General Mills Inc. Common Stock,NYSE,stock
 GJH,US,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,NYSE,stock
 GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores Inc. Securities Series 2004-5,NYSE,stock
 GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
-GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
 GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
@@ -1402,7 +1401,6 @@ KO,US,Coca-Cola Company (The) Common Stock,NYSE,stock
 KODK,US,Eastman Kodak Company Common New,NYSE,stock
 KOF,US,Coca Cola Femsa S.A.B. de C.V.  American Depositary Shares each representing 10 Units (each Unit consists of 3 Series B Shares and 5 Series L Shares),NYSE,stock
 KOP,US,Koppers Holdings Inc. Common Stock,NYSE,stock
-KORE,US,KORE Group Holdings Inc. Common Stock,NYSE,stock
 KOS,US,Kosmos Energy Ltd. Common Shares (DE),NYSE,stock
 KPET,US,KPET Ultra Paceline Corporation Class A Ordinary Shares,NYSE,stock
 KR,US,Kroger Company (The) Common Stock,NYSE,stock
@@ -1802,7 +1800,7 @@ OFG,US,OFG Bancorp Common Stock,NYSE,stock
 OFRM,US,Once Upon a Farm PBC Common Stock,NYSE,stock
 OGC,US,OceanaGold Corporation Common Shares,NYSE,stock
 OGE,US,OGE Energy Corp Common Stock,NYSE,stock
-OGG,US,Osisko Gold Group Inc.,NYSE,stock
+OGG,US,Osisko Gold Group Inc. Common Shares,NYSE,stock
 OGN,US,Organon & Co. Common Stock,NYSE,stock
 OGS,US,ONE Gas Inc. Common Stock,NYSE,stock
 OHI,US,Omega Healthcare Investors Inc. Common Stock,NYSE,stock
@@ -2549,7 +2547,7 @@ VGNT,US,Versigent PLC Ordinary Shares,NYSE,stock
 VHI,US,Valhi Inc. Common Stock,NYSE,stock
 VIA,US,Via Transportation Inc. Class A Common Stock,NYSE,stock
 VICI,US,VICI Properties Inc. Common Stock,NYSE,stock
-VII,US,Viking Acquisition Corp. II,NYSE,stock
+VII,US,Viking Acquisition Corp. II Class A Ordinary Shares,NYSE,stock
 VIK,US,Viking Holdings Ltd Ordinary Shares,NYSE,stock
 VIPS,US,Vipshop Holdings Limited American Depositary Shares each representing two ordinary shares,NYSE,stock
 VIRT,US,Virtu Financial Inc. Class A Common Stock,NYSE,stock
