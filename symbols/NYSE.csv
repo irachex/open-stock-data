@@ -231,7 +231,6 @@ AVBC,US,Avidia Bancorp Inc. Common Stock,NYSE,stock
 AVD,US,American Vanguard Corporation Common Stock ($0.10 Par Value),NYSE,stock
 AVEX,US,AEVEX Corp. Class A Common Stock,NYSE,stock
 AVK,US,Advent Convertible and Income Fund,NYSE,stock
-AVNS,US,Avanos Medical Inc. Common Stock,NYSE,stock
 AVNT,US,Avient Corporation Common Stock,NYSE,stock
 AVTR,US,Avantor Inc. Common Stock,NYSE,stock
 AVY,US,Avery Dennison Corporation Common Stock,NYSE,stock
@@ -1021,6 +1020,7 @@ FT,US,Franklin Universal Trust Common Stock,NYSE,stock
 FTHY,US,First Trust High Yield Opportunities 2027 Term Fund Common Stock,NYSE,stock
 FTI,US,TechnipFMC plc Ordinary Share,NYSE,stock
 FTK,US,Flotek Industries Inc. Common Stock,NYSE,stock
+FTRA,US,FutureCorp Space Acquisition 1 Class A Ordinary Shares,NYSE,stock
 FTS,US,Fortis Inc. Common Shares,NYSE,stock
 FTV,US,Fortive Corporation Common Stock,NYSE,stock
 FTW,US,Presidio Production Company Class A Common Stock,NYSE,stock
@@ -1624,6 +1624,7 @@ MTB,US,M&T Bank Corporation Common Stock,NYSE,stock
 MTB^H,US,M&T Bank Corporation Perpetual Fixed-to-Floating Rate Non-Cumulative Preferred Stock Series H,NYSE,stock
 MTB^J,US,M&T Bank Corporation Depositary Shares each representing a 1/400th ownership interest in a share of Perpetual 7.500% Non-Cumulative Preferred Stock Series J,NYSE,stock
 MTB^K,US,M&T Bank Corporation Depositary Shares each representing a 1/400th interest in a share of Perpetual 6.350% Non-Cumulative Preferred Stock Series K,NYSE,stock
+MTB^L,US,M&T Bank Corporation,NYSE,stock
 MTD,US,Mettler-Toledo International Inc. Common Stock,NYSE,stock
 MTDR,US,Matador Resources Company Common Stock,NYSE,stock
 MTG,US,MGIC Investment Corporation Common Stock,NYSE,stock
@@ -1643,7 +1644,6 @@ MUJ,US,Blackrock MuniHoldings New Jersey Quality Fund Inc. Common Stock,NYSE,sto
 MUR,US,Murphy Oil Corporation Common Stock,NYSE,stock
 MUSA,US,Murphy USA Inc. Common Stock,NYSE,stock
 MUX,US,McEwen Inc. Common Stock,NYSE,stock
-MVO,US,MV Oil Trust Units of Beneficial Interests,NYSE,stock
 MWA,US,MUELLER WATER PRODUCTS Common Stock,NYSE,stock
 MX,US,Magnachip Semiconductor Corporation Common Stock,NYSE,stock
 MXE,US,Mexico Equity and Income Fund Inc. (The) Common Stock,NYSE,stock
@@ -2013,7 +2013,6 @@ PWR,US,Quanta Services Inc. Common Stock,NYSE,stock
 PXED,US,Phoenix Education Partners Inc. Common Stock,NYSE,stock
 PYT,US,PPlus Tr GSC-2 Tr Ctf Fltg Rate,NYSE,stock
 Q,US,Qnity Electronics Inc. Common Stock,NYSE,stock
-QBTS,US,D-Wave Quantum Inc. Common Shares,NYSE,stock
 QGEN,US,Qiagen N.V. Common Shares,NYSE,stock
 QLEP,US,Quantum Leap Acquisition Corp Class A Ordinary Shares,NYSE,stock
 QRED,US,QuasarEdge Acquisition Corporation Ordinary Shares,NYSE,stock
@@ -2025,7 +2024,6 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
-RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
@@ -2421,9 +2419,12 @@ TRAK,US,ReposiTrak Inc. Common Stock,NYSE,stock
 TRC,US,Tejon Ranch Co Common Stock,NYSE,stock
 TREX,US,Trex Company Inc. Common Stock,NYSE,stock
 TRGP,US,Targa Resources Inc. Common Stock,NYSE,stock
+TRIN,US,Trinity Capital Inc. Common Stock,NYSE,stock
 TRLV,US,Trulieve Cannabis Corp. Subordinate Voting Shares,NYSE,stock
 TRN,US,Trinity Industries Inc. Common Stock,NYSE,stock
+TRNI,US,Trinity Capital Inc. 7.875% Notes Due 2029,NYSE,stock
 TRNO,US,Terreno Realty Corporation Common Stock,NYSE,stock
+TRNZ,US,Trinity Capital Inc. 7.875% Notes due 2029,NYSE,stock
 TROX,US,Tronox Holdings plc Ordinary Shares (UK),NYSE,stock
 TRP,US,TC Energy Corporation Common Stock,NYSE,stock
 TRTN^A,US,Triton International Limited 8.50% Series A Cumulative Redeemable Perpetual  Preference Shares,NYSE,stock
