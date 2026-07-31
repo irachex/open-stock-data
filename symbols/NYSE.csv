@@ -169,7 +169,6 @@ APG,US,APi Group Corporation Common Stock,NYSE,stock
 APH,US,Amphenol Corporation Common Stock,NYSE,stock
 APLE,US,Apple Hospitality REIT Inc. Common Shares,NYSE,stock
 APO,US,Apollo Global Management Inc. (New) Common Stock,NYSE,stock
-APO^A,US,Apollo Global Management Inc. 6.75% Series A Mandatory Convertible Preferred Stock,NYSE,stock
 APOS,US,Apollo Global Management Inc. 7.625% Fixed-Rate Resettable Junior Subordinated Notes due 2053,NYSE,stock
 APTV,US,Aptiv PLC Ordinary Shares,NYSE,stock
 AQN,US,Algonquin Power & Utilities Corp. Common Shares,NYSE,stock
@@ -824,6 +823,8 @@ EFT,US,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Intere
 EFX,US,Equifax Inc. Common Stock,NYSE,stock
 EFXT,US,Enerflex Ltd Common Shares,NYSE,stock
 EG,US,Everest Group Ltd. Common Stock,NYSE,stock
+EGO,US,Eldorado Gold Corporation Ordinary Shares,NYSE,stock
+EGP,US,EastGroup Properties Inc. Common Stock,NYSE,stock
 EGY,US,VAALCO Energy Inc.  Common Stock,NYSE,stock
 EHC,US,Encompass Health Corporation Common Stock,NYSE,stock
 EHI,US,Western Asset Global High Income Fund Inc Common Stock,NYSE,stock
@@ -1096,7 +1097,6 @@ GLOP^A,US,GasLog Partners LP 8.625% Series A Cumulative Redeemable Perpetual Fix
 GLOP^B,US,GasLog Partners LP 8.200% Series B Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,NYSE,stock
 GLOP^C,US,GasLog Partners LP 8.500% Series C Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,NYSE,stock
 GLP,US,Global Partners LP Common Units representing Limited Partner Interests,NYSE,stock
-GLP^B,US,Global Partners LP 9.50% Series B Fixed Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests,NYSE,stock
 GLW,US,Corning Incorporated Common Stock,NYSE,stock
 GM,US,General Motors Company Common Stock,NYSE,stock
 GME,US,GameStop Corporation Common Stock,NYSE,stock
@@ -1337,6 +1337,7 @@ JKS,US,JinkoSolar Holding Company Limited American Depositary Shares (each repre
 JLL,US,Jones Lang LaSalle Incorporated Common Stock,NYSE,stock
 JLS,US,Nuveen Mortgage and Income Fund,NYSE,stock
 JMIA,US,Jumia Technologies AG American Depositary Shares each representing two Ordinary Shares,NYSE,stock
+JMKE,US,Jersey Mike's Subs Inc. Class A Common Stock,NYSE,stock
 JMM,US,Nuveen Multi-Market Income Fund (MA),NYSE,stock
 JNJ,US,Johnson & Johnson Common Stock,NYSE,stock
 JOBY,US,Joby Aviation Inc. Common Stock,NYSE,stock
@@ -2012,6 +2013,7 @@ PVH,US,PVH Corp. Common Stock,NYSE,stock
 PVL,US,Permianville Royalty Trust Units of Beneficial Interest,NYSE,stock
 PWR,US,Quanta Services Inc. Common Stock,NYSE,stock
 PXED,US,Phoenix Education Partners Inc. Common Stock,NYSE,stock
+PYT,US,PPlus Tr GSC-2 Tr Ctf Fltg Rate,NYSE,stock
 Q,US,Qnity Electronics Inc. Common Stock,NYSE,stock
 QGEN,US,Qiagen N.V. Common Shares,NYSE,stock
 QLEP,US,Quantum Leap Acquisition Corp Class A Ordinary Shares,NYSE,stock
@@ -2024,6 +2026,7 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
+RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
@@ -2043,6 +2046,7 @@ RDDT,US,Reddit Inc. Class A Common Stock,NYSE,stock
 RDN,US,Radian Group Inc. Common Stock,NYSE,stock
 RDW,US,Redwire Corporation Common Stock,NYSE,stock
 RDY,US,Dr. Reddy's Laboratories Ltd Common Stock,NYSE,stock
+REF,US,Reformation Inc. Common Stock,NYSE,stock
 RELX,US,RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share),NYSE,stock
 RERE,US,ATRenew Inc. American Depositary Shares (every three of which representing two Class A ordinary shares),NYSE,stock
 RES,US,RPC Inc. Common Stock,NYSE,stock
@@ -2380,7 +2384,7 @@ TFPM,US,Triple Flag Precious Metals Corp. Common Shares,NYSE,stock
 TFX,US,Teleflex Incorporated Common Stock,NYSE,stock
 TG,US,Tredegar Corporation Common Stock,NYSE,stock
 TGE,US,The Generation Essentials Group Class A Ordinary Shares,NYSE,stock
-TGLS,US,Tecnoglass Inc. Common Stock,NYSE,stock
+TGLS,US,Tecnoglass Holdings Inc. Common Stock,NYSE,stock
 TGS,US,Transportadora de Gas del Sur SA TGS Common Stock,NYSE,stock
 TGT,US,Target Corporation Common Stock,NYSE,stock
 THC,US,Tenet Healthcare Corporation Common Stock,NYSE,stock
