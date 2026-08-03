@@ -1792,6 +1792,7 @@ OAK^B,US,Brookfield Oaktree Holdings LLC 6.550% Series B Preferred Units,NYSE,st
 OBDC,US,Blue Owl Capital Corporation Common Stock,NYSE,stock
 OBK,US,Origin Bancorp Inc. Common Stock,NYSE,stock
 OC,US,Owens Corning Inc Common Stock New,NYSE,stock
+OCAC,US,Ocean Capital Acquisition Corporation,NYSE,stock
 ODC,US,Oil-Dri Corporation Of America Common Stock,NYSE,stock
 OEC,US,Orion S.A. Common Shares,NYSE,stock
 OFG,US,OFG Bancorp Common Stock,NYSE,stock
@@ -2026,7 +2027,6 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
-RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
@@ -2461,7 +2461,6 @@ TVE,US,Tennessee Valley Authority,NYSE,stock
 TWI,US,Titan International Inc. (DE) Common Stock,NYSE,stock
 TWLO,US,Twilio Inc. Class A Common Stock,NYSE,stock
 TWN,US,Taiwan Fund Inc. (The) Common Stock,NYSE,stock
-TWO,US,Two Harbors Investment Corp,NYSE,stock
 TWO^A,US,Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share),NYSE,stock
 TWO^B,US,Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,NYSE,stock
 TWO^C,US,Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,NYSE,stock
