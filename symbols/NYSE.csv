@@ -39,6 +39,7 @@ AD,US,Array Digital Infrastructure Inc. Common Shares,NYSE,stock
 ADC,US,Agree Realty Corporation Common Stock,NYSE,stock
 ADC^A,US,Agree Realty Corporation Depositary Shares each representing 1/1000th of a 4.250% Series A Cumulative Redeemable Preferred Stock,NYSE,stock
 ADCT,US,ADC Therapeutics SA Common Shares,NYSE,stock
+ADIG,US,ADI Global Distribution Inc.,NYSE,stock
 ADM,US,Archer-Daniels-Midland Company Common Stock,NYSE,stock
 ADNT,US,Adient plc Ordinary Shares,NYSE,stock
 ADT,US,ADT Inc. Common Stock,NYSE,stock
@@ -823,8 +824,6 @@ EFT,US,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Intere
 EFX,US,Equifax Inc. Common Stock,NYSE,stock
 EFXT,US,Enerflex Ltd Common Shares,NYSE,stock
 EG,US,Everest Group Ltd. Common Stock,NYSE,stock
-EGO,US,Eldorado Gold Corporation Ordinary Shares,NYSE,stock
-EGP,US,EastGroup Properties Inc. Common Stock,NYSE,stock
 EGY,US,VAALCO Energy Inc.  Common Stock,NYSE,stock
 EHC,US,Encompass Health Corporation Common Stock,NYSE,stock
 EHI,US,Western Asset Global High Income Fund Inc Common Stock,NYSE,stock
@@ -1792,7 +1791,7 @@ OAK^B,US,Brookfield Oaktree Holdings LLC 6.550% Series B Preferred Units,NYSE,st
 OBDC,US,Blue Owl Capital Corporation Common Stock,NYSE,stock
 OBK,US,Origin Bancorp Inc. Common Stock,NYSE,stock
 OC,US,Owens Corning Inc Common Stock New,NYSE,stock
-OCAC,US,Ocean Capital Acquisition Corporation,NYSE,stock
+OCAC,US,Ocean Capital Acquisition Corporation Ordinary Shares,NYSE,stock
 ODC,US,Oil-Dri Corporation Of America Common Stock,NYSE,stock
 OEC,US,Orion S.A. Common Shares,NYSE,stock
 OFG,US,OFG Bancorp Common Stock,NYSE,stock
@@ -2461,6 +2460,7 @@ TVE,US,Tennessee Valley Authority,NYSE,stock
 TWI,US,Titan International Inc. (DE) Common Stock,NYSE,stock
 TWLO,US,Twilio Inc. Class A Common Stock,NYSE,stock
 TWN,US,Taiwan Fund Inc. (The) Common Stock,NYSE,stock
+TWO,US,Two Harbors Investments Corp,NYSE,stock
 TWO^A,US,Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share),NYSE,stock
 TWO^B,US,Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,NYSE,stock
 TWO^C,US,Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,NYSE,stock
@@ -2696,7 +2696,7 @@ YETI,US,YETI Holdings Inc. Common Stock,NYSE,stock
 YEXT,US,Yext Inc. Common Stock,NYSE,stock
 YMM,US,Full Truck Alliance Co. Ltd. American Depositary Shares (each representing 20 Class A Ordinary Shares),NYSE,stock
 YOU,US,Clear Secure Inc. Class A Common Stock,NYSE,stock
-YPF,US,YPF Sociedad Anonima Common Stock,NYSE,stock
+YPF,US,YPF Sociedad Anonima American Depositary Shares,NYSE,stock
 YRD,US,Yiren Digital Ltd. American Depositary Shares each representing two ordinary shares,NYSE,stock
 YSG,US,Yatsen Holding Limited American Depositary Shares each representing twenty (20) Class A Ordinary Shares,NYSE,stock
 YSS,US,York Space Systems Inc. Common Stock,NYSE,stock
