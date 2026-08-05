@@ -196,7 +196,7 @@
 600261,SH,阳光照明,SSE,stock
 600262,SH,北方股份,SSE,stock
 600265,SH,*ST景谷,SSE,stock
-600266,SH,城建发展,SSE,stock
+600266,SH,XD城建发,SSE,stock
 600267,SH,海正药业,SSE,stock
 600268,SH,国电南自,SSE,stock
 600269,SH,赣粤高速,SSE,stock
@@ -469,7 +469,7 @@
 600629,SH,华建集团,SSE,stock
 600630,SH,龙头股份,SSE,stock
 600633,SH,浙数文化,SSE,stock
-600635,SH,大众公用,SSE,stock
+600635,SH,XD大众公,SSE,stock
 600637,SH,东方明珠,SSE,stock
 600638,SH,新黄浦,SSE,stock
 600639,SH,浦东金桥,SSE,stock
@@ -500,7 +500,7 @@
 600671,SH,天目药业,SSE,stock
 600673,SH,东阳光,SSE,stock
 600674,SH,川投能源,SSE,stock
-600675,SH,XD中华企,SSE,stock
+600675,SH,中华企业,SSE,stock
 600676,SH,久事动娱,SSE,stock
 600678,SH,ST金顶,SSE,stock
 600679,SH,上海凤凰,SSE,stock
@@ -740,7 +740,7 @@
 600989,SH,宝丰能源,SSE,stock
 600990,SH,四创电子,SSE,stock
 600992,SH,贵绳股份,SSE,stock
-600993,SH,马应龙,SSE,stock
+600993,SH,XD马应龙,SSE,stock
 600995,SH,南网储能,SSE,stock
 600996,SH,贵广网络,SSE,stock
 600997,SH,开滦股份,SSE,stock
@@ -1311,6 +1311,7 @@
 603458,SH,勘设股份,SSE,stock
 603459,SH,红板科技,SSE,stock
 603466,SH,风语筑,SSE,stock
+603468,SH,-,SSE,stock
 603477,SH,巨星农牧,SSE,stock
 603486,SH,科沃斯,SSE,stock
 603488,SH,展鹏科技,SSE,stock
