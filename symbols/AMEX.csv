@@ -104,7 +104,6 @@ GLDG,US,GoldMining Inc. Common Shares,AMEX,stock
 GLO,US,Clough Global Opportunities Fund Common Stock,AMEX,stock
 GLQ,US,Clough Global Equity Fund Clough Global Equity Fund Common Shares of Beneficial Interest,AMEX,stock
 GLU,US,Gabelli Global Utility Common Shares of Beneficial Ownership,AMEX,stock
-GLU^A,US,The Gabelli Global Utility and Income Trust Series A Cumulative Puttable and Callable Preferred Shares,AMEX,stock
 GLU^B,US,The Gabelli Global Utility and Income Trust Series B Cumulative Puttable and Callable Preferred Shares,AMEX,stock
 GLV,US,Clough Global Dividend and Income Fund Common Shares of beneficial interest,AMEX,stock
 GMTL,US,Guardian Metal Resources PLC ADS,AMEX,stock
@@ -263,6 +262,7 @@ TOON,US,Kartoon Studios Inc. Common Stock,AMEX,stock
 TOPP,US,Toppoint Holdings Inc. Common Stock,AMEX,stock
 TOPS,US,TOP Ships Inc. Common Stock,AMEX,stock
 TOVX,US,Theriva Biologics Inc. Common Stock,AMEX,stock
+TP,US,Ticketplus Ltd.,AMEX,stock
 TPET,US,Trio Petroleum Corp. Common Stock,AMEX,stock
 TRT,US,Trio-Tech International Common Stock,AMEX,stock
 TRX,US,TRX Gold Corporation Common Stock,AMEX,stock
