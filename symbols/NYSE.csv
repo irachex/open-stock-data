@@ -852,7 +852,6 @@ EMR,US,Emerson Electric Company Common Stock,NYSE,stock
 ENB,US,Enbridge Inc Common Stock,NYSE,stock
 ENHA,US,Enhanced Group Inc. Class A Common Stock,NYSE,stock
 ENIC,US,Enel Chile S.A. American Depositary Shares (Each representing 50 shares of Common Stock),NYSE,stock
-ENJ,US,Entergy New Orleans LLC First Mortgage Bonds 5.0% Series due December 1 2052,NYSE,stock
 ENO,US,Entergy New Orleans LLC First Mortgage Bonds 5.50% Series due April 1 2066,NYSE,stock
 ENOV,US,Enovis Corporation Common Stock,NYSE,stock
 ENR,US,Energizer Holdings Inc. Common Stock,NYSE,stock
@@ -1080,6 +1079,7 @@ GIC,US,Global Industrial Company Common Stock,NYSE,stock
 GIL,US,Gildan Activewear Inc. Class A Sub. Vot. Common Stock,NYSE,stock
 GIS,US,General Mills Inc. Common Stock,NYSE,stock
 GJH,US,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,NYSE,stock
+GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores Inc. Securities Series 2004-5,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
 GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
@@ -2007,6 +2007,7 @@ PVH,US,PVH Corp. Common Stock,NYSE,stock
 PVL,US,Permianville Royalty Trust Units of Beneficial Interest,NYSE,stock
 PWR,US,Quanta Services Inc. Common Stock,NYSE,stock
 PXED,US,Phoenix Education Partners Inc. Common Stock,NYSE,stock
+PYT,US,PPlus Tr GSC-2 Tr Ctf Fltg Rate,NYSE,stock
 Q,US,Qnity Electronics Inc. Common Stock,NYSE,stock
 QGEN,US,Qiagen N.V. Common Shares,NYSE,stock
 QLEP,US,Quantum Leap Acquisition Corp Class A Ordinary Shares,NYSE,stock
@@ -2114,7 +2115,7 @@ RSKD,US,Riskified Ltd. Class A Ordinary Shares,NYSE,stock
 RTO,US,Rentokil Initial plc American Depositary Shares (each representing five (5) Ordinary Shares),NYSE,stock
 RTX,US,RTX Corporation Common Stock,NYSE,stock
 RVI,US,Robinhood Ventures Fund I Common Shares of Beneficial Interest,NYSE,stock
-RVII,US,Robinhood Ventures Fund II,NYSE,stock
+RVII,US,Robinhood Ventures Fund II Common Shares of Beneficial Interest,NYSE,stock
 RVLV,US,Revolve Group Inc. Class A Common Stock,NYSE,stock
 RVT,US,Royce Small-Cap Trust Inc. Common Stock,NYSE,stock
 RVTY,US,Revvity Inc. Common Stock,NYSE,stock
