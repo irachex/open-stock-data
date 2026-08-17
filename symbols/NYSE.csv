@@ -226,7 +226,6 @@ AUB^A,US,Atlantic Union Bankshares Corporation Depositary Shares each representi
 AUNA,US,Auna SA Class A Ordinary Shares,NYSE,stock
 AVA,US,Avista Corporation Common Stock,NYSE,stock
 AVAL,US,Grupo Aval Acciones y Valores S.A. ADR (Each representing 20 preferred shares),NYSE,stock
-AVB,US,AvalonBay Communities Inc. Common Stock,NYSE,stock
 AVBC,US,Avidia Bancorp Inc. Common Stock,NYSE,stock
 AVD,US,American Vanguard Corporation Common Stock ($0.10 Par Value),NYSE,stock
 AVEX,US,AEVEX Corp. Class A Common Stock,NYSE,stock
@@ -278,7 +277,6 @@ BAX,US,Baxter International Inc. Common Stock,NYSE,stock
 BB,US,BlackBerry Limited Common Stock,NYSE,stock
 BBAI,US,BigBear.ai Inc. Common Stock,NYSE,stock
 BBAR,US,Banco BBVA Argentina S.A. ADS,NYSE,stock
-BBBY,US,Bed Bath & Beyond Inc. Common Stock,NYSE,stock
 BBD,US,Banco Bradesco Sa American Depositary Shares,NYSE,stock
 BBDC,US,Barings BDC Inc. Common Stock,NYSE,stock
 BBDO,US,Banco Bradesco Sa American Depositary Shares (each representing one Common Share),NYSE,stock
@@ -307,7 +305,7 @@ BDX,US,Becton Dickinson and Company Common Stock,NYSE,stock
 BE,US,Bloom Energy Corporation Class A Common Stock,NYSE,stock
 BEBE,US,TGE Value Creative Solutions Corp Class A Ordinary Shares,NYSE,stock
 BEKE,US,KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),NYSE,stock
-BEN,US,Franklin Resources Inc. Common Stock,NYSE,stock
+BEN,US,Franklin Templeton Inc. Common Stock,NYSE,stock
 BEP,US,Brookfield Renewable Partners L.P. Limited Partnership Units,NYSE,stock
 BEP^A,US,Brookfield Renewable Partners L.P. 5.25% Class A Preferred Limited Partnership Units Series 17,NYSE,stock
 BEPC,US,Brookfield Renewable Corporation Brookfield Renewable Corporation Class A Subordinate Voting Shares,NYSE,stock
@@ -778,6 +776,7 @@ DTW,US,DTE Energy Company 2017 Series E 5.25% Junior Subordinated Debentures due
 DUK,US,Duke Energy Corporation (Holding Company) Common Stock,NYSE,stock
 DUK^A,US,Duke Energy Corporation Depositary Shares each representing a 1/1000th interest in a share of 5.75% Series A Cumulative Redeemable Perpetual Preferred Stock,NYSE,stock
 DUKB,US,Duke Energy Corporation 5.625% Junior Subordinated Debentures due 2078,NYSE,stock
+DUKU,US,Duke Energy Corporation,NYSE,stock
 DV,US,DoubleVerify Holdings Inc. Common Stock,NYSE,stock
 DVA,US,DaVita Inc. Common Stock,NYSE,stock
 DVN,US,Devon Energy Corporation Common Stock,NYSE,stock
@@ -852,6 +851,7 @@ EMR,US,Emerson Electric Company Common Stock,NYSE,stock
 ENB,US,Enbridge Inc Common Stock,NYSE,stock
 ENHA,US,Enhanced Group Inc. Class A Common Stock,NYSE,stock
 ENIC,US,Enel Chile S.A. American Depositary Shares (Each representing 50 shares of Common Stock),NYSE,stock
+ENJ,US,Entergy New Orleans LLC First Mortgage Bonds 5.0% Series due December 1 2052,NYSE,stock
 ENO,US,Entergy New Orleans LLC First Mortgage Bonds 5.50% Series due April 1 2066,NYSE,stock
 ENOV,US,Enovis Corporation Common Stock,NYSE,stock
 ENR,US,Energizer Holdings Inc. Common Stock,NYSE,stock
@@ -1080,8 +1080,9 @@ GIL,US,Gildan Activewear Inc. Class A Sub. Vot. Common Stock,NYSE,stock
 GIS,US,General Mills Inc. Common Stock,NYSE,stock
 GJH,US,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,NYSE,stock
 GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores Inc. Securities Series 2004-5,NYSE,stock
+GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
+GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
-GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
 GL,US,Globe Life Inc. Common Stock,NYSE,stock
 GL^D,US,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061,NYSE,stock
