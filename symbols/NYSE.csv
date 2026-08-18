@@ -776,7 +776,7 @@ DTW,US,DTE Energy Company 2017 Series E 5.25% Junior Subordinated Debentures due
 DUK,US,Duke Energy Corporation (Holding Company) Common Stock,NYSE,stock
 DUK^A,US,Duke Energy Corporation Depositary Shares each representing a 1/1000th interest in a share of 5.75% Series A Cumulative Redeemable Perpetual Preferred Stock,NYSE,stock
 DUKB,US,Duke Energy Corporation 5.625% Junior Subordinated Debentures due 2078,NYSE,stock
-DUKU,US,Duke Energy Corporation,NYSE,stock
+DUKU,US,Duke Energy Corporation Corporate Units,NYSE,stock
 DV,US,DoubleVerify Holdings Inc. Common Stock,NYSE,stock
 DVA,US,DaVita Inc. Common Stock,NYSE,stock
 DVN,US,Devon Energy Corporation Common Stock,NYSE,stock
@@ -877,7 +877,6 @@ EQH,US,Equitable Holdings Inc. Common Stock,NYSE,stock
 EQH^A,US,Equitable Holdings Inc. Depositary Shares,NYSE,stock
 EQH^C,US,Equitable Holdings Inc. Depositary Shares each representing a 1/1000th interest in a share of Fixed Rate Noncumulative Perpetual Preferred Stock Series C,NYSE,stock
 EQNR,US,Equinor ASA,NYSE,stock
-EQR,US,Equity Residential Common Shares of Beneficial Interest,NYSE,stock
 EQS,US,Equus Total Return Inc. Common Stock,NYSE,stock
 EQT,US,EQT Corporation Common Stock,NYSE,stock
 ERO,US,Ero Copper Corp. Common Shares,NYSE,stock
@@ -1083,6 +1082,7 @@ GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for 
 GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
 GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
+GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
 GL,US,Globe Life Inc. Common Stock,NYSE,stock
 GL^D,US,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061,NYSE,stock
@@ -2560,6 +2560,7 @@ VLTO,US,Veralto Corp Common Stock,NYSE,stock
 VMC,US,Vulcan Materials Company (Holding Company) Common Stock,NYSE,stock
 VMI,US,Valmont Industries Inc. Common Stock,NYSE,stock
 VMO,US,Invesco Municipal Opportunity Trust Common Stock,NYSE,stock
+VMRK,US,Vivmark Residential,NYSE,stock
 VNO,US,Vornado Realty Trust Common Stock,NYSE,stock
 VNO^L,US,Vornado Realty Trust Pfd Ser L %,NYSE,stock
 VNO^M,US,Vornado Realty Trust 5.25% Series M Cumulative Redeemable Preferred Shares of Beneficial Interest liquidation preference $25.00 per share no par value per share,NYSE,stock
