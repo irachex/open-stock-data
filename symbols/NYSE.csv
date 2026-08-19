@@ -995,7 +995,6 @@ FNF,US,Fidelity National Financial Inc. Common Stock,NYSE,stock
 FNV,US,Franco-Nevada Corporation,NYSE,stock
 FOA,US,Finance of America Companies Inc. Class A Common Stock,NYSE,stock
 FOF,US,Cohen & Steers Closed-End Opportunity Fund Inc. Common Stock,NYSE,stock
-FOIL,US,Londian Wason New Energy Tech Inc. American Depositary Shares each representing five Ordinary Shares,NYSE,stock
 FOR,US,Forestar Group Inc Common Stock,NYSE,stock
 FOUR,US,Shift4 Payments Inc. Class A Common Stock,NYSE,stock
 FOUR^A,US,Shift4 Payments Inc. 6.00% Series A Mandatory Convertible Preferred Stock,NYSE,stock
@@ -1484,6 +1483,7 @@ LXP^C,US,LXP Industrial Trust 6.5% Series C Cumulative Convertible Preferred Sto
 LXU,US,LSB Industries Inc. Common Stock,NYSE,stock
 LYB,US,LyondellBasell Industries NV Ordinary Shares Class A (Netherlands),NYSE,stock
 LYG,US,Lloyds Banking Group Plc American Depositary Shares,NYSE,stock
+LYNX,US,Lyntris Inc.,NYSE,stock
 LYV,US,Live Nation Entertainment Inc. Common Stock,NYSE,stock
 LZB,US,La-Z-Boy Incorporated Common Stock,NYSE,stock
 LZM,US,Lifezone Metals Limited Ordinary Shares,NYSE,stock
@@ -2560,7 +2560,7 @@ VLTO,US,Veralto Corp Common Stock,NYSE,stock
 VMC,US,Vulcan Materials Company (Holding Company) Common Stock,NYSE,stock
 VMI,US,Valmont Industries Inc. Common Stock,NYSE,stock
 VMO,US,Invesco Municipal Opportunity Trust Common Stock,NYSE,stock
-VMRK,US,Vivmark Residential,NYSE,stock
+VMRK,US,Vivmark Residential Common Shares of Beneficial Interest,NYSE,stock
 VNO,US,Vornado Realty Trust Common Stock,NYSE,stock
 VNO^L,US,Vornado Realty Trust Pfd Ser L %,NYSE,stock
 VNO^M,US,Vornado Realty Trust 5.25% Series M Cumulative Redeemable Preferred Shares of Beneficial Interest liquidation preference $25.00 per share no par value per share,NYSE,stock
