@@ -820,8 +820,6 @@ EFT,US,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Intere
 EFX,US,Equifax Inc. Common Stock,NYSE,stock
 EFXT,US,Enerflex Ltd Common Shares,NYSE,stock
 EG,US,Everest Group Ltd. Common Stock,NYSE,stock
-EGO,US,Eldorado Gold Corporation Ordinary Shares,NYSE,stock
-EGP,US,EastGroup Properties Inc. Common Stock,NYSE,stock
 EGY,US,VAALCO Energy Inc.  Common Stock,NYSE,stock
 EHC,US,Encompass Health Corporation Common Stock,NYSE,stock
 EHI,US,Western Asset Global High Income Fund Inc Common Stock,NYSE,stock
@@ -995,6 +993,7 @@ FNF,US,Fidelity National Financial Inc. Common Stock,NYSE,stock
 FNV,US,Franco-Nevada Corporation,NYSE,stock
 FOA,US,Finance of America Companies Inc. Class A Common Stock,NYSE,stock
 FOF,US,Cohen & Steers Closed-End Opportunity Fund Inc. Common Stock,NYSE,stock
+FOIL,US,Londian Wason New Energy Tech Inc. American Depositary Shares each representing five Ordinary Shares,NYSE,stock
 FOR,US,Forestar Group Inc Common Stock,NYSE,stock
 FOUR,US,Shift4 Payments Inc. Class A Common Stock,NYSE,stock
 FOUR^A,US,Shift4 Payments Inc. 6.00% Series A Mandatory Convertible Preferred Stock,NYSE,stock
@@ -1483,7 +1482,7 @@ LXP^C,US,LXP Industrial Trust 6.5% Series C Cumulative Convertible Preferred Sto
 LXU,US,LSB Industries Inc. Common Stock,NYSE,stock
 LYB,US,LyondellBasell Industries NV Ordinary Shares Class A (Netherlands),NYSE,stock
 LYG,US,Lloyds Banking Group Plc American Depositary Shares,NYSE,stock
-LYNX,US,Lyntris Inc.,NYSE,stock
+LYNX,US,Lyntris Inc. Common Stock,NYSE,stock
 LYV,US,Live Nation Entertainment Inc. Common Stock,NYSE,stock
 LZB,US,La-Z-Boy Incorporated Common Stock,NYSE,stock
 LZM,US,Lifezone Metals Limited Ordinary Shares,NYSE,stock
@@ -2021,7 +2020,6 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
-RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
@@ -2243,6 +2241,7 @@ SNDA,US,Sonida Senior Living Inc. Common Stock,NYSE,stock
 SNDR,US,Schneider National Inc. Common Stock,NYSE,stock
 SNN,US,Smith & Nephew SNATS Inc. Common Stock,NYSE,stock
 SNOW,US,Snowflake Inc. Common Stock,NYSE,stock
+SNUS^H,US,Santander Holdings USA Inc.,NYSE,stock
 SNX,US,TD SYNNEX Corporation Common Stock,NYSE,stock
 SO,US,Southern Company (The) Common Stock,NYSE,stock
 SOBO,US,South Bow Corporation Common Shares,NYSE,stock
@@ -2596,9 +2595,6 @@ WAL,US,Western Alliance Bancorporation Common Stock (DE),NYSE,stock
 WAL^A,US,Western Alliance Bancorporation Depositary Shares Each Representing a 1/400th Interest in a Share of 4.250% Fixed-Rate Non-Cumulative Perpetual Preferred Stock Series A,NYSE,stock
 WAT,US,Waters Corporation Common Stock,NYSE,stock
 WBI,US,WaterBridge Infrastructure LLC Class A Shares Representing Limited Liability Company Interests,NYSE,stock
-WBS,US,Webster Financial Corporation Common Stock,NYSE,stock
-WBS^F,US,Webster Financial Corporation Depositary Shares Each Representing 1/1000th Interest in a Share of 5.25% Series F Non-Cumulative Perpetual Preferred Stock,NYSE,stock
-WBS^G,US,Webster Financial Corporation Depositary Shares each representing a 1/40th interest in a share of 6.50% Series G non-cumulative perpetual preferred stock,NYSE,stock
 WBX,US,Wallbox N.V. Class A Ordinary Shares,NYSE,stock
 WCC,US,WESCO International Inc. Common Stock,NYSE,stock
 WCN,US,Waste Connections Inc. Common Shares,NYSE,stock
