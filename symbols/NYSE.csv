@@ -823,8 +823,8 @@ EG,US,Everest Group Ltd. Common Stock,NYSE,stock
 EGY,US,VAALCO Energy Inc.  Common Stock,NYSE,stock
 EHC,US,Encompass Health Corporation Common Stock,NYSE,stock
 EHI,US,Western Asset Global High Income Fund Inc Common Stock,NYSE,stock
-EIC,US,Eagle Point Income Company Inc. Common Stock,NYSE,stock
-EICA,US,Eagle Point Income Company Inc. 5.00% Series A Term Preferred Stock due 2026,NYSE,stock
+EIC,US,Eagle Point Income Company Common Shares of Beneficial Interest,NYSE,stock
+EICA,US,Eagle Point Income Company 5.00% Series A Term Preferred Shares due 2026,NYSE,stock
 EIG,US,Employers Holdings Inc Common Stock,NYSE,stock
 EIIA,US,Eagle Point Institutional Income Fund 8.125% Series A Term Preferred Shares Due 2029,NYSE,stock
 EIX,US,Edison International Common Stock,NYSE,stock
@@ -1076,8 +1076,6 @@ GIC,US,Global Industrial Company Common Stock,NYSE,stock
 GIL,US,Gildan Activewear Inc. Class A Sub. Vot. Common Stock,NYSE,stock
 GIS,US,General Mills Inc. Common Stock,NYSE,stock
 GJH,US,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,NYSE,stock
-GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores Inc. Securities Series 2004-5,NYSE,stock
-GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
 GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
 GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
@@ -1312,7 +1310,6 @@ JACS,US,Jackson Acquisition Company II Class A Ordinary Shares,NYSE,stock
 JAN,US,Janus Living Inc. Class A-1 Common Stock,NYSE,stock
 JBGS,US,JBG SMITH Properties Common Shares,NYSE,stock
 JBI,US,Janus International Group Inc. Common Stock,NYSE,stock
-JBK,US,Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I,NYSE,stock
 JBL,US,Jabil Inc. Common Stock,NYSE,stock
 JBS,US,JBS N.V. Class A Common Shares,NYSE,stock
 JBTM,US,JBT Marel Corporation Common Stock,NYSE,stock
@@ -2020,6 +2017,7 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
+RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
@@ -2241,7 +2239,8 @@ SNDA,US,Sonida Senior Living Inc. Common Stock,NYSE,stock
 SNDR,US,Schneider National Inc. Common Stock,NYSE,stock
 SNN,US,Smith & Nephew SNATS Inc. Common Stock,NYSE,stock
 SNOW,US,Snowflake Inc. Common Stock,NYSE,stock
-SNUS^H,US,Santander Holdings USA Inc.,NYSE,stock
+SNUS^H,US,Santander Holdings USA Inc. Depositary Shares Each Representing a 1/1000th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock Series H,NYSE,stock
+SNUS^I,US,Santander Holdings USA Inc. Depositary Shares Each Representing a 1/40th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock Series I,NYSE,stock
 SNX,US,TD SYNNEX Corporation Common Stock,NYSE,stock
 SO,US,Southern Company (The) Common Stock,NYSE,stock
 SOBO,US,South Bow Corporation Common Shares,NYSE,stock
