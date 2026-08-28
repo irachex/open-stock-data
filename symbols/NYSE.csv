@@ -1,6 +1,7 @@
 ﻿code,region,name,exchange,type
 A,US,Agilent Technologies Inc. Common Stock,NYSE,stock
 AA,US,Alcoa Corporation Common Stock,NYSE,stock
+AAC,US,Ares Acquisition Corporation III,NYSE,stock
 AADX,US,Applied Aerospace & Defense Inc. Common Stock,NYSE,stock
 AAMI,US,Acadian Asset Management Inc. Common Stock,NYSE,stock
 AAP,US,Advance Auto Parts Inc.,NYSE,stock
@@ -820,6 +821,7 @@ EFT,US,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Intere
 EFX,US,Equifax Inc. Common Stock,NYSE,stock
 EFXT,US,Enerflex Ltd Common Shares,NYSE,stock
 EG,US,Everest Group Ltd. Common Stock,NYSE,stock
+EGP,US,EastGroup Properties Inc. Common Stock,NYSE,stock
 EGY,US,VAALCO Energy Inc.  Common Stock,NYSE,stock
 EHC,US,Encompass Health Corporation Common Stock,NYSE,stock
 EHI,US,Western Asset Global High Income Fund Inc Common Stock,NYSE,stock
@@ -1077,6 +1079,7 @@ GIL,US,Gildan Activewear Inc. Class A Sub. Vot. Common Stock,NYSE,stock
 GIS,US,General Mills Inc. Common Stock,NYSE,stock
 GJH,US,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,NYSE,stock
 GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores Inc. Securities Series 2004-5,NYSE,stock
+GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
 GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
 GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
@@ -1433,7 +1436,6 @@ LDI,US,loanDepot Inc. Class A Common Stock,NYSE,stock
 LDOS,US,Leidos Holdings Inc. Common Stock,NYSE,stock
 LDP,US,Cohen & Steers Limited Duration Preferred and Income Fund Inc.,NYSE,stock
 LEA,US,Lear Corporation Common Stock,NYSE,stock
-LEG,US,Leggett & Platt Incorporated Common Stock,NYSE,stock
 LEN,US,Lennar Corporation Class A Common Stock,NYSE,stock
 LEO,US,BNY Mellon Strategic Municipals Inc. Common Stock,NYSE,stock
 LEU,US,Centrus Energy Corp. Class A Common Stock,NYSE,stock
@@ -1749,7 +1751,6 @@ NSP,US,Insperity Inc. Common Stock,NYSE,stock
 NTB,US,Bank of N.T. Butterfield & Son Limited (The) Voting Ordinary Shares,NYSE,stock
 NTR,US,Nutrien Ltd. Common Shares,NYSE,stock
 NTST,US,NetSTREIT Corp. Common Stock,NYSE,stock
-NTZ,US,Natuzzi S.p.A.,NYSE,stock
 NU,US,Nu Holdings Ltd. Class A Ordinary Shares,NYSE,stock
 NUE,US,Nucor Corporation Common Stock,NYSE,stock
 NUS,US,Nu Skin Enterprises Inc. Common Stock,NYSE,stock
@@ -2145,6 +2146,7 @@ SAR,US,Saratoga Investment Corp New,NYSE,stock
 SARO,US,StandardAero Inc. Common Stock,NYSE,stock
 SAT,US,Saratoga Investment Corp 6.00% Notes due 2027,NYSE,stock
 SAV,US,Saratoga Investment Corp 7.50% Notes due 2031,NYSE,stock
+SAX,US,Saratoga Investment Corp,NYSE,stock
 SAY,US,Saratoga Investment Corp 8.125% Notes due 2027,NYSE,stock
 SAZ,US,Saratoga Investment Corp 8.50% Notes due 2028,NYSE,stock
 SB,US,Safe Bulkers Inc Common Stock ($0.001 par value),NYSE,stock
