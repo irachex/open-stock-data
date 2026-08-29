@@ -1,7 +1,7 @@
 ﻿code,region,name,exchange,type
 A,US,Agilent Technologies Inc. Common Stock,NYSE,stock
 AA,US,Alcoa Corporation Common Stock,NYSE,stock
-AAC,US,Ares Acquisition Corporation III,NYSE,stock
+AAC,US,Ares Acquisition Corporation III Class A Ordinary Shares,NYSE,stock
 AADX,US,Applied Aerospace & Defense Inc. Common Stock,NYSE,stock
 AAMI,US,Acadian Asset Management Inc. Common Stock,NYSE,stock
 AAP,US,Advance Auto Parts Inc.,NYSE,stock
@@ -1520,7 +1520,7 @@ MDT,US,Medtronic plc. Ordinary Shares,NYSE,stock
 MDU,US,MDU Resources Group Inc. Common Stock (Holding Company),NYSE,stock
 MEC,US,Mayville Engineering Company Inc. Common Stock,NYSE,stock
 MED,US,MEDIFAST INC Common Stock,NYSE,stock
-MEGI,US,NYLI CBRE Global Infrastructure Megatrends Term Fund Common Shares,NYSE,stock
+MEGI,US,NYLIM CBRE Global Infrastructure Megatrends Term Fund Common Shares,NYSE,stock
 MEI,US,Methode Electronics Inc. Common Stock,NYSE,stock
 MER^K,US,Bank of America Corporation Income Capital Obligation Notes initially due December 15 2066,NYSE,stock
 MET,US,MetLife Inc. Common Stock,NYSE,stock
@@ -1568,7 +1568,7 @@ MLI,US,Mueller Industries Inc. Common Stock,NYSE,stock
 MLM,US,Martin Marietta Materials Inc. Common Stock,NYSE,stock
 MLP,US,Maui Land & Pineapple Company Inc. Common Stock,NYSE,stock
 MLR,US,Miller Industries Inc. Common Stock,NYSE,stock
-MMD,US,NYLI MacKay DefinedTerm Muni Opportunities Fund Common Shares,NYSE,stock
+MMD,US,NYLIM MacKay DefinedTerm Muni Opportunities Fund Common Shares,NYSE,stock
 MMI,US,Marcus & Millichap Inc. Common Stock,NYSE,stock
 MMM,US,3M Company Common Stock,NYSE,stock
 MMS,US,Maximus Inc. Common Stock,NYSE,stock
@@ -2146,7 +2146,7 @@ SAR,US,Saratoga Investment Corp New,NYSE,stock
 SARO,US,StandardAero Inc. Common Stock,NYSE,stock
 SAT,US,Saratoga Investment Corp 6.00% Notes due 2027,NYSE,stock
 SAV,US,Saratoga Investment Corp 7.50% Notes due 2031,NYSE,stock
-SAX,US,Saratoga Investment Corp,NYSE,stock
+SAX,US,Saratoga Investment Corp 8.00% Notes due 2031,NYSE,stock
 SAY,US,Saratoga Investment Corp 8.125% Notes due 2027,NYSE,stock
 SAZ,US,Saratoga Investment Corp 8.50% Notes due 2028,NYSE,stock
 SB,US,Safe Bulkers Inc Common Stock ($0.001 par value),NYSE,stock
