@@ -821,7 +821,6 @@ EFT,US,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Intere
 EFX,US,Equifax Inc. Common Stock,NYSE,stock
 EFXT,US,Enerflex Ltd Common Shares,NYSE,stock
 EG,US,Everest Group Ltd. Common Stock,NYSE,stock
-EGP,US,EastGroup Properties Inc. Common Stock,NYSE,stock
 EGY,US,VAALCO Energy Inc.  Common Stock,NYSE,stock
 EHC,US,Encompass Health Corporation Common Stock,NYSE,stock
 EHI,US,Western Asset Global High Income Fund Inc Common Stock,NYSE,stock
@@ -1812,7 +1811,6 @@ ONON,US,On Holding AG Class A Ordinary Shares,NYSE,stock
 ONT,US,Onterris Inc. Common Stock,NYSE,stock
 ONTO,US,Onto Innovation Inc. Common Stock,NYSE,stock
 OOMA,US,Ooma Inc. Common Stock,NYSE,stock
-OPAD,US,Offerpad Solutions Inc. Class A Common Stock,NYSE,stock
 OPFI,US,OppFi Inc. Class A Common Stock,NYSE,stock
 OPLN,US,OPENLANE Inc. Common Stock,NYSE,stock
 OPP,US,RiverNorth/DoubleLine Strategic Opportunity Fund Inc. Common Stock,NYSE,stock
@@ -2020,6 +2018,7 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
+RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
@@ -2140,6 +2139,7 @@ SAGU,US,Shreya Acquisition Group Class A Ordinary Shares,NYSE,stock
 SAH,US,Sonic Automotive Inc. Common Stock,NYSE,stock
 SAJ,US,Saratoga Investment Corp 8.00% Notes due 2027,NYSE,stock
 SAM,US,Boston Beer Company Inc. (The) Common Stock,NYSE,stock
+SAMO,US,Samos Energy Acquisition Corporation,NYSE,stock
 SAN,US,Banco Santander S.A. Sponsored ADR (Spain),NYSE,stock
 SAP,US,SAP  SE ADS,NYSE,stock
 SAR,US,Saratoga Investment Corp New,NYSE,stock
