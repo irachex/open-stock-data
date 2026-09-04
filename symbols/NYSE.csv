@@ -496,7 +496,6 @@ CCM,US,Concord Medical Services Holdings Limited American Depositary Shares (Eac
 CCO,US,Clear Channel Outdoor Holdings Inc. Common Stock,NYSE,stock
 CCS,US,Century Communities Inc. Common Stock,NYSE,stock
 CCU,US,Compania Cervecerias Unidas S.A. Common Stock,NYSE,stock
-CCZ,US,Comcast Holdings ZONES,NYSE,stock
 CDE,US,Coeur Mining Inc. Common Stock,NYSE,stock
 CDLR,US,Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares),NYSE,stock
 CDP,US,COPT Defense Properties Common Shares of Beneficial Interest,NYSE,stock
@@ -1203,7 +1202,7 @@ HNGE,US,Hinge Health Inc. Class A Common Stock,NYSE,stock
 HNI,US,HNI Corporation Common Stock,NYSE,stock
 HOG,US,Harley-Davidson Inc. Common Stock,NYSE,stock
 HOMB,US,Home BancShares Inc. Common Stock,NYSE,stock
-HOS,US,Hornbeck Offshore Services Inc.,NYSE,stock
+HOS,US,Hornbeck Offshore Services Inc. Common Stock,NYSE,stock
 HOV,US,Hovnanian Enterprises Inc. Class A Common Stock,NYSE,stock
 HP,US,Helmerich & Payne Inc. Common Stock,NYSE,stock
 HPE,US,Hewlett Packard Enterprise Company Common Stock,NYSE,stock
@@ -2678,6 +2677,7 @@ XPRO,US,Expro Ltd Ordinary Shares,NYSE,stock
 XRN,US,Chiron Real Estate Inc. Common Stock,NYSE,stock
 XRN^A,US,Chiron Real Estate Inc. Series A Cumulative Redeemable Preferred Stock,NYSE,stock
 XRN^B,US,Chiron Real Estate Inc. 8.00% Series B Cumulative Redeemable Preferred Stock $0.001 par value per share,NYSE,stock
+XTND,US,Xtend AI Robotics Inc.,NYSE,stock
 XXI,US,Twenty One Capital Inc. Class A Common Stock,NYSE,stock
 XYF,US,X Financial American Depositary Shares each representing six Class A Ordinary Shares,NYSE,stock
 XYL,US,Xylem Inc. Common Stock New,NYSE,stock
