@@ -496,6 +496,7 @@ CCM,US,Concord Medical Services Holdings Limited American Depositary Shares (Eac
 CCO,US,Clear Channel Outdoor Holdings Inc. Common Stock,NYSE,stock
 CCS,US,Century Communities Inc. Common Stock,NYSE,stock
 CCU,US,Compania Cervecerias Unidas S.A. Common Stock,NYSE,stock
+CCZ,US,Comcast Holdings ZONES,NYSE,stock
 CDE,US,Coeur Mining Inc. Common Stock,NYSE,stock
 CDLR,US,Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares),NYSE,stock
 CDP,US,COPT Defense Properties Common Shares of Beneficial Interest,NYSE,stock
@@ -820,6 +821,8 @@ EFT,US,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Intere
 EFX,US,Equifax Inc. Common Stock,NYSE,stock
 EFXT,US,Enerflex Ltd Common Shares,NYSE,stock
 EG,US,Everest Group Ltd. Common Stock,NYSE,stock
+EGO,US,Eldorado Gold Corporation Ordinary Shares,NYSE,stock
+EGP,US,EastGroup Properties Inc. Common Stock,NYSE,stock
 EGY,US,VAALCO Energy Inc.  Common Stock,NYSE,stock
 EHC,US,Encompass Health Corporation Common Stock,NYSE,stock
 EHI,US,Western Asset Global High Income Fund Inc Common Stock,NYSE,stock
@@ -2017,7 +2020,6 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
-RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
@@ -2677,7 +2679,7 @@ XPRO,US,Expro Ltd Ordinary Shares,NYSE,stock
 XRN,US,Chiron Real Estate Inc. Common Stock,NYSE,stock
 XRN^A,US,Chiron Real Estate Inc. Series A Cumulative Redeemable Preferred Stock,NYSE,stock
 XRN^B,US,Chiron Real Estate Inc. 8.00% Series B Cumulative Redeemable Preferred Stock $0.001 par value per share,NYSE,stock
-XTND,US,Xtend AI Robotics Inc.,NYSE,stock
+XTND,US,Xtend AI Robotics Inc. Common Stock,NYSE,stock
 XXI,US,Twenty One Capital Inc. Class A Common Stock,NYSE,stock
 XYF,US,X Financial American Depositary Shares each representing six Class A Ordinary Shares,NYSE,stock
 XYL,US,Xylem Inc. Common Stock New,NYSE,stock
