@@ -496,7 +496,6 @@ CCM,US,Concord Medical Services Holdings Limited American Depositary Shares (Eac
 CCO,US,Clear Channel Outdoor Holdings Inc. Common Stock,NYSE,stock
 CCS,US,Century Communities Inc. Common Stock,NYSE,stock
 CCU,US,Compania Cervecerias Unidas S.A. Common Stock,NYSE,stock
-CCZ,US,Comcast Holdings ZONES,NYSE,stock
 CDE,US,Coeur Mining Inc. Common Stock,NYSE,stock
 CDLR,US,Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares),NYSE,stock
 CDP,US,COPT Defense Properties Common Shares of Beneficial Interest,NYSE,stock
@@ -1371,6 +1370,7 @@ KFRC,US,Kforce Inc. Common Stock,NYSE,stock
 KFY,US,Korn Ferry Common Stock,NYSE,stock
 KGC,US,Kinross Gold Corporation Common Stock,NYSE,stock
 KGS,US,Kodiak Gas Services Inc. Common Stock,NYSE,stock
+KHC,US,The Kraft Heinz Company Common Stock,NYSE,stock
 KIM,US,Kimco Realty Corporation (HC) Common Stock,NYSE,stock
 KIM^L,US,Kimco Realty Corporation Class L Depositary Shares each of which represents a one-one thousandth fractional interest in a share of 5.125% Class L Cumulative Redeemable Preferred Stock liquidation preference $25000.00 per share,NYSE,stock
 KIM^M,US,Kimco Realty Corporation Class M Depositary Shares each of which represents a one-one thousandth fractional interest in a share of 5.25% Class M Cumulative Redeemable Preferred Stock liquidation preference $25000.00 per share,NYSE,stock
@@ -2366,7 +2366,7 @@ TEN,US,Tsakos Energy Navigation Ltd Common Shares,NYSE,stock
 TEN^E,US,Tsakos Energy Navigation Ltd Series E Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Shares par value $1.00,NYSE,stock
 TEN^F,US,Tsakos Energy Navigation Ltd Series F Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Shares par value $1.00,NYSE,stock
 TEO,US,Telecom Argentina SA,NYSE,stock
-TEVA,US,Teva Pharmaceutical Industries Limited American Depositary Shares,NYSE,stock
+TEVA,US,Teva Pharmaceutical Industries Limited Ordinary Shares,NYSE,stock
 TEX,US,Terex Corporation Common Stock,NYSE,stock
 TFC,US,Truist Financial Corporation Common Stock,NYSE,stock
 TFC^I,US,Truist Financial Corporation Depositary Shares,NYSE,stock
