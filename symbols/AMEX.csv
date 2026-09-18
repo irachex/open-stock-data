@@ -104,7 +104,6 @@ GLDG,US,GoldMining Inc. Common Shares,AMEX,stock
 GLO,US,Clough Global Opportunities Fund Common Stock,AMEX,stock
 GLQ,US,Clough Global Equity Fund Clough Global Equity Fund Common Shares of Beneficial Interest,AMEX,stock
 GLU,US,Gabelli Global Utility Common Shares of Beneficial Ownership,AMEX,stock
-GLU^A,US,The Gabelli Global Utility and Income Trust Series A Cumulative Puttable and Callable Preferred Shares,AMEX,stock
 GLU^B,US,The Gabelli Global Utility and Income Trust Series B Cumulative Puttable and Callable Preferred Shares,AMEX,stock
 GLV,US,Clough Global Dividend and Income Fund Common Shares of beneficial interest,AMEX,stock
 GMTL,US,Guardian Metal Resources PLC ADS,AMEX,stock
@@ -116,8 +115,8 @@ GRF,US,Eagle Capital Growth Fund Inc. Common Stock,AMEX,stock
 GRO,US,Brazil Potash Corp. Common Shares,AMEX,stock
 GROY,US,Gold Royalty Corp. Common Shares,AMEX,stock
 GTE,US,Gran Tierra Energy Inc. Common Stock,AMEX,stock
-HCWC,US,Healthy Choice Wellness Corp. Class A Common Stock,AMEX,stock
 HLSQ,US,Tessera Defense and Homeland Security Inc. Common Stock,AMEX,stock
+HOST,US,Host Digital Inc.,AMEX,stock
 HSLV,US,Highlander Silver Corp. Common Shares,AMEX,stock
 HYLN,US,Hyliion Holdings Corp. Class A Common Stock,AMEX,stock
 IAF,US,abrdn Australia Equity Fund Inc. Common Stock,AMEX,stock
