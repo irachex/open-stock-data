@@ -1940,6 +1940,7 @@ PMT^C,US,PennyMac Mortgage Investment Trust 6.75% Series C Cumulative Redeemable
 PMTU,US,PennyMac Mortgage Investment Trust 8.50% Senior Notes due 2028,NYSE,stock
 PMTV,US,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,NYSE,stock
 PMTW,US,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,NYSE,stock
+PNAQ,US,Pinnacle Acquisition Corporation Class A Ordinary Shares,NYSE,stock
 PNC,US,PNC Financial Services Group Inc. (The) Common Stock,NYSE,stock
 PNFP,US,Pinnacle Financial Partners Inc. Common stock,NYSE,stock
 PNFP^A,US,Pinnacle Financial Partners Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock Series A,NYSE,stock
@@ -2159,7 +2160,6 @@ SBR,US,Sabine Royalty Trust Common Stock,NYSE,stock
 SBS,US,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American Depositary Shares (Each repstg 250 Common Shares),NYSE,stock
 SBSI,US,Southside Bancshares Inc. Common Stock,NYSE,stock
 SBSW,US,D/B/A Sibanye-Stillwater Limited ADS,NYSE,stock
-SBXD,US,SilverBox Corp IV Class A Ordinary Shares,NYSE,stock
 SBXE,US,SilverBox Corp V Class A Ordinary Shares,NYSE,stock
 SCCO,US,Southern Copper Corporation Common Stock,NYSE,stock
 SCD,US,LMP Capital and Income Fund Inc. Common Stock,NYSE,stock
@@ -2458,9 +2458,6 @@ TVE,US,Tennessee Valley Authority,NYSE,stock
 TWI,US,Titan International Inc. (DE) Common Stock,NYSE,stock
 TWLO,US,Twilio Inc. Class A Common Stock,NYSE,stock
 TWN,US,Taiwan Fund Inc. (The) Common Stock,NYSE,stock
-TWO^A,US,Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share),NYSE,stock
-TWO^B,US,Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,NYSE,stock
-TWO^C,US,Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,NYSE,stock
 TWOD,US,Two Harbors Investments Corp 9.375% Senior Notes due 2030,NYSE,stock
 TX,US,Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares USD1.00 par value),NYSE,stock
 TXNM,US,TXNM Energy Inc. Common Stock,NYSE,stock
