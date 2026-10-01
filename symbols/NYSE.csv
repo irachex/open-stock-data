@@ -694,7 +694,6 @@ DB,US,Deutsche Bank AG Common Stock,NYSE,stock
 DBD,US,Diebold Nixdorf Incorporated Common stock,NYSE,stock
 DBI,US,Designer Brands Inc. Class A Common Stock,NYSE,stock
 DBL,US,DoubleLine Opportunistic Credit Fund Common Shares of Beneficial Interest,NYSE,stock
-DBRG,US,DigitalBridge Group Inc.,NYSE,stock
 DBRG^H,US,DigitalBridge Group Inc. 7.125% Series H,NYSE,stock
 DBRG^I,US,DigitalBridge Group Inc. 7.15% Series I,NYSE,stock
 DBRG^J,US,DigitalBridge Group Inc. 7.125% Series J,NYSE,stock
@@ -1055,7 +1054,6 @@ GEF,US,Greif Inc. Class A Common Stock,NYSE,stock
 GEL,US,Genesis Energy L.P. Common Units,NYSE,stock
 GENI,US,Genius Sports Limited Ordinary Shares,NYSE,stock
 GEO,US,Geo Group Inc (The) REIT,NYSE,stock
-GETY,US,Getty Images Holdings Inc. Class A Common Stock,NYSE,stock
 GEV,US,GE Vernova Inc. Common Stock,NYSE,stock
 GF,US,New Germany Fund Inc. (The) Common Stock,NYSE,stock
 GFF,US,Griffon Corporation Common Stock,NYSE,stock
@@ -1304,6 +1302,7 @@ ITGR,US,Integer Holdings Corporation Common Stock,NYSE,stock
 ITT,US,ITT Inc. Common Stock,NYSE,stock
 ITUB,US,Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares),NYSE,stock
 ITW,US,Illinois Tool Works Inc. Common Stock,NYSE,stock
+IVAI,US,Ives Ultra AI Opportunities Inc. Common Stock,NYSE,stock
 IVR,US,INVESCO MORTGAGE CAPITAL INC Common Stock,NYSE,stock
 IVR^C,US,INVESCO MORTGAGE CAPITAL INC 7.5% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stock Liquation Preference $25.00 per Share,NYSE,stock
 IVT,US,InvenTrust Properties Corp. Common Stock,NYSE,stock
@@ -1491,7 +1490,6 @@ LZM,US,Lifezone Metals Limited Ordinary Shares,NYSE,stock
 M,US,Macy's Inc Common Stock,NYSE,stock
 MA,US,Mastercard Incorporated Common Stock,NYSE,stock
 MAA,US,Mid-America Apartment Communities Inc. Common Stock,NYSE,stock
-MAA^I,US,Mid-America Apartment Communities Inc. 8.50% Series I Cumulative Redeemable Preferred Stock,NYSE,stock
 MAC,US,Macerich Company (The) Common Stock,NYSE,stock
 MAGN,US,Magnera Corporation Common Stock,NYSE,stock
 MAIN,US,Main Street Capital Corporation Common Stock,NYSE,stock
@@ -1706,7 +1704,6 @@ NLOP,US,Net Lease Office Properties Common Shares of Beneficial Interest,NYSE,st
 NLY,US,Annaly Capital Management Inc. Common Stock,NYSE,stock
 NLY^F,US,Annaly Capital Management Inc 6.95% Series F,NYSE,stock
 NLY^G,US,Annaly Capital Management Inc 6.50% Series G Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,NYSE,stock
-NLY^I,US,Annaly Capital Management Inc 6.750% Series I Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,NYSE,stock
 NLY^J,US,Annaly Capital Management Inc. 8.875% Series J Fixed-Rate Cumulative Redeemable Preferred Stock,NYSE,stock
 NMAI,US,Nuveen Multi-Asset Income Fund Common Shares of Beneficial Interest,NYSE,stock
 NMAX,US,Newsmax Inc. Class B Common Stock,NYSE,stock
@@ -2021,6 +2018,7 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
+RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
