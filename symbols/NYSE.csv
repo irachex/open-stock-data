@@ -1077,10 +1077,8 @@ GIL,US,Gildan Activewear Inc. Class A Sub. Vot. Common Stock,NYSE,stock
 GIS,US,General Mills Inc. Common Stock,NYSE,stock
 GJH,US,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,NYSE,stock
 GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores Inc. Securities Series 2004-5,NYSE,stock
-GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
 GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
-GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
 GL,US,Globe Life Inc. Common Stock,NYSE,stock
 GL^D,US,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061,NYSE,stock
@@ -2018,7 +2016,6 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
-RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
@@ -2520,7 +2517,6 @@ UZE,US,Array Digital Infrastructure Inc. 5.500% Senior Notes due 2070,NYSE,stock
 UZF,US,Array Digital Infrastructure Inc. 5.500% Senior Notes due 2070,NYSE,stock
 V,US,Visa Inc.,NYSE,stock
 VAC,US,Marriott Vacations Worldwide Corporation Common Stock,NYSE,stock
-VACI,US,Viking Acquisition Corp. I Class A Ordinary Shares,NYSE,stock
 VAL,US,Valaris Limited Common Shares,NYSE,stock
 VALE,US,VALE S.A.  American Depositary Shares Each Representing one common share,NYSE,stock
 VATE,US,INNOVATE Corp. Common Stock,NYSE,stock
@@ -2582,6 +2578,7 @@ VTS,US,Vitesse Energy Inc. Common Stock,NYSE,stock
 VVR,US,Invesco Senior Income Trust Common Stock (DE),NYSE,stock
 VVV,US,Valvoline Inc. Common Stock,NYSE,stock
 VVX,US,V2X Inc. Common Stock,NYSE,stock
+VYLR,US,Vylor Inc. Common Stock,NYSE,stock
 VYX,US,NCR Voyix Corporation Common Stock,NYSE,stock
 VZ,US,Verizon Communications Inc. Common Stock,NYSE,stock
 W,US,Wayfair Inc. Class A Common Stock,NYSE,stock
