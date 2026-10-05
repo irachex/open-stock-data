@@ -1,12 +1,11 @@
 ﻿code,region,name,exchange,type
 AACG,US,ATA Creativity Global American Depositary Shares,NASDAQ,stock
 AACI,US,Armada Acquisition Corp. III Class A Ordinary Share,NASDAQ,stock
-AACIU,US,Armada Acquisition Corp. III Units,NASDAQ,stock
 AACIW,US,Armada Acquisition Corp. III Warrant,NASDAQ,stock
 AACO,US,Abony Acquisition Corp. I Class A Ordinary Share,NASDAQ,stock
-AACOW,US,Abony Acquisition Corp. I Warrants,NASDAQ,stock
 AACP,US,Apogee Acquisition Corp Class A Ordinary Shares,NASDAQ,stock
 AACPR,US,Apogee Acquisition Corp Rights,NASDAQ,stock
+AACPU,US,Apogee Acquisition Corp Units,NASDAQ,stock
 AACPW,US,Apogee Acquisition Corp Warrant,NASDAQ,stock
 AAL,US,American Airlines Group Inc. Common Stock,NASDAQ,stock
 AAME,US,Atlantic American Corporation Common Stock,NASDAQ,stock
@@ -29,8 +28,6 @@ ABUS,US,Arbutus Biopharma Corporation Common Stock,NASDAQ,stock
 ABVC,US,ABVC BioPharma Inc. Common Stock,NASDAQ,stock
 ABVX,US,Abivax SA American Depositary Shares,NASDAQ,stock
 ACAA,US,Averin Capital Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
-ACAAU,US,Averin Capital Acquisition Corp. Units,NASDAQ,stock
-ACAAW,US,Averin Capital Acquisition Corp. Warrants,NASDAQ,stock
 ACAD,US,ACADIA Pharmaceuticals Inc. Common Stock,NASDAQ,stock
 ACB,US,Aurora Cannabis Inc. Common Shares,NASDAQ,stock
 ACCL,US,Acco Group Holdings Limited Class A Ordinary Shares,NASDAQ,stock
@@ -40,7 +37,6 @@ ACET,US,Adicet Bio Inc. Common Stock,NASDAQ,stock
 ACFN,US,Acorn Energy Inc. Common Stock,NASDAQ,stock
 ACGC,US,ACP Holdings Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
 ACGCU,US,ACP Holdings Acquisition Corp. Units,NASDAQ,stock
-ACGCW,US,ACP Holdings Acquisition Corp. Warrants,NASDAQ,stock
 ACGL,US,Arch Capital Group Ltd. Common Stock,NASDAQ,stock
 ACGLN,US,Arch Capital Group Ltd. Depositary Shares each Representing a 1/1000th Interest in a 4.550% Non-Cumulative Preferred Share Series G,NASDAQ,stock
 ACGLO,US,Arch Capital Group Ltd. Depositary Shares Each Representing 1/1000th Interest in a Share of 5.45% Non-Cumulative Preferred Shares Series F,NASDAQ,stock
@@ -63,7 +59,6 @@ ACTG,US,Acacia Research Corporation (Acacia Tech) Common Stock,NASDAQ,stock
 ACTU,US,Actuate Therapeutics Inc. Common stock,NASDAQ,stock
 ACXP,US,Acurx Pharmaceuticals Inc. Common Stock,NASDAQ,stock
 ADAC,US,American Drive Acquisition Company Class A Ordinary Shares,NASDAQ,stock
-ADACU,US,American Drive Acquisition Company Units,NASDAQ,stock
 ADACW,US,American Drive Acquisition Company Warrant,NASDAQ,stock
 ADAG,US,Adagene Inc. American Depositary Shares,NASDAQ,stock
 ADAM,US,Adamas Trust Inc. Common Stock,NASDAQ,stock
@@ -96,8 +91,6 @@ ADV,US,Advantage Solutions Inc. Class A Common Stock,NASDAQ,stock
 ADVB,US,Advanced Biomed Inc. Common Stock,NASDAQ,stock
 ADXN,US,Addex Therapeutics Ltd American Depositary Shares,NASDAQ,stock
 AEAQ,US,Activate Energy Acquisition Corp. Class A Ordinary Share,NASDAQ,stock
-AEAQU,US,Activate Energy Acquisition Corp. Unit,NASDAQ,stock
-AEAQW,US,Activate Energy Acquisition Corp. Warrant,NASDAQ,stock
 AEBI,US,Aebi Schmidt Holding AG Common Stock,NASDAQ,stock
 AEC,US,Anfield Energy Inc. Common Shares,NASDAQ,stock
 AEHL,US,Antelope Enterprise Holdings Limited Class A Ordinary Shares,NASDAQ,stock
@@ -106,10 +99,12 @@ AEI,US,Alset Inc. Common Stock (TX),NASDAQ,stock
 AEIS,US,Advanced Energy Industries Inc. Common Stock,NASDAQ,stock
 AEMD,US,Aethlon Medical Inc. Common Stock,NASDAQ,stock
 AENT,US,Alliance Entertainment Holding Corporation Class A Common Stock,NASDAQ,stock
+AENTW,US,Alliance Entertainment Holding Corporation Warrant,NASDAQ,stock
 AEP,US,American Electric Power Company Inc. Common Stock,NASDAQ,stock
 AERT,US,Aeries Technology Inc. Class A Ordinary Share,NASDAQ,stock
-AERTW,US,Aeries Technology Inc. Warrant,NASDAQ,stock
 AESP,US,Aeon Acquisition I Corp. Class A Ordinary Shares,NASDAQ,stock
+AESPR,US,Aeon Acquisition I Corp. Rights,NASDAQ,stock
+AESPU,US,Aeon Acquisition I Corp. Units,NASDAQ,stock
 AEVA,US,Aeva Technologies Inc. Common Stock,NASDAQ,stock
 AEYE,US,AudioEye Inc. Common Stock,NASDAQ,stock
 AFCG,US,Advanced Flower Capital Inc. Common Stock,NASDAQ,stock
@@ -157,7 +152,6 @@ AIP,US,Arteris Inc. Common Stock,NASDAQ,stock
 AIRE,US,reAlpha Tech Corp. Common Stock,NASDAQ,stock
 AIRG,US,Airgain Inc. Common Stock,NASDAQ,stock
 AIRJ,US,AirJoule Technologies Corporation Class A Common Stock,NASDAQ,stock
-AIRJW,US,AirJoule Technologies Corporation Warrant,NASDAQ,stock
 AIRO,US,AIRO Group Holdings Inc. Common Stock,NASDAQ,stock
 AIRS,US,AirSculpt Technologies Inc. Common Stock,NASDAQ,stock
 AIRT,US,Air T Inc. Common Stock,NASDAQ,stock
@@ -197,12 +191,10 @@ ALMU,US,Aeluma Inc. Common Stock,NASDAQ,stock
 ALNT,US,Allient Inc. Common Stock,NASDAQ,stock
 ALNY,US,Alnylam Pharmaceuticals Inc. Common Stock,NASDAQ,stock
 ALOV,US,Aldabra 4 Liquidity Opportunity Vehicle Inc. Class A Ordinary Shares,NASDAQ,stock
-ALOVW,US,Aldabra 4 Liquidity Opportunity Vehicle Inc. Warrants,NASDAQ,stock
 ALOY,US,REalloys Inc. Common Stock,NASDAQ,stock
 ALP,US,Alpha Compute Corp Ordinary Shares,NASDAQ,stock
 ALPS,US,ALPS Group Inc Ordinary Share,NASDAQ,stock
 ALPX,US,Alpex Acquisition Corporation Class A Ordinary Shares,NASDAQ,stock
-ALPXU,US,Alpex Acquisition Corporation Unit,NASDAQ,stock
 ALRM,US,Alarm.com Holdings Inc. Common Stock,NASDAQ,stock
 ALRS,US,Alerus Financial Corporation Common Stock,NASDAQ,stock
 ALT,US,Altimmune Inc. Common Stock,NASDAQ,stock
@@ -213,6 +205,7 @@ ALVOW,US,Alvotech Warrant,NASDAQ,stock
 ALXO,US,ALX Oncology Holdings Inc. Common Stock,NASDAQ,stock
 ALZN,US,Alzamend Neuro Inc. Common Stock,NASDAQ,stock
 AMAC,US,AMR Resources Acquisition Corp Class A Ordinary Shares,NASDAQ,stock
+AMACU,US,AMR Resources Acquisition Corp Units,NASDAQ,stock
 AMACW,US,AMR Resources Acquisition Corp Warrants,NASDAQ,stock
 AMAL,US,Amalgamated Financial Corp. Common Stock (DE),NASDAQ,stock
 AMAN,US,Amanat Acquisition Corp Class A Ordinary Shares,NASDAQ,stock
@@ -269,6 +262,7 @@ APLM,US,Apollomics Inc. Class A Ordinary Shares,NASDAQ,stock
 APLMW,US,Apollomics Inc. Warrant,NASDAQ,stock
 APMC,US,AmperCap Acquisition Company Ordinary Shares,NASDAQ,stock
 APMCR,US,AmperCap Acquisition Company Right,NASDAQ,stock
+APMCU,US,AmperCap Acquisition Company Unit,NASDAQ,stock
 APMD,US,Apnimed Inc. Common Stock,NASDAQ,stock
 APOG,US,Apogee Enterprises Inc. Common Stock,NASDAQ,stock
 APP,US,Applovin Corporation Class A Common Stock,NASDAQ,stock
@@ -277,10 +271,10 @@ APPN,US,Appian Corporation Class A Common Stock,NASDAQ,stock
 APPS,US,Digital Turbine Inc. Common Stock,NASDAQ,stock
 APRE,US,Aprea Therapeutics Inc. Common stock,NASDAQ,stock
 APUR,US,Aperture AC Class A Ordinary Shares,NASDAQ,stock
-APURR,US,Aperture AC Rights,NASDAQ,stock
 APVO,US,Aptevo Therapeutics Inc. Common Stock,NASDAQ,stock
 APWC,US,Asia Pacific Wire & Cable Corporation Ltd. Ordinary Shares (Bermuda),NASDAQ,stock
 APXT,US,Apex Treasury Corporation Class A Ordinary Share,NASDAQ,stock
+APXTU,US,Apex Treasury Corporation Units,NASDAQ,stock
 APXTW,US,Apex Treasury Corporation Warrants,NASDAQ,stock
 APYX,US,Apyx Medical Corporation Common Stock,NASDAQ,stock
 AQB,US,AquaBounty Technologies Inc. Common Stock,NASDAQ,stock
@@ -295,9 +289,7 @@ ARBK,US,Argo Blockchain plc American Depositary Shares,NASDAQ,stock
 ARCB,US,ArcBest Corporation Common Stock,NASDAQ,stock
 ARCC,US,Ares Capital Corporation Common Stock,NASDAQ,stock
 ARCI,US,Archimedes Tech SPAC Partners III Co. Ordinary Share,NASDAQ,stock
-ARCIW,US,Archimedes Tech SPAC Partners III Co. Warrant,NASDAQ,stock
 ARCL,US,ARC Group Acquisition I Corp Class A Ordinary Shares,NASDAQ,stock
-ARCLR,US,ARC Group Acquisition I Corp Right,NASDAQ,stock
 ARCLU,US,ARC Group Acquisition I Corp Unit,NASDAQ,stock
 ARCLW,US,ARC Group Acquisition I Corp Warrants,NASDAQ,stock
 ARCT,US,Arcturus Therapeutics Holdings Inc. Common Stock,NASDAQ,stock
@@ -315,7 +307,6 @@ ARQQ,US,Arqit Quantum Inc. Ordinary Shares,NASDAQ,stock
 ARQT,US,Arcutis Biotherapeutics Inc. Common Stock,NASDAQ,stock
 ARRY,US,Array Technologies Inc. Common Stock,NASDAQ,stock
 ARTC,US,Art Technology Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
-ARTCW,US,Art Technology Acquisition Corp. Warrants,NASDAQ,stock
 ARTL,US,Artelo Biosciences Inc. Common Stock,NASDAQ,stock
 ARTNA,US,Artesian Resources Corporation Class A Common Stock,NASDAQ,stock
 ARTV,US,Artiva Biotherapeutics Inc. Common Stock,NASDAQ,stock
@@ -324,12 +315,14 @@ ARVN,US,Arvinas Inc. Common Stock,NASDAQ,stock
 ARWR,US,Arrowhead Pharmaceuticals Inc. Common Stock,NASDAQ,stock
 ARXS,US,Arxis Inc. Class A Common Stock,NASDAQ,stock
 ASBP,US,Aspire-Lakewood Holdings Inc. Common Stock,NASDAQ,stock
+ASBPW,US,Aspire-Lakewood Holdings Inc. Warrant,NASDAQ,stock
 ASLE,US,AerSale Corporation Common Stock,NASDAQ,stock
 ASMB,US,Assembly Biosciences Inc. Common Stock,NASDAQ,stock
 ASML,US,ASML Holding N.V. New York Registry Shares,NASDAQ,stock
 ASND,US,Ascendis Pharma A/S Ordinary Share,NASDAQ,stock
 ASO,US,Academy Sports and Outdoors Inc. Common Stock,NASDAQ,stock
 ASPC,US,A SPAC III Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
+ASPCR,US,A SPAC III Acquisition Corp. Right,NASDAQ,stock
 ASPI,US,ASP Isotopes Inc. Common Stock,NASDAQ,stock
 ASPS,US,Altisource Portfolio Solutions S.A. Common Stock,NASDAQ,stock
 ASPSW,US,Altisource Portfolio Solutions S.A. Net Settle Stakeholder Warrants,NASDAQ,stock
@@ -362,6 +355,7 @@ ATLCZ,US,Atlanticus Holdings Corporation 9.25% Senior Notes due 2029,NASDAQ,stoc
 ATLO,US,Ames National Corporation Common Stock,NASDAQ,stock
 ATLQ,US,JAB Acquisition Corp I Class A Ordinary Shares,NASDAQ,stock
 ATLQU,US,JAB Acquisition Corp I Unit,NASDAQ,stock
+ATLQW,US,JAB Acquisition Corp I Warrants,NASDAQ,stock
 ATLX,US,Atlas Lithium Corporation Common Stock,NASDAQ,stock
 ATNI,US,ATN International Inc. Common Stock,NASDAQ,stock
 ATOM,US,Atomera Incorporated Common Stock,NASDAQ,stock
@@ -418,7 +412,6 @@ AZI,US,Autozi Internet Technology (Global) Ltd. Class A Ordinary Shares,NASDAQ,s
 AZIO,US,Azio AI Holdings Inc. Common Stock,NASDAQ,stock
 AZTA,US,Azenta Inc.,NASDAQ,stock
 BACC,US,Blue Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
-BACCR,US,Blue Acquisition Corp. Right,NASDAQ,stock
 BAER,US,Bridger Aerospace Group Holdings Inc. Common Stock,NASDAQ,stock
 BAERW,US,Bridger Aerospace Group Holdings Inc. Warrant,NASDAQ,stock
 BAFN,US,BayFirst Financial Corp. Common Stock,NASDAQ,stock
@@ -457,7 +450,6 @@ BCTXL,US,BriaCell Therapeutics Corp. Warrant expiring 2031,NASDAQ,stock
 BCTXZ,US,BriaCell Therapeutics Corp. Warrant expiring 2030,NASDAQ,stock
 BCYC,US,Bicycle Therapeutics plc American Depositary Shares,NASDAQ,stock
 BDCI,US,BTC Development Corp. Class A Ordinary Shares,NASDAQ,stock
-BDCIU,US,BTC Development Corp. Unit,NASDAQ,stock
 BDMD,US,Baird Medical Investment Holdings Ltd Ordinary Share,NASDAQ,stock
 BDRX,US,Biodexa Pharmaceuticals plc American Depositary Shs,NASDAQ,stock
 BDSX,US,Biodesix Inc. Common Stock,NASDAQ,stock
@@ -474,6 +466,7 @@ BELFB,US,Bel Fuse Inc. Class B Common Stock,NASDAQ,stock
 BENF,US,Beneficient Class A Common Stock,NASDAQ,stock
 BENFW,US,Beneficient Warrant,NASDAQ,stock
 BETR,US,Better Home & Finance Holding Company Class A Common Stock,NASDAQ,stock
+BETRW,US,Better Home & Finance Holding Company Warrant,NASDAQ,stock
 BFC,US,Bank First Corporation Common Stock,NASDAQ,stock
 BFRG,US,Bullfrog AI Holdings Inc. Common Stock,NASDAQ,stock
 BFRGW,US,Bullfrog AI Holdings Inc. Warrants,NASDAQ,stock
@@ -489,6 +482,7 @@ BGLWW,US,Blue Gold Limited Warrant,NASDAQ,stock
 BGM,US,BGM Group Ltd. Class A Ordinary Shares,NASDAQ,stock
 BGMS,US,Bio Green Med Solution Inc. Common Stock,NASDAQ,stock
 BHAV,US,BHAV Acquisition Corp Class A Ordinary Shares,NASDAQ,stock
+BHAVR,US,BHAV Acquisition Corp Rights,NASDAQ,stock
 BHF,US,Brighthouse Financial Inc. Common Stock,NASDAQ,stock
 BHFAL,US,Brighthouse Financial Inc. 6.25% Junior Subordinated Debentures due 2058,NASDAQ,stock
 BHFAM,US,Brighthouse Financial Inc. Depositary shares each representing a 1/1000th Interest in a Share of 4.625% Non-Cumulative Preferred Stock Series D,NASDAQ,stock
@@ -501,7 +495,6 @@ BIAF,US,bioAffinity Technologies Inc. Common Stock,NASDAQ,stock
 BIAFW,US,bioAffinity Technologies Inc. Warrant,NASDAQ,stock
 BID,US,Tribeca Strategic Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
 BIDU,US,Baidu Inc. ADS,NASDAQ,stock
-BIDWR,US,Tribeca Strategic Acquisition Corp. Rights,NASDAQ,stock
 BIIB,US,Biogen Inc. Common Stock,NASDAQ,stock
 BILI,US,Bilibili Inc. American Depositary Shares,NASDAQ,stock
 BIOA,US,BioAge Labs Inc. Common Stock,NASDAQ,stock
@@ -510,12 +503,15 @@ BIOTW,US,Instinct Bio Technical Company Holdings Inc. Warrants,NASDAQ,stock
 BIOX,US,Bioceres Crop Solutions Corp. Ordinary Shares,NASDAQ,stock
 BIRD,US,Smartbird Inc. Class A Common Stock,NASDAQ,stock
 BIVI,US,BioVie Inc. Class A Common Stock,NASDAQ,stock
+BIVIW,US,BioVie Inc. Warrant,NASDAQ,stock
 BIXI,US,Bitcoin Infrastructure Acquisition Corp Ltd. Class A Ordinary Shares,NASDAQ,stock
+BIXIU,US,Bitcoin Infrastructure Acquisition Corp Ltd. Unit,NASDAQ,stock
 BIXIW,US,Bitcoin Infrastructure Acquisition Corp Ltd. Warrant,NASDAQ,stock
 BIYA,US,Baiya International Group Inc Class A Ordinary Shares,NASDAQ,stock
 BJDX,US,Bluejay Diagnostics Inc. Common Stock,NASDAQ,stock
 BJRI,US,BJ's Restaurants Inc. Common Stock,NASDAQ,stock
 BKHA,US,Black Hawk Acquisition Corporation Class A Ordinary Shares,NASDAQ,stock
+BKHAR,US,Black Hawk Acquisition Corporation Rights,NASDAQ,stock
 BKHAU,US,Black Hawk Acquisition Corporation Units,NASDAQ,stock
 BKNG,US,Booking Holdings Inc. Common Stock,NASDAQ,stock
 BKR,US,Baker Hughes Company Class A Common Stock,NASDAQ,stock
@@ -532,11 +528,14 @@ BLMN,US,Bloomin' Brands Inc. Common Stock,NASDAQ,stock
 BLNE,US,Beeline Holdings Inc. Common Stock,NASDAQ,stock
 BLNK,US,Blink Charging Co. Common Stock,NASDAQ,stock
 BLRK,US,Bluerock Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
+BLRKU,US,Bluerock Acquisition Corp. Unit,NASDAQ,stock
 BLRKW,US,Bluerock Acquisition Corp. Warrants,NASDAQ,stock
 BLRX,US,BioLineRx Ltd. American Depositary Shares,NASDAQ,stock
 BLSM,US,BlossomHill Therapeutics Inc. Common Stock,NASDAQ,stock
 BLTE,US,Belite Bio Inc American Depositary Shares,NASDAQ,stock
 BLUW,US,Blue Water Acquisition Corp. III Class A Ordinary Shares,NASDAQ,stock
+BLUWU,US,Blue Water Acquisition Corp. III Unit.,NASDAQ,stock
+BLUWW,US,Blue Water Acquisition Corp. III Warrant.,NASDAQ,stock
 BLZE,US,Backblaze Inc. Class A Common Stock,NASDAQ,stock
 BLZR,US,Trailblazer Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
 BLZRU,US,Trailblazer Acquisition Corp. Unit,NASDAQ,stock
@@ -551,7 +550,6 @@ BMRA,US,Biomerica Inc. Common Stock,NASDAQ,stock
 BMRC,US,Bank of Marin Bancorp Common Stock,NASDAQ,stock
 BMRN,US,BioMarin Pharmaceutical Inc. Common Stock,NASDAQ,stock
 BNAI,US,Brand Engagement Network Inc. Common Stock,NASDAQ,stock
-BNAIW,US,Brand Engagement Network Inc. Warrant,NASDAQ,stock
 BNC,US,BNB Standard Corporation Common Stock,NASDAQ,stock
 BNCWW,US,BNB Standard Corporation Warrant,NASDAQ,stock
 BNCWZ,US,BNB Standard Corporation Warrant,NASDAQ,stock
@@ -588,11 +586,9 @@ BREZR,US,Breeze Acquisition Corp. II Right,NASDAQ,stock
 BRFH,US,Barfresh Food Group Inc. Common Stock,NASDAQ,stock
 BRID,US,Bridgford Foods Corporation Common Stock,NASDAQ,stock
 BRKH,US,Burtech Acquisition Corp II Class A Ordinary Shares,NASDAQ,stock
-BRKHW,US,Burtech Acquisition Corp II Warrants,NASDAQ,stock
 BRKR,US,Bruker Corporation Common Stock,NASDAQ,stock
 BRKRP,US,Bruker Corporation 6.375% Mandatory Convertible Preferred Stock Series A,NASDAQ,stock
 BRLS,US,Borealis Foods Inc. Class A Common Shares,NASDAQ,stock
-BRLSW,US,Borealis Foods Inc. Warrant,NASDAQ,stock
 BRLT,US,Brilliant Earth Group Inc. Class A Common Stock,NASDAQ,stock
 BRNX,US,BrenX Ltd. Ordinary Shares,NASDAQ,stock
 BRRKU,US,Bluerock Acquisition Corp. II Units,NASDAQ,stock
@@ -604,6 +600,8 @@ BRUN,US,Boost Run Inc. Class A Common Stock,NASDAQ,stock
 BRVE,US,Braveheart Bio Inc. Common Stock,NASDAQ,stock
 BRZE,US,Braze Inc. Class A Common Stock,NASDAQ,stock
 BSAA,US,BEST SPAC I Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
+BSAAR,US,BEST SPAC I Acquisition Corp. Rights,NASDAQ,stock
+BSAAU,US,BEST SPAC I Acquisition Corp. Unit,NASDAQ,stock
 BSBK,US,Bogota Financial Corp. Common Stock,NASDAQ,stock
 BSEM,US,BioStem Technologies Inc. Common Stock,NASDAQ,stock
 BSET,US,Bassett Furniture Industries Incorporated Common Stock,NASDAQ,stock
@@ -662,6 +660,7 @@ CAE,US,CAE Inc. Common Shares,NASDAQ,stock
 CAES,US,Cantor Equity Partners VII Inc. Class A Ordinary Shares,NASDAQ,stock
 CAI,US,Caris Life Sciences Inc. Common Stock,NASDAQ,stock
 CAII,US,Collective Acquisition Corp. II Class A Ordinary Shares,NASDAQ,stock
+CAIIU,US,Collective Acquisition Corp. II Units,NASDAQ,stock
 CAIIW,US,Collective Acquisition Corp. II Warrants,NASDAQ,stock
 CAKE,US,Cheesecake Factory Incorporated (The) Common Stock,NASDAQ,stock
 CALC,US,CalciMedica Inc. Common Stock,NASDAQ,stock
@@ -670,11 +669,10 @@ CAMP,US,CAMP4 Therapeutics Corporation Common Stock,NASDAQ,stock
 CAMT,US,Camtek Ltd. Ordinary Shares,NASDAQ,stock
 CAN,US,Canaan Inc. American Depositary Shares,NASDAQ,stock
 CAPN,US,Cayson Acquisition Corp Ordinary shares,NASDAQ,stock
+CAPNU,US,Cayson Acquisition Corp Unit,NASDAQ,stock
 CAPR,US,Capricor Therapeutics Inc. Common Stock,NASDAQ,stock
 CAPS,US,Capstone Holding Corp. Common Stock,NASDAQ,stock
 CAQ,US,Cambridge Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
-CAQUU,US,Cambridge Acquisition Corp. Unit,NASDAQ,stock
-CAQUW,US,Cambridge Acquisition Corp. Warrants,NASDAQ,stock
 CAR,US,Avis Budget Group Inc. Common Stock,NASDAQ,stock
 CARE,US,Carter Bankshares Inc. Common Stock,NASDAQ,stock
 CARG,US,CarGurus Inc. Class A Common Stock,NASDAQ,stock
@@ -685,7 +683,6 @@ CASS,US,Cass Information Systems Inc Common Stock,NASDAQ,stock
 CAST,US,FreeCast Inc. Class A Common Stock,NASDAQ,stock
 CASY,US,Casey's General Stores Inc. Common Stock,NASDAQ,stock
 CATL,US,Catalyst Acquisition Corp. Class A Ordinary Share,NASDAQ,stock
-CATLR,US,Catalyst Acquisition Corp. Rights,NASDAQ,stock
 CATLU,US,Catalyst Acquisition Corp. Units,NASDAQ,stock
 CATY,US,Cathay General Bancorp Common Stock,NASDAQ,stock
 CBAT,US,CBAK Energy Technology Limited Ordinary Shares,NASDAQ,stock
@@ -702,22 +699,18 @@ CBUS,US,Cibus Inc. Class A Common Stock,NASDAQ,stock
 CCAP,US,Crescent Capital BDC Inc. Common stock,NASDAQ,stock
 CCAQ,US,Collective Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
 CCAQU,US,Collective Acquisition Corp. Units,NASDAQ,stock
-CCAQW,US,Collective Acquisition Corp. Warrants,NASDAQ,stock
 CCB,US,Coastal Financial Corporation Common Stock,NASDAQ,stock
 CCBG,US,Capital City Bank Group Common Stock,NASDAQ,stock
 CCC,US,CCC Intelligent Solutions Holdings Inc. Common Stock,NASDAQ,stock
 CCCC,US,C4 Therapeutics Inc. Common Stock,NASDAQ,stock
 CCCT,US,Columbus Circle Capital Corp III Class A Ordinary Shares,NASDAQ,stock
-CCCTU,US,Columbus Circle Capital Corp III Units,NASDAQ,stock
-CCCTW,US,Columbus Circle Capital Corp III Warrants,NASDAQ,stock
 CCD,US,Calamos Dynamic Convertible & Income Fund Common Stock,NASDAQ,stock
 CCEC,US,Capital Clean Energy Carriers Corp. Common Share,NASDAQ,stock
 CCEP,US,Coca-Cola Europacific Partners plc Ordinary Shares,NASDAQ,stock
 CCG,US,Cheche Group Inc. Class A Ordinary Shares,NASDAQ,stock
-CCGWW,US,Cheche Group Inc. Warrant,NASDAQ,stock
 CCHH,US,CCH Holdings Ltd Class A Ordinary Shares,NASDAQ,stock
 CCII,US,Cohen Circle Acquisition Corp. II Class A Ordinary Shares,NASDAQ,stock
-CCIIU,US,Cohen Circle Acquisition Corp. II Unit,NASDAQ,stock
+CCIIW,US,Cohen Circle Acquisition Corp. II Warrant,NASDAQ,stock
 CCLD,US,CareCloud Inc. Common Stock,NASDAQ,stock
 CCNE,US,CNB Financial Corporation Common Stock,NASDAQ,stock
 CCNEP,US,CNB Financial Corporation Depositary Shares each representing a 1/40th ownership interest in a share of 7.125% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock,NASDAQ,stock
@@ -729,13 +722,11 @@ CCXIU,US,Churchill Capital Corp XI Units,NASDAQ,stock
 CCXIW,US,Churchill Capital Corp XI Warrants,NASDAQ,stock
 CD,US,Chaince Digital Holdings Inc. Ordinary Shares,NASDAQ,stock
 CDIO,US,Cardio Diagnostics Holdings Inc. Common stock,NASDAQ,stock
-CDIOW,US,Cardio Diagnostics Holdings Inc. Warrant,NASDAQ,stock
 CDLX,US,Cardlytics Inc. Common Stock,NASDAQ,stock
 CDNA,US,CareDx Inc. Common Stock,NASDAQ,stock
 CDNL,US,Cardinal Infrastructure Group Inc. Class A Common Stock,NASDAQ,stock
 CDNS,US,Cadence Design Systems Inc. Common Stock,NASDAQ,stock
 CDRO,US,Codere Online Luxembourg S.A. Ordinary Shares,NASDAQ,stock
-CDROW,US,Codere Online Luxembourg S.A. Warrants,NASDAQ,stock
 CDT,US,CDT Equity Inc. Common Stock,NASDAQ,stock
 CDTG,US,CDT Environmental Technology Investment Holdings Limited ordinary shares,NASDAQ,stock
 CDTTW,US,CDT Equity Inc. Warrant,NASDAQ,stock
@@ -772,6 +763,7 @@ CGBD,US,Carlyle Secured Lending Inc. Common Stock,NASDAQ,stock
 CGC,US,Canopy Growth Corporation Common Shares,NASDAQ,stock
 CGCF,US,Cartesian Growth Corporation IV Class A Ordinary Shares,NASDAQ,stock
 CGCFU,US,Cartesian Growth Corporation IV Unit,NASDAQ,stock
+CGCFW,US,Cartesian Growth Corporation IV Warrants,NASDAQ,stock
 CGEM,US,Cullinan Therapeutics Inc. Common Stock,NASDAQ,stock
 CGEN,US,Compugen Ltd. Ordinary Shares,NASDAQ,stock
 CGNT,US,Cognyte Software Ltd. Ordinary Shares,NASDAQ,stock
@@ -862,6 +854,7 @@ CMRC,US,Commerce.com Inc. Series 1 Common Stock,NASDAQ,stock
 CMTL,US,Comtech Telecommunications Corp. Common Stock,NASDAQ,stock
 CMTV,US,Community Bancorp. Common Stock,NASDAQ,stock
 CNCK,US,Coincheck Group N.V. Ordinary Shares,NASDAQ,stock
+CNCKW,US,Coincheck Group N.V. Warrants,NASDAQ,stock
 CNDT,US,Conduent Incorporated Common Stock,NASDAQ,stock
 CNET,US,ZW Data Action Technologies Inc. Common Stock,NASDAQ,stock
 CNEY,US,CN Energy Group Inc. Class A Ordinary Shares,NASDAQ,stock
@@ -913,7 +906,6 @@ CPSH,US,CPS Technologies Corp. Common Stock,NASDAQ,stock
 CPSS,US,Consumer Portfolio Services Inc. Common Stock,NASDAQ,stock
 CPZ,US,Calamos Long/Short Equity & Dynamic Income Trust Common Stock,NASDAQ,stock
 CRAC,US,Crown Reserve Acquisition Corp. I Class A Ordinary Shares,NASDAQ,stock
-CRACR,US,Crown Reserve Acquisition Corp. I Rights,NASDAQ,stock
 CRAI,US,CRA International Inc. Common Stock,NASDAQ,stock
 CRAN,US,Crane Harbor Acquisition Corp. II Class A Ordinary Shares,NASDAQ,stock
 CRANR,US,Crane Harbor Acquisition Corp. II Rights,NASDAQ,stock
@@ -962,7 +954,7 @@ CSTL,US,Castle Biosciences Inc. Common Stock,NASDAQ,stock
 CSWC,US,Capital Southwest Corporation Common Stock,NASDAQ,stock
 CSX,US,CSX Corporation Common Stock,NASDAQ,stock
 CTAA,US,ClearThink 1 Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
-CTAAU,US,ClearThink 1 Acquisition Corp. Units,NASDAQ,stock
+CTAAR,US,ClearThink 1 Acquisition Corp. Rights,NASDAQ,stock
 CTAS,US,Cintas Corporation Common Stock,NASDAQ,stock
 CTBI,US,Community Trust Bancorp Inc. Common Stock,NASDAQ,stock
 CTKB,US,Cytek Biosciences Inc. Common Stock,NASDAQ,stock
@@ -977,7 +969,6 @@ CTSO,US,Cytosorbents Corporation Common Stock,NASDAQ,stock
 CTW,US,CTW Class A Ordinary Shares,NASDAQ,stock
 CTXR,US,Citius Pharmaceuticals Inc. Common Stock,NASDAQ,stock
 CUB,US,Lionheart Holdings Class A Ordinary Shares,NASDAQ,stock
-CUBWU,US,Lionheart Holdings Unit,NASDAQ,stock
 CUBWW,US,Lionheart Holdings Warrant,NASDAQ,stock
 CUE,US,Cue Biopharma Inc. Common Stock,NASDAQ,stock
 CULP,US,Culp Inc. Common Stock,NASDAQ,stock
@@ -1017,6 +1008,7 @@ CZR,US,Caesars Entertainment Inc. Common Stock,NASDAQ,stock
 CZWI,US,Citizens Community Bancorp Inc. Common Stock,NASDAQ,stock
 DAAQ,US,Digital Asset Acquisition Corp. Class A Ordinary shares,NASDAQ,stock
 DAAQU,US,Digital Asset Acquisition Corp. Units,NASDAQ,stock
+DAAQW,US,Digital Asset Acquisition Corp. Warrant,NASDAQ,stock
 DAIC,US,CID HoldCo Inc. Common Stock,NASDAQ,stock
 DAICW,US,CID HoldCo Inc. Warrants,NASDAQ,stock
 DAIO,US,Data I/O Corporation Common Stock,NASDAQ,stock
@@ -1026,6 +1018,7 @@ DASH,US,DoorDash Inc. Class A Common Stock,NASDAQ,stock
 DAVE,US,Dave Inc. Class A Common Stock,NASDAQ,stock
 DAVEW,US,Dave Inc. Warrants,NASDAQ,stock
 DBCA,US,D. Boral Acquisition I Corp. Class A Ordinary Shares,NASDAQ,stock
+DBCAU,US,D. Boral Acquisition I Corp. Unit,NASDAQ,stock
 DBCAW,US,D. Boral Acquisition I Corp. Warrants,NASDAQ,stock
 DBGI,US,Digital Brands Group Inc. Common Stock,NASDAQ,stock
 DBVT,US,DBV Technologies S.A. American Depositary Shares,NASDAQ,stock
@@ -1047,7 +1040,6 @@ DFLIW,US,Dragonfly Energy Holdings Corp. Warrant,NASDAQ,stock
 DFNS,US,T3 Defense Inc. Common Stock,NASDAQ,stock
 DFNSW,US,T3 Defense Inc. Warrants,NASDAQ,stock
 DFSC,US,DEFSEC Technologies Inc. Common Stock,NASDAQ,stock
-DFSCW,US,DEFSEC Technologies Inc. Warrant,NASDAQ,stock
 DFTX,US,Definium Therapeutics Inc. Common Shares,NASDAQ,stock
 DGICA,US,Donegal Group Inc. Class A Common Stock,NASDAQ,stock
 DGICB,US,Donegal Group Inc. Class B Common Stock,NASDAQ,stock
@@ -1076,13 +1068,13 @@ DMAAR,US,Drugs Made In America Acquisition Corp. Rights,NASDAQ,stock
 DMAC,US,DiaMedica Therapeutics Inc. Common Stock,NASDAQ,stock
 DMII,US,Drugs Made In America Acquisition II Corp. Ordinary Shares,NASDAQ,stock
 DMIIR,US,Drugs Made In America Acquisition II Corp. Right,NASDAQ,stock
-DMIIU,US,Drugs Made In America Acquisition II Corp. Unit,NASDAQ,stock
 DMLP,US,Dorchester Minerals L.P. Common Units Representing Limited Partnership Interests,NASDAQ,stock
 DMRA,US,Damora Therapeutics Inc. Ordinary Shares,NASDAQ,stock
 DMRC,US,Digimarc Corporation Common Stock,NASDAQ,stock
 DNLI,US,Denali Therapeutics Inc. Common Stock,NASDAQ,stock
 DNMX,US,Dynamix Corporation III Class A Ordinary Shares,NASDAQ,stock
 DNMXU,US,Dynamix Corporation III Unit,NASDAQ,stock
+DNMXW,US,Dynamix Corporation III Warrants,NASDAQ,stock
 DNTH,US,Dianthus Therapeutics Inc. Common Stock,NASDAQ,stock
 DNUT,US,Krispy Kreme Inc. Common Stock,NASDAQ,stock
 DOCU,US,DocuSign Inc. Common Stock,NASDAQ,stock
@@ -1095,8 +1087,9 @@ DOYU,US,DouYu International Holdings Limited ADS,NASDAQ,stock
 DPRO,US,Draganfly Inc. Common Shares,NASDAQ,stock
 DPU,US,Top KingWin Ltd Class A Ordinary Shares,NASDAQ,stock
 DPZ,US,Domino's Pizza Inc Common Stock,NASDAQ,stock
-DRCT,US,Direct Digital Holdings Inc. Class A Common Stock,NASDAQ,stock
 DRDB,US,Roman DBDR Acquisition Corp. II Ordinary shares,NASDAQ,stock
+DRDBU,US,Roman DBDR Acquisition Corp. II Unit,NASDAQ,stock
+DRDBW,US,Roman DBDR Acquisition Corp. II Warrants,NASDAQ,stock
 DRH,US,Diamondrock Hospitality Company Common Stock,NASDAQ,stock
 DRIO,US,DarioHealth Corp. Common Stock,NASDAQ,stock
 DRK,US,DarkHorse Technologies Inc. Common Shares,NASDAQ,stock
@@ -1107,6 +1100,7 @@ DRTSW,US,Alpha Tau Medical Ltd. Warrant,NASDAQ,stock
 DRUG,US,Bright Minds Biosciences Inc. Common Stock,NASDAQ,stock
 DRVN,US,Driven Brands Holdings Inc. Common Stock,NASDAQ,stock
 DSAC,US,Daedalus Special Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
+DSACW,US,Daedalus Special Acquisition Corp. Warrant,NASDAQ,stock
 DSC,US,DSC Holdings Ltd. American Depositary Shares,NASDAQ,stock
 DSGN,US,Design Therapeutics Inc. Common Stock,NASDAQ,stock
 DSGR,US,Distribution Solutions Group Inc. Common Stock,NASDAQ,stock
@@ -1114,7 +1108,6 @@ DSGX,US,Descartes Systems Group Inc. (The) Common Stock,NASDAQ,stock
 DSP,US,Viant Technology Inc. Class A Common Stock,NASDAQ,stock
 DSWL,US,Deswell Industries Inc. Common Shares,NASDAQ,stock
 DSY,US,Big Tree Cloud Holdings Limited Class A Ordinary Shares,NASDAQ,stock
-DSYWW,US,Big Tree Cloud Holdings Limited Warrants,NASDAQ,stock
 DTCX,US,Datacentrex Inc. Common Stock,NASDAQ,stock
 DTI,US,Drilling Tools International Corporation Common Stock,NASDAQ,stock
 DTIL,US,Precision BioSciences Inc. Common Stock,NASDAQ,stock
@@ -1138,10 +1131,8 @@ DXST,US,Decent Holding Inc Class A Ordinary Shares,NASDAQ,stock
 DYAI,US,Dyadic International Inc. Common Stock,NASDAQ,stock
 DYN,US,Dyne Therapeutics Inc. Common Stock,NASDAQ,stock
 DYNC,US,Dynamix Corporation Class A Ordinary Shares,NASDAQ,stock
-DYNCU,US,Dynamix Corporation Unit,NASDAQ,stock
 DYNCW,US,Dynamix Corporation Warrant,NASDAQ,stock
 DYOR,US,Insight Digital Partners II Class A Ordinary Shares,NASDAQ,stock
-DYORW,US,Insight Digital Partners II Warrants,NASDAQ,stock
 EBAY,US,eBay Inc. Common Stock,NASDAQ,stock
 EBC,US,Eastern Bankshares Inc. Common Stock,NASDAQ,stock
 EBMT,US,Eagle Bancorp Montana Inc. Common Stock,NASDAQ,stock
@@ -1151,7 +1142,6 @@ ECHO,US,EchoStar  Corporation Common Stock,NASDAQ,stock
 ECOR,US,electroCore Inc. Common Stock,NASDAQ,stock
 ECPG,US,Encore Capital Group Inc Common Stock,NASDAQ,stock
 ECX,US,ECARX Holdings Inc. Class A Ordinary shares,NASDAQ,stock
-ECXWW,US,ECARX Holdings Inc. Warrants,NASDAQ,stock
 EDBL,US,Edible Garden AG Incorporated Common Stock,NASDAQ,stock
 EDBLW,US,Edible Garden AG Incorporated Warrant,NASDAQ,stock
 EDHL,US,Everbright Digital Holding Limited Ordinary Shares,NASDAQ,stock
@@ -1232,6 +1222,7 @@ ERNAW,US,Ernexa Therapeutics Inc. Warrants,NASDAQ,stock
 ESCA,US,Escalade Incorporated Common Stock,NASDAQ,stock
 ESEA,US,Euroseas Ltd. Common Stock (Marshall Islands),NASDAQ,stock
 ESLA,US,Estrella Immunopharma Inc. Common Stock,NASDAQ,stock
+ESLAW,US,Estrella Immunopharma Inc. Warrant,NASDAQ,stock
 ESLT,US,Elbit Systems Ltd. Ordinary Shares,NASDAQ,stock
 ESOA,US,Energy Services of America Corporation Common Stock,NASDAQ,stock
 ESQ,US,Esquire Financial Holdings Inc. Common Stock,NASDAQ,stock
@@ -1243,8 +1234,10 @@ ETRA,US,Electra Therapeutics Inc. Common stock,NASDAQ,stock
 ETS,US,Elite Express Holding Inc. Class A Common Stock,NASDAQ,stock
 EU,US,enCore Energy Corp. Common Shares,NASDAQ,stock
 EUDA,US,EUDA Health Holdings Limited Ordinary Shares,NASDAQ,stock
+EUDAW,US,EUDA Health Holdings Limited Warrant,NASDAQ,stock
 EURK,US,Eureka Acquisition Corp Class A Ordinary Share,NASDAQ,stock
 EURKR,US,Eureka Acquisition Corp Right,NASDAQ,stock
+EURKU,US,Eureka Acquisition Corp Unit,NASDAQ,stock
 EVAX,US,Evaxion A/S American Depositary Share,NASDAQ,stock
 EVCM,US,EverCommerce Inc. Common Stock,NASDAQ,stock
 EVER,US,EverQuote Inc. Class A Common Stock,NASDAQ,stock
@@ -1270,7 +1263,6 @@ EXPE,US,Expedia Group Inc. Common Stock,NASDAQ,stock
 EXPO,US,Exponent Inc. Common Stock,NASDAQ,stock
 EXTR,US,Extreme Networks Inc. Common Stock,NASDAQ,stock
 EXYN,US,Exyn Technologies Inc. Common Stock,NASDAQ,stock
-EXYNW,US,Exyn Technologies Inc. Warrant,NASDAQ,stock
 EYE,US,National Vision Holdings Inc. Common Stock,NASDAQ,stock
 EYPT,US,EyePoint Inc. Common Stock,NASDAQ,stock
 EZGO,US,EZGO Technologies Ltd. Ordinary Shares,NASDAQ,stock
@@ -1280,6 +1272,7 @@ FA,US,First Advantage Corporation Common Stock,NASDAQ,stock
 FABC,US,Fabric.AI Inc. Common Stock,NASDAQ,stock
 FAC,US,Factorial Energy Inc. Class A Common Stock,NASDAQ,stock
 FACT,US,FACT II Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
+FACTW,US,FACT II Acquisition Corp. Warrant,NASDAQ,stock
 FACWW,US,Factorial Energy Inc. Warrant,NASDAQ,stock
 FAMI,US,Farmmi Inc. Class A Ordinary Shares,NASDAQ,stock
 FANG,US,Diamondback Energy Inc. Common Stock,NASDAQ,stock
@@ -1295,6 +1288,7 @@ FBLA,US,FB Bancorp Inc. Common Stock,NASDAQ,stock
 FBLG,US,FibroBiologics Inc. Common Stock,NASDAQ,stock
 FBNC,US,First Bancorp Common Stock,NASDAQ,stock
 FBYD,US,Falcon's Beyond Global Inc. Class A Common Stock,NASDAQ,stock
+FBYDW,US,Falcon's Beyond Global Inc. Warrants,NASDAQ,stock
 FCAP,US,First Capital Inc. Common Stock,NASDAQ,stock
 FCBC,US,First Community Bankshares Inc. (VA) Common Stock,NASDAQ,stock
 FCCO,US,First Community Corporation Common Stock,NASDAQ,stock
@@ -1332,7 +1326,7 @@ FGC,US,FG Communities Holdings Inc. Common Stock,NASDAQ,stock
 FGCPP,US,FG Communities Holdings Inc. 8.00% Cumulative Preferred Stock,NASDAQ,stock
 FGI,US,FGI Industries Ltd. Ordinary Shares,NASDAQ,stock
 FGII,US,FG Imperii Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
-FGIWW,US,FGI Industries Ltd. Warrant,NASDAQ,stock
+FGIIU,US,FG Imperii Acquisition Corp. Units,NASDAQ,stock
 FGL,US,Founder Group Limited Class A Ordinary Shares,NASDAQ,stock
 FHB,US,First Hawaiian Inc. Common Stock,NASDAQ,stock
 FHTX,US,Foghorn Therapeutics Inc. Common Stock,NASDAQ,stock
@@ -1340,7 +1334,6 @@ FIBK,US,First Interstate BancSystem Inc. Common Stock (DE),NASDAQ,stock
 FIEE,US,FiEE Inc Common Stock,NASDAQ,stock
 FIGR,US,Figure Technology Solutions Inc. Class A Common Stock,NASDAQ,stock
 FIGX,US,FIGX Capital Acquisition Corp. Class A Ordinary Share,NASDAQ,stock
-FIGXU,US,FIGX Capital Acquisition Corp. Units,NASDAQ,stock
 FINW,US,FinWise Bancorp Common Stock,NASDAQ,stock
 FIP,US,FTAI Infrastructure Inc. Common Stock,NASDAQ,stock
 FISI,US,Financial Institutions Inc. Common Stock,NASDAQ,stock
@@ -1350,8 +1343,8 @@ FIVE,US,Five Below Inc. Common Stock,NASDAQ,stock
 FIVN,US,Five9 Inc. Common Stock,NASDAQ,stock
 FIZZ,US,National Beverage Corp. Common Stock,NASDAQ,stock
 FJDI,US,ARC Group Securities Acquisition I Class A Ordinary Shares,NASDAQ,stock
-FJDIR,US,ARC Group Securities Acquisition I Rights,NASDAQ,stock
 FJDIU,US,ARC Group Securities Acquisition I Units,NASDAQ,stock
+FJDIW,US,ARC Group Securities Acquisition I Warrants,NASDAQ,stock
 FKWL,US,Franklin Wireless Corp. Common Stock,NASDAQ,stock
 FLD,US,Fold Holdings Inc. Class A Common Stock,NASDAQ,stock
 FLDDW,US,Fold Holdings Inc. Warrant,NASDAQ,stock
@@ -1369,7 +1362,6 @@ FLY,US,Firefly Aerospace Inc. Common Stock,NASDAQ,stock
 FLYE,US,Fly-E Group Inc. Common Stock,NASDAQ,stock
 FLYW,US,Flywire Corporation Voting Common Stock,NASDAQ,stock
 FMAC,US,Future Money Acquisition Corporation Ordinary Shares,NASDAQ,stock
-FMACU,US,Future Money Acquisition Corporation Units,NASDAQ,stock
 FMAO,US,Farmers & Merchants Bancorp Inc. Common Stock,NASDAQ,stock
 FMBH,US,First Mid Bancshares Inc. Common Stock,NASDAQ,stock
 FMFC,US,Kandal M Venture Limited Class A Ordinary Shares,NASDAQ,stock
@@ -1435,7 +1427,6 @@ FTLF,US,FitLife Brands Inc. Common Stock,NASDAQ,stock
 FTNT,US,Fortinet Inc. Common Stock,NASDAQ,stock
 FTRE,US,Fortrea Holdings Inc. Common Stock,NASDAQ,stock
 FUFU,US,BitFuFu Inc. Class A Ordinary Shares,NASDAQ,stock
-FUFUW,US,BitFuFu Inc. Warrant,NASDAQ,stock
 FULC,US,Fulcrum Therapeutics Inc. Common Stock,NASDAQ,stock
 FULT,US,Fulton Financial Corporation Common Stock,NASDAQ,stock
 FULTP,US,Fulton Financial Corporation Depositary Shares Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock Series A,NASDAQ,stock
@@ -1452,6 +1443,8 @@ FVNNR,US,Future Vision II Acquisition Corporation Right,NASDAQ,stock
 FVNNU,US,Future Vision II Acquisition Corporation Units,NASDAQ,stock
 FWAC,US,Futurewave Acquisition Corporation Ordinary Shares,NASDAQ,stock
 FWACR,US,Futurewave Acquisition Corporation Rights,NASDAQ,stock
+FWACU,US,Futurewave Acquisition Corporation Units,NASDAQ,stock
+FWACW,US,Futurewave Acquisition Corporation Warrants,NASDAQ,stock
 FWDI,US,Forward Industries Inc. Common Stock,NASDAQ,stock
 FWONA,US,Liberty Media Corporation Series A Common Stock,NASDAQ,stock
 FWONK,US,Liberty Media Corporation Series C Common Stock,NASDAQ,stock
@@ -1477,8 +1470,6 @@ GBFH,US,GBank Financial Holdings Inc. Common Stock,NASDAQ,stock
 GBLI,US,Global Indemnity Group LLC Class A Common Stock,NASDAQ,stock
 GCBC,US,Greene County Bancorp Inc. Common Stock,NASDAQ,stock
 GCGR,US,General Catalyst Global Resilience Merger Corp. Class A Ordinary Shares,NASDAQ,stock
-GCGRU,US,General Catalyst Global Resilience Merger Corp. Units,NASDAQ,stock
-GCGRW,US,General Catalyst Global Resilience Merger Corp. Warrants,NASDAQ,stock
 GCL,US,GCL Global Holdings Ltd Ordinary Shares,NASDAQ,stock
 GCLWW,US,GCL Global Holdings Ltd Warrants,NASDAQ,stock
 GCMG,US,GCM Grosvenor Inc. Class A Common Stock,NASDAQ,stock
@@ -1526,9 +1517,10 @@ GILT,US,Gilat Satellite Networks Ltd. Ordinary Shares,NASDAQ,stock
 GIPR,US,Generation Income Properties Inc. Common Stock,NASDAQ,stock
 GITS,US,Global Interactive Technologies Inc. Common Stock,NASDAQ,stock
 GIW,US,GigCapital8 Corp. Class A Ordinary Shares,NASDAQ,stock
+GIWWR,US,GigCapital8 Corp. Rights,NASDAQ,stock
 GIX,US,GigCapital9 Corp. Class A Ordinary Share,NASDAQ,stock
 GIXI,US,Gix Internet Ltd. Ordinary Shares,NASDAQ,stock
-GIXXU,US,GigCapital9 Corp. Units,NASDAQ,stock
+GIXXR,US,GigCapital9 Corp. Rights,NASDAQ,stock
 GLAD,US,Gladstone Capital Corporation Common Stock,NASDAQ,stock
 GLBE,US,Global-E Online Ltd. Ordinary Shares,NASDAQ,stock
 GLBS,US,Globus Maritime Limited Common Stock,NASDAQ,stock
@@ -1570,10 +1562,7 @@ GOVX,US,GeoVax Labs Inc. Common Stock,NASDAQ,stock
 GOW,US,GOWell Energy Technology Ordinary shares,NASDAQ,stock
 GP,US,GreenPower Motor Company Inc. Common Shares,NASDAQ,stock
 GPAC,US,General Purpose Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
-GPACU,US,General Purpose Acquisition Corp. Units,NASDAQ,stock
-GPACW,US,General Purpose Acquisition Corp. Warrant,NASDAQ,stock
 GPAT,US,GP-Act III Acquisition Corp. Class A Ordinary Share,NASDAQ,stock
-GPATU,US,GP-Act III Acquisition Corp. Units,NASDAQ,stock
 GPATW,US,GP-Act III Acquisition Corp. Warrants,NASDAQ,stock
 GPCR,US,Structure Therapeutics Inc. American Depositary Shares,NASDAQ,stock
 GPRE,US,Green Plains Inc. Common Stock,NASDAQ,stock
@@ -1601,13 +1590,10 @@ GSAT,US,Globalstar Inc. Common Stock,NASDAQ,stock
 GSBC,US,Great Southern Bancorp Inc. Common Stock,NASDAQ,stock
 GSHD,US,Goosehead Insurance Inc. Class A Common Stock,NASDAQ,stock
 GSHR,US,Gesher Acquisition Corp. II Class A Ordinary Shares,NASDAQ,stock
-GSHRW,US,Gesher Acquisition Corp. II Warrants,NASDAQ,stock
 GSIT,US,GSI Technology Common Stock,NASDAQ,stock
 GSIW,US,Garden Stage Limited Class A Ordinary Shares,NASDAQ,stock
 GSM,US,Ferroglobe PLC Ordinary Shares,NASDAQ,stock
 GSRF,US,GSR IV Acquisition Corp. Class A ordinary share,NASDAQ,stock
-GSRFR,US,GSR IV Acquisition Corp. Rights,NASDAQ,stock
-GSRFU,US,GSR IV Acquisition Corp. Units,NASDAQ,stock
 GSRV,US,GSR V Acquisition Corp. Class A ordinary shares,NASDAQ,stock
 GSRVR,US,GSR V Acquisition Corp. Rights,NASDAQ,stock
 GSUN,US,Golden Sun Technology Group Limited Class A Ordinary Shares,NASDAQ,stock
@@ -1615,8 +1601,8 @@ GT,US,The Goodyear Tire & Rubber Company Common Stock,NASDAQ,stock
 GTBP,US,GT Biopharma Inc. Common Stock,NASDAQ,stock
 GTEC,US,Greenland Technologies Holding Corporation Class A Ordinary Shares,NASDAQ,stock
 GTEN,US,Gores Holdings X Inc. Class A ordinary shares,NASDAQ,stock
+GTENU,US,Gores Holdings X Inc. Units,NASDAQ,stock
 GTERA,US,Globa Terra Acquisition Corporation Class A Ordinary Shares,NASDAQ,stock
-GTERR,US,Globa Terra Acquisition Corporation Rights,NASDAQ,stock
 GTERU,US,Globa Terra Acquisition Corporation Units,NASDAQ,stock
 GTERW,US,Globa Terra Acquisition Corporation Warrants,NASDAQ,stock
 GTIM,US,Good Times Restaurants Inc. Common Stock,NASDAQ,stock
@@ -1625,6 +1611,7 @@ GTM,US,ZoomInfo Technologies Inc Common Stock,NASDAQ,stock
 GTX,US,Garrett Motion Inc. Common Stock,NASDAQ,stock
 GUAC,US,Berto Acquisition Corp. II Ordinary Shares,NASDAQ,stock
 GUACU,US,Berto Acquisition Corp. II Unit,NASDAQ,stock
+GUACW,US,Berto Acquisition Corp. II Warrants,NASDAQ,stock
 GURE,US,Gulf Resources Inc. (NV) Common Stock,NASDAQ,stock
 GUTS,US,Fractyl Health Inc. Common Stock,NASDAQ,stock
 GVH,US,Globavend Holdings Limited Ordinary Shares,NASDAQ,stock
@@ -1635,8 +1622,6 @@ GYGY,US,Game Your Game Inc. Common Stock,NASDAQ,stock
 GYRE,US,Gyre Therapeutics Inc. Common Stock,NASDAQ,stock
 GYRO,US,Gyrodyne LLC Common Stock,NASDAQ,stock
 HACQ,US,HCM IV Acquisition Corp. Class A Ordinary Share,NASDAQ,stock
-HACQU,US,HCM IV Acquisition Corp. Unit,NASDAQ,stock
-HACQW,US,HCM IV Acquisition Corp. Warrants,NASDAQ,stock
 HAFC,US,Hanmi Financial Corporation Common Stock,NASDAQ,stock
 HAIN,US,Hain Celestial Group Inc. (The) Common Stock,NASDAQ,stock
 HALO,US,Halozyme Therapeutics Inc. Common Stock,NASDAQ,stock
@@ -1644,6 +1629,7 @@ HAO,US,Haoxi Health Technology Limited Class A Ordinary Shares,NASDAQ,stock
 HAPN,US,Happen Inc. Common Stock,NASDAQ,stock
 HAS,US,Hasbro Inc. Common Stock,NASDAQ,stock
 HAVA,US,Harvard Ave Acquisition Corporation Class A Ordinary Share,NASDAQ,stock
+HAVAR,US,Harvard Ave Acquisition Corporation Rights that convert on a 1/10th of 1 basis to Class A ordinary Shares,NASDAQ,stock
 HBAN,US,Huntington Bancshares Incorporated Common Stock,NASDAQ,stock
 HBANL,US,Huntington Bancshares Incorporated Depositary Shares Each Representing a 1/40th Interest in a Share of 6.875% Series J Non-Cumulative Perpetual Preferred Stock,NASDAQ,stock
 HBANM,US,Huntington Bancshares Incorporated Depositary Shares each representing a 1/1000th interest in a share of Huntington Series I Preferred Stock,NASDAQ,stock
@@ -1659,12 +1645,9 @@ HCACR,US,Hall Chadwick Acquisition Corp Rights,NASDAQ,stock
 HCAI,US,Huachen AI Parking Management Technology Holding Co. Ltd. Class A Ordinary Shares,NASDAQ,stock
 HCAT,US,Health Catalyst Inc Common Stock,NASDAQ,stock
 HCIC,US,Hennessy Capital Investment Corp. VIII Class A Ordinary Shares,NASDAQ,stock
-HCICR,US,Hennessy Capital Investment Corp. VIII Share Rights,NASDAQ,stock
-HCICU,US,Hennessy Capital Investment Corp. VIII Units,NASDAQ,stock
 HCKT,US,Hackett Group Inc (The). Common Stock,NASDAQ,stock
 HCM,US,HUTCHMED (China) Limited American Depositary Shares,NASDAQ,stock
 HCMA,US,HCM III Acquisition Corp. Class A Ordinary Share,NASDAQ,stock
-HCMAU,US,HCM III Acquisition Corp. Units,NASDAQ,stock
 HCMAW,US,HCM III Acquisition Corp. Warrants,NASDAQ,stock
 HCSG,US,Healthcare Services Group Inc. Common Stock,NASDAQ,stock
 HCTI,US,Healthcare Triangle Inc. Common Stock,NASDAQ,stock
@@ -1717,6 +1700,7 @@ HOVR,US,New Horizon Aircraft Ltd. Class A Ordinary Share,NASDAQ,stock
 HOVRW,US,New Horizon Aircraft Ltd. Warrant,NASDAQ,stock
 HOWL,US,Werewolf Therapeutics Inc. Common Stock,NASDAQ,stock
 HPAI,US,Helport AI Limited Ordinary Shares,NASDAQ,stock
+HPAIW,US,Helport AI Limited Warrants,NASDAQ,stock
 HPK,US,HighPeak Energy Inc. Common Stock,NASDAQ,stock
 HQ,US,Horizon Quantum Holdings Ltd. Class A Ordinary Shares,NASDAQ,stock
 HQI,US,HireQuest Inc. Common Stock (DE),NASDAQ,stock
@@ -1770,9 +1754,9 @@ HYPD,US,Hyperion DeFi Inc. Common Stock,NASDAQ,stock
 HYPR,US,Hyperfine Inc. Class A Common Stock,NASDAQ,stock
 IA,US,Innovative Solutions and Support Inc. Common Stock,NASDAQ,stock
 IACO,US,Idea Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
-IACOU,US,Idea Acquisition Corp. Units,NASDAQ,stock
-IACOW,US,Idea Acquisition Corp. Warrants,NASDAQ,stock
 IACQ,US,Irenic Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
+IACQU,US,Irenic Acquisition Corp. Unit,NASDAQ,stock
+IACQW,US,Irenic Acquisition Corp. Warrants,NASDAQ,stock
 IART,US,Integra LifeSciences Holdings Corporation Common Stock,NASDAQ,stock
 IBAC,US,IB Acquisition Corp. Common Stock,NASDAQ,stock
 IBACR,US,IB Acquisition Corp. Right,NASDAQ,stock
@@ -1796,22 +1780,18 @@ ICUCW,US,SeaStar Medical Holding Corporation Warrant,NASDAQ,stock
 ICUI,US,ICU Medical Inc. Common Stock,NASDAQ,stock
 IDAC,US,Iron Dome Acquisition I Corp. Class A Ordinary Shares,NASDAQ,stock
 IDACU,US,Iron Dome Acquisition I Corp. Units,NASDAQ,stock
-IDACW,US,Iron Dome Acquisition I Corp. Warrant,NASDAQ,stock
 IDAI,US,T Stamp Inc. Class A Common Stock,NASDAQ,stock
 IDCC,US,InterDigital Inc. Common Stock,NASDAQ,stock
 IDN,US,Intellicheck Inc. Common Stock,NASDAQ,stock
 IDXX,US,IDEXX Laboratories Inc. Common Stock,NASDAQ,stock
 IDYA,US,IDEAYA Biosciences Inc. Common Stock,NASDAQ,stock
 IEAG,US,Infinite Eagle Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
-IEAGR,US,Infinite Eagle Acquisition Corp. Rights,NASDAQ,stock
 IEAGU,US,Infinite Eagle Acquisition Corp. Unit,NASDAQ,stock
 IEP,US,Icahn Enterprises L.P. Common Stock,NASDAQ,stock
 IESC,US,IES Holdings Inc. Common Stock,NASDAQ,stock
 IFBD,US,Infobird Co. Ltd Ordinary Shares,NASDAQ,stock
 IFRX,US,InflaRx N.V. Common Stock,NASDAQ,stock
 IGAC,US,Invest Green Acquisition Corporation Class A Ordinary Shares,NASDAQ,stock
-IGACR,US,Invest Green Acquisition Corporation Rights,NASDAQ,stock
-IGACU,US,Invest Green Acquisition Corporation Units,NASDAQ,stock
 IGIC,US,International General Insurance Holdings Ltd. Ordinary Share,NASDAQ,stock
 IHRT,US,iHeartMedia Inc. Class A Common Stock,NASDAQ,stock
 III,US,Information Services Group Inc. Common Stock,NASDAQ,stock
@@ -1821,7 +1801,7 @@ ILAG,US,Intelligent Living Application Group Inc. Ordinary Shares,NASDAQ,stock
 ILLR,US,Triller Group Inc. Common Stock,NASDAQ,stock
 ILLRW,US,Triller Group Inc. Warrant,NASDAQ,stock
 ILLU,US,Illumination Acquisition Corp I Class A Ordinary Shares,NASDAQ,stock
-ILLUW,US,Illumination Acquisition Corp I Warrant,NASDAQ,stock
+ILLUU,US,Illumination Acquisition Corp I Units,NASDAQ,stock
 ILMN,US,Illumina Inc. Common Stock,NASDAQ,stock
 ILPT,US,Industrial Logistics Properties Trust Common Shares of Beneficial Interest,NASDAQ,stock
 IMA,US,ImageneBio Inc. Common Stock,NASDAQ,stock
@@ -1849,6 +1829,7 @@ IMXI,US,International Money Express Inc. Common Stock,NASDAQ,stock
 INAB,US,IN8bio Inc. Common Stock,NASDAQ,stock
 INAC,US,Indigo Acquisition Corp. Ordinary Shares,NASDAQ,stock
 INACR,US,Indigo Acquisition Corp. Right,NASDAQ,stock
+INACU,US,Indigo Acquisition Corp. Unit,NASDAQ,stock
 INBK,US,First Internet Bancorp Common Stock,NASDAQ,stock
 INBKZ,US,First Internet Bancorp 6.0% Fixed-to-Floating Rate Subordinated Notes Due 2029,NASDAQ,stock
 INBS,US,Intelligent Bio Solutions Inc. Common Stock,NASDAQ,stock
@@ -1919,7 +1900,6 @@ IRDM,US,Iridium Communications Inc Common Stock,NASDAQ,stock
 IREN,US,IREN Limited Ordinary Shares,NASDAQ,stock
 IRHO,US,Iron Horse Acquisitions II Corp. Common Stock,NASDAQ,stock
 IRHOR,US,Iron Horse Acquisitions Corp. II Rights,NASDAQ,stock
-IRHOU,US,Iron Horse Acquisitions II Corp. Units,NASDAQ,stock
 IRIX,US,IRIDEX Corporation Common Stock,NASDAQ,stock
 IRMD,US,iRadimed Corporation Common Stock,NASDAQ,stock
 IRON,US,Disc Medicine Inc. Common Stock,NASDAQ,stock
@@ -1935,14 +1915,12 @@ ISRG,US,Intuitive Surgical Inc. Common Stock,NASDAQ,stock
 ISTR,US,Investar Holding Corporation Common Stock,NASDAQ,stock
 ITG,US,ITG Inc. Class A Common Stock,NASDAQ,stock
 ITHA,US,ITHAX Acquisition Corp III Class A Ordinary Shares,NASDAQ,stock
-ITHAW,US,ITHAX Acquisition Corp III Warrants,NASDAQ,stock
 ITIC,US,Investors Title Company Common Stock,NASDAQ,stock
 ITOC,US,iTonic Holdings Ltd Class A Ordinary Shares,NASDAQ,stock
 ITRI,US,Itron Inc. Common Stock,NASDAQ,stock
 ITRN,US,Ituran Location and Control Ltd. Ordinary Shares,NASDAQ,stock
 IVA,US,Inventiva S.A. American Depository Shares,NASDAQ,stock
 IVDA,US,Iveda Solutions Inc. Common Stock,NASDAQ,stock
-IVDAW,US,Iveda Solutions Inc. Warrant,NASDAQ,stock
 IVF,US,INVO Fertility Inc. Common Stock,NASDAQ,stock
 IVVD,US,Invivyd Inc. Common Stock,NASDAQ,stock
 IXHL,US,Incannex Healthcare Inc. Common Stock,NASDAQ,stock
@@ -1975,7 +1953,6 @@ JL,US,J-Long Group Limited Class A Ordinary Shares,NASDAQ,stock
 JLHL,US,Julong Holding Limited Class A Ordinary Shares,NASDAQ,stock
 JMSB,US,John Marshall Bancorp Inc. Common Stock,NASDAQ,stock
 JONE,US,Jones Ventures INTL Acquisition1 Corp Class A Ordinary Shares,NASDAQ,stock
-JONER,US,Jones Ventures INTL Acquisition1 Corp Rights,NASDAQ,stock
 JOUT,US,Johnson Outdoors Inc. Class A Common Stock,NASDAQ,stock
 JOYY,US,JOYY Inc. American Depositary Shares,NASDAQ,stock
 JRSH,US,Jerash Holdings (US) Inc. Common Stock,NASDAQ,stock
@@ -1998,11 +1975,10 @@ KARD,US,Kardigan Inc. Common Stock,NASDAQ,stock
 KARO,US,Karooooo Ltd. Ordinary Shares,NASDAQ,stock
 KAZR,US,Skyline Builders Group Holding Limited Class A Ordinary Shares,NASDAQ,stock
 KBON,US,Karbon Capital Partners Corp. Class A Ordinary Shares,NASDAQ,stock
-KBONW,US,Karbon Capital Partners Corp. Warrant,NASDAQ,stock
+KBONU,US,Karbon Capital Partners Corp. Units,NASDAQ,stock
 KBSX,US,FST Corp. Ordinary Shares,NASDAQ,stock
 KC,US,Kingsoft Cloud Holdings Limited American Depositary Shares,NASDAQ,stock
 KCHV,US,Kochav Defense Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
-KCHVR,US,Kochav Defense Acquisition Corp. Right,NASDAQ,stock
 KCHVU,US,Kochav Defense Acquisition Corp. Units,NASDAQ,stock
 KDK,US,Kodiak AI Inc. Common Stock,NASDAQ,stock
 KDKRW,US,Kodiak AI Inc. Warrants,NASDAQ,stock
@@ -2013,11 +1989,10 @@ KELYA,US,Kelly Services Inc. Class A Common Stock,NASDAQ,stock
 KELYB,US,Kelly Services Inc. Class B Common Stock,NASDAQ,stock
 KEQU,US,Kewaunee Scientific Corporation Common Stock,NASDAQ,stock
 KEYY,US,Keystone Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
-KEYYU,US,Keystone Acquisition Corp. Unit,NASDAQ,stock
-KEYYW,US,Keystone Acquisition Corp. Warrants,NASDAQ,stock
 KFFB,US,Kentucky First Federal Bancorp Common Stock,NASDAQ,stock
 KFII,US,K&F Growth Acquisition Corp. II Class A Ordinary shares,NASDAQ,stock
 KFIIR,US,K&F Growth Acquisition Corp. II Rights,NASDAQ,stock
+KFIIU,US,K&F Growth Acquisition Corp. II Unit,NASDAQ,stock
 KG,US,Kestrel Group Ltd.,NASDAQ,stock
 KGEI,US,Kolibri Global Energy Inc. Common stock,NASDAQ,stock
 KIDS,US,OrthoPediatrics Corp. Common Stock,NASDAQ,stock
@@ -2042,12 +2017,11 @@ KOD,US,Kodiak Sciences Inc Common Stock,NASDAQ,stock
 KOPN,US,Kopin Corporation Common Stock,NASDAQ,stock
 KOSS,US,Koss Corporation Common Stock,NASDAQ,stock
 KOYN,US,CSLM Digital Asset Acquisition Corp III Class A Ordinary Shares,NASDAQ,stock
-KOYNW,US,CSLM Digital Asset Acquisition Corp III Warrants,NASDAQ,stock
+KOYNU,US,CSLM Digital Asset Acquisition Corp III Units,NASDAQ,stock
 KPLT,US,Katapult Holdings Inc. Common Stock,NASDAQ,stock
 KPRX,US,Kiora Pharmaceuticals Inc.  Common Stock,NASDAQ,stock
 KPTI,US,Karyopharm Therapeutics Inc. Common Stock,NASDAQ,stock
 KRAQ,US,KRAKacquisition Corp Class A Ordinary Shares,NASDAQ,stock
-KRAQU,US,KRAKacquisition Corp Unit,NASDAQ,stock
 KRAQW,US,KRAKacquisition Corp Warrants,NASDAQ,stock
 KRKR,US,36Kr Holdings Inc. American Depositary Shares,NASDAQ,stock
 KRMD,US,KORU Medical Systems Inc. Common Stock (DE),NASDAQ,stock
@@ -2065,7 +2039,6 @@ KTCC,US,Key Tronic Corporation Common Stock,NASDAQ,stock
 KTOS,US,Kratos Defense & Security Solutions Inc. Common Stock,NASDAQ,stock
 KTTA,US,Pasithea Therapeutics Corp. Common Stock,NASDAQ,stock
 KTWO,US,K2 Capital Acquisition Corporation Class A Ordinary Share,NASDAQ,stock
-KTWOR,US,K2 Capital Acquisition Corporation Rights,NASDAQ,stock
 KURA,US,Kura Oncology Inc. Common Stock,NASDAQ,stock
 KUST,US,Kustom Entertainment Inc. Common Stock,NASDAQ,stock
 KVHI,US,KVH Industries Inc. Common Stock,NASDAQ,stock
@@ -2080,7 +2053,6 @@ LAB,US,Standard BioTools Inc. Common Stock,NASDAQ,stock
 LABT,US,Lakewood-Amedex Biotherapeutics Inc. Common Stock,NASDAQ,stock
 LAES,US,SEALSQ Corp Ordinary Shares,NASDAQ,stock
 LAFA,US,LaFayette Acquisition Corp. Ordinary Share,NASDAQ,stock
-LAFAR,US,LaFayette Acquisition Corp. Rights,NASDAQ,stock
 LAKE,US,Lakeland Industries Inc. Common Stock,NASDAQ,stock
 LAMR,US,Lamar Advertising Company Class A Common Stock,NASDAQ,stock
 LAND,US,Gladstone Land Corporation Common Stock,NASDAQ,stock
@@ -2098,8 +2070,8 @@ LBTYB,US,Liberty Global Ltd. Class B Common Shares,NASDAQ,stock
 LBTYK,US,Liberty Global Ltd. Class C Common Shares,NASDAQ,stock
 LCCC,US,Lakeshore Acquisition III Corp. Ordinary Shares,NASDAQ,stock
 LCCCR,US,Lakeshore Acquisition III Corp. Rights,NASDAQ,stock
-LCCCU,US,Lakeshore Acquisition III Corp. Unit,NASDAQ,stock
 LCFY,US,Locafy Limited Ordinary Share,NASDAQ,stock
+LCFYW,US,Locafy Limited Warrant,NASDAQ,stock
 LCID,US,Lucid Group Inc. Common Stock,NASDAQ,stock
 LCNB,US,LCNB Corporation Common Stock,NASDAQ,stock
 LCUT,US,Lifetime Brands Inc. Common Stock,NASDAQ,stock
@@ -2114,7 +2086,6 @@ LENZ,US,LENZ Therapeutics Inc. Common Stock,NASDAQ,stock
 LESL,US,Leslie's Inc. Common Stock,NASDAQ,stock
 LEXX,US,Lexaria Bioscience Corp. Common Stock,NASDAQ,stock
 LFAC,US,Leapfrog Acquisition Corporation Class A Ordinary Shares,NASDAQ,stock
-LFACU,US,Leapfrog Acquisition Corporation Units,NASDAQ,stock
 LFCR,US,Lifecore Biomedical Inc. Common Stock,NASDAQ,stock
 LFMD,US,LifeMD Inc. Common Stock,NASDAQ,stock
 LFMDP,US,LifeMD Inc. 8.875% Series A Cumulative Perpetual Preferred Stock,NASDAQ,stock
@@ -2159,7 +2130,6 @@ LKFT,US,Lakefront Biotherapeutics American Depositary Shares,NASDAQ,stock
 LKQ,US,LKQ Corporation Common Stock,NASDAQ,stock
 LKSP,US,Lake Superior Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
 LKSPR,US,Lake Superior Acquisition Corp. Rights,NASDAQ,stock
-LKSPU,US,Lake Superior Acquisition Corp. Units,NASDAQ,stock
 LLYVA,US,Liberty Live Holdings Inc. Series A Liberty Live Group Common Stock,NASDAQ,stock
 LLYVK,US,Liberty Live Holdings Inc. Series C Liberty Live Group Common Stock,NASDAQ,stock
 LMAT,US,LeMaitre Vascular Inc. Common Stock,NASDAQ,stock
@@ -2184,11 +2154,12 @@ LOT,US,Lotus Technology Inc. American Depositary Shares,NASDAQ,stock
 LOVE,US,The Lovesac Company Common Stock,NASDAQ,stock
 LOVIU,US,Live Oak Acquisition Corp. VI Units,NASDAQ,stock
 LPAA,US,Launch One Acquisition Corp. Class A Ordinary shares,NASDAQ,stock
+LPAAU,US,Launch One Acquisition Corp. Unit,NASDAQ,stock
 LPBB,US,Launch Two Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
-LPBBU,US,Launch Two Acquisition Corp. Unit,NASDAQ,stock
+LPBBW,US,Launch Two Acquisition Corp. Warrant,NASDAQ,stock
 LPCN,US,Lipocine Inc. Common Stock,NASDAQ,stock
 LPCV,US,Launchpad Cadenza Acquisition Corp I Class A Ordinary Share,NASDAQ,stock
-LPCVW,US,Launchpad Cadenza Acquisition Corp I Warrant,NASDAQ,stock
+LPCVU,US,Launchpad Cadenza Acquisition Corp I Unit,NASDAQ,stock
 LPLA,US,LPL Financial Holdings Inc. Common Stock,NASDAQ,stock
 LPTH,US,LightPath Technologies Inc. Class A Common Stock,NASDAQ,stock
 LQDA,US,Liquidia Corporation Common Stock,NASDAQ,stock
@@ -2234,6 +2205,7 @@ LZ,US,LegalZoom.com Inc. Common Stock,NASDAQ,stock
 LZMH,US,LZ Technology Holdings Limited Class B Ordinary Shares,NASDAQ,stock
 MAAS,US,Maase Inc. Class A Ordinary Shares,NASDAQ,stock
 MACI,US,Melar Acquisition Corp. I Class A Ordinary Shares,NASDAQ,stock
+MACIW,US,Melar Acquisition Corp. I Warrant,NASDAQ,stock
 MAKO,US,Mako Mining Corp Common Stock,NASDAQ,stock
 MAMA,US,Mama's Creations Inc. Common Stock,NASDAQ,stock
 MAMO,US,Massimo Group Common Stock,NASDAQ,stock
@@ -2262,15 +2234,14 @@ MBOT,US,Microbot Medical Inc. Common Stock,NASDAQ,stock
 MBRX,US,Moleculin Biotech Inc. Common Stock,NASDAQ,stock
 MBUU,US,Malibu Boats Inc. Class A Common Stock,NASDAQ,stock
 MBVI,US,M3-Brigade Acquisition VI Corp. Class A Ordinary Shares,NASDAQ,stock
+MBVIW,US,M3-Brigade Acquisition VI Corp. Warrant,NASDAQ,stock
 MBWM,US,Mercantile Bank Corporation Common Stock,NASDAQ,stock
 MBX,US,MBX Biosciences Inc. Common Stock,NASDAQ,stock
 MCAH,US,Mountain Crest Acquisition 6 Corp. Ordinary Shares,NASDAQ,stock
-MCAHR,US,Mountain Crest Acquisition 6 Corp. Rights,NASDAQ,stock
 MCAHU,US,Mountain Crest Acquisition 6 Corp. Units,NASDAQ,stock
 MCBS,US,MetroCity Bankshares Inc. Common Stock,NASDAQ,stock
 MCFT,US,MasterCraft Boat Holdings Inc. Common Stock,NASDAQ,stock
 MCGA,US,Yorkville Acquisition Corp. Class A Ordinary Share,NASDAQ,stock
-MCGAU,US,Yorkville Acquisition Corp. Unit,NASDAQ,stock
 MCGAW,US,Yorkville Acquisition Corp. Warrant,NASDAQ,stock
 MCHB,US,Mechanics Bancorp Class A Common Stock,NASDAQ,stock
 MCHP,US,Microchip Technology Incorporated Common Stock,NASDAQ,stock
@@ -2279,11 +2250,9 @@ MCHX,US,Marchex Inc. Class B Common Stock,NASDAQ,stock
 MCRB,US,Seres Therapeutics Inc. Common Stock,NASDAQ,stock
 MCRI,US,Monarch Casino & Resort Inc. Common Stock,NASDAQ,stock
 MDAI,US,Spectral AI Inc. Class A Common Stock,NASDAQ,stock
-MDAIW,US,Spectral AI Inc. Warrants,NASDAQ,stock
 MDB,US,MongoDB Inc. Class A Common Stock,NASDAQ,stock
 MDBH,US,MDB Capital Holdings LLC Class A common,NASDAQ,stock
 MDCX,US,Medicus Pharma Ltd. Common Stock,NASDAQ,stock
-MDCXW,US,Medicus Pharma Ltd. Warrant,NASDAQ,stock
 MDGL,US,Madrigal Pharmaceuticals Inc. Common Stock,NASDAQ,stock
 MDIA,US,Mediaco Holding Inc. Class A Common Stock,NASDAQ,stock
 MDLN,US,Medline Inc. Class A Common Stock,NASDAQ,stock
@@ -2308,8 +2277,6 @@ METCB,US,Ramaco Resources Inc. Class B Common Stock,NASDAQ,stock
 METCI,US,Ramaco Resources Inc. 8.250% Senior Notes due 2030,NASDAQ,stock
 METCZ,US,Ramaco Resources Inc. 8.375% Senior Notes due 2029,NASDAQ,stock
 MEVO,US,M Evo Global Acquisition Corp II Class A Ordinary Shares,NASDAQ,stock
-MEVOU,US,M Evo Global Acquisition Corp II Units,NASDAQ,stock
-MEVOW,US,M Evo Global Acquisition Corp II Warrants,NASDAQ,stock
 MF,US,MindForge Inc. Class A Ordinary Shares,NASDAQ,stock
 MFI,US,mF International Limited Class A Ordinary Shares,NASDAQ,stock
 MFIC,US,MidCap Financial Investment Corporation Common Stock,NASDAQ,stock
@@ -2329,7 +2296,6 @@ MGTX,US,MeiraGTx Holdings plc Ordinary Shares,NASDAQ,stock
 MGX,US,Metagenomi Therapeutics Inc. Common Stock,NASDAQ,stock
 MGYR,US,Magyar Bancorp Inc. Common Stock,NASDAQ,stock
 MIAC,US,Meridian3 Industrials Acquisition Corp Class A Ordinary Shares,NASDAQ,stock
-MIACW,US,Meridian3 Industrials Acquisition Corp Warrant,NASDAQ,stock
 MIDD,US,Middleby Corporation (The) Common Stock,NASDAQ,stock
 MIMI,US,Mint Incorporation Limited Class A Ordinary Shares,NASDAQ,stock
 MIND,US,MIND Technology Inc. Common Stock (DE),NASDAQ,stock
@@ -2339,7 +2305,6 @@ MIST,US,Milestone Pharmaceuticals Inc. Common Shares,NASDAQ,stock
 MITK,US,Mitek Systems Inc. Common Stock,NASDAQ,stock
 MKDW,US,MKDWELL Tech Inc. Ordinary Share,NASDAQ,stock
 MKLY,US,McKinley Acquisition Corporation Class A Ordinary Shares,NASDAQ,stock
-MKLYR,US,McKinley Acquisition Corporation Rights,NASDAQ,stock
 MKSI,US,MKS Inc. Common Stock,NASDAQ,stock
 MKTW,US,MarketWise Inc. Class A Common Stock,NASDAQ,stock
 MKTX,US,MarketAxess Holdings Inc. Common Stock,NASDAQ,stock
@@ -2360,6 +2325,7 @@ MMED,US,MiniMed Group Inc. Common Stock,NASDAQ,stock
 MMLP,US,Martin Midstream Partners L.P. Limited Partnership,NASDAQ,stock
 MMSI,US,Merit Medical Systems Inc. Common Stock,NASDAQ,stock
 MMTX,US,Miluna Acquisition Corp Class A Ordinary Share,NASDAQ,stock
+MMTXW,US,Miluna Acquisition Corp Warrant,NASDAQ,stock
 MMYT,US,MakeMyTrip Limited Ordinary Shares,NASDAQ,stock
 MNDO,US,MIND C.T.I. Ltd. Ordinary Shares,NASDAQ,stock
 MNDR,US,Mobile-health Network Solutions Class A Ordinary Shares,NASDAQ,stock
@@ -2374,6 +2340,7 @@ MNST,US,Monster Beverage Corporation,NASDAQ,stock
 MNTK,US,Montauk Renewables Inc. Common Stock,NASDAQ,stock
 MNTS,US,Momentus Inc. Class A Common Stock,NASDAQ,stock
 MNY,US,MoneyHero Limited Class A Ordinary Shares,NASDAQ,stock
+MNYWW,US,MoneyHero Limited Warrants,NASDAQ,stock
 MOB,US,Mobilicom Limited Ordinary Shares,NASDAQ,stock
 MOBBW,US,Mobilicom Limited Warrants,NASDAQ,stock
 MOBI,US,Mobia Medical Inc. Common Stock,NASDAQ,stock
@@ -2393,7 +2360,6 @@ MRAM,US,Everspin Technologies Inc. Common Stock,NASDAQ,stock
 MRBK,US,Meridian Corporation Common Stock,NASDAQ,stock
 MRCO,US,Mercator Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
 MRCOU,US,Mercator Acquisition Corp. Units,NASDAQ,stock
-MRCOW,US,Mercator Acquisition Corp. Warrant,NASDAQ,stock
 MRCY,US,Mercury Systems Inc Common Stock,NASDAQ,stock
 MRDN,US,Meridian Holdings Inc. Common Stock,NASDAQ,stock
 MREO,US,Mereo BioPharma Group plc American Depositary Shares,NASDAQ,stock
@@ -2408,7 +2374,6 @@ MRVI,US,Maravai LifeSciences Holdings Inc. Class A Common Stock,NASDAQ,stock
 MRVL,US,Marvell Technology Inc. Common Stock,NASDAQ,stock
 MRX,US,Marex Group Limited Ordinary Shares,NASDAQ,stock
 MSAI,US,MultiSensor AI Holdings Inc. Common Stock,NASDAQ,stock
-MSAIW,US,MultiSensor AI Holdings Inc. Warrant,NASDAQ,stock
 MSBI,US,Midland States Bancorp Inc. Common Stock,NASDAQ,stock
 MSBIP,US,Midland States Bancorp Inc. Depositary Shares Each Representing a 1/40th Interest in a Share of 7.750% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock Series A,NASDAQ,stock
 MSEX,US,Middlesex Water Company Common Stock,NASDAQ,stock
@@ -2419,11 +2384,11 @@ MSLE,US,Satellos Bioscience Inc. Common Stock,NASDAQ,stock
 MSS,US,Maison Solutions Inc. Class A Common Stock,NASDAQ,stock
 MSTR,US,Strategy Inc Common Stock Class A,NASDAQ,stock
 MTAK,US,Market Technology Acquisition Corp Class A Ordinary Shares,NASDAQ,stock
+MTAKU,US,Market Technology Acquisition Corp Unit,NASDAQ,stock
 MTAKW,US,Market Technology Acquisition Corp Warrants,NASDAQ,stock
 MTC,US,MMTec Inc. Common Shares,NASDAQ,stock
 MTCH,US,Match Group Inc. Common Stock,NASDAQ,stock
 MTEK,US,Maris-Tech Ltd. Ordinary Shares,NASDAQ,stock
-MTEKW,US,Maris-Tech Ltd. Warrants,NASDAQ,stock
 MTEN,US,Mingteng International Corporation Inc. Class A Ordinary Shares,NASDAQ,stock
 MTEX,US,Mannatech Incorporated Common Stock,NASDAQ,stock
 MTLS,US,Materialise NV American Depositary Shares,NASDAQ,stock
@@ -2432,7 +2397,6 @@ MTSI,US,MACOM Technology Solutions Holdings Inc. Common Stock,NASDAQ,stock
 MTVA,US,MetaVia Inc. Common Stock,NASDAQ,stock
 MU,US,Micron Technology Inc. Common Stock,NASDAQ,stock
 MUZE,US,Muzero Acquisition Corp Class A Ordinary Shares,NASDAQ,stock
-MUZEU,US,Muzero Acquisition Corp Unit,NASDAQ,stock
 MUZEW,US,Muzero Acquisition Corp Warrant,NASDAQ,stock
 MVBF,US,MVB Financial Corp. Common Stock,NASDAQ,stock
 MVIS,US,MicroVision Inc. Common Stock,NASDAQ,stock
@@ -2460,7 +2424,6 @@ NAMI,US,Jinxin Technology Holding Company American Depositary Shares,NASDAQ,stoc
 NAMM,US,Namib Minerals Ordinary Shares,NASDAQ,stock
 NAMMW,US,Namib Minerals Warrants,NASDAQ,stock
 NAMS,US,NewAmsterdam Pharma Company N.V. Ordinary Shares,NASDAQ,stock
-NAMSW,US,NewAmsterdam Pharma Company N.V. Warrant,NASDAQ,stock
 NATH,US,Nathan's Famous Inc. Common Stock,NASDAQ,stock
 NATR,US,Nature's Sunshine Products Inc. Common Stock,NASDAQ,stock
 NAUT,US,Nautilus Biotechnology Inc. Common Stock,NASDAQ,stock
@@ -2482,10 +2445,7 @@ NCMI,US,National CineMedia Inc. Common Stock,NASDAQ,stock
 NCNA,US,NuCana plc American Depositary Share,NASDAQ,stock
 NCNO,US,nCino Inc. Common Stock,NASDAQ,stock
 NCO,US,Southern Cross Acquisition I Corp. Ordinary Shares,NASDAQ,stock
-NCOOR,US,Southern Cross Acquisition I Corp. Rights,NASDAQ,stock
-NCOOU,US,Southern Cross Acquisition I Corp. Units,NASDAQ,stock
 NCPL,US,Netcapital Inc. Common Stock,NASDAQ,stock
-NCPLW,US,Netcapital Inc. Warrants,NASDAQ,stock
 NCRA,US,Nocera Inc. Common Stock,NASDAQ,stock
 NCT,US,Intercont (Cayman) Limited Class A Ordinary shares,NASDAQ,stock
 NCTY,US,The9 Limited American Depository Shares,NASDAQ,stock
@@ -2513,6 +2473,7 @@ NEWTP,US,NewtekOne Inc. Depositary Shares Non-Cumulative Perpetual Preferred Sto
 NEXM,US,NexMetals Mining Corp. Common Shares,NASDAQ,stock
 NEXN,US,Nexxen International Ltd. Ordinary Shares,NASDAQ,stock
 NEXR,US,Nexera Technologies Ltd Ordinary Shares,NASDAQ,stock
+NEXRW,US,Nexera Technologies Ltd Warrant,NASDAQ,stock
 NEXT,US,NextDecade Corporation Common Stock,NASDAQ,stock
 NFE,US,New Fortress Energy Inc. Class A Common Stock,NASDAQ,stock
 NFEGP,US,New Fortress Energy Inc. Series A Mandatorily Convertible Preferred Stock,NASDAQ,stock
@@ -2520,7 +2481,7 @@ NFLX,US,Netflix Inc. Common Stock,NASDAQ,stock
 NGEN,US,NervGen Pharma Corp. Common stock,NASDAQ,stock
 NGNE,US,Neurogene Inc. Common Stock,NASDAQ,stock
 NHIV,US,NewHold Investment Corp IV Class A Ordinary Shares,NASDAQ,stock
-NHIVW,US,NewHold Investment Corp IV Warrants,NASDAQ,stock
+NHIVU,US,NewHold Investment Corp IV Units,NASDAQ,stock
 NHP,US,National Healthcare Properties Inc. Class A Common Stock,NASDAQ,stock
 NHPBP,US,National Healthcare Properties Inc. 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock,NASDAQ,stock
 NHTC,US,Natural Health Trends Corp. Common Stock,NASDAQ,stock
@@ -2554,7 +2515,6 @@ NNNN,US,Anbio Biotechnology Class A Ordinary Shares,NASDAQ,stock
 NNOX,US,NANO-X IMAGING LTD Ordinary Shares,NASDAQ,stock
 NODK,US,NI Holdings Inc. Common Stock,NASDAQ,stock
 NOEM,US,CO2 Energy Transition Corp. Common Stock,NASDAQ,stock
-NOEMR,US,CO2 Energy Transition Corp. Right,NASDAQ,stock
 NOEMU,US,CO2 Energy Transition Corp. Unit,NASDAQ,stock
 NOEMW,US,CO2 Energy Transition Corp. Warrant,NASDAQ,stock
 NOMA,US,NOMADAR Corp. Class A Common Stock,NASDAQ,stock
@@ -2562,6 +2522,7 @@ NOVT,US,Novanta Inc. Common Stock,NASDAQ,stock
 NOVTU,US,Novanta Inc. Tangible Equity Units,NASDAQ,stock
 NPAC,US,New Providence Acquisition Corp. III Class A Ordinary Shares,NASDAQ,stock
 NPACU,US,New Providence Acquisition Corp. III Units,NASDAQ,stock
+NPACW,US,New Providence Acquisition Corp. III Warrants,NASDAQ,stock
 NPCE,US,Neuropace Inc. Common Stock,NASDAQ,stock
 NPT,US,Texxon Holding Limited Ordinary shares,NASDAQ,stock
 NRC,US,NRC Health Common Stock,NASDAQ,stock
@@ -2572,7 +2533,6 @@ NRSN,US,NeuroSense Therapeutics Ltd. Ordinary Shares,NASDAQ,stock
 NRSNW,US,NeuroSense Therapeutics Ltd. Warrant,NASDAQ,stock
 NRXP,US,NRX Pharmaceuticals Inc. Common Stock,NASDAQ,stock
 NSAI,US,NorthStrive Acquisition Corp I. Class A Ordinary Shares,NASDAQ,stock
-NSAIR,US,NorthStrive Acquisition Corp I. Rights,NASDAQ,stock
 NSAIU,US,NorthStrive Acquisition Corp I. Units,NASDAQ,stock
 NSAIW,US,NorthStrive Acquisition Corp I. Warrants,NASDAQ,stock
 NSIT,US,Insight Enterprises Inc. Common Stock,NASDAQ,stock
@@ -2613,7 +2573,6 @@ NVDA,US,NVIDIA Corporation Common Stock,NASDAQ,stock
 NVEC,US,NVE Corporation Common Stock,NASDAQ,stock
 NVMI,US,Nova Ltd. Ordinary Shares,NASDAQ,stock
 NVNI,US,Nvni Group Limited Ordinary Shares,NASDAQ,stock
-NVNIW,US,Nvni Group Limited Warrants,NASDAQ,stock
 NVNO,US,enVVeno Medical Corporation Common Stock,NASDAQ,stock
 NVTS,US,Navitas Semiconductor Corporation Common Stock,NASDAQ,stock
 NVX,US,NOVONIX Limited American Depository Shares,NASDAQ,stock
@@ -2646,9 +2605,11 @@ NYXH,US,Nyxoah SA Ordinary Shares,NASDAQ,stock
 OABI,US,OmniAb Inc. Common Stock,NASDAQ,stock
 OABIW,US,OmniAb Inc. Warrant,NASDAQ,stock
 OACC,US,Oaktree Acquisition Corp. III Life Sciences Class A Ordinary Share,NASDAQ,stock
+OACCU,US,Oaktree Acquisition Corp. III Life Sciences Unit,NASDAQ,stock
 OACCW,US,Oaktree Acquisition Corp. III Life Sciences Warrant,NASDAQ,stock
 OBA,US,Oxley Bridge Acquisition Limited Class A Ordinary Shares,NASDAQ,stock
 OBAI,US,Our Bond Inc. Common Stock,NASDAQ,stock
+OBAWW,US,Oxley Bridge Acquisition Limited Warrants,NASDAQ,stock
 OBIO,US,Orchestra BioMed Holdings Inc. Ordinary Shares,NASDAQ,stock
 OBT,US,Orange County Bancorp Inc. Common Stock,NASDAQ,stock
 OBX,US,Obsidian Therapeutics Inc. Common Stock,NASDAQ,stock
@@ -2661,7 +2622,6 @@ OCG,US,Oriental Culture Holding LTD Ordinary Shares,NASDAQ,stock
 OCGN,US,Ocugen Inc. Common Stock,NASDAQ,stock
 OCLT,US,OceanLight Acquisition Corporation Ordinary Shares,NASDAQ,stock
 OCLTU,US,OceanLight Acquisition Corporation Units,NASDAQ,stock
-OCLTW,US,OceanLight Acquisition Corporation Warrants,NASDAQ,stock
 OCS,US,Oculis Holding AG Ordinary shares,NASDAQ,stock
 OCSAW,US,Oculis Holding AG Warrants,NASDAQ,stock
 OCSL,US,Oaktree Specialty Lending Corporation Common Stock,NASDAQ,stock
@@ -2678,6 +2638,7 @@ OFLX,US,Omega Flex Inc. Common Stock,NASDAQ,stock
 OFS,US,OFS Capital Corporation Common Stock,NASDAQ,stock
 OFSSH,US,OFS Capital Corporation 4.95% Notes due 2028,NASDAQ,stock
 OFSSO,US,OFS Capital Corporation 7.50% Notes due 2028,NASDAQ,stock
+OGGWZ,US,Osisko Gold Group Inc. Warrant expiring 5/27/2027,NASDAQ,stock
 OGI,US,Organigram Global Inc. Common Shares,NASDAQ,stock
 OHAC,US,Oceanhawk Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
 OHACU,US,Oceanhawk Acquisition Corp. Units,NASDAQ,stock
@@ -2707,6 +2668,8 @@ ONBPO,US,Old National Bancorp Depositary Shares Each Representing a 1/40th Inter
 ONBPP,US,Old National Bancorp Depositary Shares Each Representing a 1/40th Interest in a Share of Series A Preferred Stock,NASDAQ,stock
 ONC,US,BeOne Medicines Ltd. American Depositary Shares,NASDAQ,stock
 ONCH,US,1RT Acquisition Corp. Class A Ordinary Share,NASDAQ,stock
+ONCHU,US,1RT Acquisition Corp. Units,NASDAQ,stock
+ONCHW,US,1RT Acquisition Corp. Warrant,NASDAQ,stock
 ONCO,US,Onconetix Inc. Common Stock,NASDAQ,stock
 ONCY,US,Oncolytics Biotech Inc. Common Stock,NASDAQ,stock
 ONDS,US,Ondas Inc. Common Stock,NASDAQ,stock
@@ -2741,6 +2704,7 @@ ORIC,US,Oric Pharmaceuticals Inc. Common Stock,NASDAQ,stock
 ORIO,US,Orion Digital Corp. Common Shares,NASDAQ,stock
 ORIQ,US,Origin Investment Corp I Ordinary Shares,NASDAQ,stock
 ORIQU,US,Origin Investment Corp I Units,NASDAQ,stock
+ORIQW,US,Origin Investment Corp I Warrant.,NASDAQ,stock
 ORKA,US,Oruka Therapeutics Inc. Common Stock,NASDAQ,stock
 ORKT,US,Orangekloud Technology Inc. Class A Ordinary Shares,NASDAQ,stock
 ORLY,US,O'Reilly Automotive Inc. Common Stock,NASDAQ,stock
@@ -2751,13 +2715,11 @@ OSIS,US,OSI Systems Inc. Common Stock (DE),NASDAQ,stock
 OSPN,US,OneSpan Inc. Common Stock,NASDAQ,stock
 OSPR,US,Osprey Acquisition Corp. III Class A Ordinary Shares,NASDAQ,stock
 OSPRU,US,Osprey Acquisition Corp. III Units,NASDAQ,stock
-OSPRW,US,Osprey Acquisition Corp. III Warrants,NASDAQ,stock
 OSS,US,One Stop Systems Inc. Common Stock,NASDAQ,stock
 OSUR,US,OraSure Technologies Inc. Common Stock,NASDAQ,stock
 OSW,US,OneSpaWorld Holdings Limited Common Shares,NASDAQ,stock
 OTEX,US,Open Text Corporation Common Shares,NASDAQ,stock
 OTGA,US,OTG Acquisition Corp. I Class A Ordinary Share,NASDAQ,stock
-OTGAU,US,OTG Acquisition Corp. I Unit,NASDAQ,stock
 OTLK,US,Outlook Therapeutics Inc. Common Stock,NASDAQ,stock
 OTLY,US,Oatly Group AB American Depositary Shares,NASDAQ,stock
 OTTR,US,Otter Tail Corporation Common Stock,NASDAQ,stock
@@ -2785,17 +2747,16 @@ OZK,US,Bank OZK Common Stock,NASDAQ,stock
 OZKAP,US,Bank OZK 4.625% Series A Non-Cumulative Perpetual Preferred Stock,NASDAQ,stock
 PAA,US,Plains All American Pipeline L.P. Common Units representing Limited Partner Interests,NASDAQ,stock
 PAAC,US,Proem Acquisition Corp I Ordinary Shares,NASDAQ,stock
+PAACU,US,Proem Acquisition Corp I Units,NASDAQ,stock
 PAACW,US,Proem Acquisition Corp I Warrants,NASDAQ,stock
 PACB,US,Pacific Biosciences of California Inc. Common Stock,NASDAQ,stock
 PACH,US,Pioneer Acquisition I Corp Class A Ordinary Shares,NASDAQ,stock
-PACHU,US,Pioneer Acquisition I Corp Units,NASDAQ,stock
 PACHW,US,Pioneer Acquisition I Corp Warrants,NASDAQ,stock
 PAGP,US,Plains GP Holdings L.P. Class A Units representing Limited Partner Interests,NASDAQ,stock
 PAHC,US,Phibro Animal Health Corporation Class A Common Stock,NASDAQ,stock
 PAL,US,Proficient Auto Logistics Inc. Common Stock,NASDAQ,stock
 PALI,US,Palisade Bio Inc. Common Stock,NASDAQ,stock
 PALO,US,Paloma Acquisition Corp I Class A Ordinary Shares,NASDAQ,stock
-PALOW,US,Paloma Acquisition Corp I Warrants,NASDAQ,stock
 PAMT,US,PAMT CORP Common Stock,NASDAQ,stock
 PANL,US,Pangaea Logistics Solutions Ltd. Common Shares,NASDAQ,stock
 PANW,US,Palo Alto Networks Inc. Common Stock,NASDAQ,stock
@@ -2818,18 +2779,15 @@ PBHC,US,Pathfinder Bancorp Inc. Common Stock (MD),NASDAQ,stock
 PBK,US,PowerBank Corporation Common Stock,NASDAQ,stock
 PBLS,US,Parabilis Medicines Inc. Common Stock,NASDAQ,stock
 PBM,US,Psyence Biomedical Ltd. Common Shares,NASDAQ,stock
-PBMWW,US,Psyence Biomedical Ltd. Warrant,NASDAQ,stock
 PBYI,US,Puma Biotechnology Inc Common Stock,NASDAQ,stock
 PCAP,US,ProCap Acquisition Corp Class A Ordinary Shares,NASDAQ,stock
 PCAPU,US,ProCap Acquisition Corp Unit,NASDAQ,stock
-PCAPW,US,ProCap Acquisition Corp Warrant,NASDAQ,stock
 PCAR,US,PACCAR Inc. Common Stock,NASDAQ,stock
 PCB,US,PCB Bancorp Common Stock,NASDAQ,stock
 PCLA,US,PicoCELA Inc. American Depositary Shares,NASDAQ,stock
 PCRX,US,Pacira BioSciences Inc. Common Stock,NASDAQ,stock
 PCSA,US,Processa Pharmaceuticals Inc. Common Stock,NASDAQ,stock
 PCT,US,PureCycle Technologies Inc. Common stock,NASDAQ,stock
-PCTTU,US,PureCycle Technologies Inc. Unit,NASDAQ,stock
 PCTTW,US,PureCycle Technologies Inc. Warrant,NASDAQ,stock
 PCTY,US,Paylocity Holding Corporation Common Stock,NASDAQ,stock
 PCVX,US,Vaxcyte Inc. Common Stock,NASDAQ,stock
@@ -2844,6 +2802,7 @@ PDYN,US,Palladyne AI Corp. Common Stock,NASDAQ,stock
 PEBK,US,Peoples Bancorp of North Carolina Inc. Common Stock,NASDAQ,stock
 PEBO,US,Peoples Bancorp Inc. Common Stock,NASDAQ,stock
 PECE,US,Peace Acquisition Corp Ordinary Shares,NASDAQ,stock
+PECEU,US,Peace Acquisition Corp Units,NASDAQ,stock
 PECO,US,Phillips Edison & Company Inc. Common Stock,NASDAQ,stock
 PEGA,US,Pegasystems Inc. Common Stock,NASDAQ,stock
 PENG,US,Penguin Solutions Inc. Common Stock,NASDAQ,stock
@@ -2889,6 +2848,7 @@ PLBY,US,Playboy Inc. Common Stock,NASDAQ,stock
 PLCE,US,Children's Place Inc. (The) Common Stock,NASDAQ,stock
 PLCI,US,Pelican Acquisition II Corporation Ordinary Shares,NASDAQ,stock
 PLMK,US,Plum Acquisition Corp. IV Class A Ordinary Shares,NASDAQ,stock
+PLMKW,US,Plum Acquisition Corp. IV Warrants,NASDAQ,stock
 PLMR,US,Palomar Holdings Inc. Common stock,NASDAQ,stock
 PLPC,US,Preformed Line Products Company Common Stock,NASDAQ,stock
 PLRX,US,Pliant Therapeutics Inc. Common Stock,NASDAQ,stock
@@ -2910,7 +2870,6 @@ PMEC,US,Primech Holdings Ltd. Ordinary Shares,NASDAQ,stock
 PMN,US,ProMIS Neurosciences Inc. Common Shares (ON),NASDAQ,stock
 PMTR,US,Perimeter Acquisition Corp. I Class A Ordinary Shares,NASDAQ,stock
 PMTRU,US,Perimeter Acquisition Corp. I Unit,NASDAQ,stock
-PMTRW,US,Perimeter Acquisition Corp. I Warrant,NASDAQ,stock
 PMTS,US,CPI Card Group Inc. Common Stock,NASDAQ,stock
 PMVP,US,PMV Pharmaceuticals Inc. Common Stock,NASDAQ,stock
 PN,US,PN Smart Energy Limited Class A Ordinary Shares,NASDAQ,stock
@@ -2923,6 +2882,8 @@ PODD,US,Insulet Corporation Common Stock,NASDAQ,stock
 POET,US,POET Technologies Inc. Common Shares,NASDAQ,stock
 POLA,US,Polar Power Inc. Common Stock,NASDAQ,stock
 POLE,US,Andretti Acquisition Corp. II Class A Ordinary Shares,NASDAQ,stock
+POLEU,US,Andretti Acquisition Corp. II Unit,NASDAQ,stock
+POLEW,US,Andretti Acquisition Corp. II Warrant,NASDAQ,stock
 POM,US,POMDOCTOR LIMITED American Depositary Shares,NASDAQ,stock
 PONO,US,Pono Capital Four Inc. Class A Ordinary Shares,NASDAQ,stock
 PONY,US,Pony AI Inc. American Depositary Shares,NASDAQ,stock
@@ -2945,6 +2906,7 @@ PRCH,US,Porch Group Inc. Common Stock,NASDAQ,stock
 PRCT,US,PROCEPT BioRobotics Corporation Common Stock,NASDAQ,stock
 PRDO,US,Perdoceo Education Corporation Common Stock,NASDAQ,stock
 PRE,US,Prenetics Global Limited Class A Ordinary Share,NASDAQ,stock
+PRENW,US,Prenetics Global Limited Warrant,NASDAQ,stock
 PRFX,US,PRF Technologies Ltd. Ordinary Shares,NASDAQ,stock
 PRGS,US,Progress Software Corporation Common Stock (DE),NASDAQ,stock
 PRHI,US,Presurance Holdings Inc. Common Stock,NASDAQ,stock
@@ -2976,7 +2938,6 @@ PSNYW,US,Polestar Automotive Holding UK PLC Class C-1 ADS (ADW),NASDAQ,stock
 PSQL,US,Pasqal Holding SA Ordinary Share,NASDAQ,stock
 PSQLW,US,Pasqal Holding SA Warrant,NASDAQ,stock
 PTAC,US,Patriot Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
-PTACU,US,Patriot Acquisition Corp. Units,NASDAQ,stock
 PTACW,US,Patriot Acquisition Corp. Warrants,NASDAQ,stock
 PTC,US,PTC Inc. Common Stock,NASDAQ,stock
 PTCT,US,PTC Therapeutics Inc. Common Stock,NASDAQ,stock
@@ -2987,7 +2948,6 @@ PTLO,US,Portillo's Inc. Class A Common Stock,NASDAQ,stock
 PTN,US,Palatin Technologies Inc. Common Stock,NASDAQ,stock
 PTON,US,Peloton Interactive Inc. Class A Common Stock,NASDAQ,stock
 PTOR,US,Praetorian Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
-PTORU,US,Praetorian Acquisition Corp. Units,NASDAQ,stock
 PTORW,US,Praetorian Acquisition Corp. Warrant,NASDAQ,stock
 PTRN,US,Pattern Group Inc. Series A Common Stock,NASDAQ,stock
 PUBM,US,PubMatic Inc. Class A Common Stock,NASDAQ,stock
@@ -3005,14 +2965,13 @@ PYPL,US,PayPal Holdings Inc. Common Stock,NASDAQ,stock
 PYXS,US,Pyxis Oncology Inc. Common Stock,NASDAQ,stock
 PZZA,US,Papa John's International Inc. Common Stock,NASDAQ,stock
 QADR,US,QDRO Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
-QADRW,US,QDRO Acquisition Corp. Warrant,NASDAQ,stock
 QBTS,US,D-Wave Quantum Inc. Common Stock,NASDAQ,stock
 QCLS,US,Q/C Technologies Inc. Common Stock,NASDAQ,stock
 QCOM,US,QUALCOMM Incorporated Common Stock,NASDAQ,stock
 QCRH,US,QCR Holdings Inc. Common Stock,NASDAQ,stock
 QDEL,US,QuidelOrtho Corporation Common Stock,NASDAQ,stock
 QETA,US,Quetta Acquisition Corporation Common Stock,NASDAQ,stock
-QETAU,US,Quetta Acquisition Corporation Unit,NASDAQ,stock
+QETAR,US,Quetta Acquisition Corporation Right,NASDAQ,stock
 QFIN,US,Qfin Holdings Inc. American Depositary Shares,NASDAQ,stock
 QH,US,Quhuo Limited Class A Ordinary Shares,NASDAQ,stock
 QLYS,US,Qualys Inc. Common Stock,NASDAQ,stock
@@ -3030,7 +2989,6 @@ QRHC,US,Quest Resource Holding Corporation Common Stock,NASDAQ,stock
 QRVO,US,Qorvo Inc. Common Stock,NASDAQ,stock
 QS,US,QuantumScape Corporation Class A Common Stock,NASDAQ,stock
 QSEA,US,Quartzsea Acquisition Corporation Ordinary Shares,NASDAQ,stock
-QSEAR,US,Quartzsea Acquisition Corporation Rights,NASDAQ,stock
 QSI,US,Quantum-Si Incorporated Class A Common Stock,NASDAQ,stock
 QTEX,US,QTREX Quantum Ltd. Ordinary Shares,NASDAQ,stock
 QTI,US,QT Imaging Holdings Inc. Common Stock,NASDAQ,stock
@@ -3040,7 +2998,6 @@ QUBT,US,Quantum Computing Inc. Common Stock,NASDAQ,stock
 QUCY,US,Quantum Cyber N.V. Ordinary Shares,NASDAQ,stock
 QUIK,US,QuickLogic Corporation Common Stock,NASDAQ,stock
 QUMS,US,Quantumsphere Acquisition Corp. Ordinary Shares,NASDAQ,stock
-QUMSR,US,Quantumsphere Acquisition Corp. Rights,NASDAQ,stock
 QURE,US,uniQure N.V. Ordinary Shares,NASDAQ,stock
 QVCG,US,QVC Group Inc. Common Stock,NASDAQ,stock
 QXL,US,Quantum X Labs Inc. Common Stock,NASDAQ,stock
@@ -3049,6 +3006,7 @@ RACD,US,Research Alliance Corporation IV Class A Ordinary Shares,NASDAQ,stock
 RADX,US,Radiopharm Theranostics Limited American Depositary Shares,NASDAQ,stock
 RAIL,US,FreightCar America Inc. Common Stock,NASDAQ,stock
 RAIN,US,Rain Enhancement Technologies Holdco Inc. Class A Common Stock,NASDAQ,stock
+RAINW,US,Rain Enhancement Technologies Holdco Inc. Warrants,NASDAQ,stock
 RAND,US,Rand Capital Corporation Common Stock,NASDAQ,stock
 RANG,US,Range Capital Acquisition Corp. Ordinary Shares,NASDAQ,stock
 RANGR,US,Range Capital Acquisition Corp. Rights,NASDAQ,stock
@@ -3108,9 +3066,7 @@ REVBW,US,Revelation Biosciences Inc. Warrant,NASDAQ,stock
 REYN,US,Reynolds Consumer Products Inc. Common Stock,NASDAQ,stock
 RFAI,US,RF Acquisition Corp II Ordinary Shares,NASDAQ,stock
 RFAIR,US,RF Acquisition Corp II Right,NASDAQ,stock
-RFAIU,US,RF Acquisition Corp II Unit,NASDAQ,stock
 RFAM,US,RF Acquisition Corp III Ordinary Shares,NASDAQ,stock
-RFAMR,US,RF Acquisition Corp III Rights,NASDAQ,stock
 RFIL,US,RF Industries Ltd. Common Stock,NASDAQ,stock
 RGC,US,Regencell Bioscience Holdings Limited Ordinary Shares,NASDAQ,stock
 RGCO,US,RGC Resources Inc. Common Stock,NASDAQ,stock
@@ -3146,6 +3102,7 @@ RMBI,US,Richmond Mutual Bancorporation Inc. Common Stock,NASDAQ,stock
 RMBS,US,Rambus Inc. Common Stock,NASDAQ,stock
 RMCF,US,Rocky Mountain Chocolate Factory Inc. Common Stock,NASDAQ,stock
 RMCO,US,Royalty Management Holding Corporation Class A Common Stock,NASDAQ,stock
+RMCOW,US,Royalty Management Holding Corporation Warrant,NASDAQ,stock
 RMIX,US,Suncrete Inc. Class A Common Stock,NASDAQ,stock
 RML,US,Resolution Minerals Ltd American Depositary Shares,NASDAQ,stock
 RMNI,US,Rimini Street Inc. (DE) Common Stock,NASDAQ,stock
@@ -3157,7 +3114,6 @@ RNA,US,Atrium Therapeutics Inc. Common Stock,NASDAQ,stock
 RNAC,US,Cartesian Therapeutics Inc. Common Stock,NASDAQ,stock
 RNAQ,US,Rainier Acquisition Corporation Class A Ordinary Shares,NASDAQ,stock
 RNAQU,US,Rainier Acquisition Corporation Units,NASDAQ,stock
-RNAQW,US,Rainier Acquisition Corporation Warrants,NASDAQ,stock
 RNAZ,US,TransCode Therapeutics Inc. Common Stock,NASDAQ,stock
 RNGT,US,Range Capital Acquisition Corp II Class A Ordinary Shares,NASDAQ,stock
 RNTX,US,Rein Therapeutics Inc. Common Stock,NASDAQ,stock
@@ -3229,6 +3185,7 @@ SAIC,US,Science Applications International Corporation Common Stock,NASDAQ,stock
 SAIH,US,SAIHEAT Limited Class A Ordinary Shares,NASDAQ,stock
 SAIHW,US,SAIHEAT Limited Warrant,NASDAQ,stock
 SAIL,US,SailPoint Inc. Common Stock,NASDAQ,stock
+SAIQ,US,WISeSat.Space Holdings Corp. Ordinary Shares,NASDAQ,stock
 SAMG,US,Silvercrest Asset Management Group Inc. Class A Common Stock,NASDAQ,stock
 SANA,US,Sana Biotechnology Inc. Common Stock,NASDAQ,stock
 SANG,US,Sangoma Technologies Corporation Common Shares,NASDAQ,stock
@@ -3243,6 +3200,7 @@ SBCWW,US,SBC Medical Group Holdings Incorporated Warrants,NASDAQ,stock
 SBET,US,Sharplink Inc. Common Stock,NASDAQ,stock
 SBFG,US,SB Financial Group Inc. Common Stock,NASDAQ,stock
 SBFM,US,Sunshine Biopharma Inc. Common Stock,NASDAQ,stock
+SBFMW,US,Sunshine Biopharma Inc. Warrant,NASDAQ,stock
 SBGI,US,Sinclair Inc. Class A Common Stock,NASDAQ,stock
 SBLK,US,Star Bulk Carriers Corp. Common Shares,NASDAQ,stock
 SBRA,US,Sabra Health Care REIT Inc. Common Stock,NASDAQ,stock
@@ -3269,11 +3227,10 @@ SCZM,US,Santacruz Silver Mining Ltd. Common Shares,NASDAQ,stock
 SDA,US,SunCar Technology Group Inc. Class A Ordinary Shares,NASDAQ,stock
 SDGR,US,Schrodinger Inc. Common Stock,NASDAQ,stock
 SDHI,US,Siddhi Acquisition Corp Class A Common stock,NASDAQ,stock
+SDHIR,US,Siddhi Acquisition Corp Right,NASDAQ,stock
 SDOT,US,Sadot Group Inc. Common Stock,NASDAQ,stock
 SDST,US,Stardust Power Inc. Common Stock,NASDAQ,stock
-SDSTW,US,Stardust Power Inc. Warrant,NASDAQ,stock
 SEAT,US,Vivid Seats Inc. Class A Common Stock,NASDAQ,stock
-SEATW,US,Vivid Seats Inc. Warrant,NASDAQ,stock
 SEDG,US,SolarEdge Technologies Inc. Common Stock,NASDAQ,stock
 SEED,US,Origin Agritech Limited Common Stock,NASDAQ,stock
 SEER,US,Seer Inc. Class A Common Stock,NASDAQ,stock
@@ -3323,6 +3280,7 @@ SHOO,US,Steven Madden Ltd. Common Stock,NASDAQ,stock
 SHOP,US,Shopify Inc. Class A Subordinate Voting Shares,NASDAQ,stock
 SHOT,US,RMG ML Sports Holdings Class A Ordinary Shares,NASDAQ,stock
 SHOTR,US,RMG ML Sports Holdings Rights,NASDAQ,stock
+SHOTU,US,RMG ML Sports Holdings Unit,NASDAQ,stock
 SHPH,US,Shuttle Pharmaceuticals Holdings Inc. Common Stock,NASDAQ,stock
 SIBN,US,SI-BONE Inc. Common Stock,NASDAQ,stock
 SIDU,US,Sidus Space Inc. Class A Common Stock,NASDAQ,stock
@@ -3335,7 +3293,6 @@ SILC,US,Silicom Ltd Ordinary Shares,NASDAQ,stock
 SILO,US,Silo Pharma Inc. Common Stock,NASDAQ,stock
 SIMA,US,SIM Acquisition Corp. I Class A Ordinary Shares,NASDAQ,stock
 SIMAU,US,SIM Acquisition Corp. I Unit,NASDAQ,stock
-SIMAW,US,SIM Acquisition Corp. I Warrant,NASDAQ,stock
 SIMO,US,Silicon Motion Technology Corporation American Depositary Shares,NASDAQ,stock
 SINT,US,SiNtx Technologies Inc. Common Stock,NASDAQ,stock
 SION,US,Sionna Therapeutics Inc. Common Stock,NASDAQ,stock
@@ -3404,7 +3361,7 @@ SNTI,US,Senti Biosciences Holdings Inc. Common Stock,NASDAQ,stock
 SNWV,US,SANUWAVE Health Inc. Common Stock,NASDAQ,stock
 SNY,US,Sanofi ADS,NASDAQ,stock
 SOCA,US,Solarius Capital Acquisition Corp. Class A Ordinary Share,NASDAQ,stock
-SOCAW,US,Solarius Capital Acquisition Corp. Warrant,NASDAQ,stock
+SOCAU,US,Solarius Capital Acquisition Corp. Units,NASDAQ,stock
 SOFI,US,SoFi Technologies Inc. Common Stock,NASDAQ,stock
 SOGP,US,Sound Group Inc. American Depositary Shares,NASDAQ,stock
 SOHU,US,Sohu.com Limited American Depositary Shares,NASDAQ,stock
@@ -3414,7 +3371,6 @@ SONO,US,Sonos Inc. Common Stock,NASDAQ,stock
 SOPH,US,SOPHiA GENETICS SA Ordinary Shares,NASDAQ,stock
 SORA,US,AsiaStrategy Ordinary Shares,NASDAQ,stock
 SORN,US,Soren Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
-SORNW,US,Soren Acquisition Corp. Warrant,NASDAQ,stock
 SOTK,US,Sono-Tek Corporation Common Stock,NASDAQ,stock
 SOUN,US,SoundHound AI Inc Class A Common Stock,NASDAQ,stock
 SOUNW,US,SoundHound AI Inc. Warrant,NASDAQ,stock
@@ -3453,12 +3409,10 @@ SRTA,US,Strata Critical Medical Inc. Class A Common Stock,NASDAQ,stock
 SRTS,US,Sensus Healthcare Inc. Common Stock,NASDAQ,stock
 SRZN,US,Surrozen Inc. Common Stock,NASDAQ,stock
 SSAC,US,SPACSphere Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
-SSACR,US,SPACSphere Acquisition Corp. Rights,NASDAQ,stock
 SSACU,US,SPACSphere Acquisition Corp. Unit,NASDAQ,stock
 SSACW,US,SPACSphere Acquisition Corp. Warrant,NASDAQ,stock
 SSBI,US,Summit State Bank Common Stock,NASDAQ,stock
 SSEA,US,Starry Sea Acquisition Corp	Ordinary Shares,NASDAQ,stock
-SSEAR,US,Starry Sea Acquisition Corp Rights,NASDAQ,stock
 SSII,US,SS Innovations International Inc. Common Stock,NASDAQ,stock
 SSM,US,Sono Group N.V. Ordinary Shares,NASDAQ,stock
 SSNC,US,SS&C Technologies Holdings Inc. Common Stock,NASDAQ,stock
@@ -3501,24 +3455,25 @@ SUGP,US,SU Group Holdings Limited Class A Ordinary Shares,NASDAQ,stock
 SUIG,US,Sui Group Holdings Limited Common Stock,NASDAQ,stock
 SUJA,US,Suja Life Inc. Class A Common Stock,NASDAQ,stock
 SUMA,US,SUMA Acquisition Corporation Class A Ordinary Shares,NASDAQ,stock
-SUMAR,US,SUMA Acquisition Corporation Rights,NASDAQ,stock
-SUMAU,US,SUMA Acquisition Corporation Units,NASDAQ,stock
 SUNE,US,SUNation Energy Inc. Common Stock,NASDAQ,stock
 SUNS,US,Sunrise Realty Trust Inc. Common Stock,NASDAQ,stock
 SUPN,US,Supernus Pharmaceuticals Inc. Common Stock,NASDAQ,stock
 SUPX,US,SuperX AI Technology Limited Ordinary Shares,NASDAQ,stock
 SURG,US,SurgePays Inc. Common Stock,NASDAQ,stock
 SVAQ,US,Silicon Valley Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
+SVAQU,US,Silicon Valley Acquisition Corp. Units,NASDAQ,stock
 SVAQW,US,Silicon Valley Acquisition Corp. Warrants,NASDAQ,stock
 SVC,US,Service Properties Trust Common Shares of Beneficial Interest,NASDAQ,stock
 SVCC,US,Stellar V Capital Corp. Class A Ordinary Shares,NASDAQ,stock
+SVCCU,US,Stellar V Capital Corp. Unit,NASDAQ,stock
 SVCO,US,Silvaco Group Inc. Common Stock,NASDAQ,stock
 SVIA,US,Silvia Inc. Common Stock,NASDAQ,stock
 SVIAW,US,Silvia Inc. Warrant,NASDAQ,stock
 SVIV,US,Spring Valley Acquisition Corp. IV Class A Ordinary Shares,NASDAQ,stock
-SVIVW,US,Spring Valley Acquisition Corp. IV Warrants,NASDAQ,stock
+SVIVU,US,Spring Valley Acquisition Corp. IV Units,NASDAQ,stock
 SVRA,US,Savara Inc. Common Stock,NASDAQ,stock
 SVRE,US,SaverOne 2014 Ltd. American Depositary Shares,NASDAQ,stock
+SVREW,US,SaverOne 2014 Ltd. Warrant,NASDAQ,stock
 SVRN,US,SVRN Inc. Common Stock,NASDAQ,stock
 SWAG,US,Stran & Company Inc. Common Stock,NASDAQ,stock
 SWAGW,US,Stran & Company Inc. Warrant,NASDAQ,stock
@@ -3542,7 +3497,7 @@ SYRE,US,Spyre Therapeutics Inc. Common Stock,NASDAQ,stock
 SZZL,US,Sizzle Acquisition Corp. II Class A ordinary shares,NASDAQ,stock
 SZZLR,US,Sizzle Acquisition Corp. II Right,NASDAQ,stock
 TACH,US,Titan Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
-TACHU,US,Titan Acquisition Corp. Units,NASDAQ,stock
+TACHW,US,Titan Acquisition Corp. Warrants,NASDAQ,stock
 TACO,US,Berto Acquisition Corp. Ordinary Shares,NASDAQ,stock
 TACT,US,TransAct Technologies Incorporated Common Stock,NASDAQ,stock
 TANH,US,Tantech Holdings Ltd. Class A Common Shares,NASDAQ,stock
@@ -3553,6 +3508,7 @@ TARS,US,Tarsus Pharmaceuticals Inc. Common Stock,NASDAQ,stock
 TASK,US,TaskUs Inc. Class A Common Stock,NASDAQ,stock
 TATT,US,TAT Technologies Ltd. Ordinary Shares,NASDAQ,stock
 TAVI,US,Tavia Acquisition Corp. Ordinary Shares,NASDAQ,stock
+TAVIU,US,Tavia Acquisition Corp. Unit,NASDAQ,stock
 TAYD,US,Taylor Devices Inc. Common Stock,NASDAQ,stock
 TBBK,US,The Bancorp Inc Common Stock,NASDAQ,stock
 TBCH,US,Turtle Beach Corporation Common Stock,NASDAQ,stock
@@ -3578,7 +3534,6 @@ TDIC,US,Dreamland Limited Class A Ordinary Shares,NASDAQ,stock
 TDTH,US,Trident Digital Tech Holdings Ltd Class B Ordinary Shares,NASDAQ,stock
 TDUP,US,ThredUp Inc. Class A Common Stock,NASDAQ,stock
 TDWD,US,Tailwind 2.0 Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
-TDWDR,US,Tailwind 2.0 Acquisition Corp. Rights,NASDAQ,stock
 TEAD,US,Teads Holding Co. Common Stock,NASDAQ,stock
 TEAM,US,Atlassian Corporation Class A Common Stock,NASDAQ,stock
 TECH,US,Bio-Techne Corp Common Stock,NASDAQ,stock
@@ -3596,7 +3551,6 @@ TGTX,US,TG Therapeutics Inc. Common Stock,NASDAQ,stock
 TH,US,Target Hospitality Corp. Common Stock,NASDAQ,stock
 THCH,US,TH International Limited Ordinary shares,NASDAQ,stock
 THEO,US,BOA Acquisition Corp. II Class A Ordinary Shares,NASDAQ,stock
-THEOR,US,BOA Acquisition Corp. II Rights,NASDAQ,stock
 THFF,US,First Financial Corporation Common Stock,NASDAQ,stock
 THH,US,TryHard Holdings Limited Ordinary Shares,NASDAQ,stock
 THRM,US,Gentherm Inc Common Stock,NASDAQ,stock
@@ -3612,7 +3566,6 @@ TKLF,US,Tokyo Lifestyle Co. Ltd. American Depositary Shares,NASDAQ,stock
 TKNO,US,Alpha Teknova Inc. Common Stock,NASDAQ,stock
 TLAC,US,Three Lions Acquisition Corp. Ordinary Shares,NASDAQ,stock
 TLACU,US,Three Lions Acquisition Corp. Units,NASDAQ,stock
-TLACW,US,Three Lions Acquisition Corp. Warrants,NASDAQ,stock
 TLF,US,Tandy Leather Factory Inc. Common Stock,NASDAQ,stock
 TLIH,US,Ten-League International Holdings Limited Ordinary Shares,NASDAQ,stock
 TLN,US,Talen Energy Corporation Common Stock,NASDAQ,stock
@@ -3623,6 +3576,7 @@ TLRY,US,Tilray Brands Inc. Common Stock,NASDAQ,stock
 TLS,US,Telos Corporation Common Stock,NASDAQ,stock
 TLSA,US,Tiziana Life Sciences Ltd. Common Shares,NASDAQ,stock
 TLSI,US,TriSalus Life Sciences Inc. Common Stock,NASDAQ,stock
+TLSIW,US,TriSalus Life Sciences Inc. Warrant,NASDAQ,stock
 TLX,US,Telix Pharmaceuticals Limited American Depositary Shares,NASDAQ,stock
 TMC,US,TMC the metals company Inc. Common Stock,NASDAQ,stock
 TMCI,US,Treace Medical Concepts Inc. Common Stock,NASDAQ,stock
@@ -3631,7 +3585,6 @@ TMDX,US,TransMedics Group Inc. Common Stock,NASDAQ,stock
 TMS,US,Teamshares Inc. Common Stock,NASDAQ,stock
 TMSWW,US,Teamshares Inc. Warrants,NASDAQ,stock
 TMTS,US,Spartacus Acquisition Corp. II Class A Ordinary Shares,NASDAQ,stock
-TMTSW,US,Spartacus Acquisition Corp. II Warrants,NASDAQ,stock
 TMUS,US,T-Mobile US Inc. Common Stock,NASDAQ,stock
 TMUSI,US,T-Mobile US Inc. 5.500% Senior Notes due June 2070,NASDAQ,stock
 TMUSL,US,T-Mobile US Inc. 6.250% Senior Notes due 2069,NASDAQ,stock
@@ -3661,7 +3614,6 @@ TRDA,US,Entrada Therapeutics Inc. Common Stock,NASDAQ,stock
 TREE,US,LendingTree Inc. Common Stock,NASDAQ,stock
 TREO,US,Tactical Resources Corp. Common Shares,NASDAQ,stock
 TRGS,US,TRG Latin America Acquisitions Corp. Class A Ordinary Shares,NASDAQ,stock
-TRGSR,US,TRG Latin America Acquisitions Corp. Rights,NASDAQ,stock
 TRI,US,Thomson Reuters Corporation Common Shares,NASDAQ,stock
 TRIB,US,Trinity Biotech plc American Depositary Shares,NASDAQ,stock
 TRIP,US,TripAdvisor Inc. Common Stock,NASDAQ,stock
@@ -3703,11 +3655,10 @@ TVA,US,Texas Ventures Acquisition III Corp Class A Ordinary Share,NASDAQ,stock
 TVACU,US,Texas Ventures Acquisition III Corp Unit,NASDAQ,stock
 TVACW,US,Texas Ventures Acquisition III Corp Warrants,NASDAQ,stock
 TVAI,US,Thayer Ventures Acquisition Corporation II Class A Ordinary Shares,NASDAQ,stock
+TVAIR,US,Thayer Ventures Acquisition Corporation II Rights,NASDAQ,stock
 TVGN,US,Tevogen Inc. Common Stock,NASDAQ,stock
 TVGNW,US,Tevogen Inc. Warrant,NASDAQ,stock
 TVIV,US,Texas Ventures Acquisition IV Corp Class A Ordinary Shares,NASDAQ,stock
-TVIVU,US,Texas Ventures Acquisition IV Corp Units,NASDAQ,stock
-TVIVW,US,Texas Ventures Acquisition IV Corp Warrant,NASDAQ,stock
 TVRD,US,Tvardi Therapeutics Inc. Common Stock,NASDAQ,stock
 TVTX,US,Travere Therapeutics Inc. Common Stock,NASDAQ,stock
 TW,US,Tradeweb Markets Inc. Class A Common Stock,NASDAQ,stock
@@ -3717,7 +3668,6 @@ TWG,US,Top Wealth Group Holding Limited Class A Ordinary Shares,NASDAQ,stock
 TWIN,US,Twin Disc Incorporated Common Stock,NASDAQ,stock
 TWLV,US,Twelve Seas Investment Company III Class A Ordinary Shares,NASDAQ,stock
 TWLVR,US,Twelve Seas Investment Company III Rights,NASDAQ,stock
-TWLVU,US,Twelve Seas Investment Company III Units,NASDAQ,stock
 TWST,US,Twist Bioscience Corporation Common Stock,NASDAQ,stock
 TXG,US,10x Genomics Inc. Class A Common Stock,NASDAQ,stock
 TXMD,US,TherapeuticsMD Inc. Common Stock,NASDAQ,stock
@@ -3776,7 +3726,7 @@ UTSI,US,UTStarcom Holdings Corp. Ordinary Shares,NASDAQ,stock
 UVSP,US,Univest Financial Corporation Common Stock,NASDAQ,stock
 UXIN,US,Uxin Limited ADS,NASDAQ,stock
 UYSC,US,UY Scuti Acquisition Corp. Ordinary Shares,NASDAQ,stock
-UYSCU,US,UY Scuti Acquisition Corp. Units,NASDAQ,stock
+UYSCR,US,UY Scuti Acquisition Corp. Rights,NASDAQ,stock
 UZX,US,Linkage Global Inc. Class A Ordinary Shares,NASDAQ,stock
 VABK,US,Virginia National Bankshares Corporation Common Stock,NASDAQ,stock
 VAI,US,Valor Energy Incorporated Common Stock,NASDAQ,stock
@@ -3808,7 +3758,7 @@ VGAS,US,Verde Clean Fuels Inc. Class A Common Stock,NASDAQ,stock
 VGASW,US,Verde Clean Fuels Inc. Warrant,NASDAQ,stock
 VHC,US,VirnetX Holding Corp Common Stock,NASDAQ,stock
 VHCP,US,Vine Hill Capital Investment Corp. II Class A Ordinary Shares,NASDAQ,stock
-VHCPW,US,Vine Hill Capital Investment Corp. II Warrants,NASDAQ,stock
+VHCPU,US,Vine Hill Capital Investment Corp. II Units,NASDAQ,stock
 VHUB,US,VenHub Global Inc. Common Stock,NASDAQ,stock
 VIAV,US,Viavi Solutions Inc. Common Stock,NASDAQ,stock
 VICR,US,Vicor Corporation Common Stock,NASDAQ,stock
@@ -3826,7 +3776,6 @@ VKTX,US,Viking Therapeutics Inc. Common Stock,NASDAQ,stock
 VLGEA,US,Village Super Market Inc. Class A Common Stock,NASDAQ,stock
 VLOS,US,Velos Acquisition I Corp. Class A Ordinary shares,NASDAQ,stock
 VLOSU,US,Velos Acquisition I Corp. Units,NASDAQ,stock
-VLOSW,US,Velos Acquisition I Corp. Warrant,NASDAQ,stock
 VLY,US,Valley National Bancorp Common Stock,NASDAQ,stock
 VLYPN,US,Valley National Bancorp 8.250% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock Series C,NASDAQ,stock
 VLYPO,US,Valley National Bancorp 5.50% Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock Series B,NASDAQ,stock
@@ -3838,7 +3787,6 @@ VNCE,US,Vince Holding Corp. Common Stock,NASDAQ,stock
 VNDA,US,Vanda Pharmaceuticals Inc. Common Stock,NASDAQ,stock
 VNET,US,VNET Group Inc. American Depositary Shares,NASDAQ,stock
 VNME,US,Vendome Acquisition Corporation I Class A Ordinary Shares,NASDAQ,stock
-VNMEW,US,Vendome Acquisition Corporation I Warrant,NASDAQ,stock
 VNOM,US,Viper Energy Inc. Class A Common Stock,NASDAQ,stock
 VOD,US,Vodafone Group Plc American Depositary Shares,NASDAQ,stock
 VOGX,US,Vogenx Inc Common Stock,NASDAQ,stock
@@ -3879,8 +3827,6 @@ WABC,US,Westamerica Bancorporation Common Stock,NASDAQ,stock
 WAFD,US,WaFd Inc. Common Stock,NASDAQ,stock
 WAFDP,US,WaFd Inc. Depositary Shares,NASDAQ,stock
 WAFU,US,Wah Fu Education Group Limited Ordinary Shares,NASDAQ,stock
-WALD,US,Waldencast plc Class A Ordinary Share,NASDAQ,stock
-WALDW,US,Waldencast plc Warrant,NASDAQ,stock
 WASH,US,Washington Trust Bancorp Inc. Common Stock,NASDAQ,stock
 WATR,US,Air Water Ventures Limited Ordinary Shares,NASDAQ,stock
 WATT,US,Energous Corporation Common Stock,NASDAQ,stock
@@ -3897,7 +3843,6 @@ WDC,US,Western Digital Corporation Common Stock,NASDAQ,stock
 WDFC,US,WD-40 Company Common Stock,NASDAQ,stock
 WEN,US,Wendy's Company (The) Common Stock,NASDAQ,stock
 WENN,US,Wen Acquisition Corp Class A Ordinary Shares,NASDAQ,stock
-WENNU,US,Wen Acquisition Corp Unit,NASDAQ,stock
 WENNW,US,Wen Acquisition Corp Warrant,NASDAQ,stock
 WERN,US,Werner Enterprises Inc. Common Stock,NASDAQ,stock
 WEST,US,Westrock Coffee Company Common Stock,NASDAQ,stock
@@ -3912,24 +3857,22 @@ WHF,US,WhiteHorse Finance Inc. Common Stock,NASDAQ,stock
 WHFCL,US,WhiteHorse Finance Inc. 7.875% Notes due 2028,NASDAQ,stock
 WHLR,US,Wheeler Real Estate Investment Trust Inc. Common Stock,NASDAQ,stock
 WHLRD,US,Wheeler Real Estate Investment Trust Inc. Series D Cumulative Preferred Stock,NASDAQ,stock
+WHLRL,US,Wheeler Real Estate Investment Trust Inc. 7.00% Senior Subordinated Convertible Notes Due 2031,NASDAQ,stock
 WHLRP,US,Wheeler Real Estate Investment Trust Inc. Class B Preferred Stock,NASDAQ,stock
 WHWK,US,Whitehawk Therapeutics Inc. Common Stock,NASDAQ,stock
 WIMI,US,WiMi Hologram Cloud Inc. Class B Ordinary Shares,NASDAQ,stock
 WINA,US,Winmark Corporation Common Stock,NASDAQ,stock
 WING,US,Wingstop Inc. Common Stock,NASDAQ,stock
 WIX,US,Wix.com Ltd. Ordinary Shares,NASDAQ,stock
-WKEY,US,WISeKey International Holding Ltd American Depositary Shares,NASDAQ,stock
 WKHS,US,Workhorse Group Inc. Common Stock,NASDAQ,stock
 WKSP,US,Worksport Ltd. Common Stock,NASDAQ,stock
 WLCO,US,Wilco 63 Corporation Class A Ordinary Shares,NASDAQ,stock
 WLCOU,US,Wilco 63 Corporation Units,NASDAQ,stock
-WLCOW,US,Wilco 63 Corporation Warrant,NASDAQ,stock
 WLDN,US,Willdan Group Inc. Common Stock,NASDAQ,stock
 WLDS,US,Wearable Devices Ltd. Ordinary Share,NASDAQ,stock
 WLDSW,US,Wearable Devices Ltd. Warrant,NASDAQ,stock
 WLFC,US,Willis Lease Finance Corporation Common Stock,NASDAQ,stock
 WLII,US,Willow Lane Acquisition Corp. II Class A Ordinary Shares,NASDAQ,stock
-WLIIU,US,Willow Lane Acquisition Corp. II Unit,NASDAQ,stock
 WLIIW,US,Willow Lane Acquisition Corp. II Warrants,NASDAQ,stock
 WLTH,US,Wealthfront Corporation Common Stock,NASDAQ,stock
 WMG,US,Warner Music Group Corp. Class A Common Stock,NASDAQ,stock
@@ -3956,8 +3899,6 @@ WTF,US,Waton Financial Limited Ordinary Shares,NASDAQ,stock
 WTFC,US,Wintrust Financial Corporation Common Stock,NASDAQ,stock
 WTFCN,US,Wintrust Financial Corporation Depositary Shares Each Representing a 1/1000th Interest in a Share of 7.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred StocK,NASDAQ,stock
 WTG,US,Wintergreen Acquisition Corp. Ordinary Shares,NASDAQ,stock
-WTGUR,US,Wintergreen Acquisition Corp. Rights,NASDAQ,stock
-WTGUU,US,Wintergreen Acquisition Corp. Unit,NASDAQ,stock
 WTW,US,Willis Towers Watson Public Limited Company Ordinary Shares,NASDAQ,stock
 WULF,US,TeraWulf Inc. Common Stock,NASDAQ,stock
 WVE,US,Wave Life Sciences Inc. Common Stock,NASDAQ,stock
@@ -3974,7 +3915,6 @@ XBIO,US,Xenetic Biosciences Inc. Common Stock,NASDAQ,stock
 XBIT,US,XBiotech Inc. Common Stock,NASDAQ,stock
 XBP,US,XBP Global Holdings Inc. Common Stock,NASDAQ,stock
 XCBE,US,X3 Acquisition Corp. Ltd. Class A Ordinary Shares,NASDAQ,stock
-XCBEW,US,X3 Acquisition Corp. Ltd. Warrant,NASDAQ,stock
 XCH,US,XCHG Limited American Depositary Share,NASDAQ,stock
 XCUR,US,Exicure Inc. Common Stock,NASDAQ,stock
 XE,US,X-Energy Inc. Class A Common Stock,NASDAQ,stock
@@ -4012,7 +3952,6 @@ XRXDW,US,Xerox Holdings Corporation Warrants,NASDAQ,stock
 XSLL,US,Xsolla SPAC 1 Class A Ordinary Shares,NASDAQ,stock
 XTER,US,Karman Line Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
 XTERU,US,Karman Line Acquisition Corp. Units,NASDAQ,stock
-XTERW,US,Karman Line Acquisition Corp. Warrants,NASDAQ,stock
 XTIA,US,XTI Aerospace Inc. Common Stock,NASDAQ,stock
 XTLB,US,XTL Biopharmaceuticals Ltd. American Depositary Shares,NASDAQ,stock
 XWEL,US,XWELL Inc. Common Stock,NASDAQ,stock
@@ -4032,7 +3971,6 @@ YHNAU,US,YHN Acquisition I Limited Unit,NASDAQ,stock
 YI,US,111 Inc. American Depositary Shares,NASDAQ,stock
 YIBO,US,Planet Image International Limited Class A Ordinary Shares,NASDAQ,stock
 YICC,US,Yorkville International Capital Corp. Class A Ordinary Shares,NASDAQ,stock
-YICCW,US,Yorkville International Capital Corp. Warrants,NASDAQ,stock
 YJ,US,Yunji Inc. American Depository Shares,NASDAQ,stock
 YMAT,US,J-Star Holding Co. Ltd. Class A Ordinary Shares,NASDAQ,stock
 YMT,US,Yimutian Inc. American Depositary Shares,NASDAQ,stock
@@ -4061,7 +3999,6 @@ ZJYL,US,JIN MEDICAL INTERNATIONAL LTD. Class A Ordinary Shares,NASDAQ,stock
 ZKIN,US,ZK International Group Co. Ltd Ordinary Share,NASDAQ,stock
 ZKP,US,Lafayette Digital Acquisition Corp. I Class A Ordinary Shares,NASDAQ,stock
 ZKPU,US,Lafayette Digital Acquisition Corp. I Unit,NASDAQ,stock
-ZKPW,US,Lafayette Digital Acquisition Corp. I Warrant,NASDAQ,stock
 ZLAB,US,Zai Lab Limited American Depositary Shares,NASDAQ,stock
 ZM,US,Zoom Communications Inc. Class A Common Stock,NASDAQ,stock
 ZNB,US,Zeta Network Group Class A Ordinary Shares,NASDAQ,stock

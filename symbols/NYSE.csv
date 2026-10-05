@@ -694,9 +694,6 @@ DB,US,Deutsche Bank AG Common Stock,NYSE,stock
 DBD,US,Diebold Nixdorf Incorporated Common stock,NYSE,stock
 DBI,US,Designer Brands Inc. Class A Common Stock,NYSE,stock
 DBL,US,DoubleLine Opportunistic Credit Fund Common Shares of Beneficial Interest,NYSE,stock
-DBRG^H,US,DigitalBridge Group Inc. 7.125% Series H,NYSE,stock
-DBRG^I,US,DigitalBridge Group Inc. 7.15% Series I,NYSE,stock
-DBRG^J,US,DigitalBridge Group Inc. 7.125% Series J,NYSE,stock
 DCBG,US,Dime Commercial Bancshares Inc. 9.000% Junior Subordinated Notes,NYSE,stock
 DCH,US,Dauch Corporation Common Stock,NYSE,stock
 DCI,US,Donaldson Company Inc. Common Stock,NYSE,stock
@@ -706,8 +703,6 @@ DCOM^,US,Dime Commercial Bancshares Inc. Preferred Stock Series A,NYSE,stock
 DD,US,DuPont de Nemours Inc. Common Stock,NYSE,stock
 DDD,US,3D Systems Corporation Common Stock,NYSE,stock
 DDL,US,Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares),NYSE,stock
-DDS,US,Dillard's Inc. Common Stock,NYSE,stock
-DDT,US,Dillard's Capital Trust I,NYSE,stock
 DE,US,Deere & Company Common Stock,NYSE,stock
 DEA,US,Easterly Government Properties Inc. Common Stock,NYSE,stock
 DEC,US,Diversified Energy Company Common Stock,NYSE,stock
@@ -782,6 +777,7 @@ DVA,US,DaVita Inc. Common Stock,NYSE,stock
 DVN,US,Devon Energy Corporation Common Stock,NYSE,stock
 DX,US,Dynex Capital Inc. Common Stock,NYSE,stock
 DX^C,US,Dynex Capital Inc. 6.900% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,NYSE,stock
+DX^D,US,Dynex Capital Inc. 9.375% Series D Fixed-Rate Cumulative Redeemable Preferred Stock,NYSE,stock
 DXC,US,DXC Technology Company Common Stock,NYSE,stock
 DXYZ,US,Destiny Tech100 Inc. Common Stock,NYSE,stock
 DY,US,Dycom Industries Inc. Common Stock,NYSE,stock
@@ -890,8 +886,6 @@ ESNT,US,Essent Group Ltd. Common Shares,NYSE,stock
 ESRT,US,Empire State Realty Trust Inc. Class A Common Stock,NYSE,stock
 ESS,US,Essex Property Trust Inc. Common Stock,NYSE,stock
 ESTC,US,Elastic N.V. Ordinary Shares,NYSE,stock
-ET,US,Energy Transfer LP Common Units,NYSE,stock
-ET^I,US,Energy Transfer L.P. Series I Fixed Rate Perpetual Preferred Units,NYSE,stock
 ETB,US,Eaton Vance Tax-Managed Buy-Write Income Fund Eaton Vance Tax-Managed Buy-Write Income Fund Common Shares of Beneficial Interest,NYSE,stock
 ETD,US,Ethan Allen Interiors Inc. Common Stock,NYSE,stock
 ETG,US,Eaton Vance Tax-Advantaged Global Dividend Income Fund Common Shares of Beneficial Interest,NYSE,stock
@@ -1077,8 +1071,10 @@ GIL,US,Gildan Activewear Inc. Class A Sub. Vot. Common Stock,NYSE,stock
 GIS,US,General Mills Inc. Common Stock,NYSE,stock
 GJH,US,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,NYSE,stock
 GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores Inc. Securities Series 2004-5,NYSE,stock
+GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
 GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
+GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
 GL,US,Globe Life Inc. Common Stock,NYSE,stock
 GL^D,US,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061,NYSE,stock
@@ -1144,7 +1140,6 @@ GUG,US,Guggenheim Active Allocation Fund Common Shares of Beneficial Interest,NY
 GUT,US,Gabelli Utility Trust (The) Common Stock,NYSE,stock
 GUT^C,US,Gabelli Utility Trust (The) 5.375% Series C Cumulative Preferred Shares,NYSE,stock
 GVA,US,Granite Construction Incorporated Common Stock,NYSE,stock
-GWH,US,ESS Tech Inc. Common Stock,NYSE,stock
 GWRE,US,Guidewire Software Inc. Common Stock,NYSE,stock
 GWW,US,W.W. Grainger Inc. Common Stock,NYSE,stock
 GXO,US,GXO Logistics Inc. Common Stock,NYSE,stock
@@ -2016,6 +2011,7 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
+RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
@@ -2310,9 +2306,7 @@ STWD,US,STARWOOD PROPERTY TRUST INC. Starwood Property Trust Inc.,NYSE,stock
 STZ,US,Constellation Brands Inc. Common Stock,NYSE,stock
 SU,US,Suncor Energy  Inc. Common Stock,NYSE,stock
 SUI,US,Sun Communities Inc. Common Stock,NYSE,stock
-SUN,US,Sunoco LP Common Units representing limited partner interests,NYSE,stock
 SUNB,US,Sunbelt Rentals Holdings Inc. Common Stock,NYSE,stock
-SUNC,US,SunocoCorp LLC Common Units representing limited liability company interests,NYSE,stock
 SUPV,US,Grupo Supervielle S.A. American Depositary Shares each Representing five Class B shares,NYSE,stock
 SUZ,US,Suzano S.A. American Depositary Shares (each representing One Ordinary Share),NYSE,stock
 SVV,US,Savers Value Village Inc. Common Stock,NYSE,stock
@@ -2452,7 +2446,6 @@ TVE,US,Tennessee Valley Authority,NYSE,stock
 TWI,US,Titan International Inc. (DE) Common Stock,NYSE,stock
 TWLO,US,Twilio Inc. Class A Common Stock,NYSE,stock
 TWN,US,Taiwan Fund Inc. (The) Common Stock,NYSE,stock
-TWOD,US,Two Harbors Investments Corp 9.375% Senior Notes due 2030,NYSE,stock
 TX,US,Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares USD1.00 par value),NYSE,stock
 TXNM,US,TXNM Energy Inc. Common Stock,NYSE,stock
 TXO,US,TXO Partners L.P. Common Units Representing Limited Partner Interests,NYSE,stock
@@ -2494,7 +2487,6 @@ UP,US,Wheels Up Experience Inc. Class A Common Stock,NYSE,stock
 UPS,US,United Parcel Service Inc. Common Stock,NYSE,stock
 URI,US,United Rentals Inc. Common Stock,NYSE,stock
 USA,US,Liberty All-Star Equity Fund Common Stock,NYSE,stock
-USAC,US,USA Compression Partners LP Common Units Representing Limited Partner Interests,NYSE,stock
 USB,US,U.S. Bancorp Common Stock,NYSE,stock
 USB^A,US,U.S. Bancorp Depositary Shares Each representing a 1/100th interest in a share of Series A Non-CumulativePerpetual Pfd Stock,NYSE,stock
 USB^H,US,U.S. Bancorp Depositary Shares repstg 1/1000th Pfd Ser B,NYSE,stock
