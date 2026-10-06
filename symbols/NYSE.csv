@@ -649,8 +649,6 @@ CSW,US,CSW Industrials Inc. Common Stock,NYSE,stock
 CTA^A,US,EIDP Inc. Preferred Stock $3.50 Series,NYSE,stock
 CTA^B,US,EIDP Inc. Preferred Stock $4.50 Series,NYSE,stock
 CTEV,US,Claritev Corporation Class A Common Stock,NYSE,stock
-CTGG,US,Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25),NYSE,stock
-CTHH,US,Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25),NYSE,stock
 CTO,US,CTO Realty Growth Inc. Common Stock,NYSE,stock
 CTO^A,US,CTO Realty Growth Inc. 6.375% Series A Cumulative Redeemable Preferred Stock,NYSE,stock
 CTOS,US,Custom Truck One Source Inc. Common Stock,NYSE,stock
@@ -1071,7 +1069,6 @@ GIL,US,Gildan Activewear Inc. Class A Sub. Vot. Common Stock,NYSE,stock
 GIS,US,General Mills Inc. Common Stock,NYSE,stock
 GJH,US,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,NYSE,stock
 GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores Inc. Securities Series 2004-5,NYSE,stock
-GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
 GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
 GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
@@ -1465,7 +1462,6 @@ LTH,US,Life Time Group Holdings Inc. Common Stock,NYSE,stock
 LTM,US,LATAM Airlines Group S.A. American Depositary Shares (each representing two thousand (2000) shares of Common Stock),NYSE,stock
 LU,US,Lufax Holding Ltd American Depositary Shares each representing two (2) Ordinary Shares,NYSE,stock
 LUCK,US,Lucky Strike Entertainment Corporation Class A Common Stock,NYSE,stock
-LUMN,US,Lumen Technologies Inc. Common Stock,NYSE,stock
 LUV,US,Southwest Airlines Company Common Stock,NYSE,stock
 LUXE,US,LuxExperience B.V. American Depositary Shares each representing one Ordinary Share,NYSE,stock
 LVS,US,Las Vegas Sands Corp. Common Stock,NYSE,stock
@@ -2011,7 +2007,6 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
-RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
