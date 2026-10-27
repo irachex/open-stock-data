@@ -1296,7 +1296,6 @@ JACS,US,Jackson Acquisition Company II Class A Ordinary Shares,NYSE,stock
 JAN,US,Janus Living Inc. Class A-1 Common Stock,NYSE,stock
 JBGS,US,JBG SMITH Properties Common Shares,NYSE,stock
 JBI,US,Janus International Group Inc. Common Stock,NYSE,stock
-JBK,US,Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I,NYSE,stock
 JBL,US,Jabil Inc. Common Stock,NYSE,stock
 JBS,US,JBS N.V. Class A Common Shares,NYSE,stock
 JBTM,US,JBT Marel Corporation Common Stock,NYSE,stock
@@ -1591,7 +1590,6 @@ MSCI,US,MSCI Inc. Common Stock,NYSE,stock
 MSD,US,Morgan Stanley Emerging Markets Debt Fund Inc. Common Stock,NYSE,stock
 MSDL,US,Morgan Stanley Direct Lending Fund Common Stock,NYSE,stock
 MSGE,US,Madison Square Garden Entertainment Corp. Class A Common Stock,NYSE,stock
-MSGS,US,Madison Square Garden Sports Corp. Class A Common Stock (New),NYSE,stock
 MSI,US,Motorola Solutions Inc. Common Stock,NYSE,stock
 MSIF,US,MSC Income Fund Inc. Common Stock,NYSE,stock
 MSM,US,MSC Industrial Direct Company Inc. Common Stock,NYSE,stock
@@ -2004,6 +2002,7 @@ RBC,US,RBC Bearings Incorporated Common Stock,NYSE,stock
 RBLX,US,Roblox Corporation Class A Common Stock,NYSE,stock
 RBRK,US,Rubrik Inc. Class A Common Stock,NYSE,stock
 RC,US,Ready Capital Corporation Common Stock,NYSE,stock
+RC^C,US,Ready Capital Corporation 6.25% Series C Cumulative Convertible Preferred Stock,NYSE,stock
 RC^E,US,Ready Capital Corporation 6.50% Series E Cumulative Redeemable Preferred Stock,NYSE,stock
 RCD,US,Ready Capital Corporation 9.00% Senior Notes due 2029,NYSE,stock
 RCI,US,Rogers Communication Inc. Common Stock,NYSE,stock
@@ -2076,6 +2075,7 @@ ROL,US,Rollins Inc. Common Stock,NYSE,stock
 RPC,US,Ridgepost Capital Inc. Class A Common Stock,NYSE,stock
 RPM,US,RPM International Inc. Common Stock,NYSE,stock
 RPT,US,Rithm Property Trust Inc. Common stock,NYSE,stock
+RPT^C,US,Rithm Property Trust Inc. 9.875% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock,NYSE,stock
 RQI,US,Cohen & Steers Quality Income Realty Fund Inc Common Shares,NYSE,stock
 RRC,US,Range Resources Corporation Common Stock,NYSE,stock
 RRX,US,Regal Rexnord Corporation Common Stock,NYSE,stock
@@ -2433,7 +2433,6 @@ TXNM,US,TXNM Energy Inc. Common Stock,NYSE,stock
 TXO,US,TXO Partners L.P. Common Units Representing Limited Partner Interests,NYSE,stock
 TXT,US,Textron Inc. Common Stock,NYSE,stock
 TY,US,Tri Continental Corporation Common Stock,NYSE,stock
-TY^,US,Tri Continental Corporation Preferred Stock,NYSE,stock
 TYG,US,Tortoise Energy Infrastructure Corporation Common Stock,NYSE,stock
 TYL,US,Tyler Technologies Inc. Common Stock,NYSE,stock
 U,US,Unity Software Inc. Common Stock,NYSE,stock
