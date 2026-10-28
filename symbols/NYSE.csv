@@ -1062,9 +1062,6 @@ GIB,US,CGI Inc. Common Stock,NYSE,stock
 GIC,US,Global Industrial Company Common Stock,NYSE,stock
 GIL,US,Gildan Activewear Inc. Class A Sub. Vot. Common Stock,NYSE,stock
 GIS,US,General Mills Inc. Common Stock,NYSE,stock
-GJH,US,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,NYSE,stock
-GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores Inc. Securities Series 2004-5,NYSE,stock
-GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
 GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
@@ -1173,6 +1170,7 @@ HIW,US,Highwoods Properties Inc. Common Stock,NYSE,stock
 HIX,US,Western Asset High Income Fund II Inc. Common Stock,NYSE,stock
 HKD,US,AMTD Digital Inc. American Depositary Shares (every five of which represent two Class A Ordinary Shares),NYSE,stock
 HL,US,Hecla Mining Company Common Stock,NYSE,stock
+HL^B,US,Hecla Mining Company Preferred Stock,NYSE,stock
 HLF,US,Herbalife Ltd. Common Shares,NYSE,stock
 HLI,US,Houlihan Lokey Inc. Class A Common Stock,NYSE,stock
 HLIO,US,Helios Technologies Inc. Common Stock,NYSE,stock
@@ -1590,6 +1588,8 @@ MSCI,US,MSCI Inc. Common Stock,NYSE,stock
 MSD,US,Morgan Stanley Emerging Markets Debt Fund Inc. Common Stock,NYSE,stock
 MSDL,US,Morgan Stanley Direct Lending Fund Common Stock,NYSE,stock
 MSGE,US,Madison Square Garden Entertainment Corp. Class A Common Stock,NYSE,stock
+MSGK,US,MSG Knickerbockers Corp. Class A Common Stock,NYSE,stock
+MSGR,US,MSG Rangers Corp. Class A Common Stock,NYSE,stock
 MSI,US,Motorola Solutions Inc. Common Stock,NYSE,stock
 MSIF,US,MSC Income Fund Inc. Common Stock,NYSE,stock
 MSM,US,MSC Industrial Direct Company Inc. Common Stock,NYSE,stock
@@ -1994,6 +1994,7 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
+RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
@@ -2002,7 +2003,6 @@ RBC,US,RBC Bearings Incorporated Common Stock,NYSE,stock
 RBLX,US,Roblox Corporation Class A Common Stock,NYSE,stock
 RBRK,US,Rubrik Inc. Class A Common Stock,NYSE,stock
 RC,US,Ready Capital Corporation Common Stock,NYSE,stock
-RC^C,US,Ready Capital Corporation 6.25% Series C Cumulative Convertible Preferred Stock,NYSE,stock
 RC^E,US,Ready Capital Corporation 6.50% Series E Cumulative Redeemable Preferred Stock,NYSE,stock
 RCD,US,Ready Capital Corporation 9.00% Senior Notes due 2029,NYSE,stock
 RCI,US,Rogers Communication Inc. Common Stock,NYSE,stock
@@ -2234,7 +2234,6 @@ SOUL,US,Soulpower Acquisition Corporation Class A Ordinary Shares,NYSE,stock
 SPB,US,Spectrum Brands Holdings Inc. Common Stock,NYSE,stock
 SPCE,US,Virgin Galactic Holdings Inc. Common Stock,NYSE,stock
 SPE,US,Special Opportunities Fund Inc Common Stock,NYSE,stock
-SPE^C,US,Special Opportunities Fund Inc. 2.75% Convertible Preferred Stock Series C,NYSE,stock
 SPG,US,Simon Property Group Inc. Common Stock,NYSE,stock
 SPG^J,US,Simon Property Group Inc. Simon Property Group 8 3/8% Series J Cumulative Redeemable Preferred Stock,NYSE,stock
 SPGI,US,S&P Global Inc. Common Stock,NYSE,stock
@@ -2433,6 +2432,7 @@ TXNM,US,TXNM Energy Inc. Common Stock,NYSE,stock
 TXO,US,TXO Partners L.P. Common Units Representing Limited Partner Interests,NYSE,stock
 TXT,US,Textron Inc. Common Stock,NYSE,stock
 TY,US,Tri Continental Corporation Common Stock,NYSE,stock
+TY^,US,Tri Continental Corporation Preferred Stock,NYSE,stock
 TYG,US,Tortoise Energy Infrastructure Corporation Common Stock,NYSE,stock
 TYL,US,Tyler Technologies Inc. Common Stock,NYSE,stock
 U,US,Unity Software Inc. Common Stock,NYSE,stock
