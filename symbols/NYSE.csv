@@ -803,7 +803,6 @@ EEA,US,The European Equity Fund Inc. Common Stock,NYSE,stock
 EFC,US,Ellington Financial Inc. Common Stock,NYSE,stock
 EFC^B,US,Ellington Financial Inc. 6.250% Series B Fixed-Rate Reset Cumulative Redeemable Preferred Stock,NYSE,stock
 EFC^C,US,Ellington Financial Inc. 8.625% Series C Fixed-Rate Reset Cumulative Redeemable Preferred Stock,NYSE,stock
-EFC^D,US,Ellington Financial Inc. 7.00% Series D Cumulative Perpetual Redeemable Preferred Stock,NYSE,stock
 EFOR,US,Everforth Inc. Common Stock,NYSE,stock
 EFR,US,Eaton Vance Senior Floating-Rate Fund Common Shares of Beneficial Interest,NYSE,stock
 EFT,US,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Interest,NYSE,stock
@@ -816,7 +815,6 @@ EGY,US,VAALCO Energy Inc.  Common Stock,NYSE,stock
 EHC,US,Encompass Health Corporation Common Stock,NYSE,stock
 EHI,US,Western Asset Global High Income Fund Inc Common Stock,NYSE,stock
 EIC,US,Eagle Point Income Company Common Shares of Beneficial Interest,NYSE,stock
-EICA,US,Eagle Point Income Company 5.00% Series A Term Preferred Shares due 2026,NYSE,stock
 EIG,US,Employers Holdings Inc Common Stock,NYSE,stock
 EIIA,US,Eagle Point Institutional Income Fund 8.125% Series A Term Preferred Shares Due 2029,NYSE,stock
 EIX,US,Edison International Common Stock,NYSE,stock
@@ -1063,8 +1061,8 @@ GIC,US,Global Industrial Company Common Stock,NYSE,stock
 GIL,US,Gildan Activewear Inc. Class A Sub. Vot. Common Stock,NYSE,stock
 GIS,US,General Mills Inc. Common Stock,NYSE,stock
 GJH,US,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,NYSE,stock
-GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
-GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
+GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores Inc. Securities Series 2004-5,NYSE,stock
+GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
 GL,US,Globe Life Inc. Common Stock,NYSE,stock
 GL^D,US,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061,NYSE,stock
@@ -1171,6 +1169,7 @@ HIW,US,Highwoods Properties Inc. Common Stock,NYSE,stock
 HIX,US,Western Asset High Income Fund II Inc. Common Stock,NYSE,stock
 HKD,US,AMTD Digital Inc. American Depositary Shares (every five of which represent two Class A Ordinary Shares),NYSE,stock
 HL,US,Hecla Mining Company Common Stock,NYSE,stock
+HL^B,US,Hecla Mining Company Preferred Stock,NYSE,stock
 HLF,US,Herbalife Ltd. Common Shares,NYSE,stock
 HLI,US,Houlihan Lokey Inc. Class A Common Stock,NYSE,stock
 HLIO,US,Helios Technologies Inc. Common Stock,NYSE,stock
@@ -1294,7 +1293,6 @@ JACS,US,Jackson Acquisition Company II Class A Ordinary Shares,NYSE,stock
 JAN,US,Janus Living Inc. Class A-1 Common Stock,NYSE,stock
 JBGS,US,JBG SMITH Properties Common Shares,NYSE,stock
 JBI,US,Janus International Group Inc. Common Stock,NYSE,stock
-JBK,US,Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I,NYSE,stock
 JBL,US,Jabil Inc. Common Stock,NYSE,stock
 JBS,US,JBS N.V. Class A Common Shares,NYSE,stock
 JBTM,US,JBT Marel Corporation Common Stock,NYSE,stock
@@ -1994,7 +1992,6 @@ QXO^B,US,QXO Inc.  Depositary Shares each representing a 1/20th interest in a sh
 R,US,Ryder System Inc. Common Stock,NYSE,stock
 RA,US,Brookfield Real Assets Income Fund Inc. Common Stock,NYSE,stock
 RAC,US,Rithm Acquisition Corp. Class A Ordinary Shares,NYSE,stock
-RAC/WS,US,Rithm Acquisition Corp.,NYSE,stock
 RACE,US,Ferrari N.V. Common Shares,NYSE,stock
 RAL,US,Ralliant Corporation Common Stock,NYSE,stock
 RAMP,US,LiveRamp Holdings Inc. Common Stock,NYSE,stock
@@ -2113,7 +2110,6 @@ SAC,US,Safeguard Acquisition Corp. Class A Ordinary Shares,NYSE,stock
 SAFE,US,Safehold Inc. New Common Stock,NYSE,stock
 SAGU,US,Shreya Acquisition Group Class A Ordinary Shares,NYSE,stock
 SAH,US,Sonic Automotive Inc. Common Stock,NYSE,stock
-SAJ,US,Saratoga Investment Corp 8.00% Notes due 2027,NYSE,stock
 SAM,US,Boston Beer Company Inc. (The) Common Stock,NYSE,stock
 SAMO,US,Samos Energy Acquisition Corporation Class A Ordinary Shares,NYSE,stock
 SAN,US,Banco Santander S.A. Sponsored ADR (Spain),NYSE,stock
