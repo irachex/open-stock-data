@@ -1062,7 +1062,7 @@ GIS,US,General Mills Inc. Common Stock,NYSE,stock
 GJH,US,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,NYSE,stock
 GJO,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores Inc. Securities Series 2004-5,NYSE,stock
 GJP,US,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,NYSE,stock
-GJS,US,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,NYSE,stock
+GJR,US,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,NYSE,stock
 GJT,US,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,NYSE,stock
 GKOS,US,Glaukos Corporation Common Stock,NYSE,stock
 GL,US,Globe Life Inc. Common Stock,NYSE,stock
@@ -1294,6 +1294,7 @@ JACS,US,Jackson Acquisition Company II Class A Ordinary Shares,NYSE,stock
 JAN,US,Janus Living Inc. Class A-1 Common Stock,NYSE,stock
 JBGS,US,JBG SMITH Properties Common Shares,NYSE,stock
 JBI,US,Janus International Group Inc. Common Stock,NYSE,stock
+JBK,US,Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I,NYSE,stock
 JBL,US,Jabil Inc. Common Stock,NYSE,stock
 JBS,US,JBS N.V. Class A Common Shares,NYSE,stock
 JBTM,US,JBT Marel Corporation Common Stock,NYSE,stock
@@ -1355,6 +1356,7 @@ KHC,US,The Kraft Heinz Company Common Stock,NYSE,stock
 KIM,US,Kimco Realty Corporation (HC) Common Stock,NYSE,stock
 KIM^L,US,Kimco Realty Corporation Class L Depositary Shares each of which represents a one-one thousandth fractional interest in a share of 5.125% Class L Cumulative Redeemable Preferred Stock liquidation preference $25000.00 per share,NYSE,stock
 KIM^M,US,Kimco Realty Corporation Class M Depositary Shares each of which represents a one-one thousandth fractional interest in a share of 5.25% Class M Cumulative Redeemable Preferred Stock liquidation preference $25000.00 per share,NYSE,stock
+KIM^N,US,Kimco Realty Corporation Depositary Shares each representing 1/1000th interest in a share of 7.25% Class N Cumulative Convertible Perpetual Preferred Stock,NYSE,stock
 KIO,US,KKR Income Opportunities Fund Common Shares,NYSE,stock
 KKR,US,KKR & Co. Inc. Common Stock,NYSE,stock
 KKR^D,US,KKR & Co. Inc. 6.25% Series D Mandatory Convertible Preferred Stock,NYSE,stock
@@ -1935,7 +1937,7 @@ PRIF^K,US,Priority Income Fund Inc. 7.000% Series K Cumulative Preferred Stock,N
 PRIM,US,Primoris Services Corporation Common Stock,NYSE,stock
 PRKS,US,United Parks & Resorts Inc. Common Stock,NYSE,stock
 PRLB,US,Proto Labs Inc. Common stock,NYSE,stock
-PRM,US,Perimeter Solutions SA Common Stock,NYSE,stock
+PRM,US,Perimeter Group Inc. Common Stock,NYSE,stock
 PRMB,US,Primo Brands Corporation Class A Common Stock,NYSE,stock
 PRS,US,Prudential Financial Inc. 5.625% Junior Subordinated Notes due 2058,NYSE,stock
 PRSU,US,Pursuit Attractions and Hospitality Inc. Common Stock,NYSE,stock
@@ -1977,7 +1979,6 @@ PVH,US,PVH Corp. Common Stock,NYSE,stock
 PVL,US,Permianville Royalty Trust Units of Beneficial Interest,NYSE,stock
 PWR,US,Quanta Services Inc. Common Stock,NYSE,stock
 PXED,US,Phoenix Education Partners Inc. Common Stock,NYSE,stock
-PYT,US,PPlus Tr GSC-2 Tr Ctf Fltg Rate,NYSE,stock
 Q,US,Qnity Electronics Inc. Common Stock,NYSE,stock
 QGEN,US,Qiagen N.V. Common Shares,NYSE,stock
 QLEP,US,Quantum Leap Acquisition Corp Class A Ordinary Shares,NYSE,stock
