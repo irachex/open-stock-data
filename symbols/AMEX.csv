@@ -26,6 +26,7 @@ BCV,US,Bancroft Fund Ltd.,AMEX,stock
 BCV^A,US,Bancroft Fund Limited 5.375% Series A Cumulative Preferred Shares,AMEX,stock
 BDL,US,Flanigan's Enterprises Inc. Common Stock,AMEX,stock
 BESS,US,Bimergen Energy Corporation Common Stock,AMEX,stock
+BESS.WS,US,Bimergen Energy Corporation Warrants each share exercisable to purchase one share of Common Stock,AMEX,stock
 BHB,US,Bar Harbor Bankshares Inc. Common Stock,AMEX,stock
 BHM,US,Bluerock Homes Trust Inc. Class A Common Stock,AMEX,stock
 BKTI,US,BK Technologies Corporation Common Stock,AMEX,stock
@@ -53,6 +54,7 @@ CMT,US,Core Molding Technologies Inc Common Stock,AMEX,stock
 COE,US,51Talk Online Education Group American depositary shares each representing 60 Class A ordinary shares,AMEX,stock
 COHN,US,Cohen & Company Inc.,AMEX,stock
 COPR,US,Idaho Copper Corporation Common Stock,AMEX,stock
+COPR.WS,US,Idaho Copper Corporation Common Stock Purchase Warrant,AMEX,stock
 CPHI,US,China Pharma Holdings Inc. Common Stock,AMEX,stock
 CRF,US,Cornerstone Total Return Fund Inc. (The) Common Stock,AMEX,stock
 CTGO,US,Contango Silver & Gold Inc. Common Stock,AMEX,stock
@@ -114,6 +116,7 @@ GPUS^D,US,Hyperscale Data Inc. 13.00% Series D Cumulative Redeemable Perpetual P
 GRF,US,Eagle Capital Growth Fund Inc. Common Stock,AMEX,stock
 GRO,US,Brazil Potash Corp. Common Shares,AMEX,stock
 GROY,US,Gold Royalty Corp. Common Shares,AMEX,stock
+GROY.WS,US,Gold Royalty Corp. Warrants,AMEX,stock
 GTE,US,Gran Tierra Energy Inc. Common Stock,AMEX,stock
 GUNN,US,Gunnison Copper Corp. American Depositary Shares (each representing thirty (30) Common Shares),AMEX,stock
 HLSQ,US,Tessera Defense and Homeland Security Inc. Common Stock,AMEX,stock
@@ -122,6 +125,7 @@ HSLV,US,Highlander Silver Corp. Common Shares,AMEX,stock
 HYLN,US,Hyliion Holdings Corp. Class A Common Stock,AMEX,stock
 IAF,US,abrdn Australia Equity Fund Inc. Common Stock,AMEX,stock
 IAUX,US,i-80 Gold Corp. Common Shares,AMEX,stock
+IAUX.WS,US,i-80 Gold Corp. Warrants each warrant exercisable for one Common Share at an exercise price of $0.70,AMEX,stock
 IBO,US,Impact BioMedical Inc. Common Stock,AMEX,stock
 IDR,US,Idaho Strategic Resources Inc. Common Stock,AMEX,stock
 IE,US,Ivanhoe Electric Inc. Common Stock,AMEX,stock
@@ -189,6 +193,7 @@ NSRX,US,Nasus Pharma Ltd. Ordinary Shares,AMEX,stock
 NSTR,US,NorthStar Earth & Space Enterprises Inc. Common Shares,AMEX,stock
 NTIP,US,Network-1 Technologies Inc. Common Stock,AMEX,stock
 NVA,US,Nova Minerals Corp Common Stock,AMEX,stock
+NVA.WS,US,Nova Minerals Corp Warrants to Purchase Common Stock,AMEX,stock
 NXB,US,NextBoat Inc. Common Stcok,AMEX,stock
 OBE,US,Obsidian Energy Ltd. Common Shares,AMEX,stock
 OGEN,US,Oragenics Inc. Common Stock,AMEX,stock
@@ -203,6 +208,7 @@ PCG^B,US,Pacific Gas & Electric Co. 5 1/2% Preferred Stock,AMEX,stock
 PCG^C,US,Pacific Gas & Electric Co. 5% 1st Preferred Stock,AMEX,stock
 PCG^D,US,Pacific Gas & Electric Co. 5% 1st  Red. Preferred Stock,AMEX,stock
 PCG^E,US,Pacific Gas & Electric Co. 5% 1st A Preferred Stock,AMEX,stock
+PCG^G,US,Pacific Gas & Electric Co. 4.80% 1st Preferred Stock,AMEX,stock
 PCG^H,US,Pacific Gas & Electric Co. 4.50% 1st Preferred Stock,AMEX,stock
 PED,US,Pedevco Corp. Common Stock,AMEX,stock
 PHXE^,US,Phoenix Energy One LLC Series A Cumulative Redeemable Preferred Shares,AMEX,stock
@@ -242,6 +248,7 @@ SIF,US,SIFCO Industries Inc. Common Stock,AMEX,stock
 SIM,US,Grupo Simec S.A.B. de C.V. American Depositary Shares,AMEX,stock
 SLI,US,Standard Lithium Ltd. Common Shares,AMEX,stock
 SLND,US,Southland Holdings Inc. Common Stock,AMEX,stock
+SLND.WS,US,Southland Holdings Inc. Warrants,AMEX,stock
 SLSR,US,Solaris Resources Inc. Common Shares,AMEX,stock
 SMJF,US,SMJ International Holdings Inc. Class A Ordinary Shares,AMEX,stock
 SNSC,US,SunScout Holding Limited Class A Ordinary Shares,AMEX,stock
