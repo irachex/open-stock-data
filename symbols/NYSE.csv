@@ -181,7 +181,6 @@ ARDT,US,Ardent Health Inc. Common Stock,NYSE,stock
 ARE,US,Alexandria Real Estate Equities Inc. Common Stock,NYSE,stock
 ARES,US,Ares Management Corporation Class A Common Stock,NYSE,stock
 ARES^B,US,Ares Management Corporation 6.75% Series B Mandatory Convertible Preferred Stock,NYSE,stock
-ARI,US,Apollo Commercial Real Estate Finance Inc,NYSE,stock
 ARIS,US,Aris Mining Corporation Common Shares,NYSE,stock
 ARL,US,American Realty Investors Inc. Common Stock,NYSE,stock
 ARLO,US,Arlo Technologies Inc. Common Stock,NYSE,stock
@@ -610,6 +609,7 @@ CON,US,Concentra Group Holdings Parent Inc. Common Stock,NYSE,stock
 COOK,US,Traeger Inc. Common Stock,NYSE,stock
 COP,US,ConocoPhillips Common Stock,NYSE,stock
 COPL,US,Copley Acquisition Corp Ordinary Shares,NYSE,stock
+COPL.WS,US,Copley Acquisition Corp Redeemable warrants each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50,NYSE,stock
 COR,US,Cencora Inc. Common Stock,NYSE,stock
 COSO,US,CoastalSouth Bancshares Inc. Common Stock,NYSE,stock
 COTY,US,Coty Inc. Class A Common Stock,NYSE,stock
@@ -1013,6 +1013,7 @@ FTRA,US,FutureCorp Space Acquisition 1 Class A Ordinary Shares,NYSE,stock
 FTS,US,Fortis Inc. Common Shares,NYSE,stock
 FTV,US,Fortive Corporation Common Stock,NYSE,stock
 FTW,US,Presidio Production Company Class A Common Stock,NYSE,stock
+FTW.WS,US,Presidio Production Company Warrants each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share,NYSE,stock
 FUBO,US,FuboTV Inc. Class A Common Stock,NYSE,stock
 FUL,US,H. B. Fuller Company Common Stock,NYSE,stock
 FUN,US,Six Flags Entertainment Corporation Common Stock New,NYSE,stock
@@ -1229,6 +1230,8 @@ HVT/A,US,Haverty Furniture Companies Inc.,NYSE,stock
 HWM,US,Howmet Aerospace Inc. Common Stock,NYSE,stock
 HXL,US,Hexcel Corporation Common Stock,NYSE,stock
 HY,US,Hyster-Yale Inc. Class A common stock,NYSE,stock
+HYAC,US,Haymaker Acquisition Corp V,NYSE,stock
+HYAC.WS,US,Haymaker Acquisition Corp V,NYSE,stock
 HYI,US,Western Asset High Yield Opportunity Fund Inc. Common Stock,NYSE,stock
 HYT,US,Blackrock Corporate High Yield Fund Inc. Common Stock,NYSE,stock
 HZO,US,MarineMax Inc.  (FL) Common Stock,NYSE,stock
@@ -1609,6 +1612,7 @@ MSIF,US,MSC Income Fund Inc. Common Stock,NYSE,stock
 MSM,US,MSC Industrial Direct Company Inc. Common Stock,NYSE,stock
 MT,US,Arcelor Mittal NY Registry Shares NEW,NYSE,stock
 MTAL,US,Metals Acquisition Corp. II Class A Ordinary Shares,NYSE,stock
+MTAL.WS,US,Metals Acquisition Corp. II Warrants each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share,NYSE,stock
 MTB,US,M&T Bank Corporation Common Stock,NYSE,stock
 MTB^H,US,M&T Bank Corporation Perpetual Fixed-to-Floating Rate Non-Cumulative Preferred Stock Series H,NYSE,stock
 MTB^J,US,M&T Bank Corporation Depositary Shares each representing a 1/400th ownership interest in a share of Perpetual 7.500% Non-Cumulative Preferred Stock Series J,NYSE,stock
@@ -2157,6 +2161,7 @@ SBS,US,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp American D
 SBSI,US,Southside Bancshares Inc. Common Stock,NYSE,stock
 SBSW,US,D/B/A Sibanye-Stillwater Limited ADS,NYSE,stock
 SBXE,US,SilverBox Corp V Class A Ordinary Shares,NYSE,stock
+SBXE.WS,US,SilverBox Corp V Redeemable warrants each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50,NYSE,stock
 SCCO,US,Southern Copper Corporation Common Stock,NYSE,stock
 SCD,US,LMP Capital and Income Fund Inc. Common Stock,NYSE,stock
 SCE^G,US,SCE Trust II Trust Preferred Securities,NYSE,stock
