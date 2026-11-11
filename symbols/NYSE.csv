@@ -307,6 +307,7 @@ BDN,US,Brandywine Realty Trust Common Stock,NYSE,stock
 BDX,US,Becton Dickinson and Company Common Stock,NYSE,stock
 BE,US,Bloom Energy Corporation Class A Common Stock,NYSE,stock
 BEBE,US,TGE Value Creative Solutions Corp Class A Ordinary Shares,NYSE,stock
+BEBE.WS,US,TGE Value Creative Solutions Corp Redeemable warrants each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share,NYSE,stock
 BEKE,US,KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),NYSE,stock
 BEN,US,Franklin Templeton Inc. Common Stock,NYSE,stock
 BEP,US,Brookfield Renewable Partners L.P. Limited Partnership Units,NYSE,stock
@@ -1186,6 +1187,7 @@ HIW,US,Highwoods Properties Inc. Common Stock,NYSE,stock
 HIX,US,Western Asset High Income Fund II Inc. Common Stock,NYSE,stock
 HKD,US,AMTD Digital Inc. American Depositary Shares (every five of which represent two Class A Ordinary Shares),NYSE,stock
 HL,US,Hecla Mining Company Common Stock,NYSE,stock
+HL^B,US,Hecla Mining Company Preferred Stock,NYSE,stock
 HLF,US,Herbalife Ltd. Common Shares,NYSE,stock
 HLI,US,Houlihan Lokey Inc. Class A Common Stock,NYSE,stock
 HLIO,US,Helios Technologies Inc. Common Stock,NYSE,stock
