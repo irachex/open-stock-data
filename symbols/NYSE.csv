@@ -515,8 +515,6 @@ CFG^E,US,Citizens Financial Group Inc. Depositary Shares Each Representing 1/40t
 CFG^H,US,Citizens Financial Group Inc. Depositary Shares Each Representing a 1/40th Interest in a Share of 7.375% Fixed-Rate Non-Cumulative Perpetual Preferred Stock Series H,NYSE,stock
 CFG^I,US,Citizens Financial Group Inc. Depositary Shares Each Representing a 1/40th Interest in a Share of 6.500% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock Series I,NYSE,stock
 CFND,US,C1 Fund Inc. Common Stock,NYSE,stock
-CFR,US,Cullen/Frost Bankers Inc. Common Stock,NYSE,stock
-CFR^B,US,Cullen/Frost Bankers Inc. Depositary Shares each representing a 1/40th ownership interest in a share of 4.450% non-cumulative perpetual preferred stock Series B,NYSE,stock
 CFTR^A,US,Cantor Fitzgerald Income Trust Inc. 9.50% Series A Cumulative Redeemable Preferred Stock,NYSE,stock
 CGAU,US,Centerra Gold Inc. Common Shares,NYSE,stock
 CHCT,US,Community Healthcare Trust Incorporated Common Stock,NYSE,stock
@@ -897,6 +895,7 @@ ETN,US,Eaton Corporation PLC Ordinary Shares,NYSE,stock
 ETO,US,Eaton Vance Tax-Advantage Global Dividend Opp Common Stock,NYSE,stock
 ETR,US,Entergy Corporation Common Stock,NYSE,stock
 ETSS,US,Energy Transition Special Opportunities Class A Ordinary Shares,NYSE,stock
+ETSS.WS,US,Energy Transition Special Opportunities Warrants each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50,NYSE,stock
 ETSY,US,Etsy Inc. Common Stock,NYSE,stock
 ETV,US,Eaton Vance Corporation Eaton Vance Tax-Managed Buy-Write Opportunities Fund Common Shares of Beneficial Interest,NYSE,stock
 ETW,US,Eaton Vance Corporation Eaton Vance Tax-Managed Global Buy-Write Opportunites Fund Common Shares of Beneficial Interest,NYSE,stock
