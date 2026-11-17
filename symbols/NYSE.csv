@@ -23,7 +23,6 @@ ABX,US,Abacus Global Management Inc. Class A Common Stock,NYSE,stock
 ABXL,US,Abacus Global Management Inc. 9.875% Fixed Rate Senior Notes due 2028,NYSE,stock
 ACCO,US,Acco Brands Corporation Common Stock,NYSE,stock
 ACEL,US,Accel Entertainment Inc.,NYSE,stock
-ACH,US,Accendra Health Inc. Common Stock,NYSE,stock
 ACHR,US,Archer Aviation Inc. Class A Common Stock,NYSE,stock
 ACI,US,Albertsons Companies Inc. Class A Common Stock,NYSE,stock
 ACM,US,AECOM Common Stock,NYSE,stock
@@ -902,6 +901,7 @@ ETW,US,Eaton Vance Corporation Eaton Vance Tax-Managed Global Buy-Write Opportun
 ETX,US,Eaton Vance Municipal Income 2028 Term Trust Common Shares of Beneficial Interest,NYSE,stock
 ETY,US,Eaton Vance Tax-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest,NYSE,stock
 EVAC,US,EQV Ventures Acquisition Corp. II Class A Ordinary Shares,NYSE,stock
+EVAC.WS,US,EQV Ventures Acquisition Corp. II Redeemable Warrants each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share,NYSE,stock
 EVC,US,Entravision Communications Corporation Common Stock,NYSE,stock
 EVEX,US,Eve Holding Inc. Common Stock,NYSE,stock
 EVF,US,Eaton Vance Senior Income Trust Common Stock,NYSE,stock
@@ -1091,7 +1091,6 @@ GLOP^B,US,GasLog Partners LP 8.200% Series B Cumulative Redeemable Perpetual Fix
 GLOP^C,US,GasLog Partners LP 8.500% Series C Cumulative Redeemable Perpetual Fixed to Floating Rate Preference Units,NYSE,stock
 GLP,US,Global Partners LP Common Units representing Limited Partner Interests,NYSE,stock
 GLW,US,Corning Incorporated Common Stock,NYSE,stock
-GM,US,General Motors Company Common Stock,NYSE,stock
 GME,US,GameStop Corporation Common Stock,NYSE,stock
 GMED,US,Globus Medical Inc. Class A Common Stock,NYSE,stock
 GMRS,US,GMR Solutions Inc. Class A Common Stock,NYSE,stock
@@ -1240,6 +1239,7 @@ HYAC,US,Haymaker Acquisition Corp V Class A Ordinary Shares,NYSE,stock
 HYAC.WS,US,Haymaker Acquisition Corp V Redeemable warrants each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50,NYSE,stock
 HYI,US,Western Asset High Yield Opportunity Fund Inc. Common Stock,NYSE,stock
 HYT,US,Blackrock Corporate High Yield Fund Inc. Common Stock,NYSE,stock
+HZN,US,Bright Horizon Energy Corporation Common Stock,NYSE,stock
 HZO,US,MarineMax Inc.  (FL) Common Stock,NYSE,stock
 IAG,US,Iamgold Corporation Ordinary Shares,NYSE,stock
 IBM,US,International Business Machines Corporation Common Stock,NYSE,stock
@@ -1578,7 +1578,7 @@ MNR,US,Mach Natural Resources LP Common Units representing Limited Partner Inter
 MNSO,US,MINISO Group Holding Limited American Depositary Shares each representing four Ordinary Shares,NYSE,stock
 MNTN,US,MNTN Inc. Class A Common Stock,NYSE,stock
 MO,US,Altria Group Inc.,NYSE,stock
-MOD,US,Modine Manufacturing Company Common Stock,NYSE,stock
+MOD,US,Modexus Solutions Inc. Common Stock,NYSE,stock
 MOG.B,US,Moog Inc. Class B Common Stock,NYSE,stock
 MOGU,US,MOGU Inc. American Depositary Shares (each  representing 25 Class A Ordinary Shares),NYSE,stock
 MOH,US,Molina Healthcare Inc Common Stock,NYSE,stock
@@ -1674,6 +1674,7 @@ NCZ,US,Virtus Convertible & Income Fund II Common Shares of Beneficial Interest,
 NCZ^A,US,Virtus Convertible & Income Fund II 5.50% Series A Cumulative Preferred Shares,NYSE,stock
 NDMO,US,Nuveen Dynamic Municipal Opportunities Fund Common Shares of Beneficial Interest,NYSE,stock
 NE,US,Noble Corporation plc A Ordinary Shares,NYSE,stock
+NE.WS,US,Noble Corporation plc Tranche 1 Warrants,NYSE,stock
 NEA,US,Nuveen AMT-Free Quality Municipal Income Fund Common Shares of Beneficial Interest Par Value $.01,NYSE,stock
 NEE,US,NextEra Energy Inc. Common Stock,NYSE,stock
 NEE^N,US,NextEra Energy Capital Holdings Inc. Series N Junior Subordinated Debentures due March 1 2079,NYSE,stock
@@ -1955,6 +1956,7 @@ PNNT,US,PennantPark Investment Corporation Common Stock,NYSE,stock
 PNR,US,Pentair plc. Ordinary Share,NYSE,stock
 PNW,US,Pinnacle West Capital Corporation Common Stock,NYSE,stock
 POR,US,Portland General Electric Co Common Stock,NYSE,stock
+PORT,US,Southport Acquisition Corp. II Class A Ordinary Shares,NYSE,stock
 POST,US,Post Holdings Inc. Common Stock,NYSE,stock
 PPG,US,PPG Industries Inc. Common Stock,NYSE,stock
 PPL,US,PPL Corporation Common Stock,NYSE,stock
@@ -2692,6 +2694,7 @@ XYZ,US,Block Inc. Class A Common Stock,NYSE,stock
 XZO,US,Exzeo Group Inc. Common Stock,NYSE,stock
 YALA,US,Yalla Group Limited American Depositary Shares each representing one Class A Ordinary Share,NYSE,stock
 YCY,US,AA Mission Acquisition Corp. II Class A Ordinary Shares,NYSE,stock
+YCY.WS,US,AA Mission Acquisition Corp. II Warrants each whole warrant entitles to purchase one Class A ordinary share at a price of $11.50 per share,NYSE,stock
 YELP,US,Yelp Inc. Common Stock,NYSE,stock
 YETI,US,YETI Holdings Inc. Common Stock,NYSE,stock
 YEXT,US,Yext Inc. Common Stock,NYSE,stock

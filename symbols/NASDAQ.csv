@@ -269,6 +269,7 @@ AOUT,US,American Outdoor Brands Inc. Common Stock,NASDAQ,stock
 APA,US,APA Corporation Common Stock,NASDAQ,stock
 APAC,US,StoneBridge Acquisition II Corporation Class A Ordinary Shares,NASDAQ,stock
 APACR,US,StoneBridge Acquisition II Corporation Rights,NASDAQ,stock
+APACU,US,StoneBridge Acquisition II Corporation Units,NASDAQ,stock
 APC,US,ARKO Petroleum Corp. Class A Common Stock,NASDAQ,stock
 APEI,US,American Public Education Inc. Common Stock,NASDAQ,stock
 API,US,Agora Inc. American Depositary Shares,NASDAQ,stock
@@ -626,7 +627,9 @@ BRLS,US,Borealis Foods Inc. Class A Common Shares,NASDAQ,stock
 BRLSW,US,Borealis Foods Inc. Warrant,NASDAQ,stock
 BRLT,US,Brilliant Earth Group Inc. Class A Common Stock,NASDAQ,stock
 BRNX,US,BrenX Ltd. Ordinary Shares,NASDAQ,stock
+BRRK,US,Bluerock Acquisition Corp. II Class A Ordinary Shares,NASDAQ,stock
 BRRKU,US,Bluerock Acquisition Corp. II Units,NASDAQ,stock
+BRRKW,US,Bluerock Acquisition Corp. II Warrants,NASDAQ,stock
 BRTM,US,B&R Technology Merger Corp. Class A Ordinary Shares,NASDAQ,stock
 BRTMU,US,B&R Technology Merger Corp. Units,NASDAQ,stock
 BRTMW,US,B&R Technology Merger Corp. Warrants,NASDAQ,stock
@@ -1175,7 +1178,6 @@ DUKRW,US,DUKE Robotics Corp. Warrant,NASDAQ,stock
 DUO,US,Fangdd Network Group Ltd. Class A Ordinary Shares,NASDAQ,stock
 DUOL,US,Duolingo Inc. Class A Common Stock,NASDAQ,stock
 DUOT,US,Duos Technologies Group Inc. Common Stock,NASDAQ,stock
-DVLT,US,Datavault AI Inc. Common Stock,NASDAQ,stock
 DWSN,US,Dawson Geophysical Company Common Stock,NASDAQ,stock
 DWTX,US,Dogwood Therapeutics Inc. Common Stock,NASDAQ,stock
 DXCM,US,DexCom Inc. Common Stock,NASDAQ,stock
@@ -1621,6 +1623,7 @@ GLSI,US,Greenwich LifeSciences Inc. Common Stock,NASDAQ,stock
 GLUE,US,Monte Rosa Therapeutics Inc. Common Stock,NASDAQ,stock
 GLXG,US,Galaxy Payroll Group Limited Class A Ordinary Shares,NASDAQ,stock
 GLXY,US,Galaxy Digital Inc. Class A Common Stock,NASDAQ,stock
+GM,US,General Motors Company Common Stock,NASDAQ,stock
 GMAB,US,Genmab A/S ADS,NASDAQ,stock
 GMEX,US,GMEX ROBOTICS CORPORATION Class A Ordinary Shares,NASDAQ,stock
 GMHS,US,Gamehaus Holdings Inc. Class A Ordinary Shares,NASDAQ,stock
@@ -1691,6 +1694,7 @@ GT,US,The Goodyear Tire & Rubber Company Common Stock,NASDAQ,stock
 GTBP,US,GT Biopharma Inc. Common Stock,NASDAQ,stock
 GTEC,US,Greenland Technologies Holding Corporation Class A Ordinary Shares,NASDAQ,stock
 GTEN,US,Gores Holdings X Inc. Class A ordinary shares,NASDAQ,stock
+GTENU,US,Gores Holdings X Inc. Units,NASDAQ,stock
 GTENW,US,Gores Holdings X Inc. Warrants,NASDAQ,stock
 GTERA,US,Globa Terra Acquisition Corporation Class A Ordinary Shares,NASDAQ,stock
 GTERR,US,Globa Terra Acquisition Corporation Rights,NASDAQ,stock
@@ -1892,6 +1896,7 @@ IFBD,US,Infobird Co. Ltd Ordinary Shares,NASDAQ,stock
 IFRX,US,InflaRx N.V. Common Stock,NASDAQ,stock
 IGAC,US,Invest Green Acquisition Corporation Class A Ordinary Shares,NASDAQ,stock
 IGACR,US,Invest Green Acquisition Corporation Rights,NASDAQ,stock
+IGACU,US,Invest Green Acquisition Corporation Units,NASDAQ,stock
 IGIC,US,International General Insurance Holdings Ltd. Ordinary Share,NASDAQ,stock
 IHRT,US,iHeartMedia Inc. Class A Common Stock,NASDAQ,stock
 III,US,Information Services Group Inc. Common Stock,NASDAQ,stock
@@ -2597,6 +2602,7 @@ NCNO,US,nCino Inc. Common Stock,NASDAQ,stock
 NCO,US,Southern Cross Acquisition I Corp. Ordinary Shares,NASDAQ,stock
 NCOOR,US,Southern Cross Acquisition I Corp. Rights,NASDAQ,stock
 NCOOU,US,Southern Cross Acquisition I Corp. Units,NASDAQ,stock
+NCOOW,US,Southern Cross Acquisition I Corp. Warrants,NASDAQ,stock
 NCPL,US,Netcapital Inc. Common Stock,NASDAQ,stock
 NCPLW,US,Netcapital Inc. Warrants,NASDAQ,stock
 NCRA,US,Nocera Inc. Common Stock,NASDAQ,stock
@@ -2675,6 +2681,7 @@ NORD,US,Nordicus Partners Corporation Common Stock,NASDAQ,stock
 NOVT,US,Novanta Inc. Common Stock,NASDAQ,stock
 NOVTU,US,Novanta Inc. Tangible Equity Units,NASDAQ,stock
 NPAC,US,New Providence Acquisition Corp. III Class A Ordinary Shares,NASDAQ,stock
+NPACU,US,New Providence Acquisition Corp. III Units,NASDAQ,stock
 NPACW,US,New Providence Acquisition Corp. III Warrants,NASDAQ,stock
 NPCE,US,Neuropace Inc. Common Stock,NASDAQ,stock
 NPT,US,Texxon Holding Limited Ordinary shares,NASDAQ,stock
@@ -2976,6 +2983,7 @@ PEBO,US,Peoples Bancorp Inc. Common Stock,NASDAQ,stock
 PECE,US,Peace Acquisition Corp Ordinary Shares,NASDAQ,stock
 PECER,US,Peace Acquisition Corp Right,NASDAQ,stock
 PECEU,US,Peace Acquisition Corp Units,NASDAQ,stock
+PECEW,US,Peace Acquisition Corp Warrant,NASDAQ,stock
 PECO,US,Phillips Edison & Company Inc. Common Stock,NASDAQ,stock
 PEGA,US,Pegasystems Inc. Common Stock,NASDAQ,stock
 PENG,US,Penguin Solutions Inc. Common Stock,NASDAQ,stock
@@ -3402,6 +3410,7 @@ SCATU,US,Southern Cross Acquisition II Corp. Units,NASDAQ,stock
 SCATW,US,Southern Cross Acquisition II Corp. Warrants,NASDAQ,stock
 SCHL,US,Scholastic Corporation Common Stock,NASDAQ,stock
 SCII,US,SC II Acquisition Corp. Class A ordinary share,NASDAQ,stock
+SCIIU,US,SC II Acquisition Corp. Units,NASDAQ,stock
 SCKT,US,Socket Mobile Inc. Common Stock,NASDAQ,stock
 SCLX,US,Scilex Holding Company Common Stock,NASDAQ,stock
 SCLXW,US,Scilex Holding Company Warrant,NASDAQ,stock
@@ -3574,6 +3583,7 @@ SPCB,US,SuperCom Ltd. Ordinary Shares (Israel),NASDAQ,stock
 SPCX,US,Space Exploration Technologies Corp. Class A Common Stock,NASDAQ,stock
 SPEG,US,Silver Pegasus Acquisition Corp Class A Ordinary Shares,NASDAQ,stock
 SPEGR,US,Silver Pegasus Acquisition Corp Rights.,NASDAQ,stock
+SPEGU,US,Silver Pegasus Acquisition Corp Unit,NASDAQ,stock
 SPFI,US,South Plains Financial Inc. Common Stock,NASDAQ,stock
 SPHL,US,Springview Holdings Ltd Class A Ordinary Shares,NASDAQ,stock
 SPOK,US,Spok Holdings Inc. Common Stock,NASDAQ,stock
@@ -3946,7 +3956,6 @@ VALN,US,Valneva SE American Depositary Shares,NASDAQ,stock
 VALU,US,Value Line Inc. Common Stock,NASDAQ,stock
 VANI,US,Vivani Medical Inc. Common Stock (DE),NASDAQ,stock
 VBIO,US,Valion Bio Inc. Common Stock,NASDAQ,stock
-VBNK,US,VersaBank Common Shares,NASDAQ,stock
 VC,US,Visteon Corporation Common Stock,NASDAQ,stock
 VCEL,US,Vericel Corporation Common Stock,NASDAQ,stock
 VCIG,US,VCI Global Limited Ordinary Share,NASDAQ,stock
@@ -4082,6 +4091,7 @@ WKHS,US,Workhorse Group Inc. Common Stock,NASDAQ,stock
 WKSP,US,Worksport Ltd. Common Stock,NASDAQ,stock
 WLCO,US,Wilco 63 Corporation Class A Ordinary Shares,NASDAQ,stock
 WLCOU,US,Wilco 63 Corporation Units,NASDAQ,stock
+WLCOW,US,Wilco 63 Corporation Warrant,NASDAQ,stock
 WLDN,US,Willdan Group Inc. Common Stock,NASDAQ,stock
 WLDS,US,Wearable Devices Ltd. Ordinary Share,NASDAQ,stock
 WLDSW,US,Wearable Devices Ltd. Warrant,NASDAQ,stock
