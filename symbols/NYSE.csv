@@ -349,6 +349,7 @@ BHR^D,US,Braemar Hotels & Resorts Inc. 8.25% Series D Cumulative Preferred Stock
 BHV,US,BlackRock Virginia Municipal Bond Trust,NYSE,stock
 BHVN,US,Biohaven Ltd. Common Shares,NYSE,stock
 BIII,US,Black Spade Acquisition III Co Class A Ordinary Shares,NYSE,stock
+BIII.WS,US,Black Spade Acquisition III Co Redeemable warrants each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50,NYSE,stock
 BILL,US,BILL Holdings Inc. Common Stock,NYSE,stock
 BIO,US,Bio-Rad Laboratories Inc. Class A Common Stock,NYSE,stock
 BIO/B,US,Bio-Rad Laboratories Inc.,NYSE,stock
@@ -364,7 +365,6 @@ BIT,US,BlackRock Multi-Sector Income Trust Common Shares of Beneficial Interest,
 BJ,US,BJ's Wholesale Club Holdings Inc. Common Stock,NYSE,stock
 BKD,US,Brookdale Senior Living Inc. Common Stock,NYSE,stock
 BKE,US,Buckle Inc. (The) Common Stock,NYSE,stock
-BKH,US,Black Hills Corporation Common Stock,NYSE,stock
 BKKT,US,Bakkt Inc. Class A Common Stock,NYSE,stock
 BKSY,US,BlackSky Technology Inc. Class A Common Stock,NYSE,stock
 BKT,US,BlackRock Income Trust Inc. (The),NYSE,stock
@@ -1298,7 +1298,6 @@ IRS,US,IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each r
 IRT,US,Independence Realty Trust Inc. Common Stock,NYSE,stock
 ISD,US,PGIM High Yield Bond Fund Inc.,NYSE,stock
 IT,US,Gartner Inc. Common Stock,NYSE,stock
-ITGR,US,Integer Holdings Corporation Common Stock,NYSE,stock
 ITT,US,ITT Inc. Common Stock,NYSE,stock
 ITUB,US,Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares),NYSE,stock
 ITW,US,Illinois Tool Works Inc. Common Stock,NYSE,stock
@@ -1313,6 +1312,7 @@ JACS,US,Jackson Acquisition Company II Class A Ordinary Shares,NYSE,stock
 JAN,US,Janus Living Inc. Class A-1 Common Stock,NYSE,stock
 JBGS,US,JBG SMITH Properties Common Shares,NYSE,stock
 JBI,US,Janus International Group Inc. Common Stock,NYSE,stock
+JBK,US,Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I,NYSE,stock
 JBL,US,Jabil Inc. Common Stock,NYSE,stock
 JBS,US,JBS N.V. Class A Common Shares,NYSE,stock
 JBTM,US,JBT Marel Corporation Common Stock,NYSE,stock
@@ -1414,7 +1414,6 @@ KRSP.WS,US,Rice Acquisition Corporation 3 Redeemable warrants each whole warrant
 KSS,US,Kohl's Corporation Common Stock,NYSE,stock
 KT,US,KT Corporation Common Stock,NYSE,stock
 KTB,US,Kontoor Brands Inc. Common Stock,NYSE,stock
-KTF,US,DWS Municipal Income Trust,NYSE,stock
 KTH,US,Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock,NYSE,stock
 KTN,US,Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS),NYSE,stock
 KVYO,US,Klaviyo Inc. Series A Common Stock,NYSE,stock
@@ -1461,6 +1460,7 @@ LNN,US,Lindsay Corporation Common Stock,NYSE,stock
 LOAR,US,Loar Holdings Inc. Common Stock,NYSE,stock
 LOB,US,Live Oak Bancshares Inc. Common Stock,NYSE,stock
 LOB^A,US,Live Oak Bancshares Inc. Depositary Shares Each Representing a 1/40th Interest in a Share of 8.375% Fixed Rate Series A Non-Cumulative Perpetual Preferred Stock,NYSE,stock
+LOB^B,US,Live Oak Bancshares Inc. Depositary Shares Each Representing a 1/40th Interest in a Share of 8.750% Fixed Rate Series B Non-Cumulative Perpetual Preferred Stock,NYSE,stock
 LOCL,US,Local Bounti Corporation Common Stock,NYSE,stock
 LOMA,US,Loma Negra Compania Industrial Argentina Sociedad Anonima ADS,NYSE,stock
 LOW,US,Lowe's Companies Inc. Common Stock,NYSE,stock
@@ -1478,7 +1478,6 @@ LUV,US,Southwest Airlines Company Common Stock,NYSE,stock
 LUXE,US,LuxExperience B.V. American Depositary Shares each representing one Ordinary Share,NYSE,stock
 LVS,US,Las Vegas Sands Corp. Common Stock,NYSE,stock
 LVWR,US,LiveWire Group Inc. Common Stock,NYSE,stock
-LVWR.WS,US,LiveWire Group Inc. Warrants each exercisable for one share of Common Stock at an exercise price of $11.50 per share,NYSE,stock
 LW,US,Lamb Weston Holdings Inc. Common Stock,NYSE,stock
 LXU,US,LSB Industries Inc. Common Stock,NYSE,stock
 LYB,US,LyondellBasell Industries NV Ordinary Shares Class A (Netherlands),NYSE,stock
@@ -2592,6 +2591,7 @@ VTR,US,Ventas Inc. Common Stock,NYSE,stock
 VTS,US,Vitesse Energy Inc. Common Stock,NYSE,stock
 VVR,US,Invesco Senior Income Trust Common Stock (DE),NYSE,stock
 VVV,US,Valvoline Inc. Common Stock,NYSE,stock
+VVVV,US,vVARDIS Holding AG Class A Ordinary Shares,NYSE,stock
 VVX,US,V2X Inc. Common Stock,NYSE,stock
 VYLR,US,Vylor Inc. Common Stock,NYSE,stock
 VYX,US,NCR Voyix Corporation Common Stock,NYSE,stock
