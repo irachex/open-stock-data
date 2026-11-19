@@ -93,6 +93,7 @@ FAX,US,abrdn Asia-Pacific Income Fund Inc. Common Stock,AMEX,stock
 FJET,US,Starfighters Space Inc. Common Stock,AMEX,stock
 FLYX,US,flyExclusive Inc. Class A Common Stock,AMEX,stock
 FLYX.WS,US,flyExclusive Inc. Redeemable warrants each whole warrant exercisable for one Class A common stock at an exercise price of $11.50 per share,AMEX,stock
+FMBM,US,F&M Bank Corp.,AMEX,stock
 FSI,US,Flexible Solutions International Inc. Common Stock (CDA),AMEX,stock
 FSP,US,Franklin Street Properties Corp. Common Stock,AMEX,stock
 FTF,US,Franklin Limited Duration Income Trust Common Shares of Beneficial Interest,AMEX,stock
@@ -154,7 +155,6 @@ LODE,US,Comstock Inc. Common Stock,AMEX,stock
 LPA,US,Logistic Properties of the Americas Ordinary Shares,AMEX,stock
 LSF,US,Laird Superfood Inc. Common Stock,AMEX,stock
 LUD,US,Luda Technology Group Limited Ordinary Shares,AMEX,stock
-LXFR,US,Luxfer Holdings PLC Ordinary Shares,AMEX,stock
 MAIA,US,MAIA Biotechnology Inc. Common Stock,AMEX,stock
 MCRP,US,Micropolis AI Robotics Ordinary Shares,AMEX,stock
 MDRN,US,Modern Mining Technology Corp. Common Shares,AMEX,stock
@@ -301,4 +301,5 @@ XPL,US,Solitario Resources Corp. Common Stock,AMEX,stock
 XTNT,US,Xtant Medical Holdings Inc. Common Stock,AMEX,stock
 YCBD,US,cbdMD Inc. Common Stock,AMEX,stock
 ZDGE,US,Zedge Inc. Class B Common Stock,AMEX,stock
+ZOAR,US,Zoar Limited Ordinary Shares,AMEX,stock
 ZONE,US,Zone Frontier Inc. Class B Common Stock,AMEX,stock
