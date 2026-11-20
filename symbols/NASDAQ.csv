@@ -238,7 +238,6 @@ AMLX,US,Amylyx Pharmaceuticals Inc. Common Stock,NASDAQ,stock
 AMOD,US,Alpha Modus Holdings Inc. Class A Common Stock,NASDAQ,stock
 AMODW,US,Alpha Modus Holdings Inc. Warrant,NASDAQ,stock
 AMPG,US,Amplitech Group Inc. Common Stock,NASDAQ,stock
-AMPGZ,US,Amplitech Group Inc. Series B Right,NASDAQ,stock
 AMPH,US,Amphastar Pharmaceuticals Inc. Common Stock,NASDAQ,stock
 AMPL,US,Amplitude Inc. Class A Common Stock,NASDAQ,stock
 AMRN,US,Amarin Corporation plc,NASDAQ,stock
@@ -264,6 +263,7 @@ ANNA,US,AleAnna Inc. Class A Common Stock,NASDAQ,stock
 ANNAW,US,AleAnna Inc. Warrant,NASDAQ,stock
 ANNX,US,Annexon Inc. Common Stock,NASDAQ,stock
 ANPA,US,Rich Sparkle Holdings Limited Ordinary Shares,NASDAQ,stock
+ANT,US,Anthropic PBC Class A Common Stock,NASDAQ,stock
 ANTA,US,Antalpha Platform Holding Company Class A Ordinary Shares,NASDAQ,stock
 ANTX,US,AN2 Therapeutics Inc. Common Stock,NASDAQ,stock
 AOSL,US,Alpha and Omega Semiconductor Limited Common Shares,NASDAQ,stock
@@ -607,6 +607,7 @@ BOTJ,US,Bank of the James Financial Group Inc. Common Stock,NASDAQ,stock
 BOXL,US,Boxlight Corporation Class A Common Stock,NASDAQ,stock
 BPAC,US,Blueport Acquisition Ltd Class A Ordinary Shares,NASDAQ,stock
 BPACR,US,Blueport Acquisition Ltd Rights,NASDAQ,stock
+BPACU,US,Blueport Acquisition Ltd Units,NASDAQ,stock
 BPOP,US,Popular Inc. Common Stock,NASDAQ,stock
 BPOPM,US,Popular Inc. Popular Capital Trust II - 6.125% Cumulative Monthly Income Trust Preferred Securities,NASDAQ,stock
 BPRN,US,Princeton Bancorp Inc. Common Stock (PA),NASDAQ,stock
@@ -830,6 +831,7 @@ CHCO,US,City Holding Company Common Stock,NASDAQ,stock
 CHDN,US,Churchill Downs Incorporated Common Stock,NASDAQ,stock
 CHEC,US,Chenghe Acquisition III Co. Class A Ordinary Share,NASDAQ,stock
 CHECU,US,Chenghe Acquisition III Co. Units,NASDAQ,stock
+CHECW,US,Chenghe Acquisition III Co. Warrants,NASDAQ,stock
 CHEF,US,The Chefs' Warehouse Inc. Common Stock,NASDAQ,stock
 CHGA,US,Change Agents Corporation Common Stock,NASDAQ,stock
 CHI,US,Calamos Convertible Opportunities and Income Fund Common Stock,NASDAQ,stock
@@ -1374,6 +1376,8 @@ FCNCO,US,First Citizens BancShares Inc. 5.625% Non-Cumulative Perpetual Preferre
 FCNCP,US,First Citizens BancShares Inc. Depositary Shares,NASDAQ,stock
 FCUV,US,Focus Universal Inc. Common Stock,NASDAQ,stock
 FDBC,US,Fidelity D & D Bancorp Inc. Common Stock,NASDAQ,stock
+FDGX,US,First Digital Acquisition Corp Ltd. Class A Ordinary Shares,NASDAQ,stock
+FDGXU,US,First Digital Acquisition Corp Ltd. Units,NASDAQ,stock
 FDMM,US,Freedom Metals Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
 FDMMU,US,Freedom Metals Acquisition Corp. Units,NASDAQ,stock
 FDMT,US,4D Molecular Therapeutics Inc. Common Stock,NASDAQ,stock
@@ -2224,6 +2228,7 @@ LENZ,US,LENZ Therapeutics Inc. Common Stock,NASDAQ,stock
 LEXX,US,Lexaria Bioscience Corp. Common Stock,NASDAQ,stock
 LFAC,US,Leapfrog Acquisition Corporation Class A Ordinary Shares,NASDAQ,stock
 LFACU,US,Leapfrog Acquisition Corporation Units,NASDAQ,stock
+LFACW,US,Leapfrog Acquisition Corporation Warrants,NASDAQ,stock
 LFCR,US,Lifecore Biomedical Inc. Common Stock,NASDAQ,stock
 LFMD,US,LifeMD Inc. Common Stock,NASDAQ,stock
 LFMDP,US,LifeMD Inc. 8.875% Series A Cumulative Perpetual Preferred Stock,NASDAQ,stock
@@ -2299,6 +2304,7 @@ LPAA,US,Launch One Acquisition Corp. Class A Ordinary shares,NASDAQ,stock
 LPAAU,US,Launch One Acquisition Corp. Unit,NASDAQ,stock
 LPAAW,US,Launch One Acquisition Corp. Warrant,NASDAQ,stock
 LPBB,US,Launch Two Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
+LPBBU,US,Launch Two Acquisition Corp. Unit,NASDAQ,stock
 LPBBW,US,Launch Two Acquisition Corp. Warrant,NASDAQ,stock
 LPCN,US,Lipocine Inc. Common Stock,NASDAQ,stock
 LPCV,US,Launchpad Cadenza Acquisition Corp I Class A Ordinary Share,NASDAQ,stock
@@ -2418,7 +2424,6 @@ MEGL,US,Magic Empire Global Limited Class A Ordinary Shares,NASDAQ,stock
 MELI,US,MercadoLibre Inc. Common Stock,NASDAQ,stock
 MENS,US,Jyong Biotech Ltd. Ordinary Shares,NASDAQ,stock
 MEOH,US,Methanex Corporation Common Stock,NASDAQ,stock
-MERC,US,Mercer International Inc. Common Stock,NASDAQ,stock
 MESH,US,Meshflow Acquisition Corp. Class A Ordinary Shares,NASDAQ,stock
 MESHW,US,Meshflow Acquisition Corp. Warrants,NASDAQ,stock
 MESO,US,Mesoblast Limited American Depositary Shares,NASDAQ,stock
@@ -2865,9 +2870,6 @@ OPAL,US,OPAL Fuels Inc. Class A Common Stock,NASDAQ,stock
 OPBK,US,OP Bancorp Common Stock,NASDAQ,stock
 OPCH,US,Option Care Health Inc. Common Stock,NASDAQ,stock
 OPEN,US,Opendoor Technologies Inc Common Stock,NASDAQ,stock
-OPENL,US,Opendoor Technologies Inc  Series A Warrants each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $13.00 per warrant,NASDAQ,stock
-OPENW,US,Opendoor Technologies Inc  Series K Warrants each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $9.00 per warrant,NASDAQ,stock
-OPENZ,US,Opendoor Technologies Inc  Series Z Warrants each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant,NASDAQ,stock
 OPHI,US,CollPlant Biotechnologies Ltd Ordinary Shares,NASDAQ,stock
 OPI,US,Office Properties Income Trust Common shares of beneficial interest,NASDAQ,stock
 OPK,US,OPKO Health Inc. Common Stock,NASDAQ,stock
@@ -3498,6 +3500,7 @@ SHOE,US,Shoe Station Group Inc. Common Stock,NASDAQ,stock
 SHOO,US,Steven Madden Ltd. Common Stock,NASDAQ,stock
 SHOP,US,Shopify Inc. Class A Subordinate Voting Shares,NASDAQ,stock
 SHOT,US,RMG ML Sports Holdings Class A Ordinary Shares,NASDAQ,stock
+SHOTR,US,RMG ML Sports Holdings Rights,NASDAQ,stock
 SHOTU,US,RMG ML Sports Holdings Unit,NASDAQ,stock
 SHPH,US,Shuttle Pharmaceuticals Holdings Inc. Common Stock,NASDAQ,stock
 SIBN,US,SI-BONE Inc. Common Stock,NASDAQ,stock
