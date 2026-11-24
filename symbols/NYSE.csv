@@ -352,10 +352,7 @@ BIII.WS,US,Black Spade Acquisition III Co Redeemable warrants each whole warrant
 BILL,US,BILL Holdings Inc. Common Stock,NYSE,stock
 BIO,US,Bio-Rad Laboratories Inc. Class A Common Stock,NYSE,stock
 BIO/B,US,Bio-Rad Laboratories Inc.,NYSE,stock
-BIP,US,Brookfield Infrastructure Partners LP Limited Partnership Units,NYSE,stock
-BIP^A,US,Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units Series 13,NYSE,stock
-BIP^B,US,Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units Series 14,NYSE,stock
-BIPC,US,Brookfield Infrastructure Corporation Brookfield Infrastructure Corporation,NYSE,stock
+BIP,US,Brookfield Infrastructure Partners Inc. Class A Subordinate Voting Shares,NYSE,stock
 BIPH,US,Brookfield Infrastructure Corporation 5.000% Subordinated Notes due 2081,NYSE,stock
 BIPI,US,BIP Bermuda Holdings I Limited 5.125% Perpetual Subordinated Notes,NYSE,stock
 BIPJ,US,Brookfield Infrastructure Corporation 7.250% Subordinated Notes due 2084,NYSE,stock
@@ -2267,7 +2264,7 @@ SOJF,US,Southern Company (The) Series 2025A 6.50% Junior Subordinated Notes due 
 SOLV,US,Solventum Corporation Common Stock,NYSE,stock
 SOMN,US,Southern Company (The) 2025 Series A Corporate Units,NYSE,stock
 SON,US,Sonoco Products Company Common Stock,NYSE,stock
-SONN,US,Southern Company (The),NYSE,stock
+SONN,US,Southern Company (The) 2026 Series A Corporate Units,NYSE,stock
 SONY,US,Sony Group Corporation American Depositary Shares,NYSE,stock
 SOR,US,Source Capital Inc. Cmn Shs of BI,NYSE,stock
 SOS,US,SOS Limited Class A Ordinary Shares,NYSE,stock
