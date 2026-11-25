@@ -353,6 +353,8 @@ BILL,US,BILL Holdings Inc. Common Stock,NYSE,stock
 BIO,US,Bio-Rad Laboratories Inc. Class A Common Stock,NYSE,stock
 BIO/B,US,Bio-Rad Laboratories Inc.,NYSE,stock
 BIP,US,Brookfield Infrastructure Partners Inc. Class A Subordinate Voting Shares,NYSE,stock
+BIPF^A,US,Brookfield Infrastructure Partners LP 5.125% Class A Preferred Limited Partnership Units Series 13,NYSE,stock
+BIPF^B,US,Brookfield Infrastructure Partners LP 5.000% Class A Preferred Limited Partnership Units Series 14,NYSE,stock
 BIPH,US,Brookfield Infrastructure Corporation 5.000% Subordinated Notes due 2081,NYSE,stock
 BIPI,US,BIP Bermuda Holdings I Limited 5.125% Perpetual Subordinated Notes,NYSE,stock
 BIPJ,US,Brookfield Infrastructure Corporation 7.250% Subordinated Notes due 2084,NYSE,stock
@@ -1011,6 +1013,7 @@ FTHY,US,First Trust High Yield Opportunities 2027 Term Fund Common Stock,NYSE,st
 FTI,US,TechnipFMC plc Ordinary Share,NYSE,stock
 FTK,US,Flotek Industries Inc. Common Stock,NYSE,stock
 FTRA,US,FutureCorp Space Acquisition 1 Class A Ordinary Shares,NYSE,stock
+FTRA.WS,US,FutureCorp Space Acquisition 1 Redeemable warrants each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50,NYSE,stock
 FTS,US,Fortis Inc. Common Shares,NYSE,stock
 FTV,US,Fortive Corporation Common Stock,NYSE,stock
 FTW,US,Presidio Production Company Class A Common Stock,NYSE,stock
