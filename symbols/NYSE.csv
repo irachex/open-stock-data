@@ -122,6 +122,7 @@ ALSN,US,Allison Transmission Holdings Inc. Common Stock,NYSE,stock
 ALTG,US,Alta Equipment Group Inc. Class A Common Stock,NYSE,stock
 ALTG^A,US,Alta Equipment Group Inc. Depositary Shares (each representing 1/1000th in a share of 10% Series A Cumulative Perpetual Preferred Stock),NYSE,stock
 ALUB,US,Alussa Energy Acquisition Corp. II Class A Ordinary Shares,NYSE,stock
+ALUB.U,US,Alussa Energy Acquisition Corp. II Units each consisting of one Class A ordinary share and one-third of one redeemable warrant,NYSE,stock
 ALUB.WS,US,Alussa Energy Acquisition Corp. II Redeemable Warrants each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share,NYSE,stock
 ALV,US,Autoliv Inc. Common Stock,NYSE,stock
 ALX,US,Alexander's Inc. Common Stock,NYSE,stock
@@ -306,6 +307,7 @@ BDN,US,Brandywine Realty Trust Common Stock,NYSE,stock
 BDX,US,Becton Dickinson and Company Common Stock,NYSE,stock
 BE,US,Bloom Energy Corporation Class A Common Stock,NYSE,stock
 BEBE,US,TGE Value Creative Solutions Corp Class A Ordinary Shares,NYSE,stock
+BEBE.U,US,TGE Value Creative Solutions Corp Units each consisting of one Class A ordinary share and one-half of one redeemable warrant,NYSE,stock
 BEBE.WS,US,TGE Value Creative Solutions Corp Redeemable warrants each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share,NYSE,stock
 BEKE,US,KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),NYSE,stock
 BEN,US,Franklin Templeton Inc. Common Stock,NYSE,stock
@@ -348,6 +350,7 @@ BHR^D,US,Braemar Hotels & Resorts Inc. 8.25% Series D Cumulative Preferred Stock
 BHV,US,BlackRock Virginia Municipal Bond Trust,NYSE,stock
 BHVN,US,Biohaven Ltd. Common Shares,NYSE,stock
 BIII,US,Black Spade Acquisition III Co Class A Ordinary Shares,NYSE,stock
+BIII.U,US,Black Spade Acquisition III Co Units each consisting of one Class A ordinary share and one-third of one redeemable warrant,NYSE,stock
 BIII.WS,US,Black Spade Acquisition III Co Redeemable warrants each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50,NYSE,stock
 BILL,US,BILL Holdings Inc. Common Stock,NYSE,stock
 BIO,US,Bio-Rad Laboratories Inc. Class A Common Stock,NYSE,stock
@@ -548,6 +551,7 @@ CION,US,CION Investment Corporation Common Stock,NYSE,stock
 CL,US,Colgate-Palmolive Company Common Stock,NYSE,stock
 CLB,US,Core Laboratories Inc. Common Stock,NYSE,stock
 CLBR,US,Colombier Acquisition Corp. III Class A Ordinary Shares,NYSE,stock
+CLBR.U,US,Colombier Acquisition Corp. III Units each consisting of one Class A ordinary share and one-eighth of one warrant,NYSE,stock
 CLBR.WS,US,Colombier Acquisition Corp. III Warrants each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share,NYSE,stock
 CLDT,US,Chatham Lodging Trust (REIT) Common Shares of Beneficial Interest,NYSE,stock
 CLDT^A,US,Chatham Lodging Trust (REIT) 6.625% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest,NYSE,stock
@@ -893,6 +897,7 @@ ETN,US,Eaton Corporation PLC Ordinary Shares,NYSE,stock
 ETO,US,Eaton Vance Tax-Advantage Global Dividend Opp Common Stock,NYSE,stock
 ETR,US,Entergy Corporation Common Stock,NYSE,stock
 ETSS,US,Energy Transition Special Opportunities Class A Ordinary Shares,NYSE,stock
+ETSS.U,US,Energy Transition Special Opportunities Units each consisting of one Class A ordinary share and one-half of one redeemable warrant,NYSE,stock
 ETSS.WS,US,Energy Transition Special Opportunities Warrants each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50,NYSE,stock
 ETSY,US,Etsy Inc. Common Stock,NYSE,stock
 ETV,US,Eaton Vance Corporation Eaton Vance Tax-Managed Buy-Write Opportunities Fund Common Shares of Beneficial Interest,NYSE,stock
@@ -934,6 +939,7 @@ FCF,US,First Commonwealth Financial Corporation Common Stock,NYSE,stock
 FCN,US,FTI Consulting Inc. Common Stock,NYSE,stock
 FCPT,US,Four Corners Property Trust Inc. Common Stock,NYSE,stock
 FCRS,US,FutureCrest Acquisition Corp. Class A Ordinary Shares,NYSE,stock
+FCRS.U,US,FutureCrest Acquisition Corp. Units each consisting of one Class A ordinary share and one-quarter of one redeemable warrant,NYSE,stock
 FCRS.WS,US,FutureCrest Acquisition Corp. Redeemable warrants each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50,NYSE,stock
 FCX,US,Freeport-McMoRan Inc. Common Stock,NYSE,stock
 FDS,US,FactSet Research Systems Inc. Common Stock,NYSE,stock
@@ -1013,6 +1019,7 @@ FTHY,US,First Trust High Yield Opportunities 2027 Term Fund Common Stock,NYSE,st
 FTI,US,TechnipFMC plc Ordinary Share,NYSE,stock
 FTK,US,Flotek Industries Inc. Common Stock,NYSE,stock
 FTRA,US,FutureCorp Space Acquisition 1 Class A Ordinary Shares,NYSE,stock
+FTRA.U,US,FutureCorp Space Acquisition 1 Units each consisting of one Class A ordinary share and one-half of one redeemable warrant,NYSE,stock
 FTRA.WS,US,FutureCorp Space Acquisition 1 Redeemable warrants each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50,NYSE,stock
 FTS,US,Fortis Inc. Common Shares,NYSE,stock
 FTV,US,Fortive Corporation Common Stock,NYSE,stock
@@ -1292,6 +1299,7 @@ IQI,US,Invesco Quality Municipal Income Trust Common Stock,NYSE,stock
 IQV,US,IQVIA Holdings Inc. Common Stock,NYSE,stock
 IR,US,Ingersoll Rand Inc. Common Stock,NYSE,stock
 IRAB,US,Iris Acquisition Corp II Class A Ordinary Shares,NYSE,stock
+IRAB.U,US,Iris Acquisition Corp II Units each consisting of one Class A Ordinary Share and one-half of one redeemable Warrant,NYSE,stock
 IRAB.WS,US,Iris Acquisition Corp II Redeemable Warrants each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share,NYSE,stock
 IRM,US,Iron Mountain Incorporated (Delaware)Common Stock REIT,NYSE,stock
 IRS,US,IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock),NYSE,stock
@@ -1321,6 +1329,7 @@ JCI,US,Johnson Controls International plc Ordinary Share,NYSE,stock
 JEF,US,Jefferies Financial Group Inc. Common Stock,NYSE,stock
 JELD,US,JELD-WEN Holding Inc. Common Stock,NYSE,stock
 JENA,US,Jena Acquisition Corporation II Class A Ordinary Shares,NYSE,stock
+JENA.U,US,Jena Acquisition Corporation II Units each consisting of one Class A ordinary share and one right,NYSE,stock
 JFR,US,Nuveen Floating Rate Income Fund Common Stock,NYSE,stock
 JGH,US,Nuveen Global High Income Fund Common Shares of Beneficial Interest,NYSE,stock
 JHI,US,John Hancock Investors Trust Common Stock,NYSE,stock
@@ -1355,6 +1364,8 @@ KB,US,KB Financial Group Inc,NYSE,stock
 KBDC,US,Kayne Anderson BDC Inc. Common Stock,NYSE,stock
 KBH,US,KB Home Common Stock,NYSE,stock
 KBR,US,KBR Inc. Common Stock,NYSE,stock
+KCA.U,US,Kensington Capital Acquisition Corp. VI New Units each consisting of one Class A Ordinary Share and three-quarters of one Class 2 Redeemable Warrant,NYSE,stock
+KCAC.U,US,Kensington Capital Acquisition Corp. VI Units each consisting of one Class A ordinary share one-quarter of one Class 1 redeemable warrant and three-quarters of one Class 2 redeemable warrant,NYSE,stock
 KCAC.WS,US,Kensington Capital Acquisition Corp. VI Class 1 redeemable warrants each exercisable for one Class A ordinary share at an exercise price of $11.50,NYSE,stock
 KD,US,Kyndryl Holdings Inc. Common Stock,NYSE,stock
 KEN,US,Kenon Holdings Ltd. Ordinary Shares,NYSE,stock
@@ -1400,6 +1411,7 @@ KOF,US,Coca Cola Femsa S.A.B. de C.V.  American Depositary Shares each represent
 KOP,US,Koppers Holdings Inc. Common Stock,NYSE,stock
 KOS,US,Kosmos Energy Ltd. Common Shares (DE),NYSE,stock
 KPET,US,KPET Ultra Paceline Corporation Class A Ordinary Shares,NYSE,stock
+KPET.U,US,KPET Ultra Paceline Corporation Units each consisting of one Class A Ordinary Share and one-sixth of one Warrant,NYSE,stock
 KPET.WS,US,KPET Ultra Paceline Corporation Warrants each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share,NYSE,stock
 KR,US,Kroger Company (The) Common Stock,NYSE,stock
 KRC,US,Kilroy Realty Corporation Common Stock,NYSE,stock
@@ -1410,6 +1422,7 @@ KRMN,US,Karman Holdings Inc. Common Stock,NYSE,stock
 KRO,US,Kronos Worldwide Inc Common Stock,NYSE,stock
 KRP,US,Kimbell Royalty Partners Common Units Representing Limited Partner Interests,NYSE,stock
 KRSP,US,Rice Acquisition Corporation 3 Class A Ordinary Shares,NYSE,stock
+KRSP.U,US,Rice Acquisition Corporation 3 Units each consisting of one Class A ordinary share and one-sixth of one redeemable warrant,NYSE,stock
 KRSP.WS,US,Rice Acquisition Corporation 3 Redeemable warrants each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50,NYSE,stock
 KSS,US,Kohl's Corporation Common Stock,NYSE,stock
 KT,US,KT Corporation Common Stock,NYSE,stock
@@ -1772,6 +1785,7 @@ NVS,US,Novartis AG Common Stock,NYSE,stock
 NVST,US,Envista Holdings Corporation Common Stock,NYSE,stock
 NVT,US,nVent Electric plc Ordinary Shares,NYSE,stock
 NWAX,US,New America Acquisition I Corp. Class A Common Stock,NYSE,stock
+NWAX.U,US,New America Acquisition I Corp. Units each consisting of one share of Class A Common Stock and one-half of one redeemable warrant,NYSE,stock
 NWAX.WS,US,New America Acquisition I Corp. Warrants each whole warrant is exercisable to purchase one share of Class A common stock,NYSE,stock
 NWG,US,NatWest Group plc American Depositary Shares (each representing two (2) Ordinary Shares),NYSE,stock
 NWN,US,Northwest Natural Holding Company Common Stock,NYSE,stock
@@ -1791,6 +1805,7 @@ OAK^B,US,Brookfield Oaktree Holdings LLC 6.550% Series B Preferred Units,NYSE,st
 OBDC,US,Blue Owl Capital Corporation Common Stock,NYSE,stock
 OC,US,Owens Corning Inc Common Stock New,NYSE,stock
 OCAC,US,Ocean Capital Acquisition Corporation Ordinary Shares,NYSE,stock
+OCAC.U,US,Ocean Capital Acquisition Corporation Units each consisting of one Class A Ordinary Share one redeemable Warrant and one Right,NYSE,stock
 ODC,US,Oil-Dri Corporation Of America Common Stock,NYSE,stock
 OEC,US,Orion S.A. Common Shares,NYSE,stock
 OFG,US,OFG Bancorp Common Stock,NYSE,stock
@@ -1835,6 +1850,7 @@ OSCR,US,Oscar Health Inc. Class A Common Stock,NYSE,stock
 OSG,US,Octave Specialty Group Inc. Common Stock,NYSE,stock
 OSK,US,Oshkosh Corporation (Holding Company)Common Stock,NYSE,stock
 OTAI,US,Starlink AI Acquisition Corporation Ordinary Shares,NYSE,stock
+OTAI.U,US,Starlink AI Acquisition Corporation Units each consisting of one Ordinary Share and one Right to receive one-fourth (1/4) of one ordinary share,NYSE,stock
 OTF,US,Blue Owl Technology Finance Corp. Common Stock,NYSE,stock
 OTIS,US,Otis Worldwide Corporation Common Stock,NYSE,stock
 OUT,US,OUTFRONT Media Inc. Common Stock,NYSE,stock
@@ -2020,6 +2036,8 @@ QGEN,US,Qiagen N.V. Common Shares,NYSE,stock
 QLEP,US,Quantum Leap Acquisition Corp Class A Ordinary Shares,NYSE,stock
 QLEP.WS,US,Quantum Leap Acquisition Corp Warrants each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share,NYSE,stock
 QRED,US,QuasarEdge Acquisition Corporation Ordinary Shares,NYSE,stock
+QRED.U,US,QuasarEdge Acquisition Corporation Units each consisting of one Ordinary Share and one right entitling the holder to receive one-fourth (1/4) of one Ordinary Share,NYSE,stock
+QSPC,US,Quantum Space Inc. Class A-1 Common Stock,NYSE,stock
 QSR,US,Restaurant Brands International Inc. Common Shares,NYSE,stock
 QTWO,US,Q2 Holdings Inc. Common Stock,NYSE,stock
 QUAD,US,Quad Graphics Inc Class A Common Stock,NYSE,stock
@@ -2272,6 +2290,7 @@ SONY,US,Sony Group Corporation American Depositary Shares,NYSE,stock
 SOR,US,Source Capital Inc. Cmn Shs of BI,NYSE,stock
 SOS,US,SOS Limited Class A Ordinary Shares,NYSE,stock
 SOUL,US,Soulpower Acquisition Corporation Class A Ordinary Shares,NYSE,stock
+SOUL.U,US,Soulpower Acquisition Corporation Units each consisting of one Class A ordinary share and one right,NYSE,stock
 SPB,US,Spectrum Brands Holdings Inc. Common Stock,NYSE,stock
 SPCE,US,Virgin Galactic Holdings Inc. Common Stock,NYSE,stock
 SPE,US,Special Opportunities Fund Inc Common Stock,NYSE,stock
@@ -2541,6 +2560,7 @@ VBF,US,Invesco Bond Fund Common Stock,NYSE,stock
 VCV,US,Invesco California Value Municipal Income Trust Common Stock,NYSE,stock
 VCX,US,Fundrise Innovation Fund LLC Common Shares of Limited Liability Company Interests,NYSE,stock
 VECA,US,Vernal Capital Acquisition Corp. Ordinary Shares,NYSE,stock
+VECA.U,US,Vernal Capital Acquisition Corp. Units each consisting of one ordinary share and one right,NYSE,stock
 VEEV,US,Veeva Systems Inc. Class A Common Stock,NYSE,stock
 VEL,US,Velocity Financial Inc. Common Stock,NYSE,stock
 VET,US,Vermilion Energy Inc. Common (Canada),NYSE,stock
@@ -2617,6 +2637,7 @@ WEA,US,Western Asset Bond Fund Share of Beneficial Interest,NYSE,stock
 WEC,US,WEC Energy Group Inc. Common Stock,NYSE,stock
 WELL,US,Welltower Inc. Common Stock,NYSE,stock
 WENC,US,West Enclave Merger Corp. Ordinary Shares,NYSE,stock
+WENC.U,US,West Enclave Merger Corp. Units each consisting of one Ordinary Share and one Right to acquire one-tenth (1/10) of one Ordinary Share,NYSE,stock
 WES,US,Western Midstream Partners LP Common Units Representing Limited Partner Interests,NYSE,stock
 WEX,US,WEX Inc. common stock,NYSE,stock
 WF,US,Woori Financial Group Inc. American Depositary Shares (each representing three (3) shares of Common Stock),NYSE,stock

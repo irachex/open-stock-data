@@ -1328,6 +1328,7 @@ EVOXU,US,Evolution Global Acquisition Corp Units,NASDAQ,stock
 EVOXW,US,Evolution Global Acquisition Corp Warrants,NASDAQ,stock
 EVRG,US,Evergy Inc. Common Stock,NASDAQ,stock
 EVRL,US,Everli Global Holdings Inc. Class A Ordinary Shares,NASDAQ,stock
+EVRLW,US,Everli Global Holdings Inc.  Warrant,NASDAQ,stock
 EWAV,US,East West Ave Acquisition Corp. Common Stock,NASDAQ,stock
 EWAVR,US,East West Ave Acquisition Corp. Rights,NASDAQ,stock
 EWAVU,US,East West Ave Acquisition Corp. Units,NASDAQ,stock
@@ -1465,7 +1466,6 @@ FMFC,US,Kandal M Venture Limited Class A Ordinary Shares,NASDAQ,stock
 FMNB,US,Farmers National Banc Corp. Common Stock,NASDAQ,stock
 FMST,US,Foremost Clean Energy Ltd. Common Shares,NASDAQ,stock
 FMSTW,US,Foremost Clean Energy Ltd. Warrant,NASDAQ,stock
-FNGR,US,FingerMotion Inc. Common Stock,NASDAQ,stock
 FNKO,US,Funko Inc. Class A Common Stock,NASDAQ,stock
 FNLC,US,First Bancorp Inc  (ME) Common Stock,NASDAQ,stock
 FNRN,US,First Northern Community Bancorp Common stock,NASDAQ,stock
@@ -2807,6 +2807,7 @@ OBAI,US,Our Bond Inc. Common Stock,NASDAQ,stock
 OBAWU,US,Oxley Bridge Acquisition Limited Unit,NASDAQ,stock
 OBAWW,US,Oxley Bridge Acquisition Limited Warrants,NASDAQ,stock
 OBIO,US,Orchestra BioMed Holdings Inc. Ordinary Shares,NASDAQ,stock
+OBMT,US,Opportunity Bancorp Inc. Common Stock,NASDAQ,stock
 OBT,US,Orange County Bancorp Inc. Common Stock,NASDAQ,stock
 OBTC,US,Osprey Bitcoin Trust Common Units of Beneficial Interest,NASDAQ,stock
 OBX,US,Obsidian Therapeutics Inc. Common Stock,NASDAQ,stock
@@ -2970,7 +2971,6 @@ PANW,US,Palo Alto Networks Inc. Common Stock,NASDAQ,stock
 PARA,US,Parabolic Technologies Inc. Class A Common Stock,NASDAQ,stock
 PARAW,US,Banzai International Inc. Warrant,NASDAQ,stock
 PARK,US,Park Dental Partners Inc. Common Stock,NASDAQ,stock
-PASG,US,Passage Bio Inc. Common Stock,NASDAQ,stock
 PASW,US,Ping An Biomedical Co. Ltd. Class A Ordinary Shares,NASDAQ,stock
 PATK,US,Patrick Industries Inc. Common Stock,NASDAQ,stock
 PAVM,US,PAVmed Inc. Common Stock,NASDAQ,stock
@@ -3410,7 +3410,6 @@ SABR,US,Sabre Corporation Common Stock,NASDAQ,stock
 SABS,US,SAB Biotherapeutics Inc. Common Stock,NASDAQ,stock
 SAEN,US,Genenta Science S.p.A. American Depositary Shares,NASDAQ,stock
 SAFT,US,Safety Insurance Group Inc. Common Stock,NASDAQ,stock
-SAFX,US,XCF Global Inc. Class A Common Stock,NASDAQ,stock
 SAGT,US,SAGTEC GLOBAL LIMITED Class A Ordinary shares,NASDAQ,stock
 SAIA,US,Saia Inc. Common Stock,NASDAQ,stock
 SAIC,US,Science Applications International Corporation Common Stock,NASDAQ,stock
@@ -3699,6 +3698,7 @@ SUIS,US,Canary Staked SUIS ETF Shares of Beneficial Interest,NASDAQ,stock
 SUJA,US,Suja Life Inc. Class A Common Stock,NASDAQ,stock
 SUMA,US,SUMA Acquisition Corporation Class A Ordinary Shares,NASDAQ,stock
 SUMAR,US,SUMA Acquisition Corporation Rights,NASDAQ,stock
+SUMAU,US,SUMA Acquisition Corporation Units,NASDAQ,stock
 SUNE,US,SUNation Energy Inc. Common Stock,NASDAQ,stock
 SUNS,US,Sunrise Realty Trust Inc. Common Stock,NASDAQ,stock
 SUPN,US,Supernus Inc. Common Stock,NASDAQ,stock
